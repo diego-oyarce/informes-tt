@@ -1,0 +1,106 @@
+\documentclass{report}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{caption}
+
+% Título, autores y fecha
+\title{\Huge Predicción de comportamiento de clientes en canal web}
+\author{Diego Oyarce Trejo \\ doyarce@utem.cl \and
+        Marcelo Tapia Riquelme \\ marcelo.tapiar@utem.cl \and
+        Cristobal González Gárate \\ cristobal.gonzalezg@utem.cl
+        }
+\date{\today}
+
+\renewcommand{\contentsname}{Índice}
+
+\begin{document}
+
+\begin{titlepage}
+  \centering  
+  \includegraphics[width=0.3\textwidth]{img/logoutem.png}  
+  \vspace{1cm}
+  
+  \textsc{\LARGE Facultad de Ingeniería}  
+  \vspace{0.5cm}
+  
+  \textsc{\LARGE Escuela de Informática}
+  {\let\newpage\relax\maketitle}
+\end{titlepage}
+
+\tableofcontents
+
+\listoffigures
+
+\setcounter{section}{1}
+
+\chapter{Presentación del proyecto}
+\newpage
+
+\section{Resumen}
+\input{Presentación del proyecto/Resumen}
+
+\section{Palabras Clave}
+\input{Presentación del proyecto/Palabras clave}
+
+\section{Descripción del trabajo de título}
+\input{Presentación del proyecto/Descripción del trabajo de título}
+
+\section{Objetivos}
+\input{Presentación del proyecto/Objetivos}
+
+\section{Alcances y Limitaciones}
+\input{Presentación del proyecto/Alcances y limitaciones}
+
+\chapter{La empresa}
+\newpage
+
+\section{Historia}
+\input{La empresa/Historia}
+%agregar la imágen de la historia%
+
+\section{Descripción general}
+\input{La empresa/Descripción general}
+
+\section{Misión y visión}
+\input{La empresa/Misión y visión}
+
+\chapter{Marco teórico}
+\newpage
+
+\section{Definición e importancia de la predicción del comportamiento de un cliente dentro de un sitio web }
+\input{Marco teórico/Definición e importancia de la predicción del comportamiento de un cliente dentro de un sitio web}
+
+\section{Comportamiento del Cliente/Afiliado en el canal web}
+
+\subsection{Definición del comportamiento del cliente y su importancia para el negocio.}
+\input{Marco teórico/Comportamiento del Cliente/Definición del comportamiento del cliente y su importancia para el negocio}
+
+\subsection{Características del comportamiento del cliente en el canal web.}
+\input{Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web}
+
+\subsection{Factores que influyen en el comportamiento del cliente en el canal web, tales como la usabilidad y el diseño del sitio web.}
+\input{Marco teórico/Comportamiento del Cliente/Factores que influyen en el comportamiento del cliente en el canal web, tales como la usabilidad y el diseño del sitio web.}
+
+\section{Herramientas para la predicción del comportamiento del cliente en el canal web}
+
+\subsection{Introducción a las herramientas de análisis de datos y su aplicación en el contexto del comportamiento del cliente}
+\input{Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Introducción a las herramientas de análisis de datos y su aplicación en el contexto del comportamiento del cliente}
+
+\subsection{Métodos, técnicas y tecnologías de análisis de datos utilizados en la predicción del comportamiento del cliente}
+\input{Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Métodos, técnicas y tecnologías de análisis de datos utilizados en la predicción del comportamiento del cliente}
+
+\subsection{Modelos de predicción del comportamiento del cliente en el canal web}
+\input{Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción del comportamiento del cliente en el canal web}
+
+\subsection{Metodología del proyecto}
+\input{Marco teórico/Metodología del proyecto}
+
+\subsection{Metodología del Sistema}
+\input{Marco teórico/Metodología del Sistema}
+
+\chapter{Proceso ETL}
+\newpage
+
+\end{document}
