@@ -1,0 +1,342 @@
+PWD /home/diegooyarce/proyectos/informes-tt/TT1
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/diegooyarce/proyectos/informes-tt/TT1/Informe.tex
+OUTPUT Informe.log
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./Informe.aux
+INPUT Informe.aux
+INPUT Informe.aux
+OUTPUT Informe.aux
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT ./img/logoutem.png
+INPUT ./img/logoutem.png
+INPUT img/logoutem.png
+INPUT ./img/logoutem.png
+OUTPUT Informe.pdf
+INPUT ./img/logoutem.png
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./Informe.toc
+INPUT Informe.toc
+INPUT Informe.toc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+OUTPUT Informe.toc
+INPUT ./Informe.lof
+INPUT Informe.lof
+INPUT Informe.lof
+OUTPUT Informe.lof
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./Presentación del proyecto/Resumen.tex
+INPUT ./Presentación del proyecto/Resumen.tex
+INPUT ./Presentación del proyecto/Resumen.tex
+INPUT Presentación del proyecto/Resumen.tex
+INPUT ./Presentación del proyecto/Resumen.tex
+INPUT ./Presentación del proyecto/Resumen.tex
+INPUT Presentación del proyecto/Resumen.tex
+INPUT ./Presentación del proyecto/Palabras clave.tex
+INPUT ./Presentación del proyecto/Palabras clave.tex
+INPUT ./Presentación del proyecto/Palabras clave.tex
+INPUT Presentación del proyecto/Palabras clave.tex
+INPUT ./Presentación del proyecto/Palabras clave.tex
+INPUT ./Presentación del proyecto/Palabras clave.tex
+INPUT Presentación del proyecto/Palabras clave.tex
+INPUT ./Presentación del proyecto/Descripción del trabajo de título.tex
+INPUT ./Presentación del proyecto/Descripción del trabajo de título.tex
+INPUT ./Presentación del proyecto/Descripción del trabajo de título.tex
+INPUT Presentación del proyecto/Descripción del trabajo de título.tex
+INPUT ./Presentación del proyecto/Descripción del trabajo de título.tex
+INPUT ./Presentación del proyecto/Descripción del trabajo de título.tex
+INPUT Presentación del proyecto/Descripción del trabajo de título.tex
+INPUT ./Presentación del proyecto/Objetivos.tex
+INPUT ./Presentación del proyecto/Objetivos.tex
+INPUT ./Presentación del proyecto/Objetivos.tex
+INPUT Presentación del proyecto/Objetivos.tex
+INPUT ./Presentación del proyecto/Objetivos.tex
+INPUT ./Presentación del proyecto/Objetivos.tex
+INPUT Presentación del proyecto/Objetivos.tex
+INPUT ./Presentación del proyecto/Alcances y limitaciones.tex
+INPUT ./Presentación del proyecto/Alcances y limitaciones.tex
+INPUT ./Presentación del proyecto/Alcances y limitaciones.tex
+INPUT Presentación del proyecto/Alcances y limitaciones.tex
+INPUT ./Presentación del proyecto/Alcances y limitaciones.tex
+INPUT ./Presentación del proyecto/Alcances y limitaciones.tex
+INPUT Presentación del proyecto/Alcances y limitaciones.tex
+INPUT ./La empresa/Historia.tex
+INPUT ./La empresa/Historia.tex
+INPUT ./La empresa/Historia.tex
+INPUT La empresa/Historia.tex
+INPUT ./La empresa/Historia.tex
+INPUT ./La empresa/Historia.tex
+INPUT La empresa/Historia.tex
+INPUT ./La empresa/Descripción general.tex
+INPUT ./La empresa/Descripción general.tex
+INPUT ./La empresa/Descripción general.tex
+INPUT La empresa/Descripción general.tex
+INPUT ./La empresa/Descripción general.tex
+INPUT ./La empresa/Descripción general.tex
+INPUT La empresa/Descripción general.tex
+INPUT ./La empresa/Misión y visión.tex
+INPUT ./La empresa/Misión y visión.tex
+INPUT ./La empresa/Misión y visión.tex
+INPUT La empresa/Misión y visión.tex
+INPUT ./La empresa/Misión y visión.tex
+INPUT ./La empresa/Misión y visión.tex
+INPUT La empresa/Misión y visión.tex
+INPUT ./Marco teórico/Definición e importancia de la predicción del comportamiento de un cliente dentro de un sitio web.tex
+INPUT ./Marco teórico/Definición e importancia de la predicción del comportamiento de un cliente dentro de un sitio web.tex
+INPUT ./Marco teórico/Definición e importancia de la predicción del comportamiento de un cliente dentro de un sitio web.tex
+INPUT Marco teórico/Definición e importancia de la predicción del comportamiento de un cliente dentro de un sitio web.tex
+INPUT ./Marco teórico/Definición e importancia de la predicción del comportamiento de un cliente dentro de un sitio web.tex
+INPUT ./Marco teórico/Definición e importancia de la predicción del comportamiento de un cliente dentro de un sitio web.tex
+INPUT Marco teórico/Definición e importancia de la predicción del comportamiento de un cliente dentro de un sitio web.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./Marco teórico/Comportamiento del Cliente/Definición del comportamiento del cliente y su importancia para el negocio.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Definición del comportamiento del cliente y su importancia para el negocio.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Definición del comportamiento del cliente y su importancia para el negocio.tex
+INPUT Marco teórico/Comportamiento del Cliente/Definición del comportamiento del cliente y su importancia para el negocio.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Definición del comportamiento del cliente y su importancia para el negocio.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Definición del comportamiento del cliente y su importancia para el negocio.tex
+INPUT Marco teórico/Comportamiento del Cliente/Definición del comportamiento del cliente y su importancia para el negocio.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex
+INPUT Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex
+INPUT Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Factores que influyen en el comportamiento del cliente.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Factores que influyen en el comportamiento del cliente.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Factores que influyen en el comportamiento del cliente.tex
+INPUT Marco teórico/Comportamiento del Cliente/Factores que influyen en el comportamiento del cliente.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Factores que influyen en el comportamiento del cliente.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Factores que influyen en el comportamiento del cliente.tex
+INPUT Marco teórico/Comportamiento del Cliente/Factores que influyen en el comportamiento del cliente.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción.tex
+INPUT ./Marco teórico/Metodología del proyecto.tex
+INPUT ./Marco teórico/Metodología del proyecto.tex
+INPUT ./Marco teórico/Metodología del proyecto.tex
+INPUT Marco teórico/Metodología del proyecto.tex
+INPUT ./Marco teórico/Metodología del proyecto.tex
+INPUT ./Marco teórico/Metodología del proyecto.tex
+INPUT Marco teórico/Metodología del proyecto.tex
+INPUT ./Marco teórico/Metodología del Sistema.tex
+INPUT ./Marco teórico/Metodología del Sistema.tex
+INPUT ./Marco teórico/Metodología del Sistema.tex
+INPUT Marco teórico/Metodología del Sistema.tex
+INPUT ./Marco teórico/Metodología del Sistema.tex
+INPUT ./Marco teórico/Metodología del Sistema.tex
+INPUT Marco teórico/Metodología del Sistema.tex
+INPUT Informe.aux
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
