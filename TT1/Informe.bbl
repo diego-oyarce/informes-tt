@@ -1,0 +1,21 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {AFP Capital}}{%
+\APACcitebtitle {AFP Capital}}{%
+{\protect \APACyear {2023}}%
+}]{%
+afpcapital}
+\APACinsertmetastar {%
+afpcapital}%
+\APACrefbtitle {AFP Capital.} {Afp capital.}
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APAChowpublished {Sitio web}.
+\newblock
+\begin{APACrefURL} \url{https://www.afpcapital.cl/Paginas/default.aspx}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

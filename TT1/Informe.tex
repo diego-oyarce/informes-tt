@@ -5,6 +5,12 @@
 \usepackage{titlesec}
 \usepackage{caption}
 \usepackage{verbatim}
+\usepackage{tocloft}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{apacite}
+\usepackage{comment}
+
 
 % Título, autores y fecha
 \title{\Huge Predicción de comportamiento de clientes en canal web}
@@ -20,13 +26,13 @@
 
 \begin{titlepage}
   \centering  
-  \includegraphics[width=0.3\textwidth]{img/logoutem.png}  
+  \includegraphics[width=0.6\textwidth]{img/logoutem.png}  
   \vspace{1cm}
   
-  \textsc{\LARGE Facultad de Ingeniería}  
+  \textsc{\normalsize Facultad de Ingeniería}  
   \vspace{0.5cm}
   
-  \textsc{\LARGE Escuela de Informática}
+  \textsc{\normalsize Escuela de Informática}
   {\let\newpage\relax\maketitle}
 \end{titlepage}
 
@@ -37,7 +43,6 @@
 \setcounter{section}{1}
 
 \chapter{Presentación del proyecto}
-\newpage
 
 \section{Resumen}
 \input{Presentación del proyecto/Resumen}
@@ -55,7 +60,6 @@
 \input{Presentación del proyecto/Alcances y limitaciones}
 
 \chapter{La empresa}
-\newpage
 
 \section{Historia}
 \input{La empresa/Historia}
@@ -68,40 +72,40 @@
 \input{La empresa/Misión y visión}
 
 \chapter{Marco teórico}
-\newpage
 
-\section{Definición e importancia de la predicción del comportamiento de un cliente dentro de un sitio web }
-\input{Marco teórico/Definición e importancia de la predicción del comportamiento de un cliente dentro de un sitio web}
+\section{Importancia de predecir el comportamiento del cliente en un sitio web}
+\input{Marco teórico/Importancia de predecir el comportamiento del cliente en un sitio web}
 
-\section{Comportamiento del Cliente/Afiliado en el canal web}
+\section{Comportamiento del cliente/afiliado en el canal web}
 
-\subsection{Definición del comportamiento del cliente y su importancia para el negocio.}
-\input{Marco teórico/Comportamiento del Cliente/Definición del comportamiento del cliente y su importancia para el negocio}
+\subsection{Definición y relevancia del comportamiento del cliente para el negocio}
+\input{Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio}
 
-\subsection{Características del comportamiento del cliente en el canal web.}
+\subsection{Características del comportamiento del cliente en el canal web}
 \input{Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web}
 
-\subsection{Factores que influyen en el comportamiento del cliente}
-\input{Marco teórico/Comportamiento del Cliente/Factores que influyen en el comportamiento del cliente}
+\subsection{Factores que afectan el comportamiento del cliente}
+\input{Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente}
 
 \section{Herramientas para la predicción del comportamiento del cliente en el canal web}
 
-\subsection{Introducción a las herramientas de análisis de datos y su aplicación en el contexto del comportamiento del cliente}
+\subsection{Introducción a las herramientas de análisis de datos}
 \input{Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos}
 
-\subsection{Métodos, técnicas y tecnologías de análisis de datos utilizados en la predicción del comportamiento del cliente}
+\subsection{Métodos, técnicas y tecnologías de análisis de datos}
 \input{Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias}
 
-\subsection{Modelos de predicción del comportamiento del cliente}
+\subsection{Modelos de predicción de comportamiento del cliente}
 \input{Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción}
 
 \subsection{Metodología del proyecto}
 \input{Marco teórico/Metodología del proyecto}
 
-\subsection{Metodología del Sistema}
+\subsection{Metodología del sistema}
 \input{Marco teórico/Metodología del Sistema}
 
 \chapter{Proceso ETL}
-\newpage
 
+\bibliographystyle{apacite}
+\bibliography{Bibliografia}
 \end{document}
