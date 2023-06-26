@@ -55,4 +55,12 @@
 \contentsline {subsubsection}{CRISP-DM}{21}{subsubsection*.33}%
 \contentsline {subsubsection}{OSEMN}{22}{subsubsection*.34}%
 \contentsline {chapter}{\numberline {4}Proceso ETL}{23}{chapter.4}%
-\contentsline {chapter}{Referencias}{24}{chapter*.35}%
+\contentsline {section}{\numberline {4.1}Diseño Proceso ETL}{23}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Requisitos ETL}{23}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Identificicación fuente de datos}{23}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Diseño modelo de datos objetivo}{24}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Planificación de las transformaciones}{24}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Selección herramientas}{24}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Construcción y prueba proceso ETL}{24}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Monitoreo proceso ETL}{24}{subsection.4.1.7}%
+\contentsline {chapter}{Referencias}{25}{chapter*.35}%

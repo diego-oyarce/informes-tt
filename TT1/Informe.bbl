@@ -14,8 +14,7 @@ afpcapital}%
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL} \url{https://www.afpcapital.cl/Paginas/default.aspx}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://www.afpcapital.cl/Paginas/default.aspx} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
