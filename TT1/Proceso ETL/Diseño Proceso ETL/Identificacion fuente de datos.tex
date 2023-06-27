@@ -1,1 +1,15 @@
-En esta etapa se determinan las fuentes de datos a ser usadas para el proyecto, incluyendo bases de datos y archivos .CSV y API´s. Esto además comprende la estructura la definición de la estructura, el formato y ubicación de cada fuente de datos dentro del proyecto.
+En esta etapa se determinan las fuentes de datos a ser usadas para el proyecto, incluyendo bases de datos y archivos .CSV y APIs. Esto además comprende la estructura la definición de la estructura, el formato y ubicación de cada fuente de datos dentro del proyecto.
+La fuente de datos corresponde a un archivo .CSV que contiene información de la navegación web de los clientes en forma de Web Logs. Los Web Logs registrados vienen con 4 atributos, especificados a continuación
+\begin{itemize}
+    \item rut cliente: Este atributo representa un identificador único por cliente.
+    \item fecha evento: Representa la fecha y hora de la interacción del cliente con el sitio web.
+    \item metodo: Este atributo representa cual fue el método al cual el cliente llamo a la hora de interactuar con el sitio web.
+    \item canal: Corresponde al canal web con el cual el cliente realizo la interacción con el sitio web.
+\end{itemize}
+
+Para almacenar la fuente de datos se utiliza una estructura de carpetas, estas siendo:
+\begin{itemize}
+    \item Input: Dentro de esta carpeta se encontrara el archivo .CSV tal cual es entregado.
+    \item Intermediate: Aquí se almacenará el archivo con la información preprocesada.
+    \item Output: Dentro de esta ultima carpeta se almacenara la información ya procesada y lista para ser usada.
+\end{itemize}

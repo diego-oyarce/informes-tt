@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  26 JUN 2023 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  26 JUN 2023 22:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -351,7 +351,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 ... prueba proceso ETL}{24}{subsection.4.1.6}
+l.64 ... prueba proceso ETL}{25}{subsection.4.1.6}
                                                   % [1])
 \tf@toc=\write5
 \openout5 = `Informe.toc'.
@@ -398,9 +398,9 @@ Overfull \hbox (0.46388pt too wide) in paragraph at lines 98--98
 
 (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción.tex [15] [16] [17] [18]) (./Marco teórico/Metodología del proyecto.tex [19] [20]) (./Marco teórico/Metodología del Sistema.tex [21]) [22]
 Cap\'{\i }tulo 4.
-(./Proceso ETL/Diseño Proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Identificacion fuente de datos.tex) (./Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex) [23
+(./Proceso ETL/Diseño Proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex [23
 
-{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex) (./Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex) (./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex) (./Informe.bbl [24]) [25
+]) (./Proceso ETL/Diseño Proceso ETL/Identificacion fuente de datos.tex) (./Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex) (./Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex) [24] (./Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex) (./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex) (./Informe.bbl [25]) [26
 
 ] (./Informe.aux
 LaTeX Info: Redefining \. on input line 22.
@@ -414,18 +414,18 @@ Package rerunfilecheck Info: File `Informe.out' has not changed.
 (rerunfilecheck)             Checksum: 872B647DC5384B101DBB1B330A5E0772;7145.
  ) 
 Here is how much of TeX's memory you used:
- 12622 strings out of 475722
- 210876 string characters out of 5785825
+ 12619 strings out of 475722
+ 210827 string characters out of 5785825
  1872763 words of memory out of 5000000
- 33060 multiletter control sequences out of 15000+600000
- 520004 words of font info for 56 fonts, out of 8000000 for 9000
+ 33058 multiletter control sequences out of 15000+600000
+ 519669 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,79p,2066b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Informe.pdf (26 pages, 312245 bytes).
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Informe.pdf (27 pages, 309560 bytes).
 PDF statistics:
- 415 PDF objects out of 1000 (max. 8388607)
- 360 compressed objects within 4 object streams
- 104 named destinations out of 1000 (max. 500000)
+ 413 PDF objects out of 1000 (max. 8388607)
+ 359 compressed objects within 4 object streams
+ 105 named destinations out of 1000 (max. 500000)
  267 words of extra memory for PDF output out of 10000 (max. 10000000)
 
