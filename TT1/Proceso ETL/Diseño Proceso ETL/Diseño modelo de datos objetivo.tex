@@ -1,3 +1,13 @@
-Dentro de esta etapa se diseña el modelo de datos que se utilizara y soportara el proyecto, como las bases de datos. Esto implica identificar las entidades, sus atributos y relaciones necesarias para lograr satisfacer los requisitos del proyecto antes definido. 
+Dentro de esta etapa se realiza el diseño del modelo de datos objetivo, que se basará en un modelo dimensional del tipo estrella. Este modelo es ampliamente utilizado en el diseño de bases de datos para data warehousing y análisis de datos.
+
+El diseño del modelo dimensional se centra en organizar los datos de manera que sean óptimos para el análisis y la generación de informes. En este enfoque, se identifican las dimensiones clave del negocio, que representan las categorías principales de interés, y se establecen relaciones con una tabla central conocida como tabla de hechos.
+
+En el diseño del modelo dimensional, las entidades se convierten en dimensiones, que contienen atributos descriptivos que permiten realizar análisis en función de estas características.
+
+La tabla de hechos es el núcleo del modelo y contiene las medidas numéricas o factores que se analizarán, como ventas totales, cantidad de productos vendidos o ingresos generados. Estas medidas se vinculan con las dimensiones a través de claves externas.
+
+Al utilizar un modelo dimensional del tipo estrella, se logra un diseño optimizado para consultas y análisis de datos. La estructura simplificada y desnormalizada permite realizar operaciones de agregación y filtrado de manera eficiente, lo que facilita la generación de informes y análisis de datos complejos.
+
+Durante el diseño del modelo de datos objetivo, se deben considerar los requisitos específicos del proyecto y las necesidades de análisis del negocio. Es importante realizar una cuidadosa identificación de las dimensiones clave, seleccionar los atributos relevantes y establecer las relaciones adecuadas entre las dimensiones y la tabla de hechos.
 % Se opto por ocupar un modelo dimensional del tipo estrella.
 
