@@ -18,4 +18,26 @@ afpcapital}%
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
+\bibitem [\protect \citeauthoryear {%
+Arana%
+}{%
+Arana%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+arboles-decision}
+\APACinsertmetastar {%
+arboles-decision}%
+\begin{APACrefauthors}%
+Arana, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {Modelos de aprendizaje automático mediante árboles de
+  decisión.} {Modelos de aprendizaje automático mediante árboles de
+  decisión.}
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}
