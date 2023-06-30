@@ -14,7 +14,8 @@ afpcapital}%
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL} \url{https://www.afpcapital.cl/Paginas/default.aspx} \end{APACrefURL}
+\begin{APACrefURL} \url{https://www.afpcapital.cl/Paginas/default.aspx}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -34,7 +35,9 @@ Arana, C.%
 \newblock
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
-\APACrefbtitle {Modelos de aprendizaje automático mediante árboles de decisión.} {Modelos de aprendizaje automático mediante árboles de decisión.}
+\APACrefbtitle {Modelos de aprendizaje automático mediante árboles de
+  decisión.} {Modelos de aprendizaje automático mediante árboles de
+  decisión.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -44,9 +47,9 @@ Baker%
 }{%
 {\protect \APACyear {2023}}%
 }]{%
-modelo-atribución}
+modelo-atribucion}
 \APACinsertmetastar {%
-modelo-atribución}%
+modelo-atribucion}%
 \begin{APACrefauthors}%
 Baker, K.%
 \end{APACrefauthors}%
@@ -54,11 +57,68 @@ Baker, K.%
 \newblock
 \APACrefYearMonthDay{2023}{}{}.
 \newblock
-\APACrefbtitle {What Is Attribution Modeling and Why Its So Important.} {What is attribution modeling and why its so important.}
+\APACrefbtitle {What Is Attribution Modeling and Why Its So Important.} {What
+  is attribution modeling and why its so important.}
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL} \url{https://blog.hubspot.com/marketing/attribution-modeling} \end{APACrefURL}
+\begin{APACrefURL}
+  \url{https://blog.hubspot.com/marketing/attribution-modeling}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Contreras~Arteaga%
+\ \BBA {} Sánchez~Cotrina%
+}{%
+Contreras~Arteaga%
+\ \BBA {} Sánchez~Cotrina%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+analitica-predictiva}
+\APACinsertmetastar {%
+analitica-predictiva}%
+\begin{APACrefauthors}%
+Contreras~Arteaga, A.%
+\BCBT {}\ \BBA {} Sánchez~Cotrina, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {ANALÍTICA PREDICTIVA PARA CONOCER EL PATRÓN DE CONSUMO DE LOS
+  CLIENTES EN LA EMPRESA CIENPHARMA S.A.C. UTILIZANDO IBM SPSS MODELER Y LA
+  METODOLOGÍA CRISP-DM.} {AnalÍtica predictiva para conocer el patrÓn de
+  consumo de los clientes en la empresa cienpharma s.a.c. utilizando ibm spss
+  modeler y la metodologÍa crisp-dm.}
+\newblock
+\APACrefnote{p.15}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garcia-Estrella%
+\ \BBA {} Barón~Ramírez%
+}{%
+Garcia-Estrella%
+\ \BBA {} Barón~Ramírez%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+analitica-empresarial}
+\APACinsertmetastar {%
+analitica-empresarial}%
+\begin{APACrefauthors}%
+Garcia-Estrella, C.%
+\BCBT {}\ \BBA {} Barón~Ramírez, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {La inteligencia de negocios y la analítica de datos en los
+  procesos empresariales.} {La inteligencia de negocios y la analítica de
+  datos en los procesos empresariales.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -81,9 +141,188 @@ Kimball, R.%
 \newblock
 \APACrefYear{2004}.
 \newblock
-\APACrefbtitle {The Data Warehouse ETL Toolkit} {The data warehouse etl toolkit}.
+\APACrefbtitle {The Data Warehouse ETL Toolkit} {The data warehouse etl
+  toolkit}.
 \newblock
 \APACaddressPublisher{}{Wiley Publishing, Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lemon%
+\ \BBA {} Verhoef%
+}{%
+Lemon%
+\ \BBA {} Verhoef%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+lemon2016customer}
+\APACinsertmetastar {%
+lemon2016customer}%
+\begin{APACrefauthors}%
+Lemon, K\BPBI N.%
+\BCBT {}\ \BBA {} Verhoef, P\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Understanding Customer Experience Throughout the
+  Customer Journey} {Understanding customer experience throughout the customer
+  journey}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Marketing}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rasekhi%
+, Fard%
+\BCBL {}\ \BBA {} Kim%
+}{%
+Rasekhi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+pension-system}
+\APACinsertmetastar {%
+pension-system}%
+\begin{APACrefauthors}%
+Rasekhi, S.%
+, Fard, H.%
+\BCBL {}\ \BBA {} Kim, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Understanding the Role of Trust in Pension System: A
+  Literature Review} {Understanding the role of trust in pension system: A
+  literature review}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rodriguez%
+}{%
+Rodriguez%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+def-cliente}
+\APACinsertmetastar {%
+def-cliente}%
+\begin{APACrefauthors}%
+Rodriguez, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {¿Qué es un cliente?} {¿qué es un cliente?}
+\newblock
+\APAChowpublished {Sitio web}.
+\newblock
+\begin{APACrefURL} \url{https://blog.hubspot.es/sales/que-es-un-cliente}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sandoval%
+}{%
+Sandoval%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+inteligencia-negocios}
+\APACinsertmetastar {%
+inteligencia-negocios}%
+\begin{APACrefauthors}%
+Sandoval, L\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {ALGORITMOS DE APRENDIZAJE AUTOMÁTICO PARA ANÁLISIS Y
+  PREDICCIÓN DE DATOS.} {Algoritmos de aprendizaje automÁtico para anÁlisis
+  y predicciÓn de datos.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sánchez%
+}{%
+Sánchez%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Usabilidad=softw}
+\APACinsertmetastar {%
+Usabilidad=softw}%
+\begin{APACrefauthors}%
+Sánchez, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {La usabilidad en Ingeniería de Software: definición y
+  características.} {La usabilidad en ingeniería de software: definición y
+  características.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Revista de Ingeniería e Innovación de la Facultad de
+  Ingeniería, Universidad Don Bosco}{1}{2}{7-21}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Toffler%
+}{%
+Toffler%
+}{%
+{\protect \APACyear {1980}}%
+}]{%
+understand-roles}
+\APACinsertmetastar {%
+understand-roles}%
+\begin{APACrefauthors}%
+Toffler, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1980}{}{}.
+\newblock
+\APACrefbtitle {Understanding the Role of Trust in Pension System: A Literature
+  Review.} {Understanding the role of trust in pension system: A literature
+  review.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zheng%
+, Thompson%
+, Lam%
+, Yoon%
+\BCBL {}\ \BBA {} Gnanasambandam%
+}{%
+Zheng%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+behavior-prediction}
+\APACinsertmetastar {%
+behavior-prediction}%
+\begin{APACrefauthors}%
+Zheng, B.%
+, Thompson, K.%
+, Lam, S\BPBI S.%
+, Yoon, S\BPBI W.%
+\BCBL {}\ \BBA {} Gnanasambandam, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {Customers' behavior prediction using artificial neural
+  network.} {Customers' behavior prediction using artificial neural network.}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
