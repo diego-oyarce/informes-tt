@@ -14,8 +14,7 @@ afpcapital}%
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL} \url{https://www.afpcapital.cl/Paginas/default.aspx}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://www.afpcapital.cl/Paginas/default.aspx} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -35,9 +34,56 @@ Arana, C.%
 \newblock
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
-\APACrefbtitle {Modelos de aprendizaje automático mediante árboles de
-  decisión.} {Modelos de aprendizaje automático mediante árboles de
-  decisión.}
+\APACrefbtitle {Modelos de aprendizaje automático mediante árboles de decisión.} {Modelos de aprendizaje automático mediante árboles de decisión.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Baker%
+}{%
+Baker%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+modelo-atribución}
+\APACinsertmetastar {%
+modelo-atribución}%
+\begin{APACrefauthors}%
+Baker, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {What Is Attribution Modeling and Why Its So Important.} {What is attribution modeling and why its so important.}
+\newblock
+\APAChowpublished {Sitio web}.
+\newblock
+\begin{APACrefURL} \url{https://blog.hubspot.com/marketing/attribution-modeling} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kimball%
+\ \BBA {} Caserta%
+}{%
+Kimball%
+\ \BBA {} Caserta%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+etl-toolkit}
+\APACinsertmetastar {%
+etl-toolkit}%
+\begin{APACrefauthors}%
+Kimball, R.%
+\BCBT {}\ \BBA {} Caserta, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2004}.
+\newblock
+\APACrefbtitle {The Data Warehouse ETL Toolkit} {The data warehouse etl toolkit}.
+\newblock
+\APACaddressPublisher{}{Wiley Publishing, Inc.}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
