@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Informe.aux
 The style file: apacite.bst
@@ -13,46 +13,44 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Bibliografia.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-Warning--No journal in pension-system
-You've used 13 entries,
+You've used 14 entries,
             6951 wiz_defined-function locations,
-            1330 strings with 12514 characters,
-and the built_in function-call counts, 22567 in all, are:
-= -- 2817
-> -- 162
-< -- 1112
-+ -- 1095
-- -- 24
-* -- 1387
-:= -- 4290
-add.period$ -- 48
-call.type$ -- 13
-change.case$ -- 220
+            1335 strings with 12651 characters,
+and the built_in function-call counts, 23867 in all, are:
+= -- 2974
+> -- 172
+< -- 1157
++ -- 1128
+- -- 28
+* -- 1448
+:= -- 4496
+add.period$ -- 53
+call.type$ -- 14
+change.case$ -- 237
 chr.to.int$ -- 0
-cite$ -- 27
-duplicate$ -- 496
-empty$ -- 907
-format.name$ -- 262
-if$ -- 4317
+cite$ -- 28
+duplicate$ -- 537
+empty$ -- 986
+format.name$ -- 276
+if$ -- 4597
 int.to.chr$ -- 0
-int.to.str$ -- 39
+int.to.str$ -- 42
 missing$ -- 0
-newline$ -- 302
-num.names$ -- 96
-pop$ -- 692
+newline$ -- 326
+num.names$ -- 104
+pop$ -- 788
 preamble$ -- 1
-purify$ -- 51
+purify$ -- 55
 quote$ -- 0
-skip$ -- 1241
+skip$ -- 1289
 stack$ -- 0
-substring$ -- 1176
-swap$ -- 249
-text.length$ -- 26
+substring$ -- 1213
+swap$ -- 262
+text.length$ -- 29
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1064
-warning$ -- 1
-while$ -- 88
+type$ -- 1144
+warning$ -- 0
+while$ -- 93
 width$ -- 0
-write$ -- 363
-(There was 1 warning)
+write$ -- 389

@@ -30,21 +30,22 @@
 \contentsline {subsubsection}{Modelos de series temporales}{20}{subsubsection*.10}%
 \contentsline {subsubsection}{Modelos de atribución}{22}{subsubsection*.11}%
 \contentsline {subsubsection}{Modelo árbol de decisión}{24}{subsubsection*.12}%
-\contentsline {subsection}{\numberline {3.3.4}Metodología del proyecto}{27}{subsection.3.3.4}%
-\contentsline {subsubsection}{Fase 1: Planteamiento y planificación}{27}{subsubsection*.14}%
-\contentsline {subsubsection}{Fase 2: Investigación}{27}{subsubsection*.15}%
-\contentsline {subsubsection}{Fase 3: Modelamiento y desarrollo}{27}{subsubsection*.16}%
-\contentsline {subsubsection}{Fase 4: Conclusiones y recomendaciones}{28}{subsubsection*.17}%
-\contentsline {subsection}{\numberline {3.3.5}Metodología del sistema}{28}{subsection.3.3.5}%
-\contentsline {subsubsection}{CRISP-DM}{28}{subsubsection*.18}%
-\contentsline {subsubsection}{OSEMN}{29}{subsubsection*.19}%
-\contentsline {chapter}{\numberline {4}Proceso ETL}{31}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Diseño Proceso ETL}{31}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Requisitos ETL}{31}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Identificicación fuente de datos}{32}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Diseño del modelo de datos objetivo}{33}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Planificación de las transformaciones}{33}{subsection.4.1.4}%
-\contentsline {subsection}{\numberline {4.1.5}Selección herramientas}{34}{subsection.4.1.5}%
-\contentsline {subsection}{\numberline {4.1.6}Construcción y prueba proceso ETL}{34}{subsection.4.1.6}%
-\contentsline {subsection}{\numberline {4.1.7}Monitoreo proceso ETL}{35}{subsection.4.1.7}%
-\contentsline {chapter}{Referencias}{36}{chapter*.20}%
+\contentsline {subsubsection}{Modelo Random Forest}{27}{subsubsection*.14}%
+\contentsline {subsection}{\numberline {3.3.4}Metodología del proyecto}{29}{subsection.3.3.4}%
+\contentsline {subsubsection}{Fase 1: Planteamiento y planificación}{29}{subsubsection*.16}%
+\contentsline {subsubsection}{Fase 2: Investigación}{29}{subsubsection*.17}%
+\contentsline {subsubsection}{Fase 3: Modelamiento y desarrollo}{30}{subsubsection*.18}%
+\contentsline {subsubsection}{Fase 4: Conclusiones y recomendaciones}{30}{subsubsection*.19}%
+\contentsline {subsection}{\numberline {3.3.5}Metodología del sistema}{30}{subsection.3.3.5}%
+\contentsline {subsubsection}{CRISP-DM}{30}{subsubsection*.20}%
+\contentsline {subsubsection}{OSEMN}{31}{subsubsection*.21}%
+\contentsline {chapter}{\numberline {4}Proceso ETL}{33}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Diseño Proceso ETL}{33}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Requisitos ETL}{33}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Identificicación fuente de datos}{34}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Diseño del modelo de datos objetivo}{35}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Planificación de las transformaciones}{35}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Selección herramientas}{36}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Construcción y prueba proceso ETL}{36}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Monitoreo proceso ETL}{37}{subsection.4.1.7}%
+\contentsline {chapter}{Referencias}{38}{chapter*.22}%

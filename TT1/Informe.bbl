@@ -14,8 +14,7 @@ afpcapital}%
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL} \url{https://www.afpcapital.cl/Paginas/default.aspx}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://www.afpcapital.cl/Paginas/default.aspx} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -35,9 +34,7 @@ Arana, C.%
 \newblock
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
-\APACrefbtitle {Modelos de aprendizaje automático mediante árboles de
-  decisión.} {Modelos de aprendizaje automático mediante árboles de
-  decisión.}
+\APACrefbtitle {Modelos de aprendizaje automático mediante árboles de decisión.} {Modelos de aprendizaje automático mediante árboles de decisión.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -57,14 +54,11 @@ Baker, K.%
 \newblock
 \APACrefYearMonthDay{2023}{}{}.
 \newblock
-\APACrefbtitle {What Is Attribution Modeling and Why Its So Important.} {What
-  is attribution modeling and why its so important.}
+\APACrefbtitle {What Is Attribution Modeling and Why Its So Important.} {What is attribution modeling and why its so important.}
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL}
-  \url{https://blog.hubspot.com/marketing/attribution-modeling}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://blog.hubspot.com/marketing/attribution-modeling} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -87,11 +81,7 @@ Contreras~Arteaga, A.%
 \newblock
 \APACrefYearMonthDay{2019}{}{}.
 \newblock
-\APACrefbtitle {ANALÍTICA PREDICTIVA PARA CONOCER EL PATRÓN DE CONSUMO DE LOS
-  CLIENTES EN LA EMPRESA CIENPHARMA S.A.C. UTILIZANDO IBM SPSS MODELER Y LA
-  METODOLOGÍA CRISP-DM.} {AnalÍtica predictiva para conocer el patrÓn de
-  consumo de los clientes en la empresa cienpharma s.a.c. utilizando ibm spss
-  modeler y la metodologÍa crisp-dm.}
+\APACrefbtitle {ANALÍTICA PREDICTIVA PARA CONOCER EL PATRÓN DE CONSUMO DE LOS CLIENTES EN LA EMPRESA CIENPHARMA S.A.C. UTILIZANDO IBM SPSS MODELER Y LA METODOLOGÍA CRISP-DM.} {AnalÍtica predictiva para conocer el patrÓn de consumo de los clientes en la empresa cienpharma s.a.c. utilizando ibm spss modeler y la metodologÍa crisp-dm.}
 \newblock
 \APACrefnote{p.15}
 \PrintBackRefs{\CurrentBib}
@@ -116,9 +106,31 @@ Garcia-Estrella, C.%
 \newblock
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
-\APACrefbtitle {La inteligencia de negocios y la analítica de datos en los
-  procesos empresariales.} {La inteligencia de negocios y la analítica de
-  datos en los procesos empresariales.}
+\APACrefbtitle {La inteligencia de negocios y la analítica de datos en los procesos empresariales.} {La inteligencia de negocios y la analítica de datos en los procesos empresariales.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+IBM.%
+}{%
+IBM.%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+random-forest}
+\APACinsertmetastar {%
+random-forest}%
+\begin{APACrefauthors}%
+IBM.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {¿Qué es el random forest?} {¿qué es el random forest?}
+\newblock
+\APAChowpublished {Sitio web}.
+\newblock
+\begin{APACrefURL} \url{https://www.ibm.com/mx-es/topics/random-forest} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -141,8 +153,7 @@ Kimball, R.%
 \newblock
 \APACrefYear{2004}.
 \newblock
-\APACrefbtitle {The Data Warehouse ETL Toolkit} {The data warehouse etl
-  toolkit}.
+\APACrefbtitle {The Data Warehouse ETL Toolkit} {The data warehouse etl toolkit}.
 \newblock
 \APACaddressPublisher{}{Wiley Publishing, Inc.}
 \PrintBackRefs{\CurrentBib}
@@ -167,9 +178,7 @@ Lemon, K\BPBI N.%
 \newblock
 \APACrefYearMonthDay{2016}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Understanding Customer Experience Throughout the
-  Customer Journey} {Understanding customer experience throughout the customer
-  journey}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Understanding Customer Experience Throughout the Customer Journey} {Understanding customer experience throughout the customer journey}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Marketing}{}{}{}.
 \PrintBackRefs{\CurrentBib}
@@ -193,13 +202,11 @@ Rasekhi, S.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2016}{}{}.
+\APACrefYear{2016}.
 \newblock
-{\BBOQ}\APACrefatitle {Understanding the Role of Trust in Pension System: A
-  Literature Review} {Understanding the role of trust in pension system: A
-  literature review}.{\BBCQ}
+\APACrefbtitle {Understanding the Role of Trust in Pension System: A Literature Review} {Understanding the role of trust in pension system: A literature review}.
 \newblock
-
+\APACaddressPublisher{}{The Third Wave. William Morrow and company Inc.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -223,8 +230,7 @@ Rodriguez, J.%
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL} \url{https://blog.hubspot.es/sales/que-es-un-cliente}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://blog.hubspot.es/sales/que-es-un-cliente} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -244,9 +250,7 @@ Sandoval, L\BPBI J.%
 \newblock
 \APACrefYearMonthDay{2018}{}{}.
 \newblock
-\APACrefbtitle {ALGORITMOS DE APRENDIZAJE AUTOMÁTICO PARA ANÁLISIS Y
-  PREDICCIÓN DE DATOS.} {Algoritmos de aprendizaje automÁtico para anÁlisis
-  y predicciÓn de datos.}
+\APACrefbtitle {ALGORITMOS DE APRENDIZAJE AUTOMÁTICO PARA ANÁLISIS Y PREDICCIÓN DE DATOS.} {Algoritmos de aprendizaje automÁtico para anÁlisis y predicciÓn de datos.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -266,12 +270,9 @@ Sánchez, W.%
 \newblock
 \APACrefYearMonthDay{2011}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {La usabilidad en Ingeniería de Software: definición y
-  características.} {La usabilidad en ingeniería de software: definición y
-  características.}{\BBCQ}
+{\BBOQ}\APACrefatitle {La usabilidad en Ingeniería de Software: definición y características.} {La usabilidad en ingeniería de software: definición y características.}{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Revista de Ingeniería e Innovación de la Facultad de
-  Ingeniería, Universidad Don Bosco}{1}{2}{7-21}.
+\APACjournalVolNumPages{Revista de Ingeniería e Innovación de la Facultad de Ingeniería, Universidad Don Bosco}{1}{2}{7-21}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -291,9 +292,7 @@ Toffler, A.%
 \newblock
 \APACrefYearMonthDay{1980}{}{}.
 \newblock
-\APACrefbtitle {Understanding the Role of Trust in Pension System: A Literature
-  Review.} {Understanding the role of trust in pension system: A literature
-  review.}
+\APACrefbtitle {Understanding the Role of Trust in Pension System: A Literature Review.} {Understanding the role of trust in pension system: A literature review.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -321,8 +320,7 @@ Zheng, B.%
 \newblock
 \APACrefYearMonthDay{2013}{}{}.
 \newblock
-\APACrefbtitle {Customers' behavior prediction using artificial neural
-  network.} {Customers' behavior prediction using artificial neural network.}
+\APACrefbtitle {Customers' behavior prediction using artificial neural network.} {Customers' behavior prediction using artificial neural network.}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
