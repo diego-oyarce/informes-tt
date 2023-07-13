@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.25)  28 JUN 2023 16:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.25)  12 JUL 2023 19:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -330,9 +330,28 @@ Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
  (c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count292
-)) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+)) (c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count293
+\Gm@cntv=\count294
+\c@Gm@tempcnt=\count295
+\Gm@bindingoffset=\dimen170
+\Gm@wd@mp=\dimen171
+\Gm@odd@mp=\dimen172
+\Gm@even@mp=\dimen173
+\Gm@layoutwidth=\dimen174
+\Gm@layoutheight=\dimen175
+\Gm@layouthoffset=\dimen176
+\Gm@layoutvoffset=\dimen177
+\Gm@dimlist=\toks30
+) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count293
+\l__color_backend_stack_int=\count296
 \l__pdf_internal_box=\box56
 ) (build/Informe.aux
 LaTeX Info: Redefining \. on input line 22.
@@ -340,39 +359,39 @@ LaTeX Info: Redefining \% on input line 22.
 )
 \openout1 = `Informe.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
  (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count294
-\scratchdimen=\dimen170
+\scratchcounter=\count297
+\scratchdimen=\dimen178
 \scratchbox=\box57
-\nofMPsegments=\count295
-\nofMParguments=\count296
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count297
-\MPscratchDim=\dimen171
-\MPnumerator=\count298
-\makeMPintoPDFobject=\count299
-\everyMPtoPDFconversion=\toks31
+\nofMPsegments=\count298
+\nofMParguments=\count299
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count300
+\MPscratchDim=\dimen179
+\MPnumerator=\count301
+\makeMPintoPDFobject=\count302
+\everyMPtoPDFconversion=\toks32
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -383,12 +402,12 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 32.
  (build/Informe.out) (build/Informe.out)
 \@outlinefile=\write4
 \openout4 = `Informe.out'.
 
-\c@maskedRefs=\count300
+\c@maskedRefs=\count303
  (c:/texlive/2023/texmf-dist/tex/latex/apacite/spanish.apc
 File: spanish.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 138.
@@ -396,91 +415,206 @@ LaTeX Info: Redefining \BHBI on input line 139.
 )
 Couldn't patch \ttl@straight@ii
 Couldn't patch \ttl@straight@ii
-<img/logoutem.png, id=132, 428.60126pt x 118.4425pt>
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=681.15898pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<img/logoutem.png, id=168, 428.60126pt x 118.4425pt>
 File: img/logoutem.png Graphic file (type png)
 <use img/logoutem.png>
-Package pdftex.def Info: img/logoutem.png  used on input line 30.
-(pdftex.def)             Requested size: 207.0021pt x 57.20416pt.
+Package pdftex.def Info: img/logoutem.png  used on input line 36.
+(pdftex.def)             Requested size: 266.14978pt x 73.54924pt.
 [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/logoutem.png>] (build/Informe.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.52 ... prueba proceso ETL}{27}{subsection.4.1.6}
-                                                  % [1])
+)
 \tf@toc=\write5
 \openout5 = `Informe.toc'.
 
  (build/Informe.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.6 ...e decisión\relax }}{19}{figure.caption.13}
+                                                  % [1])
 \tf@lof=\write6
 \openout6 = `Informe.lof'.
 
  [2]
 Cap\'{\i }tulo 1.
-(./Presentación del proyecto/Resumen.tex) [3
+(./Presentación del proyecto/Resumen.tex) (./Presentación del proyecto/Palabras clave.tex [3
 
-] (./Presentación del proyecto/Palabras clave.tex) (./Presentación del proyecto/Descripción del trabajo de título.tex) (./Presentación del proyecto/Objetivos.tex [4]) (./Presentación del proyecto/Alcances y limitaciones.tex) [5]
+]) (./Presentación del proyecto/Descripción del trabajo de título.tex) (./Presentación del proyecto/Objetivos.tex) (./Presentación del proyecto/Alcances y limitaciones.tex [4]) [5]
 Cap\'{\i }tulo 2.
-(./La empresa/Historia.tex [6
-
-]
-<img/historia-afp-capital.jpg, id=212, 865.2325pt x 345.29pt>
+(./La empresa/Historia.tex
+<img/historia-afp-capital.jpg, id=252, 865.2325pt x 345.29pt>
 File: img/historia-afp-capital.jpg Graphic file (type jpg)
 <use img/historia-afp-capital.jpg>
-Package pdftex.def Info: img/historia-afp-capital.jpg  used on input line 16.
-(pdftex.def)             Requested size: 379.5021pt x 151.44861pt.
+Package pdftex.def Info: img/historia-afp-capital.jpg  used on input line 23.
+(pdftex.def)             Requested size: 487.93903pt x 194.72038pt.
 
-Overfull \hbox (34.5021pt too wide) in paragraph at lines 14--18
+Overfull \hbox (44.36055pt too wide) in paragraph at lines 21--25
 [][] 
  []
 
-) (./La empresa/Descripción general.tex) (./La empresa/Misión y visión.tex [7 <./img/historia-afp-capital.jpg>]) [8]
+
+Underfull \hbox (badness 2111) in paragraph at lines 27--28
+[]\OT1/cmr/m/n/10 Fuente: AFP Ca-pi-tal. Re-cu-pe-ra-do de []$\OT1/cmtt/m/n/10 https :// www [] .afpcapital [] .cl / Quienes [] -Somos /
+ []
+
+) [6
+
+] (./La empresa/Descripción general.tex) (./La empresa/Misión y visión.tex) [7 <./img/historia-afp-capital.jpg>] [8]
 Cap\'{\i }tulo 3.
-(./Marco teórico/Importancia de predecir el comportamiento del cliente en un sitio web.tex [9
+(./Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex) (./Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex [9
 
-])
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 82--82
-|[]\OT1/cmr/bx/n/12 Definici^^Son y re-le-van-cia del com-por-ta-mien-to del clien-
+]) (./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex [10]) (./Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente.tex) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex [11]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex [12]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex [13] [14]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex [15]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex [16]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex [17]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex
+<img/estructura-arbol-de-decision.jpg, id=367, 496.67436pt x 328.85275pt>
+File: img/estructura-arbol-de-decision.jpg Graphic file (type jpg)
+<use img/estructura-arbol-de-decision.jpg>
+Package pdftex.def Info: img/estructura-arbol-de-decision.jpg  used on input line 18.
+(pdftex.def)             Requested size: 487.93903pt x 323.07635pt.
+
+Overfull \hbox (44.36055pt too wide) in paragraph at lines 16--20
+[][] 
  []
 
-(./Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex) [10] (./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex [11]) (./Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente.tex) [12] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex [13]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex [14])
-Overfull \hbox (0.46388pt too wide) in paragraph at lines 99--99
-|[]\OT1/cmr/bx/n/12 Modelos de pre-dic-ci^^Son de com-por-ta-mien-to del clien-
+
+Underfull \hbox (badness 2042) in paragraph at lines 22--23
+[]\OT1/cmr/m/n/10 Fuente: Apren-de IA. Re-cu-pe-ra-do de []$\OT1/cmtt/m/n/10 https :// aprendeia [] .com / arboles [] -de [] -decision []
  []
 
-(./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex [15] [16]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex [17] [18]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex [19] [20]) (./Marco teórico/Metodología del proyecto.tex [21]) (./Marco teórico/Metodología del Sistema.tex [22] [23]) [24]
+[18] [19 <./img/estructura-arbol-de-decision.jpg>]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex [20]
+<img/estructura-random-forest.png, id=389, 1316.92pt x 739.76375pt>
+File: img/estructura-random-forest.png Graphic file (type png)
+<use img/estructura-random-forest.png>
+Package pdftex.def Info: img/estructura-random-forest.png  used on input line 24.
+(pdftex.def)             Requested size: 487.93903pt x 274.09209pt.
+
+Overfull \hbox (44.36055pt too wide) in paragraph at lines 22--26
+[][] 
+ []
+
+[21 <./img/estructura-random-forest.png>]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]\OT1/cmr/m/n/9 Proporciona una re-la-ci^^Son
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 9--9
+\OT1/cmr/m/n/9 cuan-ti-ta-ti-va en-tre va-ria-bles
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+[]\OT1/cmr/m/n/9 Predicci^^Son de va-lo-res
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 14--14
+[]\OT1/cmr/m/n/9 Personalizaci^^Son de su-ge-ren-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\OT1/cmr/m/n/9 Modelos de Se-ries
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 21--22
+[]\OT1/cmr/m/n/9 Predicci^^Son de la de-man-da
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 23--23
+[]\OT1/cmr/m/n/9 Modelos de Atri-bu-
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 28--28
+[]\OT1/cmr/m/n/9 Modelos de []Arbo-les
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 29--29
+[]\OT1/cmr/m/n/9 Proporciona una es-truc-tu-ra
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 30--30
+\OT1/cmr/m/n/9 bre-ajus-te si no se con-tro-la
+ []
+
+
+Overfull \hbox (47.99998pt too wide) in paragraph at lines 4--34
+[][] 
+ []
+
+) (./Marco teórico/Metodologías/Metodología del proyecto.tex [22]) (./Marco teórico/Metodologías/Metodología del Sistema.tex [23]) [24]
 Cap\'{\i }tulo 4.
-(./Proceso ETL/Diseño Proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex [25
+(./Proceso ETL/Diseño Proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Identificacion fuente de datos.tex [25
 
-]) (./Proceso ETL/Diseño Proceso ETL/Identificacion fuente de datos.tex) (./Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex [26]) (./Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex) (./Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex) (./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex) (./Informe.bbl [27]) [28
+]) (./Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex) (./Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex [26]) (./Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex) (./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex [27]) [28]
+Cap\'{\i }tulo 5.
+(./Análisis exploratorio de datos/Introducción.tex) (./Análisis exploratorio de datos/Recopilación de datos.tex) (./Análisis exploratorio de datos/Estadísticas descriptivas.tex) (./Análisis exploratorio de datos/Visualización de datos.tex) (./Análisis exploratorio de datos/Análisis de correlación.tex) (./Análisis exploratorio de datos/Análisis de variables.tex) (./Análisis exploratorio de datos/Resultados.tex) (./Informe.bbl [29
+
+] [30]) [31
 
 ] (build/Informe.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
 Package rerunfilecheck Info: File `Informe.out' has not changed.
-(rerunfilecheck)             Checksum: 08B2D4175950A24FFB270B78D591B35D;7145.
+(rerunfilecheck)             Checksum: 25CED78703668CEAC839498B1C52511C;8939.
  ) 
 Here is how much of TeX's memory you used:
- 13399 strings out of 476025
- 222819 string characters out of 5794015
- 1864382 words of memory out of 5000000
- 33503 multiletter control sequences out of 15000+600000
- 519697 words of font info for 58 fonts, out of 8000000 for 9000
+ 14107 strings out of 476025
+ 238405 string characters out of 5794015
+ 1869382 words of memory out of 5000000
+ 34133 multiletter control sequences out of 15000+600000
+ 521142 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,76p,2053b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on build/Informe.pdf (29 pages, 358140 bytes).
+ 75i,11n,76p,1685b,788s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on build/Informe.pdf (32 pages, 659450 bytes).
 PDF statistics:
- 432 PDF objects out of 1000 (max. 8388607)
- 366 compressed objects within 4 object streams
- 95 named destinations out of 1000 (max. 500000)
- 267 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 571 PDF objects out of 1000 (max. 8388607)
+ 494 compressed objects within 5 object streams
+ 122 named destinations out of 1000 (max. 500000)
+ 349 words of extra memory for PDF output out of 10000 (max. 10000000)
 

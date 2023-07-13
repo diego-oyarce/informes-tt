@@ -583,6 +583,41 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -734,13 +769,13 @@ INPUT ./La empresa/Misión y visión.tex
 INPUT ./La empresa/Misión y visión.tex
 INPUT La empresa/Misión y visión.tex
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
-INPUT ./Marco teórico/Importancia de predecir el comportamiento del cliente en un sitio web.tex
-INPUT ./Marco teórico/Importancia de predecir el comportamiento del cliente en un sitio web.tex
-INPUT ./Marco teórico/Importancia de predecir el comportamiento del cliente en un sitio web.tex
-INPUT Marco teórico/Importancia de predecir el comportamiento del cliente en un sitio web.tex
-INPUT ./Marco teórico/Importancia de predecir el comportamiento del cliente en un sitio web.tex
-INPUT ./Marco teórico/Importancia de predecir el comportamiento del cliente en un sitio web.tex
-INPUT Marco teórico/Importancia de predecir el comportamiento del cliente en un sitio web.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex
+INPUT Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex
+INPUT ./Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex
+INPUT Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex
 INPUT ./Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex
@@ -792,20 +827,51 @@ INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del c
 INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex
 INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex
 INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex
-INPUT ./Marco teórico/Metodología del proyecto.tex
-INPUT ./Marco teórico/Metodología del proyecto.tex
-INPUT ./Marco teórico/Metodología del proyecto.tex
-INPUT Marco teórico/Metodología del proyecto.tex
-INPUT ./Marco teórico/Metodología del proyecto.tex
-INPUT ./Marco teórico/Metodología del proyecto.tex
-INPUT Marco teórico/Metodología del proyecto.tex
-INPUT ./Marco teórico/Metodología del Sistema.tex
-INPUT ./Marco teórico/Metodología del Sistema.tex
-INPUT ./Marco teórico/Metodología del Sistema.tex
-INPUT Marco teórico/Metodología del Sistema.tex
-INPUT ./Marco teórico/Metodología del Sistema.tex
-INPUT ./Marco teórico/Metodología del Sistema.tex
-INPUT Marco teórico/Metodología del Sistema.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex
+INPUT ./img/estructura-arbol-de-decision.jpg
+INPUT ./img/estructura-arbol-de-decision.jpg
+INPUT img/estructura-arbol-de-decision.jpg
+INPUT ./img/estructura-arbol-de-decision.jpg
+INPUT ./img/estructura-arbol-de-decision.jpg
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex
+INPUT ./img/estructura-random-forest.png
+INPUT ./img/estructura-random-forest.png
+INPUT img/estructura-random-forest.png
+INPUT ./img/estructura-random-forest.png
+INPUT ./img/estructura-random-forest.png
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
+INPUT ./Marco teórico/Metodologías/Metodología del proyecto.tex
+INPUT ./Marco teórico/Metodologías/Metodología del proyecto.tex
+INPUT ./Marco teórico/Metodologías/Metodología del proyecto.tex
+INPUT Marco teórico/Metodologías/Metodología del proyecto.tex
+INPUT ./Marco teórico/Metodologías/Metodología del proyecto.tex
+INPUT ./Marco teórico/Metodologías/Metodología del proyecto.tex
+INPUT Marco teórico/Metodologías/Metodología del proyecto.tex
+INPUT ./Marco teórico/Metodologías/Metodología del Sistema.tex
+INPUT ./Marco teórico/Metodologías/Metodología del Sistema.tex
+INPUT ./Marco teórico/Metodologías/Metodología del Sistema.tex
+INPUT Marco teórico/Metodologías/Metodología del Sistema.tex
+INPUT ./Marco teórico/Metodologías/Metodología del Sistema.tex
+INPUT ./Marco teórico/Metodologías/Metodología del Sistema.tex
+INPUT Marco teórico/Metodologías/Metodología del Sistema.tex
 INPUT ./Proceso ETL/Diseño Proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL.tex
 INPUT ./Proceso ETL/Diseño Proceso ETL.tex
@@ -838,6 +904,34 @@ INPUT ./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
 INPUT ./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
+INPUT ./Análisis exploratorio de datos/Introducción.tex
+INPUT Análisis exploratorio de datos/Introducción.tex
+INPUT ./Análisis exploratorio de datos/Introducción.tex
+INPUT Análisis exploratorio de datos/Introducción.tex
+INPUT ./Análisis exploratorio de datos/Recopilación de datos.tex
+INPUT Análisis exploratorio de datos/Recopilación de datos.tex
+INPUT ./Análisis exploratorio de datos/Recopilación de datos.tex
+INPUT Análisis exploratorio de datos/Recopilación de datos.tex
+INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
+INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
+INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
+INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
+INPUT ./Análisis exploratorio de datos/Visualización de datos.tex
+INPUT Análisis exploratorio de datos/Visualización de datos.tex
+INPUT ./Análisis exploratorio de datos/Visualización de datos.tex
+INPUT Análisis exploratorio de datos/Visualización de datos.tex
+INPUT ./Análisis exploratorio de datos/Análisis de correlación.tex
+INPUT Análisis exploratorio de datos/Análisis de correlación.tex
+INPUT ./Análisis exploratorio de datos/Análisis de correlación.tex
+INPUT Análisis exploratorio de datos/Análisis de correlación.tex
+INPUT ./Análisis exploratorio de datos/Análisis de variables.tex
+INPUT Análisis exploratorio de datos/Análisis de variables.tex
+INPUT ./Análisis exploratorio de datos/Análisis de variables.tex
+INPUT Análisis exploratorio de datos/Análisis de variables.tex
+INPUT ./Análisis exploratorio de datos/Resultados.tex
+INPUT Análisis exploratorio de datos/Resultados.tex
+INPUT ./Análisis exploratorio de datos/Resultados.tex
+INPUT Análisis exploratorio de datos/Resultados.tex
 INPUT ./Informe.bbl
 INPUT Informe.bbl
 INPUT ./Informe.bbl
@@ -847,6 +941,7 @@ INPUT build/Informe.out
 INPUT build/Informe.out
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
@@ -855,6 +950,7 @@ INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
