@@ -184,6 +184,28 @@ Lemon, K\BPBI N.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Mckinney%
+}{%
+Mckinney%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+pandas}
+\APACinsertmetastar {%
+pandas}%
+\begin{APACrefauthors}%
+Mckinney, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {pandas: a Foundational Python Library for Data Analysis and Statistics} {pandas: a foundational python library for data analysis and statistics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Python for high performand and scientific computing}{14}{9}{1-9}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Parra%
 }{%
 Parra%
@@ -339,6 +361,59 @@ Toffler, A.%
 \APACrefYearMonthDay{1980}{}{}.
 \newblock
 \APACrefbtitle {Understanding the Role of Trust in Pension System: A Literature Review.} {Understanding the role of trust in pension system: A literature review.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+van~der Walt%
+, Colbert%
+\BCBL {}\ \BBA {} Varoquaux%
+}{%
+van~der Walt%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+numpy}
+\APACinsertmetastar {%
+numpy}%
+\begin{APACrefauthors}%
+van~der Walt, S.%
+, Colbert, S\BPBI C.%
+\BCBL {}\ \BBA {} Varoquaux, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The NumPy Array: A Structure for Efficient Numerical Computation} {The numpy array: A structure for efficient numerical computation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computing in Science and Engineering, Institute of Electrical and Electronics Engineers}{13}{2}{22-30}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/MCSE.2011.37} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+van Rossum%
+\ \BBA {} Drake%
+}{%
+van Rossum%
+\ \BBA {} Drake%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+python}
+\APACinsertmetastar {%
+python}%
+\begin{APACrefauthors}%
+van Rossum, G.%
+\BCBT {}\ \BBA {} Drake, F\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2003}.
+\newblock
+\APACrefbtitle {An Introduction to Python} {An introduction to python}.
+\newblock
+\APACaddressPublisher{}{Network Theory Limited.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

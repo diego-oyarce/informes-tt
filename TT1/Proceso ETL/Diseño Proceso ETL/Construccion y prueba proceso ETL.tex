@@ -5,3 +5,19 @@ Una vez implementado, se procede a realizar pruebas exhaustivas para garantizar 
 El objetivo de las pruebas es asegurar que el proceso ETL cumpla con los requisitos establecidos y que los resultados obtenidos sean los esperados. Esto implica validar la integridad y coherencia de los datos transformados, así como verificar el rendimiento y la escalabilidad del proceso.
 
 En caso de encontrar inconvenientes o desviaciones durante las pruebas, se realizan los ajustes necesarios en el diseño o en la configuración de las herramientas utilizadas. Es fundamental realizar iteraciones y pruebas adicionales hasta obtener resultados consistentes y satisfactorios.
+
+Como primer paso en la construcción del proceso ETL, se importan las bibliotecas pandas, numpy y date proveniente de la biblioteca integrada datetime. Luego se establece la mes para ser usado como parametro de fecha y se realiza una lectura de los datos creando un dataframe de pandas para poder ser visualizados y procesados.
+
+\begin{lstlisting}[language=Python]
+import pandas as pd
+import numpy as np
+from datetime import date
+
+##Parametros 
+today = date.today()
+mes = str(today.strftime("%Y%m"))
+
+df_weblogs = pd.read_csv(r'files\input\Navegacion_nuevaweb_1_5jun_ofuscado.csv')
+
+df_weblogs.head()
+\end{lstlisting}

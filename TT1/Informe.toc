@@ -31,14 +31,15 @@
 \contentsline {subsubsection}{Modelos de atribución}{17}{subsubsection*.11}%
 \contentsline {subsubsection}{Modelo árbol de decisión}{18}{subsubsection*.12}%
 \contentsline {subsubsection}{Modelo Random Forest}{20}{subsubsection*.14}%
-\contentsline {subsection}{\numberline {3.3.4}Metodología del proyecto}{22}{subsection.3.3.4}%
-\contentsline {subsubsection}{Fase 1: Planteamiento y planificación}{22}{subsubsection*.16}%
-\contentsline {subsubsection}{Fase 2: Investigación}{22}{subsubsection*.17}%
-\contentsline {subsubsection}{Fase 3: Modelamiento y desarrollo}{22}{subsubsection*.18}%
-\contentsline {subsubsection}{Fase 4: Conclusiones y recomendaciones}{23}{subsubsection*.19}%
-\contentsline {subsection}{\numberline {3.3.5}Metodología del sistema}{23}{subsection.3.3.5}%
-\contentsline {subsubsection}{CRISP-DM}{23}{subsubsection*.20}%
-\contentsline {subsubsection}{OSEMN}{23}{subsubsection*.21}%
+\contentsline {subsection}{\numberline {3.3.4}Tabla comparativa de los modelos de predicción}{22}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Metodología del proyecto}{22}{subsection.3.3.5}%
+\contentsline {subsubsection}{Fase 1: Planteamiento y planificación}{23}{subsubsection*.17}%
+\contentsline {subsubsection}{Fase 2: Investigación}{23}{subsubsection*.18}%
+\contentsline {subsubsection}{Fase 3: Modelamiento y desarrollo}{23}{subsubsection*.19}%
+\contentsline {subsubsection}{Fase 4: Conclusiones y recomendaciones}{23}{subsubsection*.20}%
+\contentsline {subsection}{\numberline {3.3.6}Metodología del sistema}{23}{subsection.3.3.6}%
+\contentsline {subsubsection}{CRISP-DM}{23}{subsubsection*.21}%
+\contentsline {subsubsection}{OSEMN}{24}{subsubsection*.22}%
 \contentsline {chapter}{\numberline {4}Proceso ETL}{25}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Diseño Proceso ETL}{25}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Requisitos ETL}{25}{subsection.4.1.1}%
@@ -47,7 +48,7 @@
 \contentsline {subsection}{\numberline {4.1.4}Planificación de las transformaciones}{26}{subsection.4.1.4}%
 \contentsline {subsection}{\numberline {4.1.5}Selección herramientas}{27}{subsection.4.1.5}%
 \contentsline {subsection}{\numberline {4.1.6}Construcción y prueba proceso ETL}{27}{subsection.4.1.6}%
-\contentsline {subsection}{\numberline {4.1.7}Monitoreo proceso ETL}{27}{subsection.4.1.7}%
+\contentsline {subsection}{\numberline {4.1.7}Monitoreo proceso ETL}{28}{subsection.4.1.7}%
 \contentsline {chapter}{\numberline {5}Exploratory Data Analysis (EDA)}{29}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Introducción al EDA}{29}{section.5.1}%
 \contentsline {subsection}{\numberline {5.1.1}Recopilación de datos}{30}{subsection.5.1.1}%
@@ -56,4 +57,4 @@
 \contentsline {subsection}{\numberline {5.1.4}Análisis de correlación}{30}{subsection.5.1.4}%
 \contentsline {subsection}{\numberline {5.1.5}Análisis de variables importantes}{30}{subsection.5.1.5}%
 \contentsline {subsection}{\numberline {5.1.6}Resultados}{30}{subsection.5.1.6}%
-\contentsline {chapter}{Referencias}{31}{chapter*.22}%
+\contentsline {chapter}{Referencias}{31}{chapter*.23}%
