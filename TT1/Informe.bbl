@@ -87,6 +87,23 @@ Contreras~Arteaga, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {dask: Scale the Python tools you love}}{%
+\APACcitebtitle {dask: Scale the Python tools you love}}{%
+{\protect \APACyear {2023}}%
+}]{%
+dask}
+\APACinsertmetastar {%
+dask}%
+\APACrefbtitle {dask: Scale the Python tools you love.} {dask: Scale the python tools you love.}
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APAChowpublished {Sitio Web}.
+\newblock
+\begin{APACrefURL} \url{https://www.dask.org/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Garcia-Estrella%
 \ \BBA {} Barón~Ramírez%
 }{%

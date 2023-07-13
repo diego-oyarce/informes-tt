@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Informe"] 1689225663 "Informe.aux" "Informe.bbl" "Informe" 1689226545 0
-  "./Bibliografia.bib" 1689224851 9218 3904611d1987c6420a2bb8f63ce920ee ""
-  "Informe.aux" 1689226544 14708 2d3097bf92d329de1a7d735e9b38aa65 "pdflatex"
+["bibtex Informe"] 1689226845 "Informe.aux" "Informe.bbl" "Informe" 1689226848 0
+  "./Bibliografia.bib" 1689226819 9400 459ddd0f1e3920015c303d2d68b1aa13 ""
+  "Informe.aux" 1689226847 15026 1180f3458e5c1b99c745c6de739124f5 "pdflatex"
   "c:/texlive/2023/texmf-dist/bibtex/bst/apacite/apacite.bst" 1687486639 141073 9d7b79dbf9d91133318126032cff8c27 ""
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1689226542 "c:/Users/crist/OneDrive/Documentos/GitHub/informes-tt/TT1/Informe.tex" "Informe.pdf" "Informe" 1689226545 0
+["pdflatex"] 1689226846 "c:/Users/crist/OneDrive/Documentos/GitHub/informes-tt/TT1/Informe.tex" "Informe.pdf" "Informe" 1689226848 0
   "Análisis exploratorio de datos/Análisis de correlación.tex" 1689137703 317 5178e4d12b4a557aca74afc187f59405 ""
   "Análisis exploratorio de datos/Análisis de variables.tex" 1689137703 321 184deff4b8a71b85d7deb0ffbce3687d ""
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1689137703 336 8c585ef20f9a3cb36846d8237f30cdb8 ""
@@ -15,12 +15,12 @@
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1689137703 324 71c0bd90dfedcf121f24369b3b7ec29a ""
   "Análisis exploratorio de datos/Resultados.tex" 1689137703 308 1625137d4f2a3d416266227cdd9cfc00 ""
   "Análisis exploratorio de datos/Visualización de datos.tex" 1689137703 279 45799d487c42dcdf6fe52e7a42183f54 ""
-  "Informe.aux" 1689226544 14708 2d3097bf92d329de1a7d735e9b38aa65 "pdflatex"
-  "Informe.bbl" 1689225663 10842 4be245863639c237cf5474de5c3f1d12 "bibtex Informe"
-  "Informe.lof" 1689226544 481 b2b872d87e46504b2ef825e3c0166412 "pdflatex"
-  "Informe.out" 1689226544 8939 25ced78703668ceac839498b1c52511c "pdflatex"
+  "Informe.aux" 1689226847 15026 1180f3458e5c1b99c745c6de739124f5 "pdflatex"
+  "Informe.bbl" 1689226846 11351 100414d9704a875bb6632ef0053f9265 "bibtex Informe"
+  "Informe.lof" 1689226847 481 b2b872d87e46504b2ef825e3c0166412 "pdflatex"
+  "Informe.out" 1689226847 8939 25ced78703668ceac839498b1c52511c "pdflatex"
   "Informe.tex" 1689225642 6736 fde071772f8962e96a95d4fcb6a8dbef ""
-  "Informe.toc" 1689226544 5308 8f4ea45563fcc02c7a0741d0e79eb5a8 "pdflatex"
+  "Informe.toc" 1689226847 5308 8f4ea45563fcc02c7a0741d0e79eb5a8 "pdflatex"
   "La empresa/Descripción general.tex" 1688168177 1482 ab770493b1bdd4e4dda660e740d16091 ""
   "La empresa/Historia.tex" 1688168177 2813 732ca7c80f187011448f42f4d247f734 ""
   "La empresa/Misión y visión.tex" 1688168177 507 c630ca0b0e477a531cd55a46a0308078 ""
@@ -51,7 +51,7 @@
   "Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex" 1688014357 1360 fee7fe6ad0ecfd0ab6ce2031bbc0bd92 ""
   "Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex" 1689220135 2471 bb23525095d50c9ff383647b0ad1ac3e ""
   "Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex" 1688172025 1153 a006ba501fa17c9fa91ed9a7e2aa0b37 ""
-  "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1689224869 1881 092374fe704c21037a81cf82c40c8264 ""
+  "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1689226839 1893 e75d9821dccf95e750e8fc8cb40e7868 ""
   "c:/Users/crist/OneDrive/Documentos/GitHub/informes-tt/TT1/Informe.tex" 1689225642 6736 fde071772f8962e96a95d4fcb6a8dbef ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1687487096 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1687487684 3524 cb3e574dea2d1052e39280babc910dc8 ""
