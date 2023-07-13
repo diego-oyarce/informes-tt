@@ -1,10 +1,10 @@
 # Fdb version 4
-["bibtex Informe"] 1689206376 "Informe.aux" "Informe.bbl" "Informe" 1689206380 0
+["bibtex Informe"] 1689206376 "Informe.aux" "Informe.bbl" "Informe" 1689206948 0
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1689206378 "d:/Desktop/Proyeco Título/informes-tt/TT1/Informe.tex" "build/Informe.pdf" "Informe" 1689206380 0
+["pdflatex"] 1689206946 "d:/Desktop/Proyeco Título/informes-tt/TT1/Informe.tex" "build/Informe.pdf" "Informe" 1689206948 0
   "Análisis exploratorio de datos/Análisis de correlación.tex" 1689134069 315 5178e4d12b4a557aca74afc187f59405 ""
   "Análisis exploratorio de datos/Análisis de variables.tex" 1689134069 319 184deff4b8a71b85d7deb0ffbce3687d ""
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1689134069 334 8c585ef20f9a3cb36846d8237f30cdb8 ""
@@ -29,7 +29,7 @@
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex" 1689134069 4403 475eed65260af00e4bc2921354f417e7 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex" 1689134069 6164 709929b0b0b6149652d5ca90309e9a15 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex" 1689134069 5326 0896326ed6c6ebac8c005a34031ea315 ""
-  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex" 1689206289 1789 f619fea350edd3abb6908f639b47ee3e ""
+  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex" 1689206945 2151 0ffe9cc26ad6c5670c24de46e1de8c62 ""
   "Marco teórico/Metodologías/Metodología del Sistema.tex" 1689134069 4463 2b84db1f6315503bdce072ed5f359d0b ""
   "Marco teórico/Metodologías/Metodología del proyecto.tex" 1689134069 2307 f239ae9096b95e186136dd0b03e3adf7 ""
   "Presentación del proyecto/Alcances y limitaciones.tex" 1688860056 951 d372d7c63fa7cfb0e74a25f1a14272c6 ""
@@ -45,10 +45,10 @@
   "Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex" 1688860056 2394 32fef71a375b210f2a29905af6f8effc ""
   "Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex" 1688860056 1146 a006ba501fa17c9fa91ed9a7e2aa0b37 ""
   "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1688860056 396 e123e11fe7848abc5e0280a5e05ca8be ""
-  "build/Informe.aux" 1689206380 13915 6838b88edd286c4bdfd391e8e2f29dd6 "pdflatex"
-  "build/Informe.lof" 1689206380 481 b2b872d87e46504b2ef825e3c0166412 "pdflatex"
-  "build/Informe.out" 1689206380 8939 25ced78703668ceac839498b1c52511c "pdflatex"
-  "build/Informe.toc" 1689206380 5308 61ef0c1756020fd13d2b02c755455f66 "pdflatex"
+  "build/Informe.aux" 1689206947 13915 37101e42e4957a6a9be78a0e584b20e6 "pdflatex"
+  "build/Informe.lof" 1689206947 481 b2b872d87e46504b2ef825e3c0166412 "pdflatex"
+  "build/Informe.out" 1689206947 8939 25ced78703668ceac839498b1c52511c "pdflatex"
+  "build/Informe.toc" 1689206947 5308 3df74148159a9c116f500b6cc8238d3b "pdflatex"
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1687669487 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1687668884 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1687668884 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
