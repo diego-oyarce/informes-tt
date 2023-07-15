@@ -10,14 +10,18 @@ Como primer paso en la construcción del proceso ETL, se importan las biblioteca
 
 \begin{lstlisting}[language=Python]
 import pandas as pd
-import numpy as np
 from datetime import date
 
-##Parametros 
+#Parametros 
 today = date.today()
 mes = str(today.strftime("%Y%m"))
 
-df_weblogs = pd.read_csv(r'files\input\Navegacion_nuevaweb_1_5jun_ofuscado.csv')
+df_weblogs=pd.read_csv(r'ruta\archivoacceso.csv',sep=';',encoding='utf-8')
 
-df_weblogs.head()
+df_weblogs['fecha_evento']=pd.to_datetime(df_weblogs['fecha_evento'],
+                                    format="%b %d, %Y @ %H:%M:%S.%f")
+
+df_weblogs=df_weblogs.dropna()
+
+df_weblogs.to_csv(r'ruta\archivodestino.csv'.csv', sep=';', index=False)
 \end{lstlisting}
