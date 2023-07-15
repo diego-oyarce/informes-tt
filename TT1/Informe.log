@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  14 JUL 2023 20:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  14 JUL 2023 20:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -472,7 +472,7 @@ Couldn't patch \ttl@straight@ii
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<img/logoutem.png, id=156, 428.60126pt x 118.4425pt>
+<img/logoutem.png, id=152, 428.60126pt x 118.4425pt>
 File: img/logoutem.png Graphic file (type png)
 <use img/logoutem.png>
 Package pdftex.def Info: img/logoutem.png  used on input line 38.
@@ -505,7 +505,7 @@ Cap\'{\i }tulo 1.
 ]) (./Presentación del proyecto/Descripción del trabajo de título.tex) (./Presentación del proyecto/Objetivos.tex) (./Presentación del proyecto/Alcances y limitaciones.tex [4]) [5]
 Cap\'{\i }tulo 2.
 (./La empresa/Historia.tex
-<img/historia-afp-capital.jpg, id=237, 865.2325pt x 345.29pt>
+<img/historia-afp-capital.jpg, id=232, 865.2325pt x 345.29pt>
 File: img/historia-afp-capital.jpg Graphic file (type jpg)
 <use img/historia-afp-capital.jpg>
 Package pdftex.def Info: img/historia-afp-capital.jpg  used on input line 23.
@@ -527,7 +527,7 @@ Cap\'{\i }tulo 3.
 (./Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex) (./Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex [9
 
 ]) (./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex [10]) (./Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente.tex) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex [11]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex [12]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex [13] [14]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex [15]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex [16]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex [17]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex
-<img/estructura-arbol-de-decision.jpg, id=352, 496.67436pt x 328.85275pt>
+<img/estructura-arbol-de-decision.jpg, id=347, 496.67436pt x 328.85275pt>
 File: img/estructura-arbol-de-decision.jpg Graphic file (type jpg)
 <use img/estructura-arbol-de-decision.jpg>
 Package pdftex.def Info: img/estructura-arbol-de-decision.jpg  used on input line 18.
@@ -543,7 +543,7 @@ Underfull \hbox (badness 2042) in paragraph at lines 22--23
  []
 
 [18] [19 <./img/estructura-arbol-de-decision.jpg>]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex [20]
-<img/estructura-random-forest.png, id=374, 1316.92pt x 739.76375pt>
+<img/estructura-random-forest.png, id=369, 1316.92pt x 739.76375pt>
 File: img/estructura-random-forest.png Graphic file (type png)
 <use img/estructura-random-forest.png>
 Package pdftex.def Info: img/estructura-random-forest.png  used on input line 24.
@@ -615,14 +615,14 @@ Cap\'{\i }tulo 4.
 ]) (./Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex) (./Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex [26]) (./Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex) (./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex (c:/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 ) [27{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 19.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 22.
  (c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
 
-Overfull \hbox (0.42604pt too wide) in paragraph at lines 19--21
+Overfull \hbox (0.42604pt too wide) in paragraph at lines 22--24
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
@@ -635,7 +635,7 @@ Overfull \hbox (10.47641pt too wide) in paragraph at lines 23--24
 []\OT1/cmr/bx/n/10 Recuento (count): \OT1/cmr/m/n/10 Cal-cu-la el n^^Sume-ro de va-lo-res no nu-los en ca-da co-lum-na. \OT1/cmr/bx/n/10 count: 58009.000000
  []
 
-[30]) (./Análisis exploratorio de datos/Visualización de datos.tex) (./Informe.bbl [31]) [32
+[30]) (./Informe.bbl [31]) [32
 
 ] (./Informe.aux
 LaTeX Info: Redefining \. on input line 22.
@@ -646,21 +646,21 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-16>
  ***********
 Package rerunfilecheck Info: File `Informe.out' has not changed.
-(rerunfilecheck)             Checksum: 503F296CF919502ED74D9E9C107C61E0;8399.
+(rerunfilecheck)             Checksum: 719C7657207E6AC4DDAE36DA5DCF188E;8223.
  ) 
 Here is how much of TeX's memory you used:
- 15885 strings out of 475722
- 262134 string characters out of 5785825
+ 15877 strings out of 475722
+ 261753 string characters out of 5785825
  1876763 words of memory out of 5000000
- 36204 multiletter control sequences out of 15000+600000
+ 36200 multiletter control sequences out of 15000+600000
  522577 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1698b,2086s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1698b,1495s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Informe.pdf (33 pages, 679442 bytes).
+Output written on Informe.pdf (33 pages, 679039 bytes).
 PDF statistics:
- 600 PDF objects out of 1000 (max. 8388607)
- 519 compressed objects within 6 object streams
- 140 named destinations out of 1000 (max. 500000)
- 325 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 595 PDF objects out of 1000 (max. 8388607)
+ 514 compressed objects within 6 object streams
+ 139 named destinations out of 1000 (max. 500000)
+ 317 words of extra memory for PDF output out of 10000 (max. 10000000)
 
