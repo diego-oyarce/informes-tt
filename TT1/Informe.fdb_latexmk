@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex Informe"] 1689305921 "Informe.aux" "Informe.bbl" "Informe" 1689307322
+["bibtex Informe"] 1689383369 "Informe.aux" "Informe.bbl" "Informe" 1689383371
   "/usr/share/texlive/texmf-dist/bibtex/bst/apacite/apacite.bst" 1374530685 141073 9d7b79dbf9d91133318126032cff8c27 ""
   "Bibliografia.bib" 1689304275 9073 459ddd0f1e3920015c303d2d68b1aa13 ""
-  "Informe.aux" 1689307322 14753 673ebcad56d88dae92896cc3dc2b3493 "pdflatex"
+  "Informe.aux" 1689383371 14599 e2c9eb8844250cbab4c8a7039fb2e32c "pdflatex"
   (generated)
   "Informe.bbl"
   "Informe.blg"
-["pdflatex"] 1689307320 "/home/diegooyarce/proyectos/informes-tt/TT1/Informe.tex" "Informe.pdf" "Informe" 1689307322
+["pdflatex"] 1689383369 "/home/diegooyarce/proyectos/informes-tt/TT1/Informe.tex" "Informe.pdf" "Informe" 1689383371
   "/etc/texmf/web2c/texmf.cnf" 1687491679 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/diegooyarce/proyectos/informes-tt/TT1/Informe.tex" 1689305919 6569 aed4a679a907668fa5b4a7a690113623 ""
+  "/home/diegooyarce/proyectos/informes-tt/TT1/Informe.tex" 1689383367 6562 3afb9b0ffc8cb08c7cb2ec0e6b8a7c6b ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -129,13 +129,12 @@
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1689127371 334 8c585ef20f9a3cb36846d8237f30cdb8 ""
   "Análisis exploratorio de datos/Introducción.tex" 1689132705 2583 15c9d890b87d23c1ff7fc660439be8a8 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1689307320 3003 e62a3e2c05bef286e9db40e34a61c72d ""
-  "Análisis exploratorio de datos/Visualización de datos.tex" 1689127341 277 45799d487c42dcdf6fe52e7a42183f54 ""
-  "Informe.aux" 1689307322 14753 673ebcad56d88dae92896cc3dc2b3493 "pdflatex"
-  "Informe.bbl" 1689305921 11425 1839fa6f19d0d8d9f60f6a9a80999c9c "bibtex Informe"
-  "Informe.lof" 1689307322 481 b2b872d87e46504b2ef825e3c0166412 "pdflatex"
-  "Informe.out" 1689307322 8399 503f296cf919502ed74d9e9c107c61e0 "pdflatex"
-  "Informe.tex" 1689305919 6569 aed4a679a907668fa5b4a7a690113623 ""
-  "Informe.toc" 1689307322 5026 290c19c191a1907c6ce27d001bc8b2d2 "pdflatex"
+  "Informe.aux" 1689383371 14599 e2c9eb8844250cbab4c8a7039fb2e32c "pdflatex"
+  "Informe.bbl" 1689383369 11425 1839fa6f19d0d8d9f60f6a9a80999c9c "bibtex Informe"
+  "Informe.lof" 1689383371 481 b2b872d87e46504b2ef825e3c0166412 "pdflatex"
+  "Informe.out" 1689383371 8209 089d46ce8544f5790228f90ebd0a634c "pdflatex"
+  "Informe.tex" 1689383367 6562 3afb9b0ffc8cb08c7cb2ec0e6b8a7c6b ""
+  "Informe.toc" 1689383371 4913 2f6c4beb67d96cd284ffb59227150474 "pdflatex"
   "La empresa/Descripción general.tex" 1688158151 1477 ab770493b1bdd4e4dda660e740d16091 ""
   "La empresa/Historia.tex" 1688158405 2785 732ca7c80f187011448f42f4d247f734 ""
   "La empresa/Misión y visión.tex" 1688155705 503 c630ca0b0e477a531cd55a46a0308078 ""
