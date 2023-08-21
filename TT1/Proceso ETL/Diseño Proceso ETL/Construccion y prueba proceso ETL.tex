@@ -8,16 +8,25 @@ En caso de encontrar inconvenientes o desviaciones durante las pruebas, se reali
 
 Como primer paso en la construcción del proceso ETL, se importan las bibliotecas pandas, numpy y date proveniente de la biblioteca integrada datetime. Luego se establece la mes para ser usado como parametro de fecha y se realiza una lectura de los datos creando un dataframe de pandas para poder ser visualizados y procesados.
 
+Como segundo paso se establecío el formato de fecha 'YYYY;MM;DD;HH;MM;SS.ss' para la columna 'fecha evento' y se eliminaron del dataframe todas las filas que contenian valores nulos.
+
+
 \begin{lstlisting}[language=Python]
 import pandas as pd
-import numpy as np
 from datetime import date
 
-##Parametros 
+#Parametros 
 today = date.today()
 mes = str(today.strftime("%Y%m"))
 
-df_weblogs = pd.read_csv(r'files\input\Navegacion_nuevaweb_1_5jun_ofuscado.csv')
+df_weblogs=pd.read_csv(r'ruta\archivoacceso.csv',sep=';',encoding='utf-8')
 
-df_weblogs.head()
+df_weblogs['fecha_evento']=pd.to_datetime(df_weblogs['fecha_evento'],
+                                    format="%b %d, %Y @ %H:%M:%S.%f")
+
+df_weblogs=df_weblogs.dropna()
+
+df_weblogs.to_csv(r'ruta\archivodestino.csv'.csv', sep=';', index=False)
 \end{lstlisting}
+
+Para finalizar el proceso ETL se guarda el dataframe procesado en un archivo .csv dentro de los archivos del proyecto.
