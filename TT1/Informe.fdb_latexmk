@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex Informe"] 1692655802 "Informe.aux" "Informe.bbl" "Informe" 1692655967
+["bibtex Informe"] 1692681455 "Informe.aux" "Informe.bbl" "Informe" 1692681457
   "/usr/share/texlive/texmf-dist/bibtex/bst/apacite/apacite.bst" 1374530685 141073 9d7b79dbf9d91133318126032cff8c27 ""
   "Bibliografia.bib" 1689304275 9073 459ddd0f1e3920015c303d2d68b1aa13 ""
-  "Informe.aux" 1692655967 14599 539fbb497a2e4836932ee242fdfccc25 "pdflatex"
+  "Informe.aux" 1692681457 14599 623bac31adf5931fa6f745b055b6a9d4 "pdflatex"
   (generated)
   "Informe.bbl"
   "Informe.blg"
-["pdflatex"] 1692655965 "/home/diegooyarce/proyectos/informes-tt/TT1/Informe.tex" "Informe.pdf" "Informe" 1692655967
+["pdflatex"] 1692681456 "/home/diegooyarce/proyectos/informes-tt/TT1/Informe.tex" "Informe.pdf" "Informe" 1692681457
   "/etc/texmf/web2c/texmf.cnf" 1687491679 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/diegooyarce/proyectos/informes-tt/TT1/Informe.tex" 1692655965 6567 8b7e362e2f7e7e54aad8122bb2fb18f7 ""
+  "/home/diegooyarce/proyectos/informes-tt/TT1/Informe.tex" 1692656064 6567 8b7e362e2f7e7e54aad8122bb2fb18f7 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -129,16 +129,16 @@
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1692655797 2297 ee5ebcfd1496ac2fbeb9dfebec948d1c ""
   "Análisis exploratorio de datos/Introducción.tex" 1689132705 2583 15c9d890b87d23c1ff7fc660439be8a8 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1689307320 3003 e62a3e2c05bef286e9db40e34a61c72d ""
-  "Informe.aux" 1692655967 14599 539fbb497a2e4836932ee242fdfccc25 "pdflatex"
-  "Informe.bbl" 1692655802 11425 1839fa6f19d0d8d9f60f6a9a80999c9c "bibtex Informe"
-  "Informe.lof" 1692655967 481 b2b872d87e46504b2ef825e3c0166412 "pdflatex"
-  "Informe.out" 1692655967 8209 089d46ce8544f5790228f90ebd0a634c "pdflatex"
-  "Informe.tex" 1692655965 6567 8b7e362e2f7e7e54aad8122bb2fb18f7 ""
-  "Informe.toc" 1692655967 4913 6829e7451f8a94176e12235b00cc264a "pdflatex"
+  "Informe.aux" 1692681457 14599 623bac31adf5931fa6f745b055b6a9d4 "pdflatex"
+  "Informe.bbl" 1692681456 11425 1839fa6f19d0d8d9f60f6a9a80999c9c "bibtex Informe"
+  "Informe.lof" 1692681457 481 b2b872d87e46504b2ef825e3c0166412 "pdflatex"
+  "Informe.out" 1692681457 8209 089d46ce8544f5790228f90ebd0a634c "pdflatex"
+  "Informe.tex" 1692656064 6567 8b7e362e2f7e7e54aad8122bb2fb18f7 ""
+  "Informe.toc" 1692681457 4913 f5ceabffa04600102fc3f5631eed41f8 "pdflatex"
   "La empresa/Descripción general.tex" 1688158151 1477 ab770493b1bdd4e4dda660e740d16091 ""
   "La empresa/Historia.tex" 1688158405 2785 732ca7c80f187011448f42f4d247f734 ""
   "La empresa/Misión y visión.tex" 1688155705 503 c630ca0b0e477a531cd55a46a0308078 ""
-  "Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex" 1689125938 3111 095e467ef103cdf19954c8c435618cfa ""
+  "Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex" 1692681453 2828 98f18a1bc9280f93460ce1e117e8383f ""
   "Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex" 1688160195 2948 8bbdd1a3f206d1a0ec118e38b3eac00c ""
   "Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente.tex" 1688162175 2442 f50b127afebdaaf840dfb11fbf467468 ""
   "Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex" 1688158697 2613 05cde4bdf85dab0948fd3bbc8f170592 ""
