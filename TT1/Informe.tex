@@ -1,7 +1,8 @@
-\documentclass{report}
+\documentclass[letterpaper, 12pt]{report}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
 \usepackage{graphicx}
+\usepackage[left=4cm, right=2.5cm, top=4cm, bottom=2.5cm]{geometry}
 \usepackage{titlesec}
 \usepackage{caption}
 \usepackage{verbatim}
@@ -14,40 +15,71 @@
 \usepackage{parskip}
 \usepackage{setspace}
 \usepackage{listings}
+\usepackage{fancyhdr}
 
 
-\singlespacing
-% \usepackage[top=2cm]{geometry}
-\usepackage[top=2cm, bottom=2cm, left=3cm, right=3cm]{geometry}
+\onehalfspacing %Espacio de 1,5 líneas
 % Título, autores y fecha
-\title{\Huge Predicción de comportamiento de clientes en canal web}
-\author{Diego Oyarce Trejo \\ doyarce@utem.cl \and
-        Marcelo Tapia Riquelme \\ marcelo.tapiar@utem.cl \and
-        Cristobal González Gárate \\ cristobal.gonzalezg@utem.cl \\
-        \vspace{2.0cm}
-        \\Profesora Guía: Paula Castro Opazo \\Ingeniera Civil en Computación Mención en Informática \\Magister en Data Science \\paula.castro@utem.cl
-        }
-\date{\today}
+%\title{\LARGE \begin{doublespace} MODELO DE APRENDIZAJE AUTOMÁTICO PARA LA PREDICCIÓN DEL COMPORTAMIENTO DE CLIENTES EN CANAL WEB \end{doublespace} \\ \vspace{1cm}
+%TRABAJO DE TÍTULACIÓN PARA OPTAR AL TÍTULO DE INGENIERO CIVIL EN COMPUTACIÓN MENCIÓN INFORMÁTICA}
+%\author{Diego Oyarce Trejo \\ doyarce@utem.cl \and
+%        Marcelo Ignacio Tapia Riquelme \\ marcelo.tapiar@utem.cl \and
+%        Cristóbal Andres González Gárate \\ cristobal.gonzalezg@utem.cl \\
+%        \vspace{1.0cm}
+%        \\Profesora Guía: Paula Castro Opazo \\Ingeniera Civil en Computación Mención en Informática \\Magister en Data Science \\paula.castro@utem.cl
+%        }
+%\date{\today}
+\renewcommand{\headrulewidth}{0pt}
+\pagestyle{fancy}
 
 \renewcommand{\contentsname}{Índice}
 
 \begin{document}
 
 \begin{titlepage}
-  \centering  
-  \includegraphics[width=0.6\textwidth]{img/logoutem.png}  
+  \centering
+  \begin{tabular}{@{}p{2cm}@{\hspace{1cm}}p{12cm}@{}}
+    \begin{picture}(0,0)
+      \put(0,-70){\includegraphics[width=2cm,height=3cm]{img/logocolor.png}}
+    \end{picture}
+    &
+    \raggedright
+    \normalsize UNIVERSIDAD TECNOLÓGICA METROPOLITANA\\
+    \normalsize FACULTAD DE INGENIERÍA\\
+    \normalsize DEPARTAMENTO DE INFORMÁTICA Y COMPUTACIÓN\\
+    \normalsize ESCUELA DE INFORMÁTICA
+  \end{tabular}
+
+  \vspace{3cm}
+  \LARGE \begin{doublespace} MODELO DE APRENDIZAJE AUTOMÁTICO PARA LA PREDICCIÓN DEL COMPORTAMIENTO DE CLIENTES EN CANAL WEB \end{doublespace}
   \vspace{1cm}
-  
-  \textsc{\normalsize Facultad de Ingeniería}  
-  \vspace{0.5cm}
-  
-  \textsc{\normalsize Escuela de Informática}
-  {\let\newpage\relax\maketitle}
+  \LARGE \begin{singlespace}
+    TRABAJO DE TÍTULACIÓN PARA OPTAR AL TÍTULO DE INGENIERO CIVIL EN COMPUTACIÓN MENCIÓN INFORMÁTICA
+  \end{singlespace}
+
+  \raggedleft
+  \vspace{2cm}
+  \normalsize AUTORES: \\
+  \vspace{0.1cm}
+  \normalsize GONZÁLEZ GÁRATE, CRISTÓBAL ANDRES \\
+  \vspace{0.1cm}
+  \normalsize TAPIA RIQUELME, MARCELO IGNACIO \\
+  \vspace{0.1cm}
+  \normalsize OYARCE TREJO, DIEGO ESTEBAN
+
 \end{titlepage}
+
+\fancyhf{}
+
+\pagenumbering{roman}
+\renewcommand{\thepage}{\roman{page}}
 
 \tableofcontents
 
-\listoffigures
+\begin{singlespace}
+  \listoffigures
+\end{singlespace}
+
 
 \setcounter{section}{1}
 
@@ -55,6 +87,13 @@
 
 \section{Resumen}
 \input{Presentación del proyecto/Resumen}
+
+\section{Abstract}
+%\input{Presentación del proyecto/Abstract}
+
+\clearpage
+\pagenumbering{arabic}
+\renewcommand{\thepage}{\arabic{page}}
 
 \section{Palabras Clave}
 \input{Presentación del proyecto/Palabras clave}
@@ -169,6 +208,8 @@
 %\subsection{Resultados}
 %\input{Análisis exploratorio de datos/Resultados.tex}
 
-\bibliographystyle{apacite}
-\bibliography{Bibliografia}
+\begin{doublespace}
+  \bibliographystyle{apacite}
+  \bibliography{Bibliografia}
+\end{doublespace}
 \end{document}
