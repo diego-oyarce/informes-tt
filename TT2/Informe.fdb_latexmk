@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex Informe"] 1693778792 "Informe.aux" "Informe.bbl" "Informe" 1693778960
+["bibtex Informe"] 1694146523 "Informe.aux" "Informe.bbl" "Informe" 1694146559
   "/usr/share/texlive/texmf-dist/bibtex/bst/apacite/apacite.bst" 1374530685 141073 9d7b79dbf9d91133318126032cff8c27 ""
   "Bibliografia.bib" 1689304275 9073 459ddd0f1e3920015c303d2d68b1aa13 ""
-  "Informe.aux" 1693778960 14637 7c5a441fee5b1adc241010f135b129aa "pdflatex"
+  "Informe.aux" 1694146559 14480 2aace04f60ea0c7f803da8f647cdb960 "pdflatex"
   (generated)
   "Informe.bbl"
   "Informe.blg"
-["pdflatex"] 1693778958 "/home/diegooyarce/proyectos/informes-tt/TT2/Informe.tex" "Informe.pdf" "Informe" 1693778960
+["pdflatex"] 1694146557 "/home/diegooyarce/proyectos/informes-tt/TT2/Informe.tex" "Informe.pdf" "Informe" 1694146559
   "/etc/texmf/web2c/texmf.cnf" 1687491679 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/diegooyarce/proyectos/informes-tt/TT2/Informe.tex" 1693778790 7436 afa79b595322d805c950f775ee9c475b ""
+  "/home/diegooyarce/proyectos/informes-tt/TT2/Informe.tex" 1694146557 7837 f281ba0530302b4f1c79285004b9918e ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -113,6 +113,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty" 1615762720 4288 94714aa7f535440f33181fec52a31963 ""
   "/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575674187 9715 b051d5b493d9fe5f4bc251462d039e5f ""
+  "/usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty" 1137110779 22423 d476012cd03f82f9475ad54ba6cd3267 ""
   "/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty" 1324344192 22913 a27d7908fc6f0385466454a966a316eb ""
   "/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty" 1625518490 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty" 1578692495 36103 3e78d14f0f4b1a30560fea5e04de805d ""
@@ -127,14 +128,14 @@
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1692655797 2297 ee5ebcfd1496ac2fbeb9dfebec948d1c ""
   "Análisis exploratorio de datos/Introducción.tex" 1693198188 2583 15c9d890b87d23c1ff7fc660439be8a8 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1689307320 3003 e62a3e2c05bef286e9db40e34a61c72d ""
-  "Informe.aux" 1693778960 14637 7c5a441fee5b1adc241010f135b129aa "pdflatex"
-  "Informe.bbl" 1693778792 11425 1839fa6f19d0d8d9f60f6a9a80999c9c "bibtex Informe"
-  "Informe.lof" 1693778960 481 a38b3073aec3f8efcfcde9568031d9ae "pdflatex"
-  "Informe.out" 1693778960 8176 8329206a3adf80cafa278439ca9ad2f4 "pdflatex"
-  "Informe.tex" 1693778790 7436 afa79b595322d805c950f775ee9c475b ""
-  "Informe.toc" 1693778960 4948 f537132f698c12d09c1a9aa13f72fa47 "pdflatex"
+  "Informe.aux" 1694146559 14480 2aace04f60ea0c7f803da8f647cdb960 "pdflatex"
+  "Informe.bbl" 1694146523 11425 1839fa6f19d0d8d9f60f6a9a80999c9c "bibtex Informe"
+  "Informe.lof" 1694146559 481 ec681c37571655415078629f22ead7a7 "pdflatex"
+  "Informe.out" 1694146559 8156 54a95d038a4a8466f323dfc2e0573c6f "pdflatex"
+  "Informe.tex" 1694146557 7837 f281ba0530302b4f1c79285004b9918e ""
+  "Informe.toc" 1694146559 4792 06ce1dc7546ec41d074c3d867fe967b2 "pdflatex"
   "La empresa/Descripción general.tex" 1688158151 1477 ab770493b1bdd4e4dda660e740d16091 ""
-  "La empresa/Historia.tex" 1688158405 2785 732ca7c80f187011448f42f4d247f734 ""
+  "La empresa/Historia.tex" 1694140462 2785 732ca7c80f187011448f42f4d247f734 ""
   "La empresa/Misión y visión.tex" 1688155705 503 c630ca0b0e477a531cd55a46a0308078 ""
   "Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex" 1692681453 2828 98f18a1bc9280f93460ce1e117e8383f ""
   "Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex" 1688160195 2948 8bbdd1a3f206d1a0ec118e38b3eac00c ""

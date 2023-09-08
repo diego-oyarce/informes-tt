@@ -12,17 +12,35 @@
 \usepackage{apacite}
 \usepackage{comment}
 \usepackage{amsmath}
-\usepackage{parskip}
 \usepackage{setspace}
 \usepackage{listings}
 \usepackage{fancyhdr}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage{parskip}
 
-\onehalfspacing %Espacio de 1,5 líneas
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\onehalfspacing
 
 \renewcommand{\headrulewidth}{0pt}
-\pagestyle{fancy}
 
-\renewcommand{\contentsname}{Índice}
+\titleformat{\chapter}[block]
+  {\normalfont\bfseries\Huge}
+  {\MakeUppercase\chaptertitlename\ \thechapter: }
+  {0pt}
+  {\Huge\MakeUppercase}
+\titlespacing*{\chapter}{0pt}{-50pt}{40pt}
+
+\chapterfont{\MakeUppercase}
+\renewcommand{\contentsname}{ÍNDICE}
+\renewcommand{\listfigurename}{ÍNDICE DE FIGURAS}
+
+\setlength{\parindent}{5ex}
+
+\setlength{\parskip}{\baselineskip}
 
 \begin{document}
 
@@ -65,13 +83,14 @@
   \normalsize SANTIAGO - CHILE \\
   \normalsize 2023
 \end{titlepage}
+
 \pagenumbering{gobble}
 
 \fancyhf{}
 
 \pagenumbering{roman}
 \setcounter{page}{2}
-\renewcommand{\thepage}{\roman{page}}
+\fancyfoot[R]{\thepage}
 
 \tableofcontents
 
@@ -81,23 +100,22 @@
   \listoffigures
 \end{singlespace}
 
-
-\setcounter{section}{1}
-
-\chapter{Presentación del proyecto}
-
-\section{Resumen}
+\chapter*{Resumen}
+\addcontentsline{toc}{chapter}{Resumen}
 \input{Presentación del proyecto/Resumen}
 
-\section{Abstract}
+\newpage
+
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
 \input{Presentación del proyecto/Abstract}
 
 \clearpage
 \pagenumbering{arabic}
 \setcounter{page}{1}
-\renewcommand{\thepage}{\arabic{page}}
+\fancyfoot[R]{\thepage}
 
-
+\chapter{Presentación del proyecto}
 \section{Descripción del trabajo de título}
 \input{Presentación del proyecto/Descripción del trabajo de título}
 
@@ -108,7 +126,6 @@
 \input{Presentación del proyecto/Alcances y limitaciones}
 
 \chapter{La empresa}
-
 \section{Historia}
 \input{La empresa/Historia}
 %agregar la imágen de la historia%

@@ -549,29 +549,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
@@ -614,6 +591,41 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -734,22 +746,22 @@ INPUT ./Informe.lof
 INPUT Informe.lof
 INPUT Informe.lof
 OUTPUT Informe.lof
+INPUT ./Presentación del proyecto/Resumen.tex
+INPUT ./Presentación del proyecto/Resumen.tex
+INPUT ./Presentación del proyecto/Resumen.tex
+INPUT Presentación del proyecto/Resumen.tex
+INPUT ./Presentación del proyecto/Resumen.tex
+INPUT ./Presentación del proyecto/Resumen.tex
+INPUT Presentación del proyecto/Resumen.tex
+INPUT ./Presentación del proyecto/Abstract.tex
+INPUT ./Presentación del proyecto/Abstract.tex
+INPUT ./Presentación del proyecto/Abstract.tex
+INPUT Presentación del proyecto/Abstract.tex
+INPUT ./Presentación del proyecto/Abstract.tex
+INPUT ./Presentación del proyecto/Abstract.tex
+INPUT Presentación del proyecto/Abstract.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ./Presentación del proyecto/Resumen.tex
-INPUT ./Presentación del proyecto/Resumen.tex
-INPUT ./Presentación del proyecto/Resumen.tex
-INPUT Presentación del proyecto/Resumen.tex
-INPUT ./Presentación del proyecto/Resumen.tex
-INPUT ./Presentación del proyecto/Resumen.tex
-INPUT Presentación del proyecto/Resumen.tex
-INPUT ./Presentación del proyecto/Abstract.tex
-INPUT ./Presentación del proyecto/Abstract.tex
-INPUT ./Presentación del proyecto/Abstract.tex
-INPUT Presentación del proyecto/Abstract.tex
-INPUT ./Presentación del proyecto/Abstract.tex
-INPUT ./Presentación del proyecto/Abstract.tex
-INPUT Presentación del proyecto/Abstract.tex
 INPUT ./Presentación del proyecto/Descripción del trabajo de título.tex
 INPUT ./Presentación del proyecto/Descripción del trabajo de título.tex
 INPUT ./Presentación del proyecto/Descripción del trabajo de título.tex
