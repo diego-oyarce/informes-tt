@@ -18,6 +18,30 @@ afpcapital}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Ajitesh%
+}{%
+Ajitesh%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+time-series}
+\APACinsertmetastar {%
+time-series}%
+\begin{APACrefauthors}%
+Ajitesh, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {Different types of Time-series Forecasting Models.} {Different types of time-series forecasting models.}
+\newblock
+\APAChowpublished {Sitio web}.
+\newblock
+\begin{APACrefURL} \url{https://vitalflux.com/different-types-of-time-series-forecasting-models/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Arana%
 }{%
 Arana%
@@ -81,7 +105,7 @@ Contreras~Arteaga, A.%
 \newblock
 \APACrefYearMonthDay{2019}{}{}.
 \newblock
-\APACrefbtitle {ANALÍTICA PREDICTIVA PARA CONOCER EL PATRÓN DE CONSUMO DE LOS CLIENTES EN LA EMPRESA CIENPHARMA S.A.C. UTILIZANDO IBM SPSS MODELER Y LA METODOLOGÍA CRISP-DM.} {AnalÍtica predictiva para conocer el patrÓn de consumo de los clientes en la empresa cienpharma s.a.c. utilizando ibm spss modeler y la metodologÍa crisp-dm.}
+\APACrefbtitle {Analítica Predictiva para conocer el patrón de consumo de los clientes en la empresa Cienpharma S.A.C utilizando IBM spss modeler y la metodología crisp-dm.} {Analítica predictiva para conocer el patrón de consumo de los clientes en la empresa cienpharma s.a.c utilizando ibm spss modeler y la metodología crisp-dm.}
 \newblock
 \APACrefnote{p.15}
 \PrintBackRefs{\CurrentBib}
@@ -101,6 +125,54 @@ dask}%
 \APAChowpublished {Sitio Web}.
 \newblock
 \begin{APACrefURL} \url{https://www.dask.org/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Elizabeth%
+}{%
+Elizabeth%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+crear-recomendacion}
+\APACinsertmetastar {%
+crear-recomendacion}%
+\begin{APACrefauthors}%
+Elizabeth, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {Cómo crear un modelo de recomendación basado en machine learning.} {Cómo crear un modelo de recomendación basado en machine learning.}
+\newblock
+\APAChowpublished {Sitio web}.
+\newblock
+\begin{APACrefURL} \url{https://aws.amazon.com/es/blogs/aws-spanish/como-crear-un-modelo-de-recomendacion-basado-en-machine-learning/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Eric%
+}{%
+Eric%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+Crisp-Osemn}
+\APACinsertmetastar {%
+Crisp-Osemn}%
+\begin{APACrefauthors}%
+Eric.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {Data Science Life Cycle: CRISP-D, and OSEMN frameworks.} {Data science life cycle: Crisp-d, and osemn frameworks.}
+\newblock
+\APAChowpublished {Sitio web}.
+\newblock
+\begin{APACrefURL} \url{https://datarundown.com/data-science-life-cycle/} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -319,26 +391,6 @@ Ruiz, N.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Sandoval%
-}{%
-Sandoval%
-}{%
-{\protect \APACyear {2018}}%
-}]{%
-inteligencia-negocios}
-\APACinsertmetastar {%
-inteligencia-negocios}%
-\begin{APACrefauthors}%
-Sandoval, L\BPBI J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2018}{}{}.
-\newblock
-\APACrefbtitle {ALGORITMOS DE APRENDIZAJE AUTOMÁTICO PARA ANÁLISIS Y PREDICCIÓN DE DATOS.} {Algoritmos de aprendizaje automÁtico para anÁlisis y predicciÓn de datos.}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Sánchez%
 }{%
 Sánchez%
@@ -431,6 +483,30 @@ van Rossum, G.%
 \APACrefbtitle {An Introduction to Python} {An introduction to python}.
 \newblock
 \APACaddressPublisher{}{Network Theory Limited.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vatsal%
+}{%
+Vatsal%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+recomendation-systems}
+\APACinsertmetastar {%
+recomendation-systems}%
+\begin{APACrefauthors}%
+Vatsal.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {Recommendation Systems Explained.} {Recommendation systems explained.}
+\newblock
+\APAChowpublished {Sitio web}.
+\newblock
+\begin{APACrefURL} \url{https://towardsdatascience.com/recommendation-systems-explained-a42fc60591ed} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
