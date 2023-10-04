@@ -26,25 +26,28 @@
 \contentsline {subsection}{\numberline {3.3.2}Métodos, técnicas y tecnologías de análisis de datos}{15}{subsection.3.3.2}%
 \contentsline {subsection}{\numberline {3.3.3}Modelos de predicción de comportamiento del cliente}{16}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.3.4}Tabla comparativa de los modelos de predicción}{35}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}Metodología del proyecto}{36}{subsection.3.3.5}%
-\contentsline {subsubsection}{Fase 1: Planteamiento y planificación}{36}{section*.11}%
-\contentsline {subsubsection}{Fase 2: Investigación}{36}{section*.12}%
-\contentsline {subsubsection}{Fase 3: Modelamiento y desarrollo}{37}{section*.13}%
-\contentsline {subsubsection}{Fase 4: Conclusiones y recomendaciones}{37}{section*.14}%
-\contentsline {subsection}{\numberline {3.3.6}Metodología del sistema}{37}{subsection.3.3.6}%
-\contentsline {subsubsection}{CRISP-DM}{37}{section*.15}%
-\contentsline {subsubsection}{OSEMN}{38}{section*.16}%
-\contentsline {chapter}{\numberline {4}Proceso ETL}{41}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Diseño Proceso ETL}{41}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Requisitos ETL}{42}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Identificicación fuente de datos}{42}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Diseño del modelo de datos objetivo}{43}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Planificación de las transformaciones}{43}{subsection.4.1.4}%
-\contentsline {subsection}{\numberline {4.1.5}Selección herramientas}{45}{subsection.4.1.5}%
-\contentsline {subsection}{\numberline {4.1.6}Construcción y prueba proceso ETL}{46}{subsection.4.1.6}%
-\contentsline {subsection}{\numberline {4.1.7}Monitoreo proceso ETL}{47}{subsection.4.1.7}%
-\contentsline {chapter}{\numberline {5}Exploratory Data Analysis (EDA)}{49}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introducción al EDA}{49}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Recopilación de datos}{50}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Estadísticas descriptivas}{51}{section.5.3}%
-\contentsline {chapter}{Referencias}{54}{chapter*.17}%
+\contentsline {subsection}{\numberline {3.3.5}Series de Tiempo}{36}{subsection.3.3.5}%
+\contentsline {subsubsection}{Graficos de series de tiempo}{36}{section*.11}%
+\contentsline {subsubsection}{Modelo ARIMA}{47}{section*.22}%
+\contentsline {subsection}{\numberline {3.3.6}Metodología del proyecto}{48}{subsection.3.3.6}%
+\contentsline {subsubsection}{Fase 1: Planteamiento y planificación}{48}{section*.23}%
+\contentsline {subsubsection}{Fase 2: Investigación}{48}{section*.24}%
+\contentsline {subsubsection}{Fase 3: Modelamiento y desarrollo}{49}{section*.25}%
+\contentsline {subsubsection}{Fase 4: Conclusiones y recomendaciones}{49}{section*.26}%
+\contentsline {subsection}{\numberline {3.3.7}Metodología del sistema}{50}{subsection.3.3.7}%
+\contentsline {subsubsection}{CRISP-DM}{50}{section*.27}%
+\contentsline {subsubsection}{OSEMN}{51}{section*.28}%
+\contentsline {chapter}{\numberline {4}Proceso ETL}{53}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Diseño Proceso ETL}{53}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Requisitos ETL}{54}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Identificicación fuente de datos}{54}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Diseño del modelo de datos objetivo}{55}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Planificación de las transformaciones}{55}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Selección herramientas}{57}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Construcción y prueba proceso ETL}{58}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Monitoreo proceso ETL}{59}{subsection.4.1.7}%
+\contentsline {chapter}{\numberline {5}Exploratory Data Analysis (EDA)}{61}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introducción al EDA}{61}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Recopilación de datos}{62}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Estadísticas descriptivas}{63}{section.5.3}%
+\contentsline {chapter}{Referencias}{66}{chapter*.29}%

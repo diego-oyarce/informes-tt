@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Informe.aux
 The style file: apacite.bst
@@ -14,45 +14,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Bibliografia.bib
 Warning--I didn't find a database entry for "inteligencia-negocios"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 23 entries,
+You've used 24 entries,
             6951 wiz_defined-function locations,
-            1383 strings with 13957 characters,
-and the built_in function-call counts, 37903 in all, are:
-= -- 4749
-> -- 265
-< -- 1768
-+ -- 1673
-- -- 48
-* -- 2276
-:= -- 6911
-add.period$ -- 95
-call.type$ -- 23
-change.case$ -- 389
+            1387 strings with 14084 characters,
+and the built_in function-call counts, 39599 in all, are:
+= -- 4964
+> -- 279
+< -- 1842
++ -- 1747
+- -- 50
+* -- 2376
+:= -- 7206
+add.period$ -- 100
+call.type$ -- 24
+change.case$ -- 406
 chr.to.int$ -- 0
-cite$ -- 46
-duplicate$ -- 869
-empty$ -- 1640
-format.name$ -- 416
-if$ -- 7433
+cite$ -- 48
+duplicate$ -- 915
+empty$ -- 1713
+format.name$ -- 440
+if$ -- 7774
 int.to.chr$ -- 0
-int.to.str$ -- 69
+int.to.str$ -- 72
 missing$ -- 0
-newline$ -- 540
-num.names$ -- 168
-pop$ -- 1211
+newline$ -- 567
+num.names$ -- 176
+pop$ -- 1283
 preamble$ -- 1
-purify$ -- 90
+purify$ -- 94
 quote$ -- 0
-skip$ -- 2194
+skip$ -- 2269
 stack$ -- 0
-substring$ -- 1803
-swap$ -- 446
-text.length$ -- 49
+substring$ -- 1886
+swap$ -- 465
+text.length$ -- 51
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1952
+type$ -- 2032
 warning$ -- 0
-while$ -- 144
+while$ -- 151
 width$ -- 0
-write$ -- 634
+write$ -- 667
 (There was 1 warning)
