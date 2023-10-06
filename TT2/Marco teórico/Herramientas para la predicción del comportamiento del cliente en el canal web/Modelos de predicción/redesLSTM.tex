@@ -1,0 +1,29 @@
+\subsubsection{¿Qué son las redes Long Short-Term Memory?}
+
+La LSTM es un tipo de red neuronal recurrente (RNN) diseñada para resolver el problema del gradiente evanescente mediante la introducción de una célula de memoria que puede almacenar información durante periodos de tiempo más largos (cris).
+
+\subsubsection{Arquitectura de una Long Short-Term Memory}
+
+\begin{itemize}
+    \item \textbf{Puerta de entrada:} La puerta de entrada en una LSTM utiliza una función de activación sigmoidea para decidir qué valores pasar a la célula de memoria. La función sigmoidea genera valores entre 0 y 1, lo que permite que la puerta de entrada \( decida \) en qué grado un valor debe ser almacenado en la célula de memoria. Un valor cercano a 1 indica que casi toda la información debe ser conservada, mientras que un valor cercano a 0 sugiere que la información debe ser mayormente descartada. (cris).
+\end{itemize}
+
+\begin{itemize}
+    \item \textbf{Puerta del Olvido:} Controla qué información de la célula de memoria del paso temporal anterior debe ser conservada y cuál debe ser descartada. Utiliza una función de activación sigmoidea para determinar esto. Un valor cercano a 1 de la sigmoidea indica que la información debe ser conservada, mientras que un valor cercano a 0 indica que debe ser olvidada. (cris).
+\end{itemize}
+
+\begin{itemize}
+    \item \textbf{Puerta de Salida:} Controla qué información de la célula de memoria debe ser enviada como salida. Utiliza una función de activación sigmoidea para decidir qué partes de la memoria se deben considerar y luego aplica una función de tangente hiperbólica para escalar los valores entre -1 y 1, determinando así la salida final de la célula LSTM (cris).
+\end{itemize}
+
+\begin{itemize}
+    \item \textbf{Célula de memoria:} Es el componente central de la arquitectura LSTM. Esta célula almacena información a través del tiempo, pudiendo olvidar selectivamente información no relevante y añadir nueva información a su estado interno.
+
+    En cada paso temporal, el modelo LSTM recibe un vector de entrada junto con un vector de estado oculto proveniente del paso temporal anterior. A partir de estos, la puerta de entrada decide qué nueva información se debe almacenar en la célula de memoria, mientras que la puerta de olvido decide qué información previamente almacenada debe descartarse.
+    
+    Después, se genera un estado candidato utilizando la función de activación tangente hiperbólica. Este estado candidato se combina con el estado actual de la célula de memoria mediante una operación de suma elemento a elemento, actualizando así la información almacenada.
+    
+    Finalmente, la puerta de salida determina cuál de esta información actualizada se emitirá como salida de la LSTM. Este output, junto con el estado actualizado de la célula de memoria, se pasa al siguiente paso temporal (cris).
+    
+\end{itemize}
+

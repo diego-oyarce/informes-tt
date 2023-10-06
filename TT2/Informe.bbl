@@ -14,8 +14,7 @@ afpcapital}%
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL} \url{https://www.afpcapital.cl/Paginas/default.aspx}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://www.afpcapital.cl/Paginas/default.aspx} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -35,14 +34,11 @@ Ajitesh, K.%
 \newblock
 \APACrefYearMonthDay{2023}{}{}.
 \newblock
-\APACrefbtitle {Different types of Time-series Forecasting Models.} {Different
-  types of time-series forecasting models.}
+\APACrefbtitle {Different types of Time-series Forecasting Models.} {Different types of time-series forecasting models.}
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL}
-  \url{https://vitalflux.com/different-types-of-time-series-forecasting-models/}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://vitalflux.com/different-types-of-time-series-forecasting-models/} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -62,9 +58,7 @@ Arana, C.%
 \newblock
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
-\APACrefbtitle {Modelos de aprendizaje automático mediante árboles de
-  decisión.} {Modelos de aprendizaje automático mediante árboles de
-  decisión.}
+\APACrefbtitle {Modelos de aprendizaje automático mediante árboles de decisión.} {Modelos de aprendizaje automático mediante árboles de decisión.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -84,14 +78,11 @@ Baker, K.%
 \newblock
 \APACrefYearMonthDay{2023}{}{}.
 \newblock
-\APACrefbtitle {What Is Attribution Modeling and Why Its So Important.} {What
-  is attribution modeling and why its so important.}
+\APACrefbtitle {What Is Attribution Modeling and Why Its So Important.} {What is attribution modeling and why its so important.}
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL}
-  \url{https://blog.hubspot.com/marketing/attribution-modeling}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://blog.hubspot.com/marketing/attribution-modeling} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -114,11 +105,7 @@ Contreras~Arteaga, A.%
 \newblock
 \APACrefYearMonthDay{2019}{}{}.
 \newblock
-\APACrefbtitle {Analítica Predictiva para conocer el patrón de consumo de los
-  clientes en la empresa Cienpharma S.A.C utilizando IBM spss modeler y la
-  metodología crisp-dm.} {Analítica predictiva para conocer el patrón de
-  consumo de los clientes en la empresa cienpharma s.a.c utilizando ibm spss
-  modeler y la metodología crisp-dm.}
+\APACrefbtitle {Analítica Predictiva para conocer el patrón de consumo de los clientes en la empresa Cienpharma S.A.C utilizando IBM spss modeler y la metodología crisp-dm.} {Analítica predictiva para conocer el patrón de consumo de los clientes en la empresa cienpharma s.a.c utilizando ibm spss modeler y la metodología crisp-dm.}
 \newblock
 \APACrefnote{p.15}
 \PrintBackRefs{\CurrentBib}
@@ -131,8 +118,7 @@ Contreras~Arteaga, A.%
 dask}
 \APACinsertmetastar {%
 dask}%
-\APACrefbtitle {dask: Scale the Python tools you love.} {dask: Scale the python
-  tools you love.}
+\APACrefbtitle {dask: Scale the Python tools you love.} {dask: Scale the python tools you love.}
 \newblock
 \APACrefYearMonthDay{2023}{}{}.
 \newblock
@@ -158,15 +144,11 @@ Elizabeth, F.%
 \newblock
 \APACrefYearMonthDay{2023}{}{}.
 \newblock
-\APACrefbtitle {Cómo crear un modelo de recomendación basado en machine
-  learning.} {Cómo crear un modelo de recomendación basado en machine
-  learning.}
+\APACrefbtitle {Cómo crear un modelo de recomendación basado en machine learning.} {Cómo crear un modelo de recomendación basado en machine learning.}
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL}
-  \url{https://aws.amazon.com/es/blogs/aws-spanish/como-crear-un-modelo-de-recomendacion-basado-en-machine-learning/}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://aws.amazon.com/es/blogs/aws-spanish/como-crear-un-modelo-de-recomendacion-basado-en-machine-learning/} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -186,13 +168,11 @@ Eric.%
 \newblock
 \APACrefYearMonthDay{2023}{}{}.
 \newblock
-\APACrefbtitle {Data Science Life Cycle: CRISP-D, and OSEMN frameworks.} {Data
-  science life cycle: Crisp-d, and osemn frameworks.}
+\APACrefbtitle {Data Science Life Cycle: CRISP-D, and OSEMN frameworks.} {Data science life cycle: Crisp-d, and osemn frameworks.}
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL} \url{https://datarundown.com/data-science-life-cycle/}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://datarundown.com/data-science-life-cycle/} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -215,9 +195,7 @@ Garcia-Estrella, C.%
 \newblock
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
-\APACrefbtitle {La inteligencia de negocios y la analítica de datos en los
-  procesos empresariales.} {La inteligencia de negocios y la analítica de
-  datos en los procesos empresariales.}
+\APACrefbtitle {La inteligencia de negocios y la analítica de datos en los procesos empresariales.} {La inteligencia de negocios y la analítica de datos en los procesos empresariales.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -240,8 +218,7 @@ Hyndman, R\BPBI J.%
 \newblock
 \APACrefYearMonthDay{2023}{}{}.
 \newblock
-\APACrefbtitle {Forecasting: principles and practice, 2nd edition.}
-  {Forecasting: principles and practice, 2nd edition.}
+\APACrefbtitle {Forecasting: principles and practice, 2nd edition.} {Forecasting: principles and practice, 2nd edition.}
 \newblock
 \APAChowpublished {Sitio Web}.
 \newblock
@@ -269,8 +246,7 @@ IBM.%
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL} \url{https://www.ibm.com/mx-es/topics/random-forest}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://www.ibm.com/mx-es/topics/random-forest} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -293,8 +269,7 @@ Kimball, R.%
 \newblock
 \APACrefYear{2004}.
 \newblock
-\APACrefbtitle {The Data Warehouse ETL Toolkit} {The data warehouse etl
-  toolkit}.
+\APACrefbtitle {The Data Warehouse ETL Toolkit} {The data warehouse etl toolkit}.
 \newblock
 \APACaddressPublisher{}{Wiley Publishing, Inc.}
 \PrintBackRefs{\CurrentBib}
@@ -319,9 +294,7 @@ Lemon, K\BPBI N.%
 \newblock
 \APACrefYearMonthDay{2016}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Understanding Customer Experience Throughout the
-  Customer Journey} {Understanding customer experience throughout the customer
-  journey}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Understanding Customer Experience Throughout the Customer Journey} {Understanding customer experience throughout the customer journey}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Marketing}{}{}{}.
 \PrintBackRefs{\CurrentBib}
@@ -343,12 +316,9 @@ Mckinney, W.%
 \newblock
 \APACrefYearMonthDay{2011}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {pandas: a Foundational Python Library for Data Analysis
-  and Statistics} {pandas: a foundational python library for data analysis and
-  statistics}.{\BBCQ}
+{\BBOQ}\APACrefatitle {pandas: a Foundational Python Library for Data Analysis and Statistics} {pandas: a foundational python library for data analysis and statistics}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Python for high performand and scientific
-  computing}{14}{9}{1-9}.
+\APACjournalVolNumPages{Python for high performand and scientific computing}{14}{9}{1-9}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -372,9 +342,7 @@ Morales~Oñate, V.%
 \newblock
 \APAChowpublished {Sitio Web}.
 \newblock
-\begin{APACrefURL}
-  \url{https://bookdown.org/victor_morales/SeriesdeTiempo/%7D%7D}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://bookdown.org/victor_morales/SeriesdeTiempo/%7D%7D} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -394,8 +362,7 @@ Parra, J.%
 \newblock
 \APACrefYearMonthDay{2002}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Análisis exploratorio y análisis confirmatorio de
-  datos} {Análisis exploratorio y análisis confirmatorio de datos}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Análisis exploratorio y análisis confirmatorio de datos} {Análisis exploratorio y análisis confirmatorio de datos}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Espacio Abierto}{11}{1}{115-124}.
 \PrintBackRefs{\CurrentBib}
@@ -421,9 +388,7 @@ Rasekhi, S.%
 \newblock
 \APACrefYear{2016}.
 \newblock
-\APACrefbtitle {Understanding the Role of Trust in Pension System: A Literature
-  Review} {Understanding the role of trust in pension system: A literature
-  review}.
+\APACrefbtitle {Understanding the Role of Trust in Pension System: A Literature Review} {Understanding the role of trust in pension system: A literature review}.
 \newblock
 \APACaddressPublisher{}{The Third Wave. William Morrow and company Inc.}
 \PrintBackRefs{\CurrentBib}
@@ -449,8 +414,7 @@ Rodriguez, J.%
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL} \url{https://blog.hubspot.es/sales/que-es-un-cliente}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://blog.hubspot.es/sales/que-es-un-cliente} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -471,9 +435,7 @@ Ruiz, N.%
 \APACrefYear{2022}.
 \unskip\
 \newblock
-\APACrefbtitle {Una aproximación al análisis exploratorio de datos} {Una
-  aproximación al análisis exploratorio de datos}\ \APACtypeAddressSchool
-  {\BUPhD}{}{}.
+\APACrefbtitle {Una aproximación al análisis exploratorio de datos} {Una aproximación al análisis exploratorio de datos}\ \APACtypeAddressSchool {\BUPhD}{}{}.
 \unskip\
 \newblock
 \APACaddressSchool {}{Universidad de Valladolid}.
@@ -496,12 +458,9 @@ Sánchez, W.%
 \newblock
 \APACrefYearMonthDay{2011}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {La usabilidad en Ingeniería de Software: definición y
-  características.} {La usabilidad en ingeniería de software: definición y
-  características.}{\BBCQ}
+{\BBOQ}\APACrefatitle {La usabilidad en Ingeniería de Software: definición y características.} {La usabilidad en ingeniería de software: definición y características.}{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Revista de Ingeniería e Innovación de la Facultad de
-  Ingeniería, Universidad Don Bosco}{1}{2}{7-21}.
+\APACjournalVolNumPages{Revista de Ingeniería e Innovación de la Facultad de Ingeniería, Universidad Don Bosco}{1}{2}{7-21}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -521,9 +480,7 @@ Toffler, A.%
 \newblock
 \APACrefYearMonthDay{1980}{}{}.
 \newblock
-\APACrefbtitle {Understanding the Role of Trust in Pension System: A Literature
-  Review.} {Understanding the role of trust in pension system: A literature
-  review.}
+\APACrefbtitle {Understanding the Role of Trust in Pension System: A Literature Review.} {Understanding the role of trust in pension system: A literature review.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -547,12 +504,9 @@ van~der Walt, S.%
 \newblock
 \APACrefYearMonthDay{2011}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {The NumPy Array: A Structure for Efficient Numerical
-  Computation} {The numpy array: A structure for efficient numerical
-  computation}.{\BBCQ}
+{\BBOQ}\APACrefatitle {The NumPy Array: A Structure for Efficient Numerical Computation} {The numpy array: A structure for efficient numerical computation}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Computing in Science and Engineering, Institute of
-  Electrical and Electronics Engineers}{13}{2}{22-30}.
+\APACjournalVolNumPages{Computing in Science and Engineering, Institute of Electrical and Electronics Engineers}{13}{2}{22-30}.
 \newblock
 \begin{APACrefDOI} \doi{10.1109/MCSE.2011.37} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -599,14 +553,11 @@ Vatsal.%
 \newblock
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
-\APACrefbtitle {Recommendation Systems Explained.} {Recommendation systems
-  explained.}
+\APACrefbtitle {Recommendation Systems Explained.} {Recommendation systems explained.}
 \newblock
 \APAChowpublished {Sitio web}.
 \newblock
-\begin{APACrefURL}
-  \url{https://towardsdatascience.com/recommendation-systems-explained-a42fc60591ed}
-  \end{APACrefURL}
+\begin{APACrefURL} \url{https://towardsdatascience.com/recommendation-systems-explained-a42fc60591ed} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -634,8 +585,7 @@ Zheng, B.%
 \newblock
 \APACrefYearMonthDay{2013}{}{}.
 \newblock
-\APACrefbtitle {Customers' behavior prediction using artificial neural
-  network.} {Customers' behavior prediction using artificial neural network.}
+\APACrefbtitle {Customers' behavior prediction using artificial neural network.} {Customers' behavior prediction using artificial neural network.}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
