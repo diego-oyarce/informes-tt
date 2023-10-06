@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Informe"] 1696567860 "Informe.aux" "Informe.bbl" "Informe" 1696567860 0
-  "./Bibliografia.bib" 1696567859 9337 94c64587d171270229b67c3267f3cd10 ""
+["bibtex Informe"] 1696568003 "Informe.aux" "Informe.bbl" "Informe" 1696568004 0
+  "./Bibliografia.bib" 1696568003 9672 17558bf19ac895aacdf62ad0eaa037f5 ""
   "Informe.aux" 0 -1 0 ""
   "c:/texlive/2023/texmf-dist/bibtex/bst/apacite/apacite.bst" 1687672497 141073 9d7b79dbf9d91133318126032cff8c27 ""
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1696567665 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1696567860 0
+["pdflatex"] 1696567665 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1696568004 0
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1696559783 2297 ee5ebcfd1496ac2fbeb9dfebec948d1c ""
   "Análisis exploratorio de datos/Introducción.tex" 1696559783 2611 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1696559783 3003 e62a3e2c05bef286e9db40e34a61c72d ""
