@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  5 OCT 2023 23:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  5 OCT 2023 23:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -571,12 +571,8 @@ Overfull \hbox (1.21642pt too wide) in paragraph at lines 143--143
 
 (./Marco teórico/intro_cap_marco.tex) (./Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex [8
 
-]) (./Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex [9]) [10] (./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex) [11] (./Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente.tex) [12] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex [13]
-
-LaTeX Warning: Citation `inteligencia-negocios' undefined on input line 9.
-
-) [14] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex) [15] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/intro_modelos.tex) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex [16] [17] [18]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex [19] [20] [21]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex [22] [23]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex [24] [25] [26]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex [27]
-<img/estructura-arbol-de-decision.jpg, id=470, 496.67436pt x 328.85275pt>
+]) (./Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex [9]) [10] (./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex) [11] (./Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente.tex) [12] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex [13]) [14] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex) [15] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/intro_modelos.tex) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex [16] [17] [18]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex [19] [20] [21]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex [22] [23]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex [24] [25] [26]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex [27]
+<img/estructura-arbol-de-decision.jpg, id=469, 496.67436pt x 328.85275pt>
 File: img/estructura-arbol-de-decision.jpg Graphic file (type jpg)
 <use img/estructura-arbol-de-decision.jpg>
 Package pdftex.def Info: img/estructura-arbol-de-decision.jpg  used on input line 18.
@@ -587,7 +583,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 16--20
  []
 
 [28 <./img/estructura-arbol-de-decision.jpg>] [29] [30]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex [31]
-<img/estructura-random-forest.png, id=504, 1316.92pt x 739.76375pt>
+<img/estructura-random-forest.png, id=503, 1316.92pt x 739.76375pt>
 File: img/estructura-random-forest.png Graphic file (type png)
 <use img/estructura-random-forest.png>
 Package pdftex.def Info: img/estructura-random-forest.png  used on input line 32.
@@ -683,7 +679,7 @@ Overfull \hbox (47.99997pt too wide) in paragraph at lines 6--41
  []
 
 ) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex [35]
-<img/pasajeros-clase-econ-timeplot.png, id=529, 505.89pt x 312.41719pt>
+<img/pasajeros-clase-econ-timeplot.png, id=528, 505.89pt x 312.41719pt>
 File: img/pasajeros-clase-econ-timeplot.png Graphic file (type png)
 <use img/pasajeros-clase-econ-timeplot.png>
 Package pdftex.def Info: img/pasajeros-clase-econ-timeplot.png  used on input line 21.
@@ -694,7 +690,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 19--23
  []
 
 [36] [37 <./img/pasajeros-clase-econ-timeplot.png>]
-<img/ventas-medicamentos-diab-seasonplot.png, id=548, 505.89pt x 312.41719pt>
+<img/ventas-medicamentos-diab-seasonplot.png, id=547, 505.89pt x 312.41719pt>
 File: img/ventas-medicamentos-diab-seasonplot.png Graphic file (type png)
 <use img/ventas-medicamentos-diab-seasonplot.png>
 Package pdftex.def Info: img/ventas-medicamentos-diab-seasonplot.png  used on input line 52.
@@ -705,7 +701,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 50--54
  []
 
 [38]
-<img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png, id=557, 505.89pt x 312.41719pt>
+<img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png, id=556, 505.89pt x 312.41719pt>
 File: img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png Graphic file (type png)
 <use img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png>
 Package pdftex.def Info: img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png  used on input line 76.
@@ -716,7 +712,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 74--78
  []
 
 [39 <./img/ventas-medicamentos-diab-seasonplot.png>]
-<img/producción trimestral de cerveza australiana-lagplot.png, id=565, 505.89pt x 505.89pt>
+<img/producción trimestral de cerveza australiana-lagplot.png, id=564, 505.89pt x 505.89pt>
 File: img/producción trimestral de cerveza australiana-lagplot.png Graphic file (type png)
 <use img/producción trimestral de cerveza australiana-lagplot.png>
 Package pdftex.def Info: img/producción trimestral de cerveza australiana-lagplot.png  used on input line 98.
@@ -727,7 +723,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 96--100
  []
 
 [40 <./img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png>] [41 <./img/producción trimestral de cerveza australiana-lagplot.png>]
-<img/ejemplo_autocorrelaciones.png, id=583, 593.21625pt x 56.46094pt>
+<img/ejemplo_autocorrelaciones.png, id=582, 593.21625pt x 56.46094pt>
 File: img/ejemplo_autocorrelaciones.png Graphic file (type png)
 <use img/ejemplo_autocorrelaciones.png>
 Package pdftex.def Info: img/ejemplo_autocorrelaciones.png  used on input line 138.
@@ -738,7 +734,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 136--140
  []
 
 [42]
-<img/produccion-cerveza-aust-ACF.png, id=592, 505.89pt x 176.91093pt>
+<img/produccion-cerveza-aust-ACF.png, id=591, 505.89pt x 176.91093pt>
 File: img/produccion-cerveza-aust-ACF.png Graphic file (type png)
 <use img/produccion-cerveza-aust-ACF.png>
 Package pdftex.def Info: img/produccion-cerveza-aust-ACF.png  used on input line 158.
@@ -749,7 +745,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 156--160
  []
 
 [43 <./img/ejemplo_autocorrelaciones.png> <./img/produccion-cerveza-aust-ACF.png>]
-<img/aelec-1-ejemplo.png, id=601, 505.89pt x 312.41719pt>
+<img/aelec-1-ejemplo.png, id=600, 505.89pt x 312.41719pt>
 File: img/aelec-1-ejemplo.png Graphic file (type png)
 <use img/aelec-1-ejemplo.png>
 Package pdftex.def Info: img/aelec-1-ejemplo.png  used on input line 182.
@@ -759,7 +755,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 180--184
 [][] 
  []
 
-<img/acfelec-1-ejemplo.png, id=603, 505.89pt x 176.91093pt>
+<img/acfelec-1-ejemplo.png, id=602, 505.89pt x 176.91093pt>
 File: img/acfelec-1-ejemplo.png Graphic file (type png)
 <use img/acfelec-1-ejemplo.png>
 Package pdftex.def Info: img/acfelec-1-ejemplo.png  used on input line 200.
@@ -770,7 +766,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 198--202
  []
 
 [44 <./img/aelec-1-ejemplo.png>]
-<img/wnoise-1.png, id=609, 505.89pt x 312.41719pt>
+<img/wnoise-1.png, id=608, 505.89pt x 312.41719pt>
 File: img/wnoise-1.png Graphic file (type png)
 <use img/wnoise-1.png>
 Package pdftex.def Info: img/wnoise-1.png  used on input line 222.
@@ -781,7 +777,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 220--224
  []
 
 [45 <./img/acfelec-1-ejemplo.png>]
-<img/wnoiseacf-1.png, id=615, 505.89pt x 176.91093pt>
+<img/wnoiseacf-1.png, id=614, 505.89pt x 176.91093pt>
 File: img/wnoiseacf-1.png Graphic file (type png)
 <use img/wnoiseacf-1.png>
 Package pdftex.def Info: img/wnoiseacf-1.png  used on input line 240.
@@ -792,7 +788,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 238--242
  []
 
 [46 <./img/wnoise-1.png>]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloARIMA.tex [47 <./img/wnoiseacf-1.png>] [48] [49]
-<img/a10diff-1-seasonaldiff-example.png, id=656, 505.89pt x 480.29437pt>
+<img/a10diff-1-seasonaldiff-example.png, id=655, 505.89pt x 480.29437pt>
 File: img/a10diff-1-seasonaldiff-example.png Graphic file (type png)
 <use img/a10diff-1-seasonaldiff-example.png>
 Package pdftex.def Info: img/a10diff-1-seasonaldiff-example.png  used on input line 59.
@@ -803,7 +799,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 57--61
  []
 
 [50 <./img/a10diff-1-seasonaldiff-example.png>] [51]
-<img/arp-1-example.png, id=673, 505.89pt x 227.34938pt>
+<img/arp-1-example.png, id=672, 505.89pt x 227.34938pt>
 File: img/arp-1-example.png Graphic file (type png)
 <use img/arp-1-example.png>
 Package pdftex.def Info: img/arp-1-example.png  used on input line 97.
@@ -814,7 +810,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 95--99
  []
 
 [52 <./img/arp-1-example.png>]
-<img/maq-1-example.png, id=683, 505.89pt x 227.34938pt>
+<img/maq-1-example.png, id=682, 505.89pt x 227.34938pt>
 File: img/maq-1-example.png Graphic file (type png)
 <use img/maq-1-example.png>
 Package pdftex.def Info: img/maq-1-example.png  used on input line 126.
@@ -900,27 +896,22 @@ LaTeX Info: Redefining \% on input line 25.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `Informe.out' has not changed.
 (rerunfilecheck)             Checksum: 774F65A5DE0E72D650C817A5546731D5;8494.
  ) 
 Here is how much of TeX's memory you used:
- 16270 strings out of 478287
- 270278 string characters out of 5849289
- 755007 words of memory out of 5000000
- 33907 multiletter control sequences out of 15000+600000
+ 16267 strings out of 478287
+ 270206 string characters out of 5849289
+ 754965 words of memory out of 5000000
+ 33905 multiletter control sequences out of 15000+600000
  478003 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,15n,63p,1684b,1997s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{cite.inteligencia-negocios} has been referenced but does not exist, replaced by a fixed one
-
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Informe.pdf (82 pages, 1951923 bytes).
+Output written on Informe.pdf (82 pages, 1951698 bytes).
 PDF statistics:
- 992 PDF objects out of 1000 (max. 8388607)
- 847 compressed objects within 9 object streams
- 203 named destinations out of 1000 (max. 500000)
+ 991 PDF objects out of 1000 (max. 8388607)
+ 846 compressed objects within 9 object streams
+ 202 named destinations out of 1000 (max. 500000)
  406 words of extra memory for PDF output out of 10000 (max. 10000000)
 

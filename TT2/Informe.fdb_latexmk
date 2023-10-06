@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Informe"] 1696559329 "Informe.aux" "Informe.bbl" "Informe" 1696559329
+["bibtex Informe"] 1696560007 "Informe.aux" "Informe.bbl" "Informe" 1696560012
   "/usr/share/texlive/texmf-dist/bibtex/bst/apacite/apacite.bst" 1374530685 141073 9d7b79dbf9d91133318126032cff8c27 ""
-  "Bibliografia.bib" 1696559329 9112 32abfb42d9cc6e7e2659210f1f7a5222 ""
-  "Informe.aux" 1696559169 20451 260e8d8d186f8da8002ad28f1d1ac60d "pdflatex"
+  "Bibliografia.bib" 1696560006 9113 99e56b7380e65a67d5f22696915a0ea3 ""
+  "Informe.aux" 1696560012 20451 2a92480abb2be65d95c75ab3a3184fa1 "pdflatex"
   (generated)
   "Informe.bbl"
   "Informe.blg"
-["pdflatex"] 1696559163 "/home/diegooyarce/proyectos/informes-tt/TT2/Informe.tex" "Informe.pdf" "Informe" 1696559329
+["pdflatex"] 1696560007 "/home/diegooyarce/proyectos/informes-tt/TT2/Informe.tex" "Informe.pdf" "Informe" 1696560012
   "/etc/texmf/web2c/texmf.cnf" 1687491679 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/diegooyarce/proyectos/informes-tt/TT2/Informe.tex" 1696559155 8858 06e5fc51754e70dbffab530237a66175 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -129,12 +129,12 @@
   "Análisis exploratorio de datos/Introducción.tex" 1696357094 2611 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1689307320 3003 e62a3e2c05bef286e9db40e34a61c72d ""
   "Análisis exploratorio de datos/intro_cap_EDA.tex" 1696357094 508 eddcdb20c85b4568c2ebeb59b95d9209 ""
-  "Informe.aux" 1696559169 20451 260e8d8d186f8da8002ad28f1d1ac60d "pdflatex"
-  "Informe.bbl" 1696559329 13986 a2e8eb2c0d10735e87e1028abc1af055 "bibtex Informe"
-  "Informe.lof" 1696559169 2332 fa24c8392daf3bc092b63ce9bfc29309 "pdflatex"
-  "Informe.out" 1696559169 8494 774f65a5de0e72d650c817a5546731d5 "pdflatex"
+  "Informe.aux" 1696560012 20451 2a92480abb2be65d95c75ab3a3184fa1 "pdflatex"
+  "Informe.bbl" 1696560007 13986 a2e8eb2c0d10735e87e1028abc1af055 "bibtex Informe"
+  "Informe.lof" 1696560012 2332 fa24c8392daf3bc092b63ce9bfc29309 "pdflatex"
+  "Informe.out" 1696560012 8494 774f65a5de0e72d650c817a5546731d5 "pdflatex"
   "Informe.tex" 1696559155 8858 06e5fc51754e70dbffab530237a66175 ""
-  "Informe.toc" 1696559169 4622 88e7978ff4e85062515d2efe3481c870 "pdflatex"
+  "Informe.toc" 1696560012 4622 88e7978ff4e85062515d2efe3481c870 "pdflatex"
   "La empresa/Descripción general.tex" 1688158151 1477 ab770493b1bdd4e4dda660e740d16091 ""
   "La empresa/Historia.tex" 1694140462 2785 732ca7c80f187011448f42f4d247f734 ""
   "La empresa/Misión.tex" 1696357094 317 49296265093c26ac3aea6238a2c13d85 ""
@@ -144,7 +144,7 @@
   "Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex" 1688160195 2948 8bbdd1a3f206d1a0ec118e38b3eac00c ""
   "Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente.tex" 1688162175 2442 f50b127afebdaaf840dfb11fbf467468 ""
   "Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex" 1688158697 2613 05cde4bdf85dab0948fd3bbc8f170592 ""
-  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex" 1688162485 4018 0c81cc273326a14fe558e434bd1afcda ""
+  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex" 1696560006 4018 24a6bc22da03a0b3acf9b57e91b74074 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex" 1688162758 2394 db3327f1443936637f8ef3f62697b0c8 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex" 1696357094 6179 0ef3f4827f63fd5bbb5766c6c8e86f80 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex" 1696357094 6889 44f92f17e40dafbbdf6826ea9ad345dc ""
