@@ -11,22 +11,22 @@ Como primer paso en la construcción del proceso ETL, se importan las biblioteca
 Como segundo paso se establecío el formato de fecha 'YYYY;MM;DD;HH;MM;SS.ss' para la columna 'fecha evento' y se eliminaron del dataframe todas las filas que contenian valores nulos.
 
 
-\begin{lstlisting}[language=Python]
-import pandas as pd
-from datetime import date
+\begin{figure}[H]
+    \begin{minipage}[t]{0.8\textwidth}
+        \caption{Construcción proceso ETL con Python.}
+        \label{construccETL}        
+    \end{minipage}
 
-#Parametros 
-today = date.today()
-mes = str(today.strftime("%Y%m"))
+    \vspace{10pt}
 
-df_weblogs=pd.read_csv(r'ruta\archivoacceso.csv',sep=';',encoding='utf-8')
+    \begin{minipage}[b]{1.1\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{img/etl-white-ide.png}        
+    \end{minipage}
 
-df_weblogs['fecha_evento']=pd.to_datetime(df_weblogs['fecha_evento'],
-                                    format="%b %d, %Y @ %H:%M:%S.%f")
-
-df_weblogs=df_weblogs.dropna()
-
-df_weblogs.to_csv(r'ruta\archivodestino.csv'.csv', sep=';', index=False)
-\end{lstlisting}
+    \begin{minipage}[t]{0.9\textwidth}
+        Fuente: Elaboración propia.
+    \end{minipage}
+\end{figure}
 
 Para finalizar el proceso ETL se guarda el dataframe procesado en un archivo .csv dentro de los archivos del proyecto.
