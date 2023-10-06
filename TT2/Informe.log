@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  6 OCT 2023 00:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  6 OCT 2023 00:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -824,7 +824,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 124--128
 Cap\'{\i }tulo 4.
 (./Proceso ETL/intro_cap_ETL.tex) (./Proceso ETL/Diseño Proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex [62
 
-]) (./Proceso ETL/Diseño Proceso ETL/Identificacion fuente de datos.tex [63]) (./Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex) (./Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex [64]) (./Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex [65]) (./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex [66]
+]) (./Proceso ETL/Diseño Proceso ETL/Identificacion fuente de datos.tex [63]) (./Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex) (./Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex [64]) [65] (./Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex [66]) (./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
 Overfull \hbox (22.4338pt too wide) in paragraph at lines 11--12
 []\OT1/cmr/m/n/12 Como se-gun-do pa-so se es-ta-blec^^S^^Po el for-ma-to de fe-cha 'YYYY;MM;DD;HH;MM;SS.ss'
  []
@@ -858,7 +858,7 @@ Overfull \hbox (78.24702pt too wide) in paragraph at lines 29--30
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex) [68] [69]
+) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex [68]) [69]
 Cap\'{\i }tulo 5.
 
 Overfull \hbox (28.25623pt too wide) in paragraph at lines 221--221
@@ -897,18 +897,18 @@ LaTeX Info: Redefining \% on input line 25.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Informe.out' has not changed.
-(rerunfilecheck)             Checksum: E811DF14428D8EEF2F693311A809A737;8494.
+(rerunfilecheck)             Checksum: D588A5A7F1068E64BC6EAA3741658793;8512.
  ) 
 Here is how much of TeX's memory you used:
  16283 strings out of 478287
  270927 string characters out of 5849289
- 754077 words of memory out of 5000000
+ 755204 words of memory out of 5000000
  33913 multiletter control sequences out of 15000+600000
  478339 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,15n,63p,1684b,1997s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Informe.pdf (84 pages, 1957367 bytes).
+Output written on Informe.pdf (84 pages, 1957531 bytes).
 PDF statistics:
  1008 PDF objects out of 1200 (max. 8388607)
  861 compressed objects within 9 object streams
