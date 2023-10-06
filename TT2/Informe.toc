@@ -26,8 +26,8 @@
 \contentsline {subsection}{\numberline {3.3.2}Métodos, técnicas y tecnologías de análisis de datos}{15}{subsection.3.3.2}%
 \contentsline {subsection}{\numberline {3.3.3}Modelos de predicción de comportamiento del cliente}{16}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.3.4}Tabla comparativa de los modelos de predicción}{35}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}Series de Tiempo}{36}{subsection.3.3.5}%
-\contentsline {subsubsection}{Graficos de series de tiempo}{36}{section*.11}%
+\contentsline {subsection}{\numberline {3.3.5}Series Temporales}{36}{subsection.3.3.5}%
+\contentsline {subsubsection}{Graficos de series temporales}{36}{section*.11}%
 \contentsline {subsubsection}{Modelo ARIMA}{47}{section*.22}%
 \contentsline {subsubsection}{Modelo SARIMA}{55}{section*.26}%
 \contentsline {subsection}{\numberline {3.3.6}Redes LSTM Long Short-Term Memory}{57}{subsection.3.3.6}%

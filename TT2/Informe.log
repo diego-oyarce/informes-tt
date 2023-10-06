@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  6 OCT 2023 01:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  6 OCT 2023 16:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -684,7 +684,7 @@ Overfull \hbox (47.99997pt too wide) in paragraph at lines 6--41
 [][] 
  []
 
-) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex [35]
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/intro-series-tempo.tex) [35] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex
 <img/pasajeros-clase-econ-timeplot.png, id=533, 505.89pt x 312.41719pt>
 File: img/pasajeros-clase-econ-timeplot.png Graphic file (type png)
 <use img/pasajeros-clase-econ-timeplot.png>
@@ -867,7 +867,7 @@ Overfull \hbox (78.24702pt too wide) in paragraph at lines 29--30
 ) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex [69]) [70]
 Cap\'{\i }tulo 5.
 
-Overfull \hbox (28.25623pt too wide) in paragraph at lines 224--224
+Overfull \hbox (28.25623pt too wide) in paragraph at lines 225--225
 |\OT1/cmr/bx/n/24.88 CAP[]ITU-LO 5: EX-PLO-RA-TORY DA-
  []
 
@@ -913,18 +913,18 @@ L3 programming layer <2023-06-16>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Informe.out' has not changed.
-(rerunfilecheck)             Checksum: FBD7D0FE451A6625809B88D64E0EE5FB;8751.
+(rerunfilecheck)             Checksum: C4CF27E037F29E0D19990931935B2191;8753.
  ) 
 Here is how much of TeX's memory you used:
- 16441 strings out of 475722
- 277410 string characters out of 5785825
+ 16447 strings out of 475722
+ 278130 string characters out of 5785825
  1875763 words of memory out of 5000000
- 36654 multiletter control sequences out of 15000+600000
+ 36657 multiletter control sequences out of 15000+600000
  522467 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,79p,1698b,2094s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Informe.pdf (85 pages, 1963689 bytes).
+Output written on Informe.pdf (85 pages, 1964457 bytes).
 PDF statistics:
  1035 PDF objects out of 1200 (max. 8388607)
  887 compressed objects within 9 object streams
