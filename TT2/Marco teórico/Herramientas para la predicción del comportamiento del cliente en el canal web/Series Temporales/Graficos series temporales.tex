@@ -26,11 +26,11 @@ Dentro de esta sección revisaremos los gráficos más relevantes para nuestro e
         \end{minipage}
     \end{figure}
     
-    \item \textbf{Patrónes:} Una serie de tiempo puede presentar distintos tipos de patrones a lo largo del tiempo de la observación, y estos patrones son:
+    \item \textbf{Patrónes:} Una serie de tiempo puede presentar distintos tipos de patrones a lo largo del tiempo de la observación, y esta puede llegar a presentar este tipo de patrones \cite{forecast-time-series-arima}:
         \begin{itemize}
-            \item Tendencia (Trend):
-            \item Estacional (Seasonal):
-            \item Cíclico (Cyclic):
+            \item Tendencia (Trend): Una tendencia existe cuando se presenta un incremento o disminución en los datos dentro de un largo periodo de tiempo, esta tendencia no tiene por qué ser linear, pudiendo tener tendencias positivas o negativas.
+            \item Estacional (Seasonal): Un patrón estacional existe cuando la serie de tiempo se ve afectada por factores como el tiempo del año o el día de semana. Gracias a esto se puede identificar que los patrones estacionales tienen una frecuencia conocida que por lo general no varía.
+            \item Cíclico (Cyclic): Un patrón cíclico en una serie de tiempo existe cuando los datos presentan incrementos y disminuciones como lo haría un patrón estacional, pero sin una frecuencia conocida o fija, usualmente estos ciclos suelen tener una duración mayor a los de los patrones estacionales. 
         \end{itemize}
 
         Muchas veces nos encontraremos con series de tiempo que contienen uno o más de estos patrones, por lo que para poder elegir un método predictivo resulta imperativo identificar los patrones presentes en los datos \cite{forecast-time-series-arima}.
@@ -117,7 +117,7 @@ Dentro de esta sección revisaremos los gráficos más relevantes para nuestro e
 
     \item \textbf{Autocorrelación:} La autocorrelación mide la relación lineal entre valores rezagados de una serie de tiempo. Hay variados coeficientes de autocorrelación, dependiendo de cada panel del Lag plot, por ejemplo, r1 mide la relación entre las variables Y(t) y Y(t-1) y r2 mide la relación entre las variables Y(t) y Y(t-2) y así hasta considerar todos los datos \cite{forecast-time-series-arima}.
     
-    Para calcular el valor de r(k), donde T corresponde al largo de la serie de tiempo., se ocupa la siguiente formula:
+    Para calcular el valor de r(k), donde T corresponde al largo de la serie de tiempo, se ocupa la siguiente fórmula:
 
     \begin{equation*}
         r_k = \frac{\sum_{t=k+1}^{T}{(y_t - \bar{y})(y_t-k - \bar{y})}}{\sum_{t=1}^{T}(y_t - \bar{y})^2}
