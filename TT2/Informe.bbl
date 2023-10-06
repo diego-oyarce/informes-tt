@@ -352,6 +352,32 @@ Mckinney, W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Morales~Oñate%
+}{%
+Morales~Oñate%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+series-de-tiempo-sarima}
+\APACinsertmetastar {%
+series-de-tiempo-sarima}%
+\begin{APACrefauthors}%
+Morales~Oñate, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {Series de Tiempo.} {Series de tiempo.}
+\newblock
+\APAChowpublished {Sitio Web}.
+\newblock
+\begin{APACrefURL}
+  \url{https://bookdown.org/victor_morales/SeriesdeTiempo/%7D%7D}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Parra%
 }{%
 Parra%

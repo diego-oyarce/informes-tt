@@ -1,9 +1,22 @@
 \babel@toc {spanish}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Historia AFP Capital\relax }}{7}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Historia AFP Capital\relax }}{5}{figure.caption.7}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Estructura de un árbol de decisión\relax }}{19}{figure.caption.13}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Estructura de un random forest\relax }}{21}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Estructura de un árbol de decisión\relax }}{28}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Estructura de un random forest\relax }}{33}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Cantidad semanal de pasajeros que volaron en la clase económica de Ansett Airlines\relax }}{37}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Ventas mensuales de medicamentos antidiabéticos en Australia\relax }}{39}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Demanda electrica debido a las temperaturas en 2 ciudades en Australia\relax }}{40}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Producción trimestral de cerveza australiana\relax }}{41}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Coeficientes de autocorrelación de la producción de cerveza en Australia\relax }}{43}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces ACF de la produccion trimestral de cerveza\relax }}{43}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Demanda mensual de electricidad de Australia\relax }}{44}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces ACF demanda mensual de electricidad de Australia\relax }}{45}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Ruido blanco\relax }}{46}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces ACF Ruido blanco\relax }}{47}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Aplicación de logartimos y diferenciación estacional a ventas de medicamentos antidiabéticos\relax }}{50}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Modelos autorregresivos con diferentes parámetros\relax }}{52}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Modelos de media móvil con diferentes parámetros\relax }}{53}{figure.caption.25}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }

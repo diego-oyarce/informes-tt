@@ -1001,6 +1001,10 @@ INPUT ./img/maq-1-example.png
 INPUT img/maq-1-example.png
 INPUT ./img/maq-1-example.png
 INPUT ./img/maq-1-example.png
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloSARIMA.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloSARIMA.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloSARIMA.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloSARIMA.tex
 INPUT ./Marco teórico/Metodologías/Metodología del proyecto.tex
 INPUT ./Marco teórico/Metodologías/Metodología del proyecto.tex
 INPUT ./Marco teórico/Metodologías/Metodología del proyecto.tex
@@ -1079,6 +1083,8 @@ INPUT ./Informe.bbl
 INPUT Informe.bbl
 INPUT ./Informe.bbl
 INPUT Informe.bbl
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT Informe.aux
 INPUT ./Informe.out
 INPUT ./Informe.out
