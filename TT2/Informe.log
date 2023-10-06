@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  6 OCT 2023 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  6 OCT 2023 16:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -826,18 +826,18 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 124--128
 [][] 
  []
 
-[53 <./img/maq-1-example.png>] [54]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloSARIMA.tex [55] [56]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/redesLSTM.tex [57]) (./Marco teórico/Metodologías/Metodología del proyecto.tex [58] [59]) (./Marco teórico/Metodologías/Metodología del Sistema.tex [60] [61]) [62]
+[53 <./img/maq-1-example.png>] [54]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloSARIMA.tex [55] [56]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/redesLSTM.tex [57]) (./Marco teórico/Metodologías/Metodología del proyecto.tex [58] [59]) (./Marco teórico/Metodologías/Metodología del Sistema.tex [60] [61]) [62] [63]
 Cap\'{\i }tulo 4.
-(./Proceso ETL/intro_cap_ETL.tex) (./Proceso ETL/Diseño Proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex [63
+(./Proceso ETL/intro_cap_ETL.tex) (./Proceso ETL/Diseño Proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex [64
 
-]) (./Proceso ETL/Diseño Proceso ETL/Identificacion fuente de datos.tex [64]) (./Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex) (./Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex [65]) [66] (./Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex [67]) (./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
+]) (./Proceso ETL/Diseño Proceso ETL/Identificacion fuente de datos.tex [65]) (./Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex) (./Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex [66]) [67] (./Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex [68]) (./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
 Overfull \hbox (22.4338pt too wide) in paragraph at lines 11--12
 []\OT1/cmr/m/n/12 Como se-gun-do pa-so se es-ta-blec^^S^^Po el for-ma-to de fe-cha 'YYYY;MM;DD;HH;MM;SS.ss'
  []
 
 (c:/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
-) [68]
+) [69]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 22.
  (c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
@@ -864,43 +864,48 @@ Overfull \hbox (78.24702pt too wide) in paragraph at lines 29--30
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex [69]) [70]
+) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex [70]) [71]
 Cap\'{\i }tulo 5.
 
 Overfull \hbox (28.25623pt too wide) in paragraph at lines 225--225
 |\OT1/cmr/bx/n/24.88 CAP[]ITU-LO 5: EX-PLO-RA-TORY DA-
  []
 
-(./Análisis exploratorio de datos/intro_cap_EDA.tex) (./Análisis exploratorio de datos/Introducción.tex [71
+(./Análisis exploratorio de datos/intro_cap_EDA.tex) (./Análisis exploratorio de datos/Introducción.tex [72
 
-]) (./Análisis exploratorio de datos/Recopilación de datos.tex [72]) (./Análisis exploratorio de datos/Estadísticas descriptivas.tex [73]
+]) (./Análisis exploratorio de datos/Recopilación de datos.tex [73]) (./Análisis exploratorio de datos/Estadísticas descriptivas.tex [74]
 Overfull \hbox (15.29477pt too wide) in paragraph at lines 24--25
 []\OT1/cmr/bx/sc/12 Media (mean): \OT1/cmr/m/n/12 Cal-cu-la la me-dia de las co-lum-nas num^^Seri-cas. \OT1/cmr/bx/sc/12 mean: 504.854902 
  []
 
-[74]) (./Informe.bbl [75]
-Underfull \hbox (badness 10000) in paragraph at lines 141--153
+[75]) (./Informe.bbl [76]
+Underfull \hbox (badness 1442) in paragraph at lines 55--67
+[]\OT1/cmr/m/n/12 Amazon.  (2023).  \OT1/cmr/m/it/12 ?`qu^^Se es una red neu-ro-nal?  \OT1/cmr/m/n/12 Si-tio Web.  Des-car-ga-do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--177
 \OT1/cmtt/m/n/12 blogs / aws [] -spanish / como [] -crear [] -un [] -modelo [] -de [] -recomendacion [] -basado []
  []
 
+[77
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--201
+]
+Underfull \hbox (badness 10000) in paragraph at lines 213--225
 \OT1/cmtt/m/n/12 # : [] : text = La % 20LSTM % 20es % 20un % 20tipo [] ,periodos % 20de % 20tiempo % 20m %
  []
 
-[76
-
-] [77]
-Underfull \hbox (badness 2057) in paragraph at lines 574--586
+[78]
+Underfull \hbox (badness 2057) in paragraph at lines 598--610
 []\OT1/cmr/m/n/12 Vatsal.  (2021).  \OT1/cmr/m/it/12 Re-com-men-da-tion sys-tems ex-plai-ned.  \OT1/cmr/m/n/12 Si-tio web.  Des-
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 574--586
+Underfull \hbox (badness 3907) in paragraph at lines 598--610
 \OT1/cmr/m/n/12 car-ga-do de []$\OT1/cmtt/m/n/12 https :// towardsdatascience [] .com / recommendation [] -systems []
  []
 
-) [78] (./Informe.aux
+) [79] (./Informe.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
@@ -913,21 +918,21 @@ L3 programming layer <2023-06-16>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Informe.out' has not changed.
-(rerunfilecheck)             Checksum: C4CF27E037F29E0D19990931935B2191;8753.
+(rerunfilecheck)             Checksum: 2749EBCD9300EB789BACD2E46420CF7E;8753.
  ) 
 Here is how much of TeX's memory you used:
- 16447 strings out of 475722
- 278130 string characters out of 5785825
+ 16453 strings out of 475722
+ 278230 string characters out of 5785825
  1875763 words of memory out of 5000000
- 36657 multiletter control sequences out of 15000+600000
+ 36660 multiletter control sequences out of 15000+600000
  522467 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,79p,1698b,2094s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Informe.pdf (85 pages, 1964457 bytes).
+Output written on Informe.pdf (86 pages, 1965748 bytes).
 PDF statistics:
- 1035 PDF objects out of 1200 (max. 8388607)
- 887 compressed objects within 9 object streams
- 211 named destinations out of 1000 (max. 500000)
+ 1045 PDF objects out of 1200 (max. 8388607)
+ 896 compressed objects within 9 object streams
+ 214 named destinations out of 1000 (max. 500000)
  414 words of extra memory for PDF output out of 10000 (max. 10000000)
 

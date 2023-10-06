@@ -42,6 +42,30 @@ Ajitesh, K.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Amazon%
+}{%
+Amazon%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+redes-neuoronales}
+\APACinsertmetastar {%
+redes-neuoronales}%
+\begin{APACrefauthors}%
+Amazon.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {¿Qué es una red neuronal?} {¿qué es una red neuronal?}
+\newblock
+\APAChowpublished {Sitio Web}.
+\newblock
+\begin{APACrefURL} \url{https://aws.amazon.com/es/what-is/neural-network/#:~:text=Una%20red%20neuronal%20es%20un,lo%20hace%20el%20cerebro%20humano.} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Arana%
 }{%
 Arana%
