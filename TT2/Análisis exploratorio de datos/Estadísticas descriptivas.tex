@@ -2,7 +2,26 @@ Resumen de las principales estadísticas descriptivas de las variables relevante
 Análisis de la distribución de los datos, incluyendo medidas de centralidad y dispersión.
 Haciendo uso de la librería pandas podemos obtener informacion respecto al dataframe, cantidad de valores únicos y calcular estadísticas descriptivas:
 
-Podemos obtener informacion respecto a la cantidad de valores no nulos, los cuales son \textbf{58009} y podemos conocer el tipo de dato que tiene cada columna:
+Podemos obtener informacion respecto a la cantidad de valores faltantes de cada dataframe que se está utilizando, los cuales son \textbf{36853}:
+
+\begin{figure}[H]
+    \begin{minipage}[t]{0.9\textwidth}
+        \caption{Datos faltantes dataframes.}
+        \label{descripcion_dataframe}        
+    \end{minipage}
+
+    \vspace{10pt}
+
+    \begin{minipage}[b]{0.85\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{img/valores faltantes datasets.jpg}        
+    \end{minipage}
+
+    \begin{minipage}[t]{0.9\textwidth}
+        Fuente: Elaboración propia.
+    \end{minipage}
+\end{figure}
+
 \begin{itemize}
     \item \textbf{rut cliente:} Contiene datos de tipo int64.
     \item \textbf{fecha evento:} Contiene datos de tipo object.
@@ -10,12 +29,24 @@ Podemos obtener informacion respecto a la cantidad de valores no nulos, los cual
     \item \textbf{canal:} Contiene datos de tipo object.
 \end{itemize}
 
-Además se puede conocer la cantidad de valores únicos que posee cada una de las columnas:
+Además se puede conocer la cantidad de valores únicos que posee cada una de las columnas de los 2 datasets:
+
+Dataset 1:
+
 \begin{itemize}
-    \item \textbf{rut cliente:} Contiene 1815 valores únicos.
-    \item \textbf{fecha evento:} Contiene 19759 valores únicos.
-    \item \textbf{metodo:} Contiene 55 valores únicos.
-    \item \textbf{canal:} Contiene 4 valores únicos.
+    \item \textbf{rut cliente:} Contiene 40125 valores únicos.
+    \item \textbf{fecha evento:} Contiene 80181 valores únicos.
+    \item \textbf{metodo:} Contiene 81254 valores únicos.
+    \item \textbf{canal:} Contiene 81254 valores únicos.
+\end{itemize}
+
+Dataset 2:
+
+\begin{itemize}
+    \item \textbf{rut cliente:} Contiene 40224 valores únicos.
+    \item \textbf{fecha evento:} Contiene 80470 valores únicos.
+    \item \textbf{metodo:} Contiene 81546 valores únicos.
+    \item \textbf{canal:} Contiene 81546 valores únicos.
 \end{itemize}
 
 La librería pandas ofrece una buena cantidad de estadísticas descriptivas gracias a su función .describe, las cuales se muestran a continuación:
