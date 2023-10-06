@@ -12,47 +12,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Bibliografia.bib
-Warning--I didn't find a database entry for "inteligencia-negocios"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 24 entries,
+You've used 25 entries,
             6951 wiz_defined-function locations,
-            1387 strings with 14084 characters,
-and the built_in function-call counts, 39599 in all, are:
-= -- 4964
-> -- 279
-< -- 1842
-+ -- 1747
-- -- 50
-* -- 2376
-:= -- 7206
-add.period$ -- 100
-call.type$ -- 24
-change.case$ -- 406
+            1390 strings with 14175 characters,
+and the built_in function-call counts, 40808 in all, are:
+= -- 5117
+> -- 289
+< -- 1878
++ -- 1775
+- -- 52
+* -- 2435
+:= -- 7383
+add.period$ -- 105
+call.type$ -- 25
+change.case$ -- 423
 chr.to.int$ -- 0
-cite$ -- 48
-duplicate$ -- 915
-empty$ -- 1713
-format.name$ -- 440
-if$ -- 7774
+cite$ -- 50
+duplicate$ -- 949
+empty$ -- 1782
+format.name$ -- 454
+if$ -- 8040
 int.to.chr$ -- 0
-int.to.str$ -- 72
+int.to.str$ -- 75
 missing$ -- 0
-newline$ -- 567
-num.names$ -- 176
-pop$ -- 1283
+newline$ -- 591
+num.names$ -- 184
+pop$ -- 1351
 preamble$ -- 1
-purify$ -- 94
+purify$ -- 98
 quote$ -- 0
-skip$ -- 2269
+skip$ -- 2337
 stack$ -- 0
-substring$ -- 1886
-swap$ -- 465
-text.length$ -- 51
+substring$ -- 1919
+swap$ -- 480
+text.length$ -- 53
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 2032
+type$ -- 2112
 warning$ -- 0
-while$ -- 151
+while$ -- 156
 width$ -- 0
-write$ -- 667
-(There was 1 warning)
+write$ -- 693

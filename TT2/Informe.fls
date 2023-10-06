@@ -468,6 +468,8 @@ INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT ./Informe.bbl
 INPUT ./Informe.bbl
 INPUT Informe.bbl
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT Informe.aux
 INPUT ./Informe.out
 INPUT ./Informe.out

@@ -1,23 +1,23 @@
 # Fdb version 4
-["bibtex Informe"] 1696554571 "Informe.aux" "Informe.bbl" "Informe" 1696554576 0
-  "./Bibliografia.bib" 1696435358 9441 32abfb42d9cc6e7e2659210f1f7a5222 ""
-  "Informe.aux" 1696554575 20319 12fe97bfbf6ca40aefa5dbbcefcf4376 "pdflatex"
+["bibtex Informe"] 1696559293 "Informe.aux" "Informe.bbl" "Informe" 1696559298 0
+  "./Bibliografia.bib" 1696559264 9865 3942fd55f74768ec5a60de36ebde7968 ""
+  "Informe.aux" 1696559297 20681 d2c5e6d4887666a769a2a5fb28ab5eef "pdflatex"
   "c:/texlive/2023/texmf-dist/bibtex/bst/apacite/apacite.bst" 1687486639 141073 9d7b79dbf9d91133318126032cff8c27 ""
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1696554572 "c:/Users/crist/OneDrive/Documentos/GitHub/informes-tt/TT2/Informe.tex" "Informe.pdf" "Informe" 1696554576 0
+["pdflatex"] 1696559294 "c:/Users/crist/OneDrive/Documentos/GitHub/informes-tt/TT2/Informe.tex" "Informe.pdf" "Informe" 1696559298 0
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1694467974 2331 ee5ebcfd1496ac2fbeb9dfebec948d1c ""
   "Análisis exploratorio de datos/Introducción.tex" 1694812301 2622 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1694467974 3011 e62a3e2c05bef286e9db40e34a61c72d ""
   "Análisis exploratorio de datos/intro_cap_EDA.tex" 1694554732 508 eddcdb20c85b4568c2ebeb59b95d9209 ""
-  "Informe.aux" 1696554575 20319 12fe97bfbf6ca40aefa5dbbcefcf4376 "pdflatex"
-  "Informe.bbl" 1696554572 13890 3ad5822f7ccdd516eac53f8a755e7a23 "bibtex Informe"
-  "Informe.lof" 1696554575 2332 fa24c8392daf3bc092b63ce9bfc29309 "pdflatex"
-  "Informe.out" 1696554575 8494 774f65a5de0e72d650c817a5546731d5 "pdflatex"
+  "Informe.aux" 1696559297 20681 d2c5e6d4887666a769a2a5fb28ab5eef "pdflatex"
+  "Informe.bbl" 1696559294 14437 a443e392f0eac6236a5b7ade15266ffd "bibtex Informe"
+  "Informe.lof" 1696559297 2332 fa24c8392daf3bc092b63ce9bfc29309 "pdflatex"
+  "Informe.out" 1696559297 8494 774f65a5de0e72d650c817a5546731d5 "pdflatex"
   "Informe.tex" 1696443847 9106 06e5fc51754e70dbffab530237a66175 ""
-  "Informe.toc" 1696554575 4622 88e7978ff4e85062515d2efe3481c870 "pdflatex"
+  "Informe.toc" 1696559297 4622 88e7978ff4e85062515d2efe3481c870 "pdflatex"
   "La empresa/Descripción general.tex" 1694467974 1482 ab770493b1bdd4e4dda660e740d16091 ""
   "La empresa/Historia.tex" 1694467974 2813 732ca7c80f187011448f42f4d247f734 ""
   "La empresa/Misión.tex" 1694551231 318 49296265093c26ac3aea6238a2c13d85 ""
@@ -27,7 +27,7 @@
   "Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex" 1694467974 2962 8bbdd1a3f206d1a0ec118e38b3eac00c ""
   "Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente.tex" 1694467974 2448 f50b127afebdaaf840dfb11fbf467468 ""
   "Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex" 1694467974 2619 05cde4bdf85dab0948fd3bbc8f170592 ""
-  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex" 1694467974 4029 0c81cc273326a14fe558e434bd1afcda ""
+  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex" 1696558444 4029 24a6bc22da03a0b3acf9b57e91b74074 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex" 1694467974 2400 db3327f1443936637f8ef3f62697b0c8 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex" 1694811299 6232 0ef3f4827f63fd5bbb5766c6c8e86f80 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex" 1694643486 6934 44f92f17e40dafbbdf6826ea9ad345dc ""
@@ -38,7 +38,7 @@
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex" 1694467974 2441 ffb41f3ac0220437d5e6aff8be7b5e9a ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/intro_modelos.tex" 1694642482 460 d63aaf6dd97c564807263ae9bca29877 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex" 1696536939 15484 e2f33745dcf55902f43f204db34bd2ad ""
-  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloARIMA.tex" 1696554566 12271 578878fb7b8d9d14c3e41ae50abc15f2 ""
+  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloARIMA.tex" 1696559283 12303 6dd9beada8c77fa2a1602978ce2cd65a ""
   "Marco teórico/Metodologías/Metodología del Sistema.tex" 1694812002 4532 978d21963e5635d1c47f57b400dfc46c ""
   "Marco teórico/Metodologías/Metodología del proyecto.tex" 1694467974 2348 f239ae9096b95e186136dd0b03e3adf7 ""
   "Marco teórico/intro_cap_marco.tex" 1694552207 426 5aa593282a007d2bc77d80d865952542 ""
@@ -81,6 +81,7 @@
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1687487089 1120 8b7d695260f3cff42e636090a8002094 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1687487089 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1687487089 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm" 1687487089 768 d7b9a2629a0c353102ad947dc9221d49 ""
   "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1687486616 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1687486616 32080 340ef9bf63678554ee606688e7b5339d ""
   "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1687486616 32166 b0c356b15f19587482a9217ce1d8fa67 ""
