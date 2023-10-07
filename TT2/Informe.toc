@@ -26,21 +26,22 @@
 \contentsline {subsection}{\numberline {3.3.2}Métodos, técnicas y tecnologías de análisis de datos}{15}{subsection.3.3.2}%
 \contentsline {subsection}{\numberline {3.3.3}Modelos de predicción de comportamiento del cliente}{16}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.3.4}Tabla comparativa de los modelos de predicción}{35}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}Series de Tiempo}{36}{subsection.3.3.5}%
-\contentsline {subsubsection}{Graficos de series de tiempo}{36}{section*.11}%
-\contentsline {subsubsection}{Modelo ARIMA}{47}{section*.22}%
-\contentsline {subsubsection}{Modelo SARIMA}{55}{section*.26}%
-\contentsline {subsection}{\numberline {3.3.6}Redes LSTM Long Short-Term Memory}{57}{subsection.3.3.6}%
-\contentsline {subsubsection}{¿Qué son las redes Long Short-Term Memory?}{57}{section*.27}%
-\contentsline {subsubsection}{Arquitectura de una Long Short-Term Memory}{57}{section*.28}%
-\contentsline {subsection}{\numberline {3.3.7}Metodología del proyecto}{58}{subsection.3.3.7}%
-\contentsline {subsubsection}{Fase 1: Planteamiento y planificación}{58}{section*.29}%
-\contentsline {subsubsection}{Fase 2: Investigación}{59}{section*.30}%
-\contentsline {subsubsection}{Fase 3: Modelamiento y desarrollo}{59}{section*.31}%
-\contentsline {subsubsection}{Fase 4: Conclusiones y recomendaciones}{60}{section*.32}%
-\contentsline {subsection}{\numberline {3.3.8}Metodología del sistema}{60}{subsection.3.3.8}%
-\contentsline {subsubsection}{CRISP-DM}{60}{section*.33}%
-\contentsline {subsubsection}{OSEMN}{61}{section*.34}%
+\contentsline {subsection}{\numberline {3.3.5}Series Temporales}{36}{subsection.3.3.5}%
+\contentsline {subsubsection}{Graficos de series temporales}{36}{section*.11}%
+\contentsline {subsubsection}{Modelo ARIMA}{46}{section*.22}%
+\contentsline {subsubsection}{Modelo SARIMA}{54}{section*.26}%
+\contentsline {subsection}{\numberline {3.3.6}Redes LSTM Long Short-Term Memory}{56}{subsection.3.3.6}%
+\contentsline {subsubsection}{¿Qué es una red neuronal?}{56}{section*.27}%
+\contentsline {subsubsection}{¿Qué son las redes Long Short-Term Memory?}{56}{section*.28}%
+\contentsline {subsubsection}{Arquitectura de una Long Short-Term Memory}{56}{section*.29}%
+\contentsline {subsection}{\numberline {3.3.7}Metodología del proyecto}{57}{subsection.3.3.7}%
+\contentsline {subsubsection}{Fase 1: Planteamiento y planificación}{58}{section*.30}%
+\contentsline {subsubsection}{Fase 2: Investigación}{58}{section*.31}%
+\contentsline {subsubsection}{Fase 3: Modelamiento y desarrollo}{58}{section*.32}%
+\contentsline {subsubsection}{Fase 4: Conclusiones y recomendaciones}{59}{section*.33}%
+\contentsline {subsection}{\numberline {3.3.8}Metodología del sistema}{59}{subsection.3.3.8}%
+\contentsline {subsubsection}{CRISP-DM}{59}{section*.34}%
+\contentsline {subsubsection}{OSEMN}{60}{section*.35}%
 \contentsline {chapter}{\numberline {4}Proceso ETL}{63}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Diseño Proceso ETL}{63}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Requisitos ETL}{64}{subsection.4.1.1}%
@@ -54,4 +55,4 @@
 \contentsline {section}{\numberline {5.1}Introducción al EDA}{71}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Recopilación de datos}{72}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Estadísticas descriptivas}{73}{section.5.3}%
-\contentsline {chapter}{Referencias}{76}{chapter*.35}%
+\contentsline {chapter}{Referencias}{77}{chapter*.38}%

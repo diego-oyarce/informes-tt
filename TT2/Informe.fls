@@ -928,6 +928,10 @@ INPUT Marco teórico/Herramientas para la predicción del comportamiento del cli
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/intro-series-tempo.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/intro-series-tempo.tex
+INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/intro-series-tempo.tex
+INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/intro-series-tempo.tex
 INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex
 INPUT Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex
 INPUT ./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex
@@ -1055,14 +1059,11 @@ INPUT ./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
 INPUT ./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+INPUT ./img/etl-white-ide.png
+INPUT ./img/etl-white-ide.png
+INPUT img/etl-white-ide.png
+INPUT ./img/etl-white-ide.png
+INPUT ./img/etl-white-ide.png
 INPUT ./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
 INPUT ./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
@@ -1083,6 +1084,11 @@ INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
+INPUT ./img/valores faltantes datasets.jpg
+INPUT ./img/valores faltantes datasets.jpg
+INPUT img/valores faltantes datasets.jpg
+INPUT ./img/valores faltantes datasets.jpg
+INPUT ./img/valores faltantes datasets.jpg
 INPUT ./Informe.bbl
 INPUT Informe.bbl
 INPUT ./Informe.bbl

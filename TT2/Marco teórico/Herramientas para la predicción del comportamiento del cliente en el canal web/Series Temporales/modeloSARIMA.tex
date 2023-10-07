@@ -4,13 +4,11 @@ La estacionalidad en una serie temporal refleja un patrón regular que se repite
 \( S \) períodos. Aquí, \( S \) indica el número de períodos requeridos para que el patrón complete un ciclo y comience a repetirse \cite{series-de-tiempo-sarima}.
 
 \begin{itemize}
-\item \textbf{Diferenciación no estacional:} Si en los datos se detecta una tendencia, es probable que sea necesario aplicar una diferenciación no estacional. A menudo, al realizar una primera diferenciación no estacional, se logra eliminar la tendencia de la serie temporal. Para este propósito, utilizamos la fórmula:
+    \item \textbf{Diferenciación no estacional:} Si en los datos se detecta una tendencia, es probable que sea necesario aplicar una diferenciación no estacional. A menudo, al realizar una primera diferenciación no estacional, se logra eliminar la tendencia de la serie temporal. Para este propósito, utilizamos la fórmula:
     \begin{equation*}
         (1 - B) x_t = x_t - x_{t-1}
     \end{equation*}
-\end{itemize}
-
-\begin{itemize}
+    
     \item \textbf{Diferenciación para tendencia:} Cuando tanto la tendencia como la estacionalidad están presentes en una serie temporal, es posible que necesitemos aplicar tanto una diferenciación no estacional como una estacional.
 
     Por lo tanto, es esencial examinar tanto el ACF (Función de Autocorrelación) como el PACF (Función de Autocorrelación Parcial) de la expresión:
@@ -19,26 +17,22 @@ La estacionalidad en una serie temporal refleja un patrón regular que se repite
             (1 - B^{12})(1 - B) x_t = (x_t - x_{t-1}) - (x_{t-12} - x_{t-13})
         \end{equation*}
     
-        Es importante destacar que eliminar la tendencia no necesariamente implica que se haya eliminado toda la dependencia en la serie. Mientras que la tendencia (o el componente de la media) puede haber sido eliminada, aún puede persistir un comportamiento periódico. Al aplicar la diferenciación, descomponemos la dependencia en eventos recientes y eventos a largo plazo \cite{series-de-tiempo-sarima}.    
-\end{itemize}
-
-\begin{itemize}
+    Es importante destacar que eliminar la tendencia no necesariamente implica que se haya eliminado toda la dependencia en la serie. Mientras que la tendencia (o el componente de la media) puede haber sido eliminada, aún puede persistir un comportamiento periódico. Al aplicar la diferenciación, descomponemos la dependencia en eventos recientes y eventos a largo plazo \cite{series-de-tiempo-sarima}.    
+    
     \item \textbf{Diferenciación para estacionalidad:} Cuando se tienen datos con componentes estacionales, es posible que los componentes no estacionales a corto plazo sigan influyendo en el modelo. Por ejemplo, en el caso de las ventas de componentes electrónicos, las ventas de los últimos uno o dos meses, junto con las ventas del mismo mes del año anterior, pueden ser relevantes para predecir las ventas del mes actual.
 
     Por lo tanto, es crucial examinar el comportamiento del ACF (Función de Autocorrelación) y PACF (Función de Autocorrelación Parcial) en los primeros rezagos para determinar qué términos no estacionales pueden ser significativos en el modelo.
-        
+     
+    Siendo expresado de manera abreviada: 
+    \begin{equation*}
+        (p,d,q) \times (P, D, Q, S)
+    \end{equation*}
+
+    \begin{itemize}
+        \item \( P \): Es el número de términos autorregresivos estacionales.
+        \item \( D \): Es el grado de diferenciación estacional.
+        \item \( Q \): Es el número de términos de promedio móvil estacional.
+        \item \( S \): Es el número de periodos en una temporada (por ejemplo, 12 para datos mensuales si se observa una periodicidad anual).
+    \end{itemize}
+
 \end{itemize}
-
-Siendo expresado de manera abreviada: 
-\begin{equation*}
-    (p,d,q) \times (P, D, Q, S)
-\end{equation*}
-
-\( P \): Es el número de términos autorregresivos estacionales.
-
-\( D \): Es el grado de diferenciación estacional.
-
-\( Q \): Es el número de términos de promedio móvil estacional.
-
-\( S \): Es el número de periodos en una temporada (por ejemplo, 12 para datos mensuales si se observa una periodicidad anual).
-

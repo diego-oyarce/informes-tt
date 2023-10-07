@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  6 OCT 2023 01:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  6 OCT 2023 21:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -547,7 +547,7 @@ Cap\'{\i }tulo 2.
 (./La empresa/intro_cap_empresa.tex) (./La empresa/Historia.tex [4
 
 ]
-<img/historia-afp-capital.jpg, id=305, 865.2325pt x 345.29pt>
+<img/historia-afp-capital.jpg, id=309, 865.2325pt x 345.29pt>
 File: img/historia-afp-capital.jpg Graphic file (type jpg)
 <use img/historia-afp-capital.jpg>
 Package pdftex.def Info: img/historia-afp-capital.jpg  used on input line 23.
@@ -572,7 +572,7 @@ Overfull \hbox (1.21642pt too wide) in paragraph at lines 143--143
 (./Marco teórico/intro_cap_marco.tex) (./Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex [8
 
 ]) (./Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex [9]) [10] (./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex) [11] (./Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente.tex) [12] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex [13]) [14] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex) [15] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/intro_modelos.tex) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex [16] [17] [18]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex [19] [20] [21]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex [22] [23]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex [24] [25] [26]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex [27]
-<img/estructura-arbol-de-decision.jpg, id=474, 496.67436pt x 328.85275pt>
+<img/estructura-arbol-de-decision.jpg, id=478, 496.67436pt x 328.85275pt>
 File: img/estructura-arbol-de-decision.jpg Graphic file (type jpg)
 <use img/estructura-arbol-de-decision.jpg>
 Package pdftex.def Info: img/estructura-arbol-de-decision.jpg  used on input line 18.
@@ -583,7 +583,7 @@ Overfull \hbox (42.93782pt too wide) in paragraph at lines 16--20
  []
 
 [28 <./img/estructura-arbol-de-decision.jpg>] [29] [30]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex [31]
-<img/estructura-random-forest.png, id=508, 1316.92pt x 739.76375pt>
+<img/estructura-random-forest.png, id=512, 1316.92pt x 739.76375pt>
 File: img/estructura-random-forest.png Graphic file (type png)
 <use img/estructura-random-forest.png>
 Package pdftex.def Info: img/estructura-random-forest.png  used on input line 32.
@@ -678,149 +678,83 @@ Overfull \hbox (47.99997pt too wide) in paragraph at lines 6--41
 [][] 
  []
 
-) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex [35]
-<img/pasajeros-clase-econ-timeplot.png, id=533, 505.89pt x 312.41719pt>
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/intro-series-tempo.tex) [35] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex
+<img/pasajeros-clase-econ-timeplot.png, id=537, 505.89pt x 312.41719pt>
 File: img/pasajeros-clase-econ-timeplot.png Graphic file (type png)
 <use img/pasajeros-clase-econ-timeplot.png>
 Package pdftex.def Info: img/pasajeros-clase-econ-timeplot.png  used on input line 21.
-(pdftex.def)             Requested size: 472.28992pt x 291.67477pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 19--23
-[][] 
- []
-
-[36] [37 <./img/pasajeros-clase-econ-timeplot.png>]
-<img/ventas-medicamentos-diab-seasonplot.png, id=552, 505.89pt x 312.41719pt>
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+ [36] [37 <./img/pasajeros-clase-econ-timeplot.png>]
+<img/ventas-medicamentos-diab-seasonplot.png, id=556, 505.89pt x 312.41719pt>
 File: img/ventas-medicamentos-diab-seasonplot.png Graphic file (type png)
 <use img/ventas-medicamentos-diab-seasonplot.png>
 Package pdftex.def Info: img/ventas-medicamentos-diab-seasonplot.png  used on input line 52.
-(pdftex.def)             Requested size: 472.28992pt x 291.67477pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 50--54
-[][] 
- []
-
-[38]
-<img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png, id=561, 505.89pt x 312.41719pt>
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+ [38]
+<img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png, id=565, 505.89pt x 312.41719pt>
 File: img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png Graphic file (type png)
 <use img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png>
 Package pdftex.def Info: img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png  used on input line 76.
-(pdftex.def)             Requested size: 472.28992pt x 291.67477pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 74--78
-[][] 
- []
-
-[39 <./img/ventas-medicamentos-diab-seasonplot.png>]
-<img/producción trimestral de cerveza australiana-lagplot.png, id=569, 505.89pt x 505.89pt>
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+ [39 <./img/ventas-medicamentos-diab-seasonplot.png>]
+<img/producción trimestral de cerveza australiana-lagplot.png, id=573, 505.89pt x 505.89pt>
 File: img/producción trimestral de cerveza australiana-lagplot.png Graphic file (type png)
 <use img/producción trimestral de cerveza australiana-lagplot.png>
 Package pdftex.def Info: img/producción trimestral de cerveza australiana-lagplot.png  used on input line 98.
-(pdftex.def)             Requested size: 472.28992pt x 472.30229pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 96--100
-[][] 
- []
-
-[40 <./img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png>] [41 <./img/producción trimestral de cerveza australiana-lagplot.png>]
-<img/ejemplo_autocorrelaciones.png, id=587, 593.21625pt x 56.46094pt>
+(pdftex.def)             Requested size: 386.41426pt x 386.41791pt.
+ [40 <./img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png>] [41 <./img/producción trimestral de cerveza australiana-lagplot.png>]
+<img/ejemplo_autocorrelaciones.png, id=592, 593.21625pt x 56.46094pt>
 File: img/ejemplo_autocorrelaciones.png Graphic file (type png)
 <use img/ejemplo_autocorrelaciones.png>
 Package pdftex.def Info: img/ejemplo_autocorrelaciones.png  used on input line 138.
-(pdftex.def)             Requested size: 472.28992pt x 44.95341pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 136--140
-[][] 
- []
-
-[42]
-<img/produccion-cerveza-aust-ACF.png, id=596, 505.89pt x 176.91093pt>
+(pdftex.def)             Requested size: 386.41426pt x 36.77928pt.
+ [42]
+<img/produccion-cerveza-aust-ACF.png, id=602, 505.89pt x 176.91093pt>
 File: img/produccion-cerveza-aust-ACF.png Graphic file (type png)
 <use img/produccion-cerveza-aust-ACF.png>
 Package pdftex.def Info: img/produccion-cerveza-aust-ACF.png  used on input line 158.
-(pdftex.def)             Requested size: 472.28992pt x 165.16522pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 156--160
-[][] 
- []
-
-[43 <./img/ejemplo_autocorrelaciones.png> <./img/produccion-cerveza-aust-ACF.png>]
-<img/aelec-1-ejemplo.png, id=605, 505.89pt x 312.41719pt>
+(pdftex.def)             Requested size: 386.41426pt x 135.13126pt.
+ [43 <./img/ejemplo_autocorrelaciones.png> <./img/produccion-cerveza-aust-ACF.png>]
+<img/aelec-1-ejemplo.png, id=611, 505.89pt x 312.41719pt>
 File: img/aelec-1-ejemplo.png Graphic file (type png)
 <use img/aelec-1-ejemplo.png>
 Package pdftex.def Info: img/aelec-1-ejemplo.png  used on input line 182.
-(pdftex.def)             Requested size: 472.28992pt x 291.67477pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 180--184
-[][] 
- []
-
-<img/acfelec-1-ejemplo.png, id=607, 505.89pt x 176.91093pt>
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+<img/acfelec-1-ejemplo.png, id=613, 505.89pt x 176.91093pt>
 File: img/acfelec-1-ejemplo.png Graphic file (type png)
 <use img/acfelec-1-ejemplo.png>
 Package pdftex.def Info: img/acfelec-1-ejemplo.png  used on input line 200.
-(pdftex.def)             Requested size: 472.28992pt x 165.16522pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 198--202
-[][] 
- []
-
-[44 <./img/aelec-1-ejemplo.png>]
-<img/wnoise-1.png, id=613, 505.89pt x 312.41719pt>
+(pdftex.def)             Requested size: 386.41426pt x 135.13126pt.
+ [44 <./img/aelec-1-ejemplo.png> <./img/acfelec-1-ejemplo.png>]
+<img/wnoise-1.png, id=619, 505.89pt x 312.41719pt>
 File: img/wnoise-1.png Graphic file (type png)
 <use img/wnoise-1.png>
 Package pdftex.def Info: img/wnoise-1.png  used on input line 222.
-(pdftex.def)             Requested size: 472.28992pt x 291.67477pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 220--224
-[][] 
- []
-
-[45 <./img/acfelec-1-ejemplo.png>]
-<img/wnoiseacf-1.png, id=619, 505.89pt x 176.91093pt>
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+<img/wnoiseacf-1.png, id=621, 505.89pt x 176.91093pt>
 File: img/wnoiseacf-1.png Graphic file (type png)
 <use img/wnoiseacf-1.png>
 Package pdftex.def Info: img/wnoiseacf-1.png  used on input line 240.
-(pdftex.def)             Requested size: 472.28992pt x 165.16522pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 238--242
-[][] 
- []
-
-[46 <./img/wnoise-1.png>]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloARIMA.tex [47 <./img/wnoiseacf-1.png>] [48] [49]
-<img/a10diff-1-seasonaldiff-example.png, id=660, 505.89pt x 480.29437pt>
+(pdftex.def)             Requested size: 386.41426pt x 135.13126pt.
+ [45 <./img/wnoise-1.png>]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloARIMA.tex [46 <./img/wnoiseacf-1.png>] [47]
+<img/a10diff-1-seasonaldiff-example.png, id=657, 505.89pt x 480.29437pt>
 File: img/a10diff-1-seasonaldiff-example.png Graphic file (type png)
 <use img/a10diff-1-seasonaldiff-example.png>
 Package pdftex.def Info: img/a10diff-1-seasonaldiff-example.png  used on input line 59.
-(pdftex.def)             Requested size: 472.28992pt x 448.40604pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 57--61
-[][] 
- []
-
-[50 <./img/a10diff-1-seasonaldiff-example.png>] [51]
-<img/arp-1-example.png, id=677, 505.89pt x 227.34938pt>
+(pdftex.def)             Requested size: 386.41426pt x 366.867pt.
+ [48] [49 <./img/a10diff-1-seasonaldiff-example.png>]
+<img/arp-1-example.png, id=675, 505.89pt x 227.34938pt>
 File: img/arp-1-example.png Graphic file (type png)
 <use img/arp-1-example.png>
 Package pdftex.def Info: img/arp-1-example.png  used on input line 97.
-(pdftex.def)             Requested size: 472.28992pt x 212.2549pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 95--99
-[][] 
- []
-
-[52 <./img/arp-1-example.png>]
-<img/maq-1-example.png, id=688, 505.89pt x 227.34938pt>
+(pdftex.def)             Requested size: 386.41426pt x 173.65805pt.
+ [50]
+<img/maq-1-example.png, id=685, 505.89pt x 227.34938pt>
 File: img/maq-1-example.png Graphic file (type png)
 <use img/maq-1-example.png>
 Package pdftex.def Info: img/maq-1-example.png  used on input line 126.
-(pdftex.def)             Requested size: 472.28992pt x 212.2549pt.
-
-Overfull \hbox (42.93782pt too wide) in paragraph at lines 124--128
-[][] 
- []
-
-[53 <./img/maq-1-example.png>] [54]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloSARIMA.tex [55] [56]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/redesLSTM.tex [57]) (./Marco teórico/Metodologías/Metodología del proyecto.tex [58] [59]) (./Marco teórico/Metodologías/Metodología del Sistema.tex [60] [61]) [62]
+(pdftex.def)             Requested size: 386.41426pt x 173.65805pt.
+ [51 <./img/arp-1-example.png>] [52 <./img/maq-1-example.png>] [53]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloSARIMA.tex [54] [55]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/redesLSTM.tex [56]) (./Marco teórico/Metodologías/Metodología del proyecto.tex [57] [58]) (./Marco teórico/Metodologías/Metodología del Sistema.tex [59] [60]) [61] [62]
 Cap\'{\i }tulo 4.
 (./Proceso ETL/intro_cap_ETL.tex) (./Proceso ETL/Diseño Proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex [63
 
@@ -829,67 +763,64 @@ Overfull \hbox (22.4338pt too wide) in paragraph at lines 11--12
 []\OT1/cmr/m/n/12 Como se-gun-do pa-so se es-ta-blec^^S^^Po el for-ma-to de fe-cha 'YYYY;MM;DD;HH;MM;SS.ss'
  []
 
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-) [68]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 22.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+<img/etl-white-ide.png, id=832, 676.02562pt x 202.50656pt>
+File: img/etl-white-ide.png Graphic file (type png)
+<use img/etl-white-ide.png>
+Package pdftex.def Info: img/etl-white-ide.png  used on input line 24.
+(pdftex.def)             Requested size: 472.28992pt x 141.47859pt.
 
-Overfull \hbox (92.347pt too wide) in paragraph at lines 22--24
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (42.93782pt too wide) in paragraph at lines 22--26
+[][] 
  []
 
-
-Overfull \hbox (57.09706pt too wide) in paragraph at lines 24--25
-[][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (57.09706pt too wide) in paragraph at lines 25--27
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (78.24702pt too wide) in paragraph at lines 29--30
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex [69]) [70]
+[68]) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex) [69 <./img/etl-white-ide.png>] [70]
 Cap\'{\i }tulo 5.
 
-Overfull \hbox (28.25623pt too wide) in paragraph at lines 224--224
+Overfull \hbox (28.25623pt too wide) in paragraph at lines 225--225
 |\OT1/cmr/bx/n/24.88 CAP[]ITU-LO 5: EX-PLO-RA-TORY DA-
  []
 
 (./Análisis exploratorio de datos/intro_cap_EDA.tex) (./Análisis exploratorio de datos/Introducción.tex [71
 
 ]) (./Análisis exploratorio de datos/Recopilación de datos.tex [72]) (./Análisis exploratorio de datos/Estadísticas descriptivas.tex [73]
-Overfull \hbox (15.29477pt too wide) in paragraph at lines 24--25
+<img/valores faltantes datasets.jpg, id=868, 453.19313pt x 459.96844pt>
+File: img/valores faltantes datasets.jpg Graphic file (type jpg)
+<use img/valores faltantes datasets.jpg>
+Package pdftex.def Info: img/valores faltantes datasets.jpg  used on input line 17.
+(pdftex.def)             Requested size: 364.95189pt x 370.41069pt.
+ [74 <./img/valores faltantes datasets.jpg>]
+Overfull \hbox (15.29477pt too wide) in paragraph at lines 55--56
 []\OT1/cmr/bx/sc/12 Media (mean): \OT1/cmr/m/n/12 Cal-cu-la la me-dia de las co-lum-nas num^^Seri-cas. \OT1/cmr/bx/sc/12 mean: 504.854902 
  []
 
-[74]) (./Informe.bbl [75]
-Underfull \hbox (badness 10000) in paragraph at lines 155--171
+[75]) (./Informe.bbl [76]
+Underfull \hbox (badness 1442) in paragraph at lines 59--73
+[]\OT1/cmr/m/n/12 Amazon.  (2023).  \OT1/cmr/m/it/12 ?`qu^^Se es una red neu-ro-nal?  \OT1/cmr/m/n/12 Si-tio Web.  Des-car-ga-do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--197
 \OT1/cmtt/m/n/12 blogs / aws [] -spanish / como [] -crear [] -un [] -modelo [] -de [] -recomendacion [] -basado []
  []
 
-[76
+[77
 
-] [77]
-Underfull \hbox (badness 2057) in paragraph at lines 596--611
+]
+Underfull \hbox (badness 10000) in paragraph at lines 235--251
+\OT1/cmtt/m/n/12 # : [] : text = La % 20LSTM % 20es % 20un % 20tipo [] ,periodos % 20de % 20tiempo % 20m %
+ []
+
+[78]
+Underfull \hbox (badness 2057) in paragraph at lines 650--665
 []\OT1/cmr/m/n/12 Vatsal.  (2021).  \OT1/cmr/m/it/12 Re-com-men-da-tion sys-tems ex-plai-ned.  \OT1/cmr/m/n/12 Si-tio web.  Des-
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 596--611
+Underfull \hbox (badness 3907) in paragraph at lines 650--665
 \OT1/cmr/m/n/12 car-ga-do de []$\OT1/cmtt/m/n/12 https :// towardsdatascience [] .com / recommendation [] -systems []
  []
 
-) [78] (./Informe.aux
+) [79] (./Informe.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
@@ -897,21 +828,21 @@ LaTeX Info: Redefining \% on input line 25.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Informe.out' has not changed.
-(rerunfilecheck)             Checksum: FBD7D0FE451A6625809B88D64E0EE5FB;8751.
+(rerunfilecheck)             Checksum: 1E53A6186B9A347A3AB34FCAACA263AB;8753.
  ) 
 Here is how much of TeX's memory you used:
- 16293 strings out of 478287
- 271537 string characters out of 5849289
- 755204 words of memory out of 5000000
- 33916 multiletter control sequences out of 15000+600000
+ 15852 strings out of 478287
+ 268325 string characters out of 5849289
+ 576364 words of memory out of 5000000
+ 33487 multiletter control sequences out of 15000+600000
  478339 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,15n,63p,1684b,1997s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,15n,63p,1684b,696s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Informe.pdf (85 pages, 1961500 bytes).
+Output written on Informe.pdf (86 pages, 2040460 bytes).
 PDF statistics:
- 1020 PDF objects out of 1200 (max. 8388607)
- 872 compressed objects within 9 object streams
- 210 named destinations out of 1000 (max. 500000)
- 414 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1036 PDF objects out of 1200 (max. 8388607)
+ 884 compressed objects within 9 object streams
+ 200 named destinations out of 1000 (max. 500000)
+ 424 words of extra memory for PDF output out of 10000 (max. 10000000)
 

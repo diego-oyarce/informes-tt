@@ -46,6 +46,32 @@ Ajitesh, K.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Amazon%
+}{%
+Amazon%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+redes-neuoronales}
+\APACinsertmetastar {%
+redes-neuoronales}%
+\begin{APACrefauthors}%
+Amazon.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {¿Qué es una red neuronal?} {¿qué es una red neuronal?}
+\newblock
+\APAChowpublished {Sitio Web}.
+\newblock
+\begin{APACrefURL}
+  \url{https://aws.amazon.com/es/what-is/neural-network/#:~:text=Una%20red%20neuronal%20es%20un,lo%20hace%20el%20cerebro%20humano.}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Arana%
 }{%
 Arana%
@@ -192,6 +218,34 @@ Eric.%
 \APAChowpublished {Sitio web}.
 \newblock
 \begin{APACrefURL} \url{https://datarundown.com/data-science-life-cycle/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Filzinger%
+}{%
+Filzinger%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+redes-lstm-long-short-term-memory}
+\APACinsertmetastar {%
+redes-lstm-long-short-term-memory}%
+\begin{APACrefauthors}%
+Filzinger, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {LSTM Long Short-Term Memory - Memoria a corto plazo de larga
+  duración.} {Lstm long short-term memory - memoria a corto plazo de larga
+  duración.}
+\newblock
+\APAChowpublished {Sitio Web}.
+\newblock
+\begin{APACrefURL}
+  \url{https://konfuzio.com/es/lstm/#:~:text=La%20LSTM%20es%20un%20tipo,periodos%20de%20tiempo%20m%C3%A1s%20largos.}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
