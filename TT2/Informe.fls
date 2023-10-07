@@ -626,6 +626,17 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -1084,11 +1095,6 @@ INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
-INPUT ./img/valores faltantes datasets.jpg
-INPUT ./img/valores faltantes datasets.jpg
-INPUT img/valores faltantes datasets.jpg
-INPUT ./img/valores faltantes datasets.jpg
-INPUT ./img/valores faltantes datasets.jpg
 INPUT ./Informe.bbl
 INPUT Informe.bbl
 INPUT ./Informe.bbl

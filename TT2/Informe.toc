@@ -54,5 +54,5 @@
 \contentsline {chapter}{\numberline {5}Exploratory Data Analysis (EDA)}{71}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Introducción al EDA}{71}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Recopilación de datos}{72}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Estadísticas descriptivas}{73}{section.5.3}%
-\contentsline {chapter}{Referencias}{77}{chapter*.38}%
+\contentsline {section}{\numberline {5.3}Descripción de los datos}{73}{section.5.3}%
+\contentsline {chapter}{Referencias}{76}{chapter*.37}%
