@@ -663,6 +663,17 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -1060,14 +1071,11 @@ INPUT ./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
 INPUT ./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
-INPUT c:/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
-INPUT c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
-INPUT c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
-INPUT c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
+INPUT ./img/etl-white-ide.png
+INPUT ./img/etl-white-ide.png
+INPUT img/etl-white-ide.png
+INPUT ./img/etl-white-ide.png
+INPUT ./img/etl-white-ide.png
 INPUT ./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
 INPUT ./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
@@ -1088,11 +1096,30 @@ INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
-INPUT ./img/valores faltantes datasets.jpg
-INPUT ./img/valores faltantes datasets.jpg
-INPUT img/valores faltantes datasets.jpg
-INPUT ./img/valores faltantes datasets.jpg
-INPUT ./img/valores faltantes datasets.jpg
+INPUT ./Modelos de predicción aplicados/Modelo de autoencoders.tex
+INPUT Modelos de predicción aplicados/Modelo de autoencoders.tex
+INPUT ./Modelos de predicción aplicados/Modelo de autoencoders.tex
+INPUT Modelos de predicción aplicados/Modelo de autoencoders.tex
+INPUT ./img/codificación one-hhot.jpg
+INPUT ./img/codificación one-hhot.jpg
+INPUT img/codificación one-hhot.jpg
+INPUT ./img/codificación one-hhot.jpg
+INPUT ./img/codificación one-hhot.jpg
+INPUT ./img/Arquitectura modelo autoencoder.jpg
+INPUT ./img/Arquitectura modelo autoencoder.jpg
+INPUT img/Arquitectura modelo autoencoder.jpg
+INPUT ./img/Arquitectura modelo autoencoder.jpg
+INPUT ./img/Arquitectura modelo autoencoder.jpg
+INPUT ./img/Entrenamiento autoencoder.jpg
+INPUT ./img/Entrenamiento autoencoder.jpg
+INPUT img/Entrenamiento autoencoder.jpg
+INPUT ./img/Entrenamiento autoencoder.jpg
+INPUT ./img/Entrenamiento autoencoder.jpg
+INPUT ./img/Gráfico entrenamiento autoencoder.png
+INPUT ./img/Gráfico entrenamiento autoencoder.png
+INPUT img/Gráfico entrenamiento autoencoder.png
+INPUT ./img/Gráfico entrenamiento autoencoder.png
+INPUT ./img/Gráfico entrenamiento autoencoder.png
 INPUT ./Informe.bbl
 INPUT Informe.bbl
 INPUT ./Informe.bbl
