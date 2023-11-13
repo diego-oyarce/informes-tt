@@ -275,6 +275,25 @@ Garcia-Estrella, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Google Colab}}{%
+\APACcitebtitle {Google Colab}}{%
+{\protect \APACyear {2023}}%
+}]{%
+colab}
+\APACinsertmetastar {%
+colab}%
+\APACrefbtitle {Google Colab.} {Google colab.}
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APAChowpublished {Sitio web}.
+\newblock
+\begin{APACrefURL}
+  \url{https://colab.research.google.com/?hl=es#scrollTo=5fCEDCU_qrC0}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hyndman%
 \ \BBA {} Athanasopoulos%
 }{%

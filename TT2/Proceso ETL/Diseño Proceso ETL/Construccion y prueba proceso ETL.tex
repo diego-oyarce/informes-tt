@@ -6,22 +6,22 @@ El objetivo de las pruebas es asegurar que el proceso ETL cumpla con los requisi
 
 En caso de encontrar inconvenientes o desviaciones durante las pruebas, se realizan los ajustes necesarios en el diseño o en la configuración de las herramientas utilizadas. Es fundamental realizar iteraciones y pruebas adicionales hasta obtener resultados consistentes y satisfactorios.
 
-Como primer paso en la construcción del proceso ETL, se importan las bibliotecas pandas, numpy y date proveniente de la biblioteca integrada datetime. Luego se establece la mes para ser usado como parametro de fecha y se realiza una lectura de los datos creando un dataframe de pandas para poder ser visualizados y procesados.
+Como primer paso en la construcción del proceso ETL, se importan las bibliotecas pandas y numpy. Luego se le da nombre a las columnas, ya que el contenido del archivo csv solo trae los datos. Una vez nombradas las columnas se ordenan para un entendimiento más facil del conjunto de datos, quedando de la siguiente manera respectivamente: rut, fecha, metodo, canal.
 
-Como segundo paso se establecío el formato de fecha 'YYYY;MM;DD;HH;MM;SS.ss' para la columna 'fecha evento' y se eliminaron del dataframe todas las filas que contenian valores nulos.
-
+Ahora se comprueba la existencia de valores nulos en el dataframe, resultando lo siguiente:
 
 \begin{figure}[H]
     \begin{minipage}[t]{0.8\textwidth}
-        \caption{Construcción proceso ETL con Python.}
-        \label{construccETL}        
+        \caption{Valores nulos en el conjunto de datos.}
+        \label{valoresNulos}        
     \end{minipage}
 
     \vspace{10pt}
 
-    \begin{minipage}[b]{1.1\textwidth}
+    \centering
+    \begin{minipage}[b]{0.4\textwidth}
         \centering
-        \includegraphics[width=\textwidth]{img/etl-white-ide.png}        
+        \includegraphics[width=\textwidth]{img/valores-nulos.png}        
     \end{minipage}
 
     \begin{minipage}[t]{0.9\textwidth}
@@ -29,4 +29,4 @@ Como segundo paso se establecío el formato de fecha 'YYYY;MM;DD;HH;MM;SS.ss' pa
     \end{minipage}
 \end{figure}
 
-Para finalizar el proceso ETL se guarda el dataframe procesado en un archivo .csv dentro de los archivos del proyecto.
+Como se puede ver en la imagen anterior solamente los campos 'metodo' y 'canal' poseen valores nulos, de hecho, el primero solo cuenta con un valor nulo. La columna 'canal' cuenta con 36852 valores nulos.
