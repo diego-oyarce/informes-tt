@@ -1,6 +1,6 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{Resumen}{\es@scroman {v}}{chapter*.1}%
-\contentsline {chapter}{Abstract}{\es@scroman {vii}}{chapter*.2}%
+\contentsline {chapter}{Resumen}{\es@scroman {vi}}{chapter*.1}%
+\contentsline {chapter}{Abstract}{\es@scroman {viii}}{chapter*.2}%
 \contentsline {chapter}{\numberline {1}Presentación del proyecto}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Descripción del trabajo de título}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Objetivos}{1}{section.1.2}%
@@ -47,19 +47,31 @@
 \contentsline {subsection}{\numberline {4.1.1}Requisitos ETL}{64}{subsection.4.1.1}%
 \contentsline {subsection}{\numberline {4.1.2}Identificicación fuente de datos}{64}{subsection.4.1.2}%
 \contentsline {subsection}{\numberline {4.1.3}Diseño del modelo de datos objetivo}{65}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Planificación de las transformaciones}{65}{subsection.4.1.4}%
-\contentsline {subsection}{\numberline {4.1.5}Selección de herramientas}{67}{subsection.4.1.5}%
-\contentsline {subsection}{\numberline {4.1.6}Construcción y prueba proceso ETL}{68}{subsection.4.1.6}%
-\contentsline {subsection}{\numberline {4.1.7}Monitoreo proceso ETL}{69}{subsection.4.1.7}%
-\contentsline {chapter}{\numberline {5}Exploratory Data Analysis (EDA)}{71}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introducción al EDA}{71}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Recopilación de datos}{72}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Descripción de los datos}{73}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Modelos de predicción aplicados}{76}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Modelo de autoencoders}{76}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Preprocesamiento y Preparación de Datos}{76}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Codificación One-Hot}{76}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Construcción y Entrenamiento del Modelo}{77}{subsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.1.4}Resultados y Evaluación}{79}{subsection.6.1.4}%
-\contentsline {subsection}{\numberline {6.1.5}Conclusión del Modelo de Autoencoder}{80}{subsection.6.1.5}%
-\contentsline {chapter}{Referencias}{82}{chapter*.41}%
+\contentsline {subsection}{\numberline {4.1.4}Planificación de las transformaciones}{67}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Selección de herramientas}{68}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Construcción y prueba proceso ETL}{69}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Monitoreo proceso ETL}{70}{subsection.4.1.7}%
+\contentsline {chapter}{\numberline {5}Exploratory Data Analysis (EDA)}{72}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introducción al EDA}{72}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Recopilación de datos}{73}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Descripción de los datos}{74}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Modelos de predicción aplicados}{77}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Modelo de autoencoders}{77}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Preprocesamiento y Preparación de Datos}{77}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Codificación One-Hot}{77}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Construcción y Entrenamiento del Modelo}{78}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Resultados y Evaluación}{80}{subsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.1.5}Conclusión del Modelo de Autoencoder}{81}{subsection.6.1.5}%
+\contentsline {section}{\numberline {6.2}Modelo de clasificación}{82}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Preprocesamiento y Preparación de Datos}{82}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Ordenamiento y Etiquetado}{82}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Identificación de Sesiones}{82}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Codificación de Categorías}{83}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Construcción de Secuencias}{83}{subsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.2.6}División de Datos}{83}{subsection.6.2.6}%
+\contentsline {subsection}{\numberline {6.2.7}Construcción del Modelo}{83}{subsection.6.2.7}%
+\contentsline {subsection}{\numberline {6.2.8}Regularización y Compilación}{84}{subsection.6.2.8}%
+\contentsline {subsection}{\numberline {6.2.9}Entrenamiento del Modelo}{84}{subsection.6.2.9}%
+\contentsline {subsection}{\numberline {6.2.10}Resultados del entrenamiento del modelo}{84}{subsection.6.2.10}%
+\contentsline {subsection}{\numberline {6.2.11}Predicción del modelo}{85}{subsection.6.2.11}%
+\contentsline {chapter}{Referencias}{87}{chapter*.43}%

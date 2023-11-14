@@ -1071,11 +1071,11 @@ INPUT ./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
 INPUT ./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
-INPUT ./img/etl-white-ide.png
-INPUT ./img/etl-white-ide.png
-INPUT img/etl-white-ide.png
-INPUT ./img/etl-white-ide.png
-INPUT ./img/etl-white-ide.png
+INPUT ./img/valores-nulos.png
+INPUT ./img/valores-nulos.png
+INPUT img/valores-nulos.png
+INPUT ./img/valores-nulos.png
+INPUT ./img/valores-nulos.png
 INPUT ./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
 INPUT ./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
@@ -1120,6 +1120,20 @@ INPUT ./img/Gráfico entrenamiento autoencoder.png
 INPUT img/Gráfico entrenamiento autoencoder.png
 INPUT ./img/Gráfico entrenamiento autoencoder.png
 INPUT ./img/Gráfico entrenamiento autoencoder.png
+INPUT ./Modelos de predicción aplicados/Modelo de clasificación.tex
+INPUT Modelos de predicción aplicados/Modelo de clasificación.tex
+INPUT ./Modelos de predicción aplicados/Modelo de clasificación.tex
+INPUT Modelos de predicción aplicados/Modelo de clasificación.tex
+INPUT ./img/Arquitectura modelo clasificación.jpg
+INPUT ./img/Arquitectura modelo clasificación.jpg
+INPUT img/Arquitectura modelo clasificación.jpg
+INPUT ./img/Arquitectura modelo clasificación.jpg
+INPUT ./img/Arquitectura modelo clasificación.jpg
+INPUT ./img/Gráfico modelo clasificación.jpg
+INPUT ./img/Gráfico modelo clasificación.jpg
+INPUT img/Gráfico modelo clasificación.jpg
+INPUT ./img/Gráfico modelo clasificación.jpg
+INPUT ./img/Gráfico modelo clasificación.jpg
 INPUT ./Informe.bbl
 INPUT Informe.bbl
 INPUT ./Informe.bbl
