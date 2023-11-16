@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.25)  13 NOV 2023 22:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.25)  16 NOV 2023 16:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -784,7 +784,7 @@ Overfull \hbox (28.25623pt too wide) in paragraph at lines 226--226
 
 (./Análisis exploratorio de datos/intro_cap_EDA.tex) (./Análisis exploratorio de datos/Introducción.tex [72
 
-]) (./Análisis exploratorio de datos/Recopilación de datos.tex [73]) (./Análisis exploratorio de datos/Estadísticas descriptivas.tex [74] [75]) [76]
+]) (./Análisis exploratorio de datos/Recopilación de datos.tex [73]) (./Análisis exploratorio de datos/Estadísticas descriptivas.tex [74]) [75]
 Cap\'{\i }tulo 6.
 
 Overfull \hbox (15.32355pt too wide) in paragraph at lines 251--251
@@ -792,44 +792,44 @@ Overfull \hbox (15.32355pt too wide) in paragraph at lines 251--251
  []
 
 (./Modelos de predicción aplicados/Modelo de autoencoders.tex
-<img/codificación one-hhot.jpg, id=998, 753.5653pt x 472.76625pt>
+<img/codificación one-hhot.jpg, id=993, 753.5653pt x 472.76625pt>
 File: img/codificación one-hhot.jpg Graphic file (type jpg)
 <use img/codificación one-hhot.jpg>
 Package pdftex.def Info: img/codificación one-hhot.jpg  used on input line 27.
 (pdftex.def)             Requested size: 386.41426pt x 242.4205pt.
- [77
+ [76
 
 ]
-<img/Arquitectura modelo autoencoder.jpg, id=1003, 752.0597pt x 485.56406pt>
+<img/Arquitectura modelo autoencoder.jpg, id=999, 752.0597pt x 485.56406pt>
 File: img/Arquitectura modelo autoencoder.jpg Graphic file (type jpg)
 <use img/Arquitectura modelo autoencoder.jpg>
 Package pdftex.def Info: img/Arquitectura modelo autoencoder.jpg  used on input line 50.
 (pdftex.def)             Requested size: 425.06093pt x 274.44792pt.
- [78 <./img/codificación one-hhot.jpg>]
-<img/Entrenamiento autoencoder.jpg, id=1008, 599.23875pt x 361.35pt>
+ [77 <./img/codificación one-hhot.jpg>]
+<img/Entrenamiento autoencoder.jpg, id=1004, 599.23875pt x 361.35pt>
 File: img/Entrenamiento autoencoder.jpg Graphic file (type jpg)
 <use img/Entrenamiento autoencoder.jpg>
 Package pdftex.def Info: img/Entrenamiento autoencoder.jpg  used on input line 70.
 (pdftex.def)             Requested size: 425.06093pt x 256.3232pt.
- [79 <./img/Arquitectura modelo autoencoder.jpg>]
-<img/Gráfico entrenamiento autoencoder.png, id=1013, 570.933pt x 307.1475pt>
+ [78 <./img/Arquitectura modelo autoencoder.jpg>]
+<img/Gráfico entrenamiento autoencoder.png, id=1009, 570.933pt x 307.1475pt>
 File: img/Gráfico entrenamiento autoencoder.png Graphic file (type png)
 <use img/Gráfico entrenamiento autoencoder.png>
 Package pdftex.def Info: img/Gráfico entrenamiento autoencoder.png  used on input line 92.
 (pdftex.def)             Requested size: 386.41426pt x 207.88739pt.
- [80 <./img/Entrenamiento autoencoder.jpg>] [81 <./img/Gráfico entrenamiento autoencoder.png>]) (./Modelos de predicción aplicados/Modelo de clasificación.tex [82]
-<img/Arquitectura modelo clasificación.jpg, id=1028, 777.65532pt x 295.85532pt>
+ [79 <./img/Entrenamiento autoencoder.jpg>] [80 <./img/Gráfico entrenamiento autoencoder.png>]) (./Modelos de predicción aplicados/Modelo de clasificación.tex [81]
+<img/Arquitectura modelo clasificación.jpg, id=1023, 777.65532pt x 295.85532pt>
 File: img/Arquitectura modelo clasificación.jpg Graphic file (type jpg)
 <use img/Arquitectura modelo clasificación.jpg>
 Package pdftex.def Info: img/Arquitectura modelo clasificación.jpg  used on input line 42.
 (pdftex.def)             Requested size: 429.3521pt x 163.34842pt.
- [83] [84 <./img/Arquitectura modelo clasificación.jpg>]
-<img/Gráfico modelo clasificación.jpg, id=1037, 825.83531pt x 317.68687pt>
+ [82] [83 <./img/Arquitectura modelo clasificación.jpg>]
+<img/Gráfico modelo clasificación.jpg, id=1033, 825.83531pt x 317.68687pt>
 File: img/Gráfico modelo clasificación.jpg Graphic file (type jpg)
 <use img/Gráfico modelo clasificación.jpg>
 Package pdftex.def Info: img/Gráfico modelo clasificación.jpg  used on input line 77.
 (pdftex.def)             Requested size: 429.3521pt x 165.16902pt.
- [85 <./img/Gráfico modelo clasificación.jpg>]) (./Informe.bbl [86]
+ [84 <./img/Gráfico modelo clasificación.jpg>]) (./Informe.bbl [85]
 Underfull \hbox (badness 1442) in paragraph at lines 55--67
 []\OT1/cmr/m/n/12 Amazon.  (2023).  \OT1/cmr/m/it/12 ?`qu^^Se es una red neu-ro-nal?  \OT1/cmr/m/n/12 Si-tio Web.  Des-car-ga-do
  []
@@ -839,14 +839,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--177
 \OT1/cmtt/m/n/12 blogs / aws [] -spanish / como [] -crear [] -un [] -modelo [] -de [] -recomendacion [] -basado []
  []
 
-[87
+[86
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 213--225
 \OT1/cmtt/m/n/12 # : [] : text = La % 20LSTM % 20es % 20un % 20tipo [] ,periodos % 20de % 20tiempo % 20m %
  []
 
-[88]
+[87]
 Underfull \hbox (badness 2057) in paragraph at lines 615--627
 []\OT1/cmr/m/n/12 Vatsal.  (2021).  \OT1/cmr/m/it/12 Re-com-men-da-tion sys-tems ex-plai-ned.  \OT1/cmr/m/n/12 Si-tio web.  Des-
  []
@@ -856,7 +856,7 @@ Underfull \hbox (badness 3907) in paragraph at lines 615--627
 \OT1/cmr/m/n/12 car-ga-do de []$\OT1/cmtt/m/n/12 https :// towardsdatascience [] .com / recommendation [] -systems []
  []
 
-) [89] (build/Informe.aux
+) [88] (build/Informe.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
@@ -867,18 +867,18 @@ Package rerunfilecheck Info: File `Informe.out' has not changed.
 (rerunfilecheck)             Checksum: 1369CFA4A6F285D40FCDF0D09F398766;12732.
  ) 
 Here is how much of TeX's memory you used:
- 16169 strings out of 476025
- 275723 string characters out of 5794015
+ 16168 strings out of 476025
+ 275716 string characters out of 5794015
  1868382 words of memory out of 5000000
  36002 multiletter control sequences out of 15000+600000
  521367 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,76p,1685b,792s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on build/Informe.pdf (98 pages, 2608192 bytes).
+Output written on build/Informe.pdf (97 pages, 2607451 bytes).
 PDF statistics:
- 1213 PDF objects out of 1440 (max. 8388607)
- 1041 compressed objects within 11 object streams
- 237 named destinations out of 1000 (max. 500000)
+ 1209 PDF objects out of 1440 (max. 8388607)
+ 1038 compressed objects within 11 object streams
+ 236 named destinations out of 1000 (max. 500000)
  601 words of extra memory for PDF output out of 10000 (max. 10000000)
 
