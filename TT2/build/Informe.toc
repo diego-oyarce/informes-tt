@@ -64,14 +64,14 @@
 \contentsline {subsection}{\numberline {6.1.5}Conclusión del Modelo de Autoencoder}{80}{subsection.6.1.5}%
 \contentsline {section}{\numberline {6.2}Modelo de clasificación}{81}{section.6.2}%
 \contentsline {subsection}{\numberline {6.2.1}Preprocesamiento y Preparación de Datos}{81}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Ordenamiento y Etiquetado}{81}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Identificación de Sesiones}{81}{subsection.6.2.3}%
-\contentsline {subsection}{\numberline {6.2.4}Codificación de Categorías}{82}{subsection.6.2.4}%
-\contentsline {subsection}{\numberline {6.2.5}Construcción de Secuencias}{82}{subsection.6.2.5}%
-\contentsline {subsection}{\numberline {6.2.6}División de Datos}{82}{subsection.6.2.6}%
-\contentsline {subsection}{\numberline {6.2.7}Construcción del Modelo}{82}{subsection.6.2.7}%
-\contentsline {subsection}{\numberline {6.2.8}Regularización y Compilación}{83}{subsection.6.2.8}%
-\contentsline {subsection}{\numberline {6.2.9}Entrenamiento del Modelo}{83}{subsection.6.2.9}%
-\contentsline {subsection}{\numberline {6.2.10}Resultados del entrenamiento del modelo}{83}{subsection.6.2.10}%
-\contentsline {subsection}{\numberline {6.2.11}Predicción del modelo}{84}{subsection.6.2.11}%
-\contentsline {chapter}{Referencias}{86}{chapter*.43}%
+\contentsline {subsection}{\numberline {6.2.2}Ordenamiento y Etiquetado}{82}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Identificación de Sesiones}{82}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Codificación de Categorías}{84}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Construcción de Secuencias}{86}{subsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.2.6}División de Datos}{88}{subsection.6.2.6}%
+\contentsline {subsection}{\numberline {6.2.7}Construcción del Modelo}{89}{subsection.6.2.7}%
+\contentsline {subsection}{\numberline {6.2.8}Regularización y Compilación}{91}{subsection.6.2.8}%
+\contentsline {subsection}{\numberline {6.2.9}Entrenamiento del Modelo}{93}{subsection.6.2.9}%
+\contentsline {subsection}{\numberline {6.2.10}Resultados del entrenamiento del modelo}{94}{subsection.6.2.10}%
+\contentsline {subsection}{\numberline {6.2.11}Predicción del modelo}{95}{subsection.6.2.11}%
+\contentsline {chapter}{Referencias}{97}{chapter*.49}%

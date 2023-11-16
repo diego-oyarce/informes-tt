@@ -1,10 +1,10 @@
 # Fdb version 4
-["bibtex Informe"] 1700163536 "Informe.aux" "Informe.bbl" "Informe" 1700163546 0
+["bibtex Informe"] 1700163536 "Informe.aux" "Informe.bbl" "Informe" 1700163856 0
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1700163541 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1700163546 0
+["pdflatex"] 1700163851 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1700163856 0
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1700160791 2089 c767ebd6c580c391602237df17adcd5c ""
   "Análisis exploratorio de datos/Introducción.tex" 1700160791 2611 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1700160791 2998 294fd64d3ce3ec113185be36c7d4d9fc ""
@@ -39,7 +39,7 @@
   "Marco teórico/Metodologías/Metodología del proyecto.tex" 1700160791 2307 f239ae9096b95e186136dd0b03e3adf7 ""
   "Marco teórico/intro_cap_marco.tex" 1700160791 426 5aa593282a007d2bc77d80d865952542 ""
   "Modelos de predicción aplicados/Modelo de autoencoders.tex" 1700160791 6161 443cd175e41628957ff903d302d45432 ""
-  "Modelos de predicción aplicados/Modelo de clasificación.tex" 1700163535 6655 e1ccb55e0cb3b64eb845f3c565a828c0 ""
+  "Modelos de predicción aplicados/Modelo de clasificación.tex" 1700163846 27254 89ca8835473e1a15438d0e6e3c940a3f ""
   "Presentación del proyecto/Abstract.tex" 1700160791 2327 6cef499c76ce448c74f954106cf25cc6 ""
   "Presentación del proyecto/Alcances y limitaciones.tex" 1700160791 951 d372d7c63fa7cfb0e74a25f1a14272c6 ""
   "Presentación del proyecto/Descripción del trabajo de título.tex" 1700160791 829 6acb7364a18e83405640dd9f6b2399dd ""
@@ -54,10 +54,10 @@
   "Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex" 1700160791 1445 f8492ad3cfdcb93feaa3ad0a6016cea3 ""
   "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1700160791 2476 54b1e7b9aace028270b866e187591bdf ""
   "Proceso ETL/intro_cap_ETL.tex" 1700160791 502 5692a94f838bbfcce22ba21020b54237 ""
-  "build/Informe.aux" 1700163546 26887 18d7f2146c67eff80386a7de143fa99a "pdflatex"
-  "build/Informe.lof" 1700163546 3236 2b7cc2565d22660244aa813bab5bc70f "pdflatex"
-  "build/Informe.out" 1700163546 12732 1369cfa4a6f285d40fcdf0d09f398766 "pdflatex"
-  "build/Informe.toc" 1700163546 6921 eee363f5f750f71c6f5aaf816206b9b9 "pdflatex"
+  "build/Informe.aux" 1700163856 28498 7f692458f4cad5ad5edda194e9cc689e "pdflatex"
+  "build/Informe.lof" 1700163856 3967 0b8af8a5ad8adf268250e4532e73c877 "pdflatex"
+  "build/Informe.out" 1700163856 12732 4e49b47ca219e0be7c3f17d974289d3f "pdflatex"
+  "build/Informe.toc" 1700163856 6921 f374cedab366184ee9114ec71a32a884 "pdflatex"
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1687672744 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1687673087 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1687672933 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -178,6 +178,12 @@
   "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" 1700160791 9668 04833eb2c653abab87ae638bfd628d7b ""
   "img/Arquitectura modelo autoencoder.jpg" 1700160791 147408 70f00b856ae0d9fbcd9ce034d45a4749 ""
   "img/Arquitectura modelo clasificación.jpg" 1700160791 85614 78a30700f81bd46b995905c7c44ee92d ""
+  "img/Código codificación categorias.jpg" 1700163723 53744 812829fd3d7e67154e857b4ca0a02a6e ""
+  "img/Código compilar modelo.jpg" 1700163817 17474 26b18903a7b452aacbc517b6d6c19e5c ""
+  "img/Código construcción de secuencias.jpg" 1700163759 39557 1f060c2c8f578cba807e085c1207e141 ""
+  "img/Código dividir el conjunto de entrenamiento.jpg" 1700163785 20363 59997b629ce441f675a9cdf76e62cf64 ""
+  "img/Código entrenar el modelo.jpg" 1700163844 47037 f82fdf584608fb21d317ed6a152ada7f ""
+  "img/Código identificación sesiones.jpg" 1700163684 85168 0824405603bcafd6d6e982e2e35438b0 ""
   "img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png" 1700160791 151163 300981ab8ef4f20c69e2dd844ba7edfc ""
   "img/Entrenamiento autoencoder.jpg" 1700160791 123163 533ca513dacddcdf140a913f8762b94c ""
   "img/Gráfico entrenamiento autoencoder.png" 1700160791 31073 ac6ec86f68a55a908d07ebe9f4833122 ""
