@@ -29,4 +29,21 @@ Ahora se comprueba la existencia de valores nulos en el dataframe, resultando lo
     \end{minipage}
 \end{figure}
 
-Como se puede ver en la imagen anterior solamente los campos 'metodo' y 'canal' poseen valores nulos, de hecho, el primero solo cuenta con un valor nulo. La columna 'canal' cuenta con 36852 valores nulos.
+Como se puede ver en la imagen anterior solamente los campos 'metodo' y 'canal' poseen valores nulos, de hecho, el primero solo cuenta con un valor nulo. La columna 'canal' cuenta con 36852 valores nulos. Luego de eliminar los valores nulos se pasa a eliminar las filas que contengan métodos inconsistentes, que son:
+\begin{itemize}
+    \item clientes/surveys
+    \item clientes/cuentas/validar-cuenta-corriente
+    \item clientes/cuentas/cuentas-bancarias
+    \item clientes/cuentas/cuentas-bancarias?rut=81550425
+    \item clientes/cuentas/cuentas-bancarias?rut=81691037
+    \item clientes/cuentas/cuentas-bancarias?rut=243990041
+    \item clientes/cuentas/cuentas-bancarias?rut=12501979K
+    \item clientes/cuentas/cuentas-bancarias?rut=169262780
+    \item clientes/cuentas/cuentas-bancarias?rut=55022526
+    \item clientes/cuentas/cuentas-bancarias?rut=134382953
+    \item clientes/cuentas/cuentas-bancarias?rut=126599692
+    \item clientes/cuentas/APV/solicitud/giros?rut=151980287\&account=APV
+    \item clientes/cuentas/cuentas-bancarias?rut=172165532
+\end{itemize}
+
+Al eliminar todas las filas que contengan los métodos antes mencionados se borran un total de 1447 registros. Finalmente, se eliman un total de 38299 filas del dataset original.
