@@ -1,0 +1,26 @@
+Se implementó un modelo de series de tiempo ARIMA o modelo autorregresivo de media móvil integrado, un modelo centrado en describir las autocorrelaciones que existen entre los datos e intentar predecir y comprender el comportamiento del usuario.
+
+\subsection{Preprocesamiento y Preparación de Datos}
+
+Comenzamos con la carga de los datos desde un archivo CSV, seguida de un proceso de limpieza para asegurar la integridad de la información. En esta etapa, se filtraron registros específicos en la columna “metodo” y se descartaron aquellos casos donde la columna “canal” estaba vacía. Adicionalmente, la columna "fecha\_evento" fue convertida al formato UTC para poder garantizar una estandarización completa a lo largo del conjunto de datos.
+
+\subsection{Codificación y Transformación One-Hot}
+
+Se transformaron las variables categóricas 'método' y 'canal' en representaciones numéricas que son adecuadas para el procesamiento del modelo.
+
+\begin{itemize}
+    \item \textbf{Normalización de Fechas:} La columna 'fecha\_evento', que contenía información de fecha y hora, se dividió y estandarizó para asegurar un formato uniforme y utilizable.
+    \item \textbf{Eliminación de columnas innecesarias:} Las columnas originales de 'método' y 'canal' se eliminaron después de la codificación, manteniendo el dataset conciso y enfocado en las características relevantes.
+    \item \textbf{Transformación Temporal Adicional:} Se llevaron a cabo codificaciones one-hot para las columnas de 'fecha', 'hora' y 'día del mes', ampliando la representatividad de los aspectos temporales de los datos.
+    \item \textbf{Transformación y normalización de columna 'metodo':} Se llevo a cabo una transformación de la columna 'metodo' para tener valores numéricos de 0 a $n-1$ y luego se normalizaron estos valores para obtener datos entre 0 y 1. 
+\end{itemize}
+
+\subsection{Construcción y Entrenamiento del Modelo}
+
+El dataset fue sometido al test estadístico Dicker-Fuller Aumentada (ADF) para saber si corresponde a una serie de tiempo estacionaria o no, la variable que nos dira si la serie de tiempo es estacionaria o no, es $P\_value$, si $p<0.05$ quiere decir que la serie de tiempo es estacionaria, en el caso de que $p>0.05$ quiere decir que la serie de tiempo no es estacionaria.
+Luego, debido a incidencias que se mencionaran más adelante, se decide aplicar el modelo ARIMA sobre un cliente, con el fin de probar el funcionamiento del modelo a la hora de predecir el comporatmiento de un cliente. Ocupando el modulo 'auto\_arima' buscamos un modelo ARIMA$(p,d,q)$ más optimo, el que minimice el valor AIC (Akaike information criterion). 
+El dataset es dividido en conjuntos de entrenamiento y validación, luego se implementó el modelo en el set de datos de entrenamiento y el orden $(p,d,q)$ obtenido anteriormente con el modulo 'auto\_arima'.
+
+\subsection{Conclusión del Modelo de series de tiempo ARIMA}
+
+Debido a la naturaleza de los datos, el modelo ARIMA no puede entregar resultados significativos, esto gracias a que la variable objetivo 'metodo' contiene eventos categóricos y el modelo ARIMA esta pensado para predecir numéricos en series de tiempo. También, para poder predecir el comportamiento de cada cliente se tendría que implementar un modelo ARIMA por cliente, haciendo el proceso a gran escala lento y poco eficaz.

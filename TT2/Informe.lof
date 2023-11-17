@@ -21,17 +21,16 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {17}{\ignorespaces Valores nulos en el conjunto de datos.\relax }}{70}{figure.caption.36}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {18}{\ignorespaces Distribución de canales.\relax }}{77}{figure.caption.37}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {19}{\ignorespaces Preparación y codificación one-hot de los datos\relax }}{82}{figure.caption.38}%
-\contentsline {figure}{\numberline {20}{\ignorespaces Arquitectura del modelo autoencoder\relax }}{83}{figure.caption.39}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Entrenamiento del modelo autoencoder\relax }}{84}{figure.caption.40}%
-\contentsline {figure}{\numberline {22}{\ignorespaces Gráfico del entrenamiento del modelo autoencoder\relax }}{85}{figure.caption.41}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Código indentificación de sesiones\relax }}{89}{figure.caption.42}%
-\contentsline {figure}{\numberline {24}{\ignorespaces Código codificación de categorías\relax }}{90}{figure.caption.43}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Código construcción de secuencias\relax }}{92}{figure.caption.44}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Código dividir el conjunto\relax }}{94}{figure.caption.45}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Construccion del modelo de clasificación\relax }}{96}{figure.caption.46}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Construccion del compilador del modelo\relax }}{97}{figure.caption.47}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Código para entrenar el modelo\relax }}{99}{figure.caption.48}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Gráficos de análisis del modelo de clasificación\relax }}{100}{figure.caption.49}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Preparación y codificación one-hot de los datos\relax }}{79}{figure.caption.37}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Arquitectura del modelo autoencoder\relax }}{80}{figure.caption.38}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Entrenamiento del modelo autoencoder\relax }}{81}{figure.caption.39}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Gráfico del entrenamiento del modelo autoencoder\relax }}{82}{figure.caption.40}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Código indentificación de sesiones\relax }}{86}{figure.caption.41}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Código codificación de categorías\relax }}{87}{figure.caption.42}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Código construcción de secuencias\relax }}{89}{figure.caption.43}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Código dividir el conjunto\relax }}{91}{figure.caption.44}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Construccion del modelo de clasificación\relax }}{93}{figure.caption.45}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Construccion del compilador del modelo\relax }}{94}{figure.caption.46}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Código para entrenar el modelo\relax }}{96}{figure.caption.47}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Gráficos de análisis del modelo de clasificación\relax }}{97}{figure.caption.48}%
