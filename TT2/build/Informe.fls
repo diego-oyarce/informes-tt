@@ -674,6 +674,41 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -1096,6 +1131,15 @@ INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
+INPUT ./img/visualizacion-canales.png
+INPUT ./img/visualizacion-canales.png
+INPUT img/visualizacion-canales.png
+INPUT ./img/visualizacion-canales.png
+INPUT ./img/visualizacion-canales.png
+INPUT ./Modelos de predicción aplicados/Modelo de series temporales.tex
+INPUT Modelos de predicción aplicados/Modelo de series temporales.tex
+INPUT ./Modelos de predicción aplicados/Modelo de series temporales.tex
+INPUT Modelos de predicción aplicados/Modelo de series temporales.tex
 INPUT ./Modelos de predicción aplicados/Modelo de autoencoders.tex
 INPUT Modelos de predicción aplicados/Modelo de autoencoders.tex
 INPUT ./Modelos de predicción aplicados/Modelo de autoencoders.tex
