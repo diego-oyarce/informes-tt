@@ -63,7 +63,17 @@ En el caso de un autoencoder con \textquotedblleft capas densas" (también conoc
     \end{minipage}
 \end{figure}
 
-El entrenamiento se realizó con un enfoque iterativo, monitoreando la pérdida de validación para ajustes durante el proceso. Los resultados se visualizaron mediante gráficos de pérdida a lo largo de las épocas, lo que demostró una disminución constante de la pérdida y un modelo bien ajustado.
+El entrenamiento del autoencoder se realizó adoptando un enfoque iterativo y dinámico, donde uno de los aspectos clave fue el monitoreo de la pérdida de validación a lo largo de las iteraciones del entrenamiento, conocidas como "épocas". En el contexto del aprendizaje automático y especialmente en el entrenamiento de redes neuronales, una "época" se refiere a un ciclo completo de pase de todos los datos de entrenamiento a través del modelo.
+
+Una época representa una iteración completa sobre el conjunto de datos de entrenamiento. Durante una época, el modelo procesa cada muestra del conjunto de entrenamiento una vez, permitiendo que el modelo aprenda de los datos. Esto implica que si tenemos un conjunto de datos de entrenamiento con, por ejemplo, 1000 muestras y el modelo se entrena durante 10 épocas, entonces cada muestra habrá sido utilizada 10 veces para ajustar los parámetros del modelo.
+
+Las épocas son fundamentales en el proceso de entrenamiento de un modelo de aprendizaje automático:
+
+\textbf{Aprendizaje Progresivo:} Con cada época, el modelo tiene la oportunidad de aprender y adaptarse a los datos, ajustando sus parámetros (como los pesos en una red neuronal) para minimizar el error o la pérdida.
+
+\textbf{Evaluación y Ajustes:} Al monitorear la pérdida, especialmente la pérdida de validación, al final de cada época, se puede evaluar cómo está aprendiendo el modelo. Si la pérdida de validación deja de mejorar o comienza a aumentar, puede ser una señal de sobreajuste, indicando que el modelo está aprendiendo a memorizar los datos de entrenamiento en lugar de generalizar a partir de ellos.
+
+\textbf{Terminación del Entrenamiento:} El número de épocas también juega un papel crucial en la determinación de cuándo detener el entrenamiento. Demasiadas épocas pueden llevar a sobreajuste, mientras que muy pocas pueden resultar en un modelo subajustado.
 
 \begin{figure}[H]
     \begin{minipage}[t]{0.9\textwidth}

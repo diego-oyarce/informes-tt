@@ -1,16 +1,16 @@
 # Fdb version 4
-["bibtex Informe"] 1700426778 "Informe.aux" "Informe.bbl" "Informe" 1700434263 0
+["bibtex Informe"] 1700426778 "Informe.aux" "Informe.bbl" "Informe" 1700434836 0
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1700434259 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1700434263 0
+["pdflatex"] 1700434832 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1700434836 0
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1700432758 4973 c5e0e4ff250ccc8a7e43d2888528a713 ""
   "Análisis exploratorio de datos/Introducción.tex" 1700432758 2611 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1700432758 3341 0e5b387ff9ea51a30b1ff7fbaea8aa66 ""
   "Análisis exploratorio de datos/intro_cap_EDA.tex" 1700432758 508 eddcdb20c85b4568c2ebeb59b95d9209 ""
   "Informe.bbl" 1700432759 16197 a6408b924640f76c3798742a7db504c6 "bibtex Informe"
-  "Informe.tex" 1700432759 10112 1720b061ec2d825c273c20e5234782dd ""
+  "Informe.tex" 1700434488 10146 56a19b057814565149652aacceb7fab4 ""
   "La empresa/Descripción general.tex" 1700432759 1477 ab770493b1bdd4e4dda660e740d16091 ""
   "La empresa/Historia.tex" 1700432759 2785 732ca7c80f187011448f42f4d247f734 ""
   "La empresa/Misión.tex" 1700432759 317 49296265093c26ac3aea6238a2c13d85 ""
@@ -38,7 +38,7 @@
   "Marco teórico/Metodologías/Metodología del Sistema.tex" 1700432759 4501 978d21963e5635d1c47f57b400dfc46c ""
   "Marco teórico/Metodologías/Metodología del proyecto.tex" 1700432759 2307 f239ae9096b95e186136dd0b03e3adf7 ""
   "Marco teórico/intro_cap_marco.tex" 1700432759 426 5aa593282a007d2bc77d80d865952542 ""
-  "Modelos de predicción aplicados/Modelo de autoencoders.tex" 1700434259 8868 cbb391834218af5eeb4a66c7bb0eb045 ""
+  "Modelos de predicción aplicados/Modelo de autoencoders.tex" 1700434827 10493 4329303ab20e19bb3167c65cf06db5ac ""
   "Modelos de predicción aplicados/Modelo de clasificación.tex" 1700432759 27722 b88819db33f02df3f4fe0f773417b405 ""
   "Modelos de predicción aplicados/Modelo de series temporales.tex" 1700432759 3373 808378b515e032eab762df5cb06d6028 ""
   "Presentación del proyecto/Abstract.tex" 1700432759 2327 6cef499c76ce448c74f954106cf25cc6 ""
@@ -55,10 +55,10 @@
   "Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex" 1700432759 1445 f8492ad3cfdcb93feaa3ad0a6016cea3 ""
   "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1700432759 2511 92c920dd1a42161ee6eb715998585674 ""
   "Proceso ETL/intro_cap_ETL.tex" 1700432759 502 5692a94f838bbfcce22ba21020b54237 ""
-  "build/Informe.aux" 1700434263 29529 87118c8060e035e63c8a29981b38de2c "pdflatex"
-  "build/Informe.lof" 1700434263 4082 890e4d77140d507ca32fe1a98993f194 "pdflatex"
-  "build/Informe.out" 1700434263 14056 394bd781e49e49faff961f86b11c75b5 "pdflatex"
-  "build/Informe.toc" 1700434263 7491 4043922a8ce15417fcb5b8dfbb2e1df5 "pdflatex"
+  "build/Informe.aux" 1700434835 29529 549dce5aee308841f587a954933936a9 "pdflatex"
+  "build/Informe.lof" 1700434835 4083 44a065773a4b87fb20c4f1bce8bc6bd5 "pdflatex"
+  "build/Informe.out" 1700434835 14056 394bd781e49e49faff961f86b11c75b5 "pdflatex"
+  "build/Informe.toc" 1700434835 7489 b6ef7a098ae66fff79fa9f7db2b3c4f7 "pdflatex"
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1687672744 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1687673087 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1687672933 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -181,7 +181,7 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1687674720 4662804 27f73c2f767ae4579fe38abe9088e726 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1687674846 7883423 831c239deed01d10bc5b4d2ad68988d5 ""
   "c:/texlive/2023/texmf.cnf" 1687674699 713 614551405fc44b98efbf516466e3c909 ""
-  "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" 1700432759 10112 1720b061ec2d825c273c20e5234782dd ""
+  "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" 1700434488 10146 56a19b057814565149652aacceb7fab4 ""
   "img/Arquitectura modelo autoencoder.jpg" 1700432758 147408 70f00b856ae0d9fbcd9ce034d45a4749 ""
   "img/Arquitectura modelo clasificación.jpg" 1700432758 85614 78a30700f81bd46b995905c7c44ee92d ""
   "img/Código codificación categorias.jpg" 1700432758 53744 812829fd3d7e67154e857b4ca0a02a6e ""
