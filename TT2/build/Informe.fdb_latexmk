@@ -1,5 +1,5 @@
 # Fdb version 4
-["bibtex Informe"] 1700265732 "Informe.aux" "Informe.bbl" "Informe" 1700265747 0
+["bibtex Informe"] 1700265732 "Informe.aux" "Informe.bbl" "Informe" 1700424343 0
   "./Bibliografia.bib" 1700160791 10146 ca1d9e864fdaee35c19ad1c2ce0d1be2 ""
   "Informe.aux" 1700255948 29554 318a7b7c7f69a641afc5267d4b4f0ece ""
   "c:/texlive/2023/texmf-dist/bibtex/bst/apacite/apacite.bst" 1687672497 141073 9d7b79dbf9d91133318126032cff8c27 ""
@@ -7,7 +7,7 @@
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1700265743 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1700265747 0
+["pdflatex"] 1700424338 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1700424343 0
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1700265654 5073 c5e0e4ff250ccc8a7e43d2888528a713 ""
   "Análisis exploratorio de datos/Introducción.tex" 1700160791 2611 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1700160791 2998 294fd64d3ce3ec113185be36c7d4d9fc ""
@@ -34,7 +34,7 @@
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex" 1700160791 2441 ffb41f3ac0220437d5e6aff8be7b5e9a ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/intro_modelos.tex" 1700160791 459 d63aaf6dd97c564807263ae9bca29877 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/redesLSTM.tex" 1700160791 3807 cebf838e8f68ddfc007e62919f18b368 ""
-  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex" 1700160791 15233 96c279be13982efa815401bd2ed03180 ""
+  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex" 1700424337 15232 42c7b6629d258701599c99e4c5286ba9 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/intro-series-tempo.tex" 1700160791 500 f0d61aefdf368d08ce88ccc510304c84 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloARIMA.tex" 1700160791 12100 fc49e13c341fb1443cddfdd633003ae5 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloSARIMA.tex" 1700160791 3250 c8845b2da5b4ffedaf90d322049535bb ""
@@ -50,18 +50,18 @@
   "Presentación del proyecto/Objetivos.tex" 1700160791 1040 d4a6e522aa095c4eb212bd33bf6bd387 ""
   "Presentación del proyecto/Resumen.tex" 1700160791 2601 64fc19a93db0fac09c2131cf6ecb2786 ""
   "Proceso ETL/Diseño Proceso ETL.tex" 1700160791 594 d9a97d22c953af78120e0b58a91d2366 ""
-  "Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex" 1700265654 3386 488486758a89aec5e6733c75624bc2a1 ""
-  "Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex" 1700160791 2280 47855320ab38726920d4e7dbf1eba339 ""
+  "Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex" 1700423865 3387 50b12c3857361791f6e821f67fe60f44 ""
+  "Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex" 1700424273 2314 61e4a96a8dabb9a6f942bde116c82ec7 ""
   "Proceso ETL/Diseño Proceso ETL/Identificacion fuente de datos.tex" 1700160791 1674 7a9e305d9c05164ffe07c868be4daa0c ""
   "Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex" 1700160791 1354 fee7fe6ad0ecfd0ab6ce2031bbc0bd92 ""
   "Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex" 1700265654 3043 ceee591c3f7f8aafa2614e8b7f4fa7f8 ""
   "Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex" 1700160791 1445 f8492ad3cfdcb93feaa3ad0a6016cea3 ""
-  "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1700160791 2476 54b1e7b9aace028270b866e187591bdf ""
+  "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1700424071 2511 92c920dd1a42161ee6eb715998585674 ""
   "Proceso ETL/intro_cap_ETL.tex" 1700160791 502 5692a94f838bbfcce22ba21020b54237 ""
-  "build/Informe.aux" 1700265746 29500 46e0104351ffce3a29cfd8b354c04b1f "pdflatex"
-  "build/Informe.lof" 1700265746 4082 8cc8bd577d837e9c18943682522d1ffe "pdflatex"
-  "build/Informe.out" 1700265746 14056 394bd781e49e49faff961f86b11c75b5 "pdflatex"
-  "build/Informe.toc" 1700265746 7462 b3473633c7772c14a69851b007880267 "pdflatex"
+  "build/Informe.aux" 1700424341 29500 46e0104351ffce3a29cfd8b354c04b1f "pdflatex"
+  "build/Informe.lof" 1700424341 4082 8cc8bd577d837e9c18943682522d1ffe "pdflatex"
+  "build/Informe.out" 1700424341 14056 394bd781e49e49faff961f86b11c75b5 "pdflatex"
+  "build/Informe.toc" 1700424341 7462 b3473633c7772c14a69851b007880267 "pdflatex"
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1687672744 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1687673087 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1687672933 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
