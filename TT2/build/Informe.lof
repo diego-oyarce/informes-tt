@@ -27,11 +27,11 @@
 \contentsline {figure}{\numberline {20}{\ignorespaces Arquitectura del modelo autoencoder\relax }}{85}{figure.caption.39}%
 \contentsline {figure}{\numberline {21}{\ignorespaces Entrenamiento del modelo autoencoder\relax }}{86}{figure.caption.40}%
 \contentsline {figure}{\numberline {22}{\ignorespaces Gráfico del entrenamiento del modelo autoencoder\relax }}{87}{figure.caption.41}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Código indentificación de sesiones\relax }}{91}{figure.caption.42}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Código indentificación de sesiones\relax }}{90}{figure.caption.42}%
 \contentsline {figure}{\numberline {24}{\ignorespaces Código codificación de categorías\relax }}{92}{figure.caption.43}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Código construcción de secuencias\relax }}{94}{figure.caption.44}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Código dividir el conjunto\relax }}{96}{figure.caption.45}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Construccion del modelo de clasificación\relax }}{98}{figure.caption.46}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Construccion del compilador del modelo\relax }}{99}{figure.caption.47}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Código para entrenar el modelo\relax }}{101}{figure.caption.48}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Gráficos de análisis del modelo de clasificación\relax }}{102}{figure.caption.49}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Código construcción de secuencias\relax }}{93}{figure.caption.44}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Código dividir el conjunto\relax }}{95}{figure.caption.45}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Construccion del modelo de clasificación\relax }}{97}{figure.caption.46}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Construccion del compilador del modelo\relax }}{98}{figure.caption.47}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Código para entrenar el modelo\relax }}{100}{figure.caption.48}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Gráficos de análisis del modelo de clasificación\relax }}{101}{figure.caption.49}%
