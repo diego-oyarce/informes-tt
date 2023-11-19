@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.25)  19 NOV 2023 17:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.25)  19 NOV 2023 18:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -635,7 +635,7 @@ Overfull \hbox (2.00487pt too wide) in paragraph at lines 9--10
 []\OT1/cmr/m/n/12 En re-su-men, la his-to-ria de AFP Ca-pi-tal est^^Sa mar-ca-da por su cons-tan-te evo-lu-ci^^Son,
  []
 
-<img/historia-afp-capital.jpg, id=467, 865.2325pt x 345.29pt>
+<img/historia-afp-capital.jpg, id=468, 865.2325pt x 345.29pt>
 File: img/historia-afp-capital.jpg Graphic file (type jpg)
 <use img/historia-afp-capital.jpg>
 Package pdftex.def Info: img/historia-afp-capital.jpg  used on input line 23.
@@ -985,7 +985,7 @@ Overfull \hbox (22.95424pt too wide) in paragraph at lines 6--7
  []
 
 [27]
-<img/estructura-arbol-de-decision.jpg, id=637, 496.67436pt x 328.85275pt>
+<img/estructura-arbol-de-decision.jpg, id=638, 496.67436pt x 328.85275pt>
 File: img/estructura-arbol-de-decision.jpg Graphic file (type jpg)
 <use img/estructura-arbol-de-decision.jpg>
 Package pdftex.def Info: img/estructura-arbol-de-decision.jpg  used on input line 18.
@@ -1070,7 +1070,7 @@ Overfull \hbox (12.64046pt too wide) in paragraph at lines 20--21
 \OT1/cmr/m/n/12 (oob) ser^^Sa uti-li-za-da pa-ra rea-li-zar una va-li-da-ci^^Son cru-za-da, fi-na-li-zan-do la pre-dic-ci^^Son. 
  []
 
-<img/estructura-random-forest.png, id=669, 1316.92pt x 739.76375pt>
+<img/estructura-random-forest.png, id=670, 1316.92pt x 739.76375pt>
 File: img/estructura-random-forest.png Graphic file (type png)
 <use img/estructura-random-forest.png>
 Package pdftex.def Info: img/estructura-random-forest.png  used on input line 32.
@@ -1346,7 +1346,7 @@ Overfull \hbox (47.99997pt too wide) in paragraph at lines 6--41
  []
 
 ) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/intro-series-tempo.tex) [35] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex
-<img/pasajeros-clase-econ-timeplot.png, id=695, 505.89pt x 312.41719pt>
+<img/pasajeros-clase-econ-timeplot.png, id=696, 505.89pt x 312.41719pt>
 File: img/pasajeros-clase-econ-timeplot.png Graphic file (type png)
 <use img/pasajeros-clase-econ-timeplot.png>
 Package pdftex.def Info: img/pasajeros-clase-econ-timeplot.png  used on input line 21.
@@ -1357,7 +1357,7 @@ Overfull \hbox (2.06395pt too wide) in paragraph at lines 31--32
  []
 
 [37 <./img/pasajeros-clase-econ-timeplot.png>]
-<img/ventas-medicamentos-diab-seasonplot.png, id=713, 505.89pt x 312.41719pt>
+<img/ventas-medicamentos-diab-seasonplot.png, id=714, 505.89pt x 312.41719pt>
 File: img/ventas-medicamentos-diab-seasonplot.png Graphic file (type png)
 <use img/ventas-medicamentos-diab-seasonplot.png>
 Package pdftex.def Info: img/ventas-medicamentos-diab-seasonplot.png  used on input line 52.
@@ -1372,7 +1372,7 @@ Overfull \hbox (9.87471pt too wide) in paragraph at lines 64--65
 \OT1/cmr/m/n/12 GW y tem-pe-ra-tu-ra (Cel-sius)), pa-ra 2014 en Vic-to-ria, Aus-tra-lia. Las tem-pe-ra-tu-ras
  []
 
-<img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png, id=722, 505.89pt x 312.41719pt>
+<img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png, id=723, 505.89pt x 312.41719pt>
 File: img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png Graphic file (type png)
 <use img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png>
 Package pdftex.def Info: img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png  used on input line 76.
@@ -1382,7 +1382,7 @@ Overfull \hbox (7.20195pt too wide) in paragraph at lines 86--87
 []\OT1/cmr/bx/sc/12 Gr^^Safi-cos de des-fa-se (Lag plots): \OT1/cmr/m/n/12 Es-te ti-po de gr^^Safi-co re-pre-sen-ta la ob-ser-va-ci^^Son
  []
 
-<img/producción trimestral de cerveza australiana-lagplot.png, id=731, 505.89pt x 505.89pt>
+<img/producción trimestral de cerveza australiana-lagplot.png, id=732, 505.89pt x 505.89pt>
 File: img/producción trimestral de cerveza australiana-lagplot.png Graphic file (type png)
 <use img/producción trimestral de cerveza australiana-lagplot.png>
 Package pdftex.def Info: img/producción trimestral de cerveza australiana-lagplot.png  used on input line 98.
@@ -1392,24 +1392,24 @@ Overfull \hbox (18.76686pt too wide) in paragraph at lines 116--117
 \OT1/cmr/m/n/12 de-cir que las va-ria-bles tie-nen una co-rre-la-ci^^Son po-si-ti-va [][]Hyndman y Atha-na-so-pou-los[],
  []
 
-<img/ejemplo_autocorrelaciones.png, id=750, 593.21625pt x 56.46094pt>
+<img/ejemplo_autocorrelaciones.png, id=751, 593.21625pt x 56.46094pt>
 File: img/ejemplo_autocorrelaciones.png Graphic file (type png)
 <use img/ejemplo_autocorrelaciones.png>
 Package pdftex.def Info: img/ejemplo_autocorrelaciones.png  used on input line 138.
 (pdftex.def)             Requested size: 386.41426pt x 36.77928pt.
 [42]
-<img/produccion-cerveza-aust-ACF.png, id=759, 505.89pt x 176.91093pt>
+<img/produccion-cerveza-aust-ACF.png, id=760, 505.89pt x 176.91093pt>
 File: img/produccion-cerveza-aust-ACF.png Graphic file (type png)
 <use img/produccion-cerveza-aust-ACF.png>
 Package pdftex.def Info: img/produccion-cerveza-aust-ACF.png  used on input line 158.
 (pdftex.def)             Requested size: 386.41426pt x 135.13126pt.
  [43 <./img/ejemplo_autocorrelaciones.png> <./img/produccion-cerveza-aust-ACF.png>]
-<img/aelec-1-ejemplo.png, id=768, 505.89pt x 312.41719pt>
+<img/aelec-1-ejemplo.png, id=769, 505.89pt x 312.41719pt>
 File: img/aelec-1-ejemplo.png Graphic file (type png)
 <use img/aelec-1-ejemplo.png>
 Package pdftex.def Info: img/aelec-1-ejemplo.png  used on input line 182.
 (pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
-<img/acfelec-1-ejemplo.png, id=770, 505.89pt x 176.91093pt>
+<img/acfelec-1-ejemplo.png, id=771, 505.89pt x 176.91093pt>
 File: img/acfelec-1-ejemplo.png Graphic file (type png)
 <use img/acfelec-1-ejemplo.png>
 Package pdftex.def Info: img/acfelec-1-ejemplo.png  used on input line 200.
@@ -1419,12 +1419,12 @@ Overfull \hbox (22.10863pt too wide) in paragraph at lines 210--211
 []\OT1/cmr/bx/sc/12 Ruido Blan-co (Whi-te Noi-se): \OT1/cmr/m/n/12 Las se-ries de tiem-po que no tie-nen au-to-co-rre-la-ci^^Son
  []
 
-<img/wnoise-1.png, id=776, 505.89pt x 312.41719pt>
+<img/wnoise-1.png, id=777, 505.89pt x 312.41719pt>
 File: img/wnoise-1.png Graphic file (type png)
 <use img/wnoise-1.png>
 Package pdftex.def Info: img/wnoise-1.png  used on input line 222.
 (pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
-<img/wnoiseacf-1.png, id=778, 505.89pt x 176.91093pt>
+<img/wnoiseacf-1.png, id=779, 505.89pt x 176.91093pt>
 File: img/wnoiseacf-1.png Graphic file (type png)
 <use img/wnoiseacf-1.png>
 Package pdftex.def Info: img/wnoiseacf-1.png  used on input line 240.
@@ -1454,7 +1454,7 @@ Overfull \hbox (24.97783pt too wide) in paragraph at lines 47--48
 \OT1/cmr/m/n/12 apli-ca-cion de lo-ga-rit-mos a una se-rie de tiem-po, en es-te ca-so la ven-ta de me-di-ca-men-tos
  []
 
-<img/a10diff-1-seasonaldiff-example.png, id=815, 505.89pt x 480.29437pt>
+<img/a10diff-1-seasonaldiff-example.png, id=816, 505.89pt x 480.29437pt>
 File: img/a10diff-1-seasonaldiff-example.png Graphic file (type png)
 <use img/a10diff-1-seasonaldiff-example.png>
 Package pdftex.def Info: img/a10diff-1-seasonaldiff-example.png  used on input line 59.
@@ -1465,7 +1465,7 @@ Overfull \hbox (2.91pt too wide) in paragraph at lines 69--70
  []
 
 [49 <./img/a10diff-1-seasonaldiff-example.png>]
-<img/arp-1-example.png, id=834, 505.89pt x 227.34938pt>
+<img/arp-1-example.png, id=835, 505.89pt x 227.34938pt>
 File: img/arp-1-example.png Graphic file (type png)
 <use img/arp-1-example.png>
 Package pdftex.def Info: img/arp-1-example.png  used on input line 97.
@@ -1475,7 +1475,7 @@ Overfull \hbox (2.84181pt too wide) in paragraph at lines 107--108
 []\OT1/cmr/bx/sc/12 Modelo de me-dia m^^Sovil: \OT1/cmr/m/n/12 Es-te ti-po de mo-de-lo ocu-pa el error de los pron^^Sosti-cos
  []
 
-<img/maq-1-example.png, id=844, 505.89pt x 227.34938pt>
+<img/maq-1-example.png, id=845, 505.89pt x 227.34938pt>
 File: img/maq-1-example.png Graphic file (type png)
 <use img/maq-1-example.png>
 Package pdftex.def Info: img/maq-1-example.png  used on input line 126.
@@ -1624,7 +1624,7 @@ Overfull \hbox (5.17703pt too wide) in paragraph at lines 9--10
 []\OT1/cmr/m/n/12 Como pri-mer pa-so en la cons-truc-ci^^Son del pro-ce-so ETL, se im-por-tan las bi-blio-te-cas
  []
 
-<img/valores-nulos.png, id=1004, 228.855pt x 154.5775pt>
+<img/valores-nulos.png, id=1005, 228.855pt x 154.5775pt>
 File: img/valores-nulos.png Graphic file (type png)
 <use img/valores-nulos.png>
 Package pdftex.def Info: img/valores-nulos.png  used on input line 24.
@@ -1672,7 +1672,7 @@ Overfull \hbox (5.067pt too wide) in paragraph at lines 1--2
  []
 
 [75] [76]
-<img/visualizacion-canales.png, id=1043, 471.2004pt x 237.0456pt>
+<img/visualizacion-canales.png, id=1044, 471.2004pt x 237.0456pt>
 File: img/visualizacion-canales.png Graphic file (type png)
 <use img/visualizacion-canales.png>
 Package pdftex.def Info: img/visualizacion-canales.png  used on input line 43.
@@ -1680,9 +1680,8 @@ Package pdftex.def Info: img/visualizacion-canales.png  used on input line 43.
  [77 <./img/visualizacion-canales.png>] [78] [79]) [80]
 Cap\'{\i }tulo 6.
 
-Overfull \hbox (131.63187pt too wide) in paragraph at lines 253--253
-|\OT1/cmr/bx/n/24.88 CAP[]ITU-LO 6: MO-DE-LOS DE PRE-DIC-CI[]ON
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 253.
 
 (./Modelos de predicción aplicados/Modelo de series temporales.tex
 Overfull \hbox (2.83946pt too wide) in paragraph at lines 5--6
@@ -1711,19 +1710,19 @@ Overfull \hbox (4.06491pt too wide) in paragraph at lines 13--14
 []\OT1/cmr/bx/sc/12 Eliminaci^^Son de co-lum-nas in-ne-ce-sa-rias: \OT1/cmr/m/n/12 Las co-lum-nas ori-gi-na-les de 'm^^Seto-do'
  []
 
-<img/codificación one-hhot.jpg, id=1070, 753.5653pt x 472.76625pt>
+<img/codificación one-hhot.jpg, id=1071, 753.5653pt x 472.76625pt>
 File: img/codificación one-hhot.jpg Graphic file (type jpg)
 <use img/codificación one-hhot.jpg>
 Package pdftex.def Info: img/codificación one-hhot.jpg  used on input line 27.
 (pdftex.def)             Requested size: 386.41426pt x 242.4205pt.
 [83]
-<img/Arquitectura modelo autoencoder.jpg, id=1075, 752.0597pt x 485.56406pt>
+<img/Arquitectura modelo autoencoder.jpg, id=1076, 752.0597pt x 485.56406pt>
 File: img/Arquitectura modelo autoencoder.jpg Graphic file (type jpg)
 <use img/Arquitectura modelo autoencoder.jpg>
 Package pdftex.def Info: img/Arquitectura modelo autoencoder.jpg  used on input line 50.
 (pdftex.def)             Requested size: 425.06093pt x 274.44792pt.
  [84 <./img/codificación one-hhot.jpg>]
-<img/Entrenamiento autoencoder.jpg, id=1080, 599.23875pt x 361.35pt>
+<img/Entrenamiento autoencoder.jpg, id=1082, 599.23875pt x 361.35pt>
 File: img/Entrenamiento autoencoder.jpg Graphic file (type jpg)
 <use img/Entrenamiento autoencoder.jpg>
 Package pdftex.def Info: img/Entrenamiento autoencoder.jpg  used on input line 70.
@@ -1733,7 +1732,7 @@ Overfull \hbox (19.42796pt too wide) in paragraph at lines 80--81
 \OT1/cmr/m/n/12 clus-te-ring pa-ra la seg-men-ta-ci^^Son de usua-rios y la de-tec-ci^^Son de pa-tro-nes de com-por-ta-mien-to
  []
 
-<img/Gráfico entrenamiento autoencoder.png, id=1086, 570.933pt x 307.1475pt>
+<img/Gráfico entrenamiento autoencoder.png, id=1087, 570.933pt x 307.1475pt>
 File: img/Gráfico entrenamiento autoencoder.png Graphic file (type png)
 <use img/Gráfico entrenamiento autoencoder.png>
 Package pdftex.def Info: img/Gráfico entrenamiento autoencoder.png  used on input line 92.
@@ -1774,7 +1773,7 @@ Overfull \hbox (20.22679pt too wide) in paragraph at lines 19--20
  []
 
 [89]
-<img/Código identificación sesiones.jpg, id=1105, 623.32875pt x 235.63031pt>
+<img/Código identificación sesiones.jpg, id=1106, 623.32875pt x 235.63031pt>
 File: img/Código identificación sesiones.jpg Graphic file (type jpg)
 <use img/Código identificación sesiones.jpg>
 Package pdftex.def Info: img/Código identificación sesiones.jpg  used on input line 41.
@@ -1799,7 +1798,7 @@ Overfull \hbox (7.93634pt too wide) in paragraph at lines 73--74
 []\OT1/cmr/m/n/12 Adem^^Sas, la co-di-fi-ca-ci^^Son per-mi-te el uso de al-go-rit-mos de in-crus-ta-ci^^Son (em-bed-ding)
  []
 
-<img/Código codificación categorias.jpg, id=1114, 514.17094pt x 165.61874pt>
+<img/Código codificación categorias.jpg, id=1115, 514.17094pt x 165.61874pt>
 File: img/Código codificación categorias.jpg Graphic file (type jpg)
 <use img/Código codificación categorias.jpg>
 Package pdftex.def Info: img/Código codificación categorias.jpg  used on input line 88.
@@ -1809,7 +1808,7 @@ Overfull \hbox (2.71703pt too wide) in paragraph at lines 106--107
 \OT1/cmr/m/n/12 agru-pan-do los da-tos por usua-rio y se-si^^Son y lue-go lis-tan-do las ac-cio-nes co-di-fi-ca-das
  []
 
-<img/Código construcción de secuencias.jpg, id=1119, 727.96968pt x 101.62968pt>
+<img/Código construcción de secuencias.jpg, id=1120, 727.96968pt x 101.62968pt>
 File: img/Código construcción de secuencias.jpg Graphic file (type jpg)
 <use img/Código construcción de secuencias.jpg>
 Package pdftex.def Info: img/Código construcción de secuencias.jpg  used on input line 133.
@@ -1830,7 +1829,7 @@ Overfull \hbox (19.3116pt too wide) in paragraph at lines 157--158
  []
 
 [94]
-<img/Código dividir el conjunto de entrenamiento.jpg, id=1129, 706.89093pt x 39.89906pt>
+<img/Código dividir el conjunto de entrenamiento.jpg, id=1130, 706.89093pt x 39.89906pt>
 File: img/Código dividir el conjunto de entrenamiento.jpg Graphic file (type jpg)
 <use img/Código dividir el conjunto de entrenamiento.jpg>
 Package pdftex.def Info: img/Código dividir el conjunto de entrenamiento.jpg  used on input line 189.
@@ -1841,7 +1840,7 @@ Overfull \hbox (2.94342pt too wide) in paragraph at lines 220--221
  []
 
 [96]
-<img/Arquitectura modelo clasificación.jpg, id=1138, 777.65532pt x 295.85532pt>
+<img/Arquitectura modelo clasificación.jpg, id=1139, 777.65532pt x 295.85532pt>
 File: img/Arquitectura modelo clasificación.jpg Graphic file (type jpg)
 <use img/Arquitectura modelo clasificación.jpg>
 Package pdftex.def Info: img/Arquitectura modelo clasificación.jpg  used on input line 243.
@@ -1861,53 +1860,53 @@ Overfull \hbox (10.48761pt too wide) in paragraph at lines 263--264
 \OT1/cmr/m/n/12 pro-ba-bi-li-da-des; es efec-ti-va pa-ra com-pa-rar la dis-tri-bu-ci^^Son de pro-ba-bi-li-dad pre-di-cha
  []
 
-<img/Código compilar modelo.jpg, id=1143, 563.10374pt x 37.64063pt>
+<img/Código compilar modelo.jpg, id=1144, 563.10374pt x 37.64063pt>
 File: img/Código compilar modelo.jpg Graphic file (type jpg)
 <use img/Código compilar modelo.jpg>
-Package pdftex.def Info: img/Código compilar modelo.jpg  used on input line 279.
+Package pdftex.def Info: img/Código compilar modelo.jpg  used on input line 277.
 (pdftex.def)             Requested size: 429.3521pt x 28.7002pt.
 [98 <./img/Código compilar modelo.jpg>]
-Overfull \hbox (15.28859pt too wide) in paragraph at lines 289--290
+Overfull \hbox (15.28859pt too wide) in paragraph at lines 287--288
 \OT1/cmr/m/n/12 lis-to pa-ra ser en-tre-na-do. La com-pi-la-ci^^Son efec-ti-va ase-gu-ra que el pro-ce-so de en-tre-na-mien-to
  []
 
 
-Overfull \hbox (2.06557pt too wide) in paragraph at lines 289--290
+Overfull \hbox (2.06557pt too wide) in paragraph at lines 287--288
 \OT1/cmr/m/n/12 ^^Suti-les de los da-tos sin me-mo-ri-zar-los, lo que es cru-cial pa-ra su ren-di-mien-to en es-ce-na-rios
  []
 
 
-Overfull \hbox (15.62466pt too wide) in paragraph at lines 297--298
+Overfull \hbox (15.62466pt too wide) in paragraph at lines 295--296
 \OT1/cmr/m/n/12 que in-clu-ye tan-to las se-cuen-cias de en-tra-da (X[]-train) co-mo las eti-que-tas co-rres-pon-dien-tes
  []
 
 [99]
-Overfull \hbox (0.9851pt too wide) in paragraph at lines 305--306
+Overfull \hbox (0.9851pt too wide) in paragraph at lines 303--304
 \OT1/cmr/m/n/12 Es-tas m^^Setri-cas son in-di-ca-do-res cla-ve del ren-di-mien-to del mo-de-lo y ayu-dan a iden-ti-fi-car
  []
 
-<img/Código entrenar el modelo.jpg, id=1153, 667.74469pt x 185.19188pt>
+<img/Código entrenar el modelo.jpg, id=1154, 667.74469pt x 185.19188pt>
 File: img/Código entrenar el modelo.jpg Graphic file (type jpg)
 <use img/Código entrenar el modelo.jpg>
-Package pdftex.def Info: img/Código entrenar el modelo.jpg  used on input line 317.
+Package pdftex.def Info: img/Código entrenar el modelo.jpg  used on input line 315.
 (pdftex.def)             Requested size: 429.3521pt x 119.07906pt.
 
-Overfull \hbox (4.28757pt too wide) in paragraph at lines 331--332
+Overfull \hbox (4.28757pt too wide) in paragraph at lines 329--330
 []\OT1/cmr/bx/sc/12 An^^Sali-sis de la P^^Serdi-da: \OT1/cmr/m/n/12 Los gr^^Safi-cos mues-tran que la p^^Serdi-da de en-tre-na-mien-to
  []
 
 [100 <./img/Código entrenar el modelo.jpg>]
-Overfull \hbox (32.262pt too wide) in paragraph at lines 332--333
+Overfull \hbox (32.262pt too wide) in paragraph at lines 330--331
 \OT1/cmr/m/n/12 pre-ci-si^^Son de en-tre-na-mien-to (Ac-cu-racy) co-mo la pre-ci-si^^Son de va-li-da-ci^^Son (Val[]-Ac-cu-racy)
  []
 
-<img/Gráfico modelo clasificación.jpg, id=1158, 825.83531pt x 317.68687pt>
+<img/Gráfico modelo clasificación.jpg, id=1159, 825.83531pt x 317.68687pt>
 File: img/Gráfico modelo clasificación.jpg Graphic file (type jpg)
 <use img/Gráfico modelo clasificación.jpg>
-Package pdftex.def Info: img/Gráfico modelo clasificación.jpg  used on input line 345.
+Package pdftex.def Info: img/Gráfico modelo clasificación.jpg  used on input line 343.
 (pdftex.def)             Requested size: 429.3521pt x 165.16902pt.
 
-Overfull \hbox (10.72974pt too wide) in paragraph at lines 355--356
+Overfull \hbox (10.72974pt too wide) in paragraph at lines 353--354
 []\OT1/cmr/m/n/12 Cuando usa-mos nues-tro mo-de-lo de cla-si-fi-ca-ci^^Son se-cuen-cial pa-ra ha-cer pre-dic-cio-nes,
  []
 
@@ -1944,18 +1943,18 @@ Package rerunfilecheck Info: File `Informe.out' has not changed.
 (rerunfilecheck)             Checksum: 394BD781E49E49FAFF961F86B11C75B5;14056.
  ) 
 Here is how much of TeX's memory you used:
- 16436 strings out of 476025
- 283110 string characters out of 5794015
+ 16437 strings out of 476025
+ 283115 string characters out of 5794015
  1868382 words of memory out of 5000000
- 36212 multiletter control sequences out of 15000+600000
+ 36213 multiletter control sequences out of 15000+600000
  521367 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,76p,1685b,828s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on build/Informe.pdf (115 pages, 2917631 bytes).
+Output written on build/Informe.pdf (115 pages, 2917669 bytes).
 PDF statistics:
- 1341 PDF objects out of 1440 (max. 8388607)
- 1143 compressed objects within 12 object streams
+ 1342 PDF objects out of 1440 (max. 8388607)
+ 1144 compressed objects within 12 object streams
  266 named destinations out of 1000 (max. 500000)
  676 words of extra memory for PDF output out of 10000 (max. 10000000)
 

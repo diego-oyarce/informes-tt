@@ -55,7 +55,7 @@
 \contentsline {section}{\numberline {5.1}Introducción al EDA}{73}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Recopilación de datos}{74}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Descripción de los datos}{76}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Modelos de predicción aplicados}{81}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Modelos de\\ predicción aplicados}{81}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Modelo de series de tiempo}{81}{section.6.1}%
 \contentsline {subsection}{\numberline {6.1.1}Preprocesamiento y Preparación de Datos}{81}{subsection.6.1.1}%
 \contentsline {subsection}{\numberline {6.1.2}Codificación y Transformación One-Hot}{81}{subsection.6.1.2}%
