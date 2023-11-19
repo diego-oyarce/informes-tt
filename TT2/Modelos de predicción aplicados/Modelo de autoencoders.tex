@@ -6,12 +6,12 @@ Iniciamos con la carga del dataset desde un archivo CSV, seguido por una fase de
 
 \subsection{Codificación One-Hot}
 
-Se transformaron las variables categóricas 'método' y 'canal' en representaciones numéricas que son adecuadas para el procesamiento del modelo.
+Para las variables categóricas \textquotedblleft método\textquotedblright y \textquotedblleft canal\textquotedblright, se aplicó una técnica de codificación One-Hot. Esta transformación es crucial para convertir datos categóricos en un formato que pueda ser procesado efectivamente por el modelo de aprendizaje automático. En esta técnica, cada categoría se convierte en una nueva columna, donde la presencia de una categoría específica se marca con un \textquotedblleft 1\textquotedblright, mientras que las demás se marcan con un \textquotedblleft 0\textquotedblright.
 
 \begin{itemize}
-    \item \textbf{Normalización de Fechas:} La columna 'fecha\_evento', que contenía información de fecha y hora, se dividió y estandarizó para asegurar un formato uniforme y utilizable.
-    \item \textbf{Eliminación de columnas innecesarias:} Las columnas originales de 'método' y 'canal' se eliminaron después de la codificación, manteniendo el dataset conciso y enfocado en las características relevantes.
-    \item \textbf{Transformación Temporal Adicional:} Se llevaron a cabo codificaciones one-hot para las columnas de 'fecha', 'hora' y 'día de la semana', ampliando la representatividad de los aspectos temporales de los datos.
+    \item \textbf{Normalización de Fechas:} La columna \textquotedblleft fecha\_evento\textquotedblright, que contenía información de fecha y hora, se dividió y estandarizó para asegurar un formato uniforme y utilizable.
+    \item \textbf{Eliminación de columnas innecesarias:} Las columnas originales de \textquotedblleft método\textquotedblright y \textquotedblleft canal\textquotedblright se eliminaron después de la codificación, manteniendo el dataset conciso y enfocado en las características relevantes.
+    \item \textbf{Transformación Temporal Adicional:} Se llevaron a cabo codificaciones one-hot para las columnas de \textquotedblleft fecha\textquotedblright, \textquotedblleft hora\textquotedblright y \textquotedblleft día de la semana\textquotedblright, ampliando la representatividad de los aspectos temporales de los datos.
 \end{itemize}
 
 \begin{figure}[H]
@@ -35,7 +35,15 @@ Se transformaron las variables categóricas 'método' y 'canal' en representacio
 
 \subsection{Construcción y Entrenamiento del Modelo}
 
-El dataset fue dividido en conjuntos de entrenamiento y validación. Luego, se construyó la arquitectura del autoencoder con capas densas y normalización por lotes, utilizando una función de activación 'tanh' para las capas codificadoras y 'relu' para las decodificadoras. Se implementó un mecanismo de EarlyStopping para prevenir el sobreentrenamiento y mejorar la generalización del modelo.
+El dataset fue dividido en conjuntos de entrenamiento y validación. Luego, se construyó la arquitectura del autoencoder con capas densas y normalización por lotes, utilizando una función de activación \textquotedblleft tanh\textquotedblright para las capas codificadoras y \textquotedblleft relu\textquotedblright para las decodificadoras. Se implementó un mecanismo de EarlyStopping para prevenir el sobreentrenamiento y mejorar la generalización del modelo.
+
+Un autoencoder es un tipo de red neuronal utilizada en el aprendizaje no supervisado, que tiene como objetivo aprender una representación (codificación) de un conjunto de datos, típicamente para reducción de dimensionalidad, aprendizaje de características, o descompresión de datos. La particularidad de los autoencoders reside en que están diseñados para reconstruir su entrada en la salida, pasando la información a través de una serie de capas que primero comprimen los datos (codificador) y luego los reconstruyen (decodificador).
+
+En el caso de un autoencoder con \textquotedblleft capas densas" (también conocidas como \textquotedblleft capas completamente conectadas"), cada neurona en una capa está conectada a todas las neuronas en la capa siguiente. Este tipo de arquitectura es una de las más comunes en las redes neuronales y es particularmente útil para aprender patrones complejos y no lineales en los datos.
+
+\textbf{Construcción del Codificador:} En la parte del codificador, los datos de entrada pasan a través de capas densas, donde se reduce gradualmente la dimensionalidad. Este proceso se logra reduciendo el número de neuronas en capas sucesivas, obligando así a la red a aprender una representación comprimida de los datos de entrada. Las funciones de activación como \textquotedblleft tanh" (tangente hiperbólica) pueden ser usadas aquí para introducir no linealidades en el modelo, permitiendo que el codificador aprenda representaciones más complejas.
+
+\textbf{Construcción del Decodificador:} La segunda parte del autoencoder es el decodificador, donde la representación comprimida se procesa a través de otras capas densas para reconstruir los datos de entrada. El objetivo es que la salida sea lo más cercana posible a la entrada original. Las funciones de activación como \textquotedblleft relu" (Rectified Linear Unit) son comunes en esta etapa, proporcionando una manera eficiente y efectiva de realizar operaciones no lineales.
 
 \begin{figure}[H]
     \begin{minipage}[t]{0.9\textwidth}

@@ -65,18 +65,18 @@
 \contentsline {subsection}{\numberline {6.2.1}Preprocesamiento y Preparación de Datos}{83}{subsection.6.2.1}%
 \contentsline {subsection}{\numberline {6.2.2}Codificación One-Hot}{83}{subsection.6.2.2}%
 \contentsline {subsection}{\numberline {6.2.3}Construcción y Entrenamiento del Modelo}{84}{subsection.6.2.3}%
-\contentsline {subsection}{\numberline {6.2.4}Resultados y Evaluación}{86}{subsection.6.2.4}%
-\contentsline {subsection}{\numberline {6.2.5}Conclusión del Modelo de Autoencoder}{87}{subsection.6.2.5}%
-\contentsline {section}{\numberline {6.3}Modelo de clasificación}{88}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Preprocesamiento y Preparación de Datos}{88}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Ordenamiento y Etiquetado}{88}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}Identificación de Sesiones}{89}{subsection.6.3.3}%
-\contentsline {subsection}{\numberline {6.3.4}Codificación de Categorías}{91}{subsection.6.3.4}%
-\contentsline {subsection}{\numberline {6.3.5}Construcción de Secuencias}{92}{subsection.6.3.5}%
-\contentsline {subsection}{\numberline {6.3.6}División de Datos}{94}{subsection.6.3.6}%
-\contentsline {subsection}{\numberline {6.3.7}Construcción del Modelo}{96}{subsection.6.3.7}%
-\contentsline {subsection}{\numberline {6.3.8}Regularización y Compilación}{97}{subsection.6.3.8}%
-\contentsline {subsection}{\numberline {6.3.9}Entrenamiento del Modelo}{99}{subsection.6.3.9}%
-\contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{100}{subsection.6.3.10}%
-\contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{101}{subsection.6.3.11}%
-\contentsline {chapter}{Referencias}{103}{chapter*.50}%
+\contentsline {subsection}{\numberline {6.2.4}Resultados y Evaluación}{87}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Conclusión del Modelo de Autoencoder}{88}{subsection.6.2.5}%
+\contentsline {section}{\numberline {6.3}Modelo de clasificación}{89}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Preprocesamiento y Preparación de Datos}{89}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Ordenamiento y Etiquetado}{89}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Identificación de Sesiones}{90}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}Codificación de Categorías}{92}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.5}Construcción de Secuencias}{93}{subsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.3.6}División de Datos}{95}{subsection.6.3.6}%
+\contentsline {subsection}{\numberline {6.3.7}Construcción del Modelo}{97}{subsection.6.3.7}%
+\contentsline {subsection}{\numberline {6.3.8}Regularización y Compilación}{98}{subsection.6.3.8}%
+\contentsline {subsection}{\numberline {6.3.9}Entrenamiento del Modelo}{100}{subsection.6.3.9}%
+\contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{101}{subsection.6.3.10}%
+\contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{102}{subsection.6.3.11}%
+\contentsline {chapter}{Referencias}{104}{chapter*.50}%
