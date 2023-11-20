@@ -169,3 +169,19 @@ De la misma manera que la estacionariedad e invertibilidad se aplican a los mode
     \item Autorregresión: ARIMA($p$,0,0)
     \item Media móvil: ARIMA(0,0,$q$)
 \end{itemize}
+
+Teniendo en cuenta todo lo anteriormente mencionado, se ocuparan métodos que ayudaran a medir la certeza de los modelos aplicados, entre los cuales se encuentra el método Akaike´s Information Criterion (AIC).
+
+El valor AIC se obtiene luego de aplicar el método \textbf{Akaike´s Information Criterion (AIC)} al modelo de series temporales aplicado, este valor estima el error de la predicción realizada \cite{forecast-time-series-arima}. Este método se encuentra definido por:
+
+\begin{equation*}
+    AIC = Tlog(\frac{SSE}{T}) + 2(k+2)
+\end{equation*}
+
+Donde $T$ corresponde al número de observaciones que se ocuparon para realizar la estimación, la variable $k$ corresponde al número de predictores presentes en el modelo y el valor $SSE$ corresponde a la suma de errores cuadrados, definido de la siguiente manera\cite{forecast-time-series-arima}:
+
+\begin{equation*}
+    SSE = \sum_{t=1}^{T}{e_t^{2}}
+\end{equation*}
+
+Por lo que el modelo que logre minimizar al maximo el valor AIC, se puede considerar como el mejor modelo para realizar predicciones \cite{forecast-time-series-arima}.

@@ -1,0 +1,1974 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  20 NOV 2023 17:43
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/crist/OneDrive/Documentos/GitHub/informes-tt/TT2/Informe.tex
+(c:/Users/crist/OneDrive/Documentos/GitHub/informes-tt/TT2/Informe.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-16>
+(c:/texlive/2023/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(c:/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (c:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2023/05/11 v3.89 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen141
+\l@unhyphenated=\language87
+ (c:/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+ (c:/texlive/2023/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks19
+\es@quotdepth=\count196
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+)) (c:/texlive/2023/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks21
+) (c:/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen152
+\ttl@minus=\dimen153
+\ttl@toksa=\toks22
+\titlewidth=\dimen154
+\titlewidthlast=\dimen155
+\titlewidthfirst=\dimen156
+) (c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen157
+\captionmargin=\dimen158
+\caption@leftmargin=\dimen159
+\caption@rightmargin=\dimen160
+\caption@width=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count266
+\c@continuedfloat=\count267
+) (c:/texlive/2023/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read3
+) (c:/texlive/2023/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip52
+\cftbeforetoctitleskip=\skip53
+\cftaftertoctitleskip=\skip54
+\cftbeforepartskip=\skip55
+\cftpartnumwidth=\skip56
+\cftpartindent=\skip57
+\cftbeforechapskip=\skip58
+\cftchapindent=\skip59
+\cftchapnumwidth=\skip60
+\cftbeforesecskip=\skip61
+\cftsecindent=\skip62
+\cftsecnumwidth=\skip63
+\cftbeforesubsecskip=\skip64
+\cftsubsecindent=\skip65
+\cftsubsecnumwidth=\skip66
+\cftbeforesubsubsecskip=\skip67
+\cftsubsubsecindent=\skip68
+\cftsubsubsecnumwidth=\skip69
+\cftbeforeparaskip=\skip70
+\cftparaindent=\skip71
+\cftparanumwidth=\skip72
+\cftbeforesubparaskip=\skip73
+\cftsubparaindent=\skip74
+\cftsubparanumwidth=\skip75
+\cftbeforeloftitleskip=\skip76
+\cftafterloftitleskip=\skip77
+\cftbeforefigskip=\skip78
+\cftfigindent=\skip79
+\cftfignumwidth=\skip80
+\c@lofdepth=\count268
+\c@lotdepth=\count269
+\cftbeforelottitleskip=\skip81
+\cftafterlottitleskip=\skip82
+\cftbeforetabskip=\skip83
+\cfttabindent=\skip84
+\cfttabnumwidth=\skip85
+) (c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count270
+\float@exts=\toks25
+\float@box=\box52
+\@float@everytoks=\toks26
+\@floatcapt=\box53
+) (c:/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-05-16 v7.00y Hypertext links for LaTeX
+ (c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (c:/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (c:/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (c:/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (c:/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (c:/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (c:/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (c:/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-05-16 v2.51 Cross-referencing by name of section
+ (c:/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (c:/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count271
+) (c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count272
+)
+\@linkdim=\dimen165
+\Hy@linkcounter=\count273
+\Hy@pagecounter=\count274
+ (c:/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-05-16 v7.00y Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (c:/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count275
+ (c:/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-05-16 v7.00y Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count276
+ (c:/texlive/2023/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen166
+ (c:/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (c:/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count277
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+ (c:/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count278
+\c@Item=\count279
+\c@Hfootnote=\count280
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (c:/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-05-16 v7.00y Hyperref driver for pdfTeX
+ (c:/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count281
+\c@bookmark@seq@number=\count282
+ (c:/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (c:/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip86
+) (c:/texlive/2023/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count283
+\bibleftmargin=\skip87
+\bibindent=\skip88
+\bibparsep=\skip89
+\bibitemsep=\skip90
+\biblabelsep=\skip91
+) (c:/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip92
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen169
+)) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen170
+) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count284
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count285
+\leftroot@=\count286
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count287
+\DOTSCASE@=\count288
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen171
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count289
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count290
+\dotsspace@=\muskip17
+\c@parentequation=\count291
+\dspbrk@lvl=\count292
+\tag@help=\toks28
+\row@=\count293
+\column@=\count294
+\maxfields@=\count295
+\andhelp@=\toks29
+\eqnshift@=\dimen172
+\alignsep@=\dimen173
+\tagshift@=\dimen174
+\tagwidth@=\dimen175
+\totwidth@=\dimen176
+\lineht@=\dimen177
+\@envbody=\toks30
+\multlinegap=\skip93
+\multlinetaggap=\skip94
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (c:/texlive/2023/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count296
+\lst@gtempboxa=\box56
+\lst@token=\toks32
+\lst@length=\count297
+\lst@currlwidth=\dimen178
+\lst@column=\count298
+\lst@pos=\count299
+\lst@lostspace=\dimen179
+\lst@width=\dimen180
+\lst@newlines=\count300
+\lst@lineno=\count301
+\lst@maxwidth=\dimen181
+ (c:/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count302
+\lst@skipnumbers=\count303
+\lst@framebox=\box57
+) (c:/texlive/2023/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (c:/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip95
+\f@nch@O@elh=\skip96
+\f@nch@O@erh=\skip97
+\f@nch@O@olh=\skip98
+\f@nch@O@orh=\skip99
+\f@nch@O@elf=\skip100
+\f@nch@O@erf=\skip101
+\f@nch@O@olf=\skip102
+\f@nch@O@orf=\skip103
+) (c:/texlive/2023/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (c:/texlive/2023/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+) (c:/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+) (c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)) (c:/texlive/2023/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language88
+LaTeX Info: Redefining \_ on input line 43.
+) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count304
+\l__pdf_internal_box=\box58
+) (./Informe.aux
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+)
+\openout1 = `Informe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count305
+\scratchdimen=\dimen182
+\scratchbox=\box59
+\nofMPsegments=\count306
+\nofMParguments=\count307
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count308
+\MPscratchDim=\dimen183
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
+\everyMPtoPDFconversion=\toks34
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 429.3521pt, 71.13188pt)
+* v-part:(T,H,B)=(113.81102pt, 610.02708pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=429.3521pt
+* \textheight=610.02708pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=4.54103pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 48.
+(./Informe.out) (./Informe.out)
+\@outlinefile=\write4
+\openout4 = `Informe.out'.
+
+\c@maskedRefs=\count311
+ (c:/texlive/2023/texmf-dist/tex/latex/apacite/spanish.apc
+File: spanish.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 138.
+LaTeX Info: Redefining \BHBI on input line 139.
+)
+\c@lstlisting=\count312
+
+Couldn't patch \ttl@straight@ii
+Couldn't patch \ttl@straight@ii
+<img/logocolor.png, id=265, 57.71562pt x 73.77562pt>
+File: img/logocolor.png Graphic file (type png)
+<use img/logocolor.png>
+Package pdftex.def Info: img/logocolor.png  used on input line 54.
+(pdftex.def)             Requested size: 56.90524pt x 85.36023pt.
+[1
+
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/logocolor.png>] (./Informe.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 2.
+
+
+Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
+(spanish)                faked small caps on input line 2.
+
+
+Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
+(spanish)                faked small caps on input line 3.
+
+[2] [3])
+\tf@toc=\write5
+\openout5 = `Informe.toc'.
+
+ [4] (./Informe.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (36.85284pt too wide) in paragraph at lines 18--18
+ [][] [][]\OT1/cmr/m/n/12 Aplicaci^^Son de lo-gar-ti-mos y di-fe-ren-cia-ci^^Son es-ta-cio-nal a ven-tas de me-di-ca-men-tos 
+ []
+
+[5])
+\tf@lof=\write6
+\openout6 = `Informe.lof'.
+
+ [6] (./Presentación del proyecto/Resumen.tex)
+Overfull \hbox (25.48299pt too wide) in paragraph at lines 10--109
+[]\OT1/cmr/bx/sc/12 Palabras cla-ve: \OT1/cmr/m/n/12 Afi-lia-do, Ad-mi-nis-tra-do-ra de Fon-dos de Pen-sio-nes, API (Ap-pli-ca-tion
+ []
+
+
+Overfull \hbox (10.36137pt too wide) in paragraph at lines 10--109
+\OT1/cmr/m/n/12 Pro-gram-ming In-ter-fa-ces), EDA (Ex-plo-ra-tory Da-ta Analy-sis), Al-go-rit-mos de pre-dic-ci^^Son,
+ []
+
+[7
+
+] [8] (./Presentación del proyecto/Abstract.tex
+Overfull \hbox (1.45078pt too wide) in paragraph at lines 3--4
+[]\OT1/cmr/m/n/12 The main ob-jec-ti-ve of this pro-ject is to analy-ze AFP Ca-pi-tal cus-to-mers' beha-vior
+ []
+
+)
+Overfull \hbox (18.33281pt too wide) in paragraph at lines 9--115
+[]\OT1/cmr/bx/sc/12 Keywords: \OT1/cmr/m/n/12 Af-fi-lia-te, Pen-sion Fund Ad-mi-nis-tra-tor, API (Ap-pli-ca-tion Pro-gram-ming
+ []
+
+
+Overfull \hbox (43.70134pt too wide) in paragraph at lines 9--115
+\OT1/cmr/m/n/12 Al-go-rithms, Pre-dic-ti-ve Mo-dels, ETL (Ex-tract, Trans-form and Load) ARI-MA (Au-to-Re-gres-si-ve
+ []
+
+[9
+
+] [10]
+Cap\'{\i }tulo 1.
+
+Overfull \hbox (42.6544pt too wide) in paragraph at lines 121--121
+|\OT1/cmr/bx/n/24.88 CAP[]ITU-LO 1: PRE-SEN-TA-CI[]ON DEL
+ []
+
+(./Presentación del proyecto/Descripción del trabajo de título.tex) (./Presentación del proyecto/Objetivos.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 \item D
+           esarrollar un modelo capaz de predecir el comportamiento de los c... [1
+
+
+]) (./Presentación del proyecto/Alcances y limitaciones.tex [2]) [3]
+Cap\'{\i }tulo 2.
+(./La empresa/intro_cap_empresa.tex
+Overfull \hbox (6.67426pt too wide) in paragraph at lines 1--2
+[]\OT1/cmr/m/n/12 AFP Ca-pi-tal se eri-ge co-mo un ac-tor des-ta-ca-do en su in-dus-tria, con una tra-yec-to-ria
+ []
+
+) (./La empresa/Historia.tex
+Overfull \hbox (11.3395pt too wide) in paragraph at lines 1--2
+[]\OT1/cmr/m/n/12 La his-to-ria de AFP Ca-pi-tal se re-mon-ta a no-viem-bre de 1980, cuan-do se im-ple-ment^^So
+ []
+
+
+Overfull \hbox (6.70024pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 des-tac^^So por su fi-lo-sof^^S^^Pa de ser-vi-cio, en-fo-ca-da en sa-tis-fa-cer las ne-ce-si-da-des y ex-pec-ta-ti-vas
+ []
+
+
+Overfull \hbox (10.7365pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/12 li-de-raz-go de AFP Ca-pi-tal en el mer-ca-do pre-vi-sio-nal chi-leno y con-tri-buir a su cre-ci-mien-to
+ []
+
+
+Overfull \hbox (11.49231pt too wide) in paragraph at lines 7--8
+[]\OT1/cmr/m/n/12 Posteriormente, en 2008, AFP Ca-pi-tal llev^^So a ca-bo una fu-si^^Son con AFP Ban-san-der,
+ []
+
+[4
+
+]
+Overfull \hbox (2.00487pt too wide) in paragraph at lines 9--10
+[]\OT1/cmr/m/n/12 En re-su-men, la his-to-ria de AFP Ca-pi-tal est^^Sa mar-ca-da por su cons-tan-te evo-lu-ci^^Son,
+ []
+
+<img/historia-afp-capital.jpg, id=467, 865.2325pt x 345.29pt>
+File: img/historia-afp-capital.jpg Graphic file (type jpg)
+<use img/historia-afp-capital.jpg>
+Package pdftex.def Info: img/historia-afp-capital.jpg  used on input line 23.
+(pdftex.def)             Requested size: 472.28992pt x 188.47699pt.
+
+Overfull \hbox (42.93782pt too wide) in paragraph at lines 21--25
+[][] 
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 27--28
+[]\OT1/cmr/m/n/12 Fuente: AFP Ca-pi-tal. Re-cu-pe-ra-do de []$\OT1/cmtt/m/n/12 https :// www [] .afpcapital [] .cl /
+ []
+
+) (./La empresa/Descripción general.tex
+Overfull \hbox (4.06186pt too wide) in paragraph at lines 1--2
+[]\OT1/cmr/m/n/12 AFP Ca-pi-tal es una des-ta-ca-da com-pa~n^^S^^Pa chi-le-na de-di-ca-da al ne-go-cio de pen-sio-nes
+ []
+
+[5 <./img/historia-afp-capital.jpg>]) (./La empresa/Misión.tex)
+Overfull \hbox (13.58752pt too wide) in paragraph at lines 1--143
+\OT1/cmr/m/n/12 n^^Sume-ro, su Pen-si^^Son, cre-cien-do sus-ten-ta-ble-men-te, de-sa-rro-llan-do a nues-tros co-la-bo-ra-do-res
+ []
+
+(./La empresa/Visión.tex) [6] [7]
+Cap\'{\i }tulo 3.
+
+Overfull \hbox (1.21642pt too wide) in paragraph at lines 146--146
+|\OT1/cmr/bx/n/24.88 CAP[]ITU-LO 3: MAR-CO TE[]ORI-CO| 
+ []
+
+(./Marco teórico/intro_cap_marco.tex)
+Overfull \hbox (5.78505pt too wide) in paragraph at lines 1--148
+\OT1/cmr/m/n/12 com-por-ta-mien-to de los clien-tes y afi-lia-dos en el ca-nal web y pre-sen-tar^^Sa las he-rra-mien-tas
+ []
+
+(./Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex
+Overfull \hbox (7.80864pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/12 res-pal-dar la to-ma de de-ci-sio-nes in-for-ma-das so-bre es-tra-te-gias de pu-bli-ci-dad y mar-ke-ting.
+ []
+
+[8
+
+])
+Overfull \hbox (14.39758pt too wide) in paragraph at lines 151--151
+[]\OT1/cmr/bx/n/17.28 Comportamiento del clien-te/a-fi-lia-do en el ca-nal
+ []
+
+(./Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex [9]
+Overfull \hbox (26.58153pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/12 en-cuen-tra el clien-te co-mo con-su-mi-dor. Es-ta es una de las fun-cio-na-li-da-des m^^Sas tra-di-cio-na-les,
+ []
+
+) [10] (./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex
+Overfull \hbox (13.85512pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 con-si-de-ra-ci^^Son, com-pra, uso y eva-lua-ci^^Son. La eta-pa de con-cien-cia re-fie-re a la iden-ti-fi-ca-ci^^Son
+ []
+
+)
+Overfull \hbox (21.78188pt too wide) in paragraph at lines 3--157
+\OT1/cmr/m/n/12 men-sual, la ob-ten-ci^^Son de cer-ti-fi-ca-dos de co-ti-za-cio-nes, afi-lia-ci^^Son, an-te-ce-den-tes pre-vi-sio-na-les
+ []
+
+
+Overfull \hbox (2.19743pt too wide) in paragraph at lines 3--157
+\OT1/cmr/m/n/12 cer-ti-fi-ca-dos ge-ne-ra-les, co-mo de re-si-den-cia, sus-crip-ci^^Son de aho-rro pre-vi-sio-nal vo-lun-ta-rio
+ []
+
+
+Overfull \hbox (13.84601pt too wide) in paragraph at lines 3--157
+\OT1/cmr/m/n/12 En el ca-so de afi-lia-dos pen-sio-na-dos, tam-bi^^Sen se pue-den ob-te-ner cer-ti-fi-ca-dos de asig-na-ci^^Son
+ []
+
+[11] (./Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente.tex
+Overfull \hbox (16.65424pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/12 Por ^^Sulti-mo, el fac-tor ex-terno se re-fie-re al con-tex-to ac-tual, las con-di-cio-nes so-cio-econ^^Somi-cas
+ []
+
+
+Overfull \hbox (26.75204pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/n/12 pa-ra el usua-rio. Seg^^Sun S^^Sanchez [][]S^^Sanchez[], []2011[]), la ac-ce-si-bi-li-dad, le-gi-bi-li-dad, na-ve-ga-bi-li-dad,
+ []
+
+) [12]
+Overfull \hbox (59.88565pt too wide) in paragraph at lines 161--161
+[]\OT1/cmr/bx/n/17.28 Herramientas pa-ra la pre-dic-ci^^Son del com-por-ta-mien-to
+ []
+
+(./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex
+Overfull \hbox (0.52402pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/12 di-ver-sas t^^Secni-cas y he-rra-mien-tas, el BI per-mi-te a las em-pre-sas vi-sua-li-zar y com-pren-der
+ []
+
+[13]
+Overfull \hbox (8.78911pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/12 dis-tri-bui-do y he-rra-mien-tas es-pec^^S^^Pfi-cas pa-ra el al-ma-ce-na-mien-to, pro-ce-sa-mien-to y an^^Sali-sis
+ []
+
+
+Overfull \hbox (3.86226pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/12 de es-tos da-tos ma-si-vos. El an^^Sali-sis de Big Da-ta per-mi-te iden-ti-fi-car pa-tro-nes, ten-den-cias
+ []
+
+
+Overfull \hbox (1.15038pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/12 ar-ti-fi-cial que per-mi-te a los sis-te-mas in-form^^Sati-cos apren-der y me-jo-rar au-tom^^Sati-ca-men-te
+ []
+
+
+Overfull \hbox (8.10811pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/12 pa-tro-nes com-ple-jos en el com-por-ta-mien-to del clien-te. Es-to per-mi-te rea-li-zar pre-dic-cio-nes
+ []
+
+) [14] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex
+Overfull \hbox (8.65724pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 he-rra-mien-tas pro-por-cio-nan a las em-pre-sas y or-ga-ni-za-cio-nes la ca-pa-ci-dad de com-pren-der
+ []
+
+) [15] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/intro_modelos.tex) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex
+Overfull \hbox (27.85002pt too wide) in paragraph at lines 172--3
+\OT1/cmr/m/n/12 su nom-bre con-tie-ne \re-gre-si^^Son", en reali-dad co-rres-pon-de a un m^^Seto-do de cla-si-fi-ca-ci^^Son. 
+ []
+
+
+Overfull \hbox (16.81819pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/n/12 re-gre-si^^Son li-neal, la re-gre-si^^Son log^^S^^Psti-ca es-ti-ma la pro-ba-bi-li-dad de que una ob-ser-va-ci^^Son
+ []
+
+[16]
+Overfull \hbox (24.91124pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/12 va-lo-res pa-ra los co-efi-cien-tes del mo-de-lo con la fi-na-li-dad de ma-xi-mi-zar la ve-ro-si-mi-li-tud
+ []
+
+
+Overfull \hbox (13.09323pt too wide) in paragraph at lines 28--29
+[]\OT1/cmr/m/n/12 Una vez en-tre-na-do el mo-de-lo, se pue-de uti-li-zar pa-ra ha-cer pre-dic-cio-nes cla-si-fi-can-do
+ []
+
+
+Overfull \hbox (23.25371pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/12 nue-vas ob-ser-va-cio-nes seg^^Sun la pro-ba-bi-li-dad es-ti-ma-da. Por ejem-plo, si la pro-ba-bi-li-dad
+ []
+
+
+Overfull \hbox (2.4878pt too wide) in paragraph at lines 30--31
+\OT1/cmr/m/n/12 Es-tas va-ria-bles pre-dic-to-ras pue-den in-cluir ca-rac-ter^^S^^Psti-cas de-mogr^^Safi-cas, pa-tro-nes
+ []
+
+
+Overfull \hbox (2.71703pt too wide) in paragraph at lines 32--33
+\OT1/cmr/m/n/12 mo-de-lo de re-gre-si^^Son log^^S^^Psti-ca uti-li-zan-do t^^Secni-cas de ajus-te co-mo la ma-xi-mi-za-ci^^Son
+ []
+
+[17]
+Overfull \hbox (8.4267pt too wide) in paragraph at lines 34--35
+[]\OT1/cmr/m/n/12 Es im-por-tan-te te-ner en con-si-de-ra-ci^^Son que la ca-li-dad de las pre-dic-cio-nes de-pen-der^^Sa
+ []
+
+
+Overfull \hbox (18.97102pt too wide) in paragraph at lines 34--35
+\OT1/cmr/m/n/12 o la se-pa-ra-ci^^Son de con-jun-tos de en-tre-na-mien-to y prue-ba pa-ra eva-luar su ren-di-mien-to
+ []
+
+
+Overfull \hbox (2.23387pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/12 log^^S^^Psti-ca pue-de ma-ne-jar tan-to va-ria-bles in-de-pen-dien-tes con-ti-nuas co-mo
+ []
+
+
+Overfull \hbox (19.79341pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/12 pro-ba-bi-li-dad de per-te-nen-cia a una cla-se es-pec^^S^^Pfi-ca en lu-gar de sim-ple-men-te
+ []
+
+[18{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Overfull \hbox (7.8477pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/12 log^^S^^Psti-ca pue-de no ajus-tar-se ade-cua-da-men-te o re-que-rir trans-for-ma-cio-nes
+ []
+
+
+Overfull \hbox (9.70099pt too wide) in paragraph at lines 49--50
+[]\OT1/cmr/bx/sc/12 No ap-to pa-ra pro-ble-mas no li-nea-les: \OT1/cmr/m/n/12 Si exis-te una re-la-ci^^Son com-ple-ja
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex [19]
+Overfull \hbox (5.85028pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/12 en-ton-ces a un usua-rio nue-vo con ca-rac-ter^^S^^Psti-cas si-mi-la-res tam-bi^^Sen le podr^^S^^Pan
+ []
+
+
+Overfull \hbox (7.87387pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/12 ca-rac-ter^^S^^Psti-cas y atri-bu-tos de los ele-men-tos pa-ra re-co-men-dar otros ele-men-tos
+ []
+
+
+Overfull \hbox (2.3906pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/12 re-co-men-dar can-cio-nes o ar-tis-tas si-mi-la-res a los que un usua-rio ha es-cu-cha-do
+ []
+
+
+Overfull \hbox (10.64713pt too wide) in paragraph at lines 11--12
+[]\OT1/cmr/m/n/12 Modelos h^^S^^Pbri-dos: Es-tos mo-de-los com-bi-nan m^^Sulti-ples en-fo-ques, co-mo fil-tra-do
+ []
+
+[20]
+Overfull \hbox (21.46066pt too wide) in paragraph at lines 20--21
+[]\OT1/cmr/bx/sc/12 Descubrimiento de nue-vos ele-men-tos: \OT1/cmr/m/n/12 Los mo-de-los de re-co-men-da-ci^^Son
+ []
+
+
+Overfull \hbox (2.36443pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/12 pue-den ayu-dar a los usua-rios a des-cu-brir nue-vos ele-men-tos que podr^^S^^Pan
+ []
+
+
+Overfull \hbox (14.02675pt too wide) in paragraph at lines 21--22
+[]\OT1/cmr/bx/sc/12 Mejora de la re-ten-ci^^Son y fi-de-li-dad de los usua-rios: \OT1/cmr/m/n/12 Al pro-por-cio-nar
+ []
+
+
+Overfull \hbox (1.03944pt too wide) in paragraph at lines 28--29
+[]\OT1/cmr/bx/sc/12 Problemas de ini-cio en fr^^S^^Po: \OT1/cmr/m/n/12 Los mo-de-los de re-co-men-da-ci^^Son pue-den
+ []
+
+
+Overfull \hbox (10.1357pt too wide) in paragraph at lines 29--30
+[]\OT1/cmr/bx/sc/12 Privacidad y preo-cu-pa-cio-nes ^^Seti-cas: \OT1/cmr/m/n/12 Los mo-de-los de re-co-men-da-ci^^Son
+ []
+
+[21]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex
+Overfull \hbox (0.52817pt too wide) in paragraph at lines 174--3
+\OT1/cmr/m/n/12 Los mo-de-los de se-ries tem-po-ra-les son t^^Secni-cas uti-li-za-das pa-ra ana-li-zar y pre-de-cir
+ []
+
+[22]
+Overfull \hbox (25.31065pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/n/12 va-lo-res de la se-rie tem-po-ral. Se uti-li-za pa-ra cap-tu-rar ten-den-cias y es-ta-cio-na-li-dad
+ []
+
+
+Overfull \hbox (14.07655pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/12 cui-da-do-so pa-ra la se-lec-ci^^Son del mo-de-lo, la iden-ti-fi-ca-ci^^Son de pa-tro-nes y la eva-lua-ci^^Son
+ []
+
+
+Overfull \hbox (5.65086pt too wide) in paragraph at lines 21--22
+[]\OT1/cmr/bx/sc/12 Captura de pa-tro-nes tem-po-ra-les: \OT1/cmr/m/n/12 Los mo-de-los de se-ries tem-po-ra-les
+ []
+
+
+Overfull \hbox (6.87169pt too wide) in paragraph at lines 23--24
+[]\OT1/cmr/bx/sc/12 Utilizaci^^Son de da-tos se-cuen-cia-les: \OT1/cmr/m/n/12 Los mo-de-los de se-ries tem-po-ra-les
+ []
+
+
+Overfull \hbox (11.04628pt too wide) in paragraph at lines 23--24
+\OT1/cmr/m/n/12 apro-ve-chan la es-truc-tu-ra se-cuen-cial de los da-tos y uti-li-zan la in-for-ma-ci^^Son
+ []
+
+[23]
+Overfull \hbox (17.37816pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/12 de mo-de-los de se-ries tem-po-ra-les que se pue-den uti-li-zar seg^^Sun la na-tu-ra-le-za
+ []
+
+
+Overfull \hbox (9.25688pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/12 pre-sen-cia de da-tos fal-tan-tes o va-lo-res at^^S^^Ppi-cos. Es-tos pue-den dis-tor-sio-nar
+ []
+
+
+Overfull \hbox (11.5429pt too wide) in paragraph at lines 30--31
+\OT1/cmr/m/n/12 ha-cer pre-dic-cio-nes pre-ci-sas. En au-sen-cia de da-tos su-fi-cien-tes, los mo-de-los
+ []
+
+
+Overfull \hbox (10.23863pt too wide) in paragraph at lines 31--32
+[]\OT1/cmr/bx/sc/12 Problemas con cam-bios es-truc-tu-ra-les: \OT1/cmr/m/n/12 Si hay cam-bios es-truc-tu-ra-les
+ []
+
+
+Overfull \hbox (3.47545pt too wide) in paragraph at lines 31--32
+\OT1/cmr/m/n/12 en la es-ta-cio-na-li-dad o en los pa-tro-nes), los mo-de-los de se-ries tem-po-ra-les
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex
+Overfull \hbox (5.22812pt too wide) in paragraph at lines 175--3
+\OT1/cmr/m/n/12 Los mo-de-los de atri-bu-ci^^Son per-mi-ten pre-de-cir el re-co-rri-do que los clien-tes se-guir^^San
+ []
+
+[24]
+Overfull \hbox (28.46808pt too wide) in paragraph at lines 6--7
+[]\OT1/cmr/m/n/12 Existen va-ria-dos ti-pos de mo-de-los de atri-bu-ci^^Son, to-dos tie-nen el mis-mo pro-ce-di-mien-to
+ []
+
+
+Overfull \hbox (14.80345pt too wide) in paragraph at lines 9--10
+[]\OT1/cmr/bx/sc/12 Modelo de atri-bu-ci^^Son Multi-Touch: \OT1/cmr/m/n/12 Es-te mo-de-lo de-mues-tra ser po-de-ro-so
+ []
+
+
+Overfull \hbox (26.08939pt too wide) in paragraph at lines 11--12
+[]\OT1/cmr/bx/sc/12 Modelo de atri-bu-ci^^Son Time-Decay: \OT1/cmr/m/n/12 Tam-bi^^Sen lla-ma-do mo-de-lo de atri-bu-ci^^Son
+ []
+
+[25]
+Overfull \hbox (11.15005pt too wide) in paragraph at lines 19--20
+[]\OT1/cmr/bx/sc/12 Comprender la con-tri-bu-ci^^Son de ca-da ca-nal y pun-to de con-tac-to:
+ []
+
+
+Overfull \hbox (4.46109pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/n/12 a lo-grar los ob-je-ti-vos co-mer-cia-les. Sien-do de gran ayu-da pa-ra iden-ti-fi-car
+ []
+
+
+Overfull \hbox (7.32132pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/12 Un mo-de-lo de atri-bu-ci^^Son pue-de re-ve-lar qu^^Se ca-na-les o pun-tos de con-tac-to
+ []
+
+
+Overfull \hbox (11.24211pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/12 re-que-rir un en-fo-que per-so-na-li-za-do seg^^Sun las ne-ce-si-da-des y ca-rac-ter^^S^^Psti-cas
+ []
+
+[26]
+Overfull \hbox (1.31999pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/12 per-so-nas pue-den lle-gar a con-clu-sio-nes di-fe-ren-tes ba-sa-das en los mis-mos
+ []
+
+
+Overfull \hbox (5.76015pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/12 re-sul-ta-dos, lo que pue-de ge-ne-rar cier-ta sub-je-ti-vi-dad en la in-ter-pre-ta-ci^^Son
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex
+Overfull \hbox (1.86842pt too wide) in paragraph at lines 176--3
+\OT1/cmr/m/n/12 rea-li-za di-vi-sio-nes en un sub-con-jun-to de los da-tos ba-sa-das en de-ci-sio-nes aso-cia-das
+ []
+
+
+Overfull \hbox (8.00447pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/n/12 pue-den ge-ne-rar mo-de-los pre-dic-ti-vos tan-to pa-ra va-ria-bles cuan-ti-ta-ti-vas (re-gre-si^^Son)
+ []
+
+
+Overfull \hbox (22.95424pt too wide) in paragraph at lines 6--7
+[]\OT1/cmr/m/n/12 Como se men-cion^^So an-te-rior-men-te, un ^^Sarbol de de-ci-si^^Son rea-li-za ta-reas de cla-si-fi-ca-ci^^Son.
+ []
+
+[27]
+<img/estructura-arbol-de-decision.jpg, id=637, 496.67436pt x 328.85275pt>
+File: img/estructura-arbol-de-decision.jpg Graphic file (type jpg)
+<use img/estructura-arbol-de-decision.jpg>
+Package pdftex.def Info: img/estructura-arbol-de-decision.jpg  used on input line 18.
+(pdftex.def)             Requested size: 472.28992pt x 312.71443pt.
+
+Overfull \hbox (42.93782pt too wide) in paragraph at lines 16--20
+[][] 
+ []
+
+[28 <./img/estructura-arbol-de-decision.jpg>]
+Overfull \hbox (16.1804pt too wide) in paragraph at lines 33--34
+[]\OT1/cmr/bx/sc/12 Interpretabilidad: \OT1/cmr/m/n/12 Los ^^Sarbo-les de de-ci-si^^Son son f^^Sacil-men-te in-ter-pre-ta-bles
+ []
+
+
+Overfull \hbox (27.62666pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/12 to-man las de-ci-sio-nes y qu^^Se atri-bu-tos son m^^Sas re-le-van-tes pa-ra la cla-si-fi-ca-ci^^Son. 
+ []
+
+
+Overfull \hbox (11.11519pt too wide) in paragraph at lines 34--35
+\OT1/cmr/m/n/12 exhaus-ti-va de los da-tos ni un pro-ce-sa-mien-to pre-vio com-pli-ca-do. Adem^^Sas,
+ []
+
+
+Overfull \hbox (15.85983pt too wide) in paragraph at lines 35--36
+[]\OT1/cmr/bx/sc/12 Capacidad pa-ra ma-ne-jar da-tos fal-tan-tes y va-ria-bles irre-le-van-tes:
+ []
+
+
+Overfull \hbox (10.58934pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/12 lo que sig-ni-fi-ca que pue-den ig-no-rar atri-bu-tos que no apor-tan in-for-ma-ci^^Son
+ []
+
+
+Overfull \hbox (10.529pt too wide) in paragraph at lines 36--37
+\OT1/cmr/m/n/12 tan-to pro-ble-mas de cla-si-fi-ca-ci^^Son co-mo de re-gre-si^^Son. Adem^^Sas, son ca-pa-ces
+ []
+
+
+Overfull \hbox (27.43446pt too wide) in paragraph at lines 36--37
+\OT1/cmr/m/n/12 ob-je-ti-vo. Aun-que ca-da ^^Sarbol in-di-vi-dual pue-de ser sus-cep-ti-ble al so-bre-ajus-te,
+ []
+
+[29]
+Overfull \hbox (5.50748pt too wide) in paragraph at lines 37--38
+[]\OT1/cmr/bx/sc/12 Eficiencia en tiem-po de en-tre-na-mien-to y pre-dic-ci^^Son: \OT1/cmr/m/n/12 Los ^^Sarbo-les
+ []
+
+
+Overfull \hbox (10.32532pt too wide) in paragraph at lines 42--43
+[]\OT1/cmr/bx/sc/12 Tendencia al so-bre-ajus-te: \OT1/cmr/m/n/12 Los ^^Sarbo-les de de-ci-si^^Son tie-nen la ca-pa-ci-dad
+ []
+
+
+Overfull \hbox (0.34863pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/12 de adap-tar-se de-ma-sia-do a los da-tos de en-tre-na-mien-to. Si no se con-tro-la
+ []
+
+[30]
+Overfull \hbox (27.62666pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/12 de de-ci-si^^Son pue-den ver-se afec-ta-dos por ses-gos en los da-tos de en-tre-na-mien-to,
+ []
+
+
+Overfull \hbox (22.6656pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/12 es-pe-cial-men-te cuan-do hay des-equi-li-brios en las cla-ses o fal-ta re-pre-sen-ta-ci^^Son
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex [31]
+Overfull \hbox (4.67119pt too wide) in paragraph at lines 16--17
+[]\OT1/cmr/m/n/12 A par-tir de la mues-tra de en-tre-na-mien-to, se ex-trae un por-cen-ta-je pa-ra re-ser-var-los
+ []
+
+
+Overfull \hbox (3.73586pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/12 (oob). Lue-go, se in-yec-ta otra ins-tan-cia de alea-to-rie-dad me-dian-te el agru-pa-mien-to
+ []
+
+
+Overfull \hbox (12.64046pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/12 (oob) ser^^Sa uti-li-za-da pa-ra rea-li-zar una va-li-da-ci^^Son cru-za-da, fi-na-li-zan-do la pre-dic-ci^^Son. 
+ []
+
+<img/estructura-random-forest.png, id=669, 1316.92pt x 739.76375pt>
+File: img/estructura-random-forest.png Graphic file (type png)
+<use img/estructura-random-forest.png>
+Package pdftex.def Info: img/estructura-random-forest.png  used on input line 32.
+(pdftex.def)             Requested size: 472.28992pt x 265.29883pt.
+
+Overfull \hbox (42.93782pt too wide) in paragraph at lines 30--34
+[][] 
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 36--37
+[]\OT1/cmr/m/n/12 Fuente: IBM. Re-cu-pe-ra-do de []$\OT1/cmtt/m/n/12 https :// www [] .ibm [] .com / mx [] -es / topics /
+ []
+
+[32]
+Overfull \hbox (11.37267pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/12 co-no-ci-do co-mo ran-dom fo-rest es am-plia-men-te uti-li-za-do por los cient^^S^^Pfi-cos
+ []
+
+[33 <./img/estructura-random-forest.png>]
+Overfull \hbox (2.46593pt too wide) in paragraph at lines 45--47
+[]\OT1/cmr/bx/sc/12 Importancia de la ca-rac-ter^^S^^Psti-ca f^^Sacil de de-ter-mi-nar: \OT1/cmr/m/n/12 El ran-dom
+ []
+
+
+Overfull \hbox (29.12804pt too wide) in paragraph at lines 45--47
+\OT1/cmr/m/n/12 fo-rest ofre-ce una for-ma con-ve-nien-te de eva-luar la im-por-tan-cia o con-tri-bu-ci^^Son
+ []
+
+
+Overfull \hbox (8.56575pt too wide) in paragraph at lines 45--47
+\OT1/cmr/m/n/12 pre-ci-si^^Son al per-mu-tar de for-ma alea-to-ria los va-lo-res de las ca-rac-ter^^S^^Psti-cas
+ []
+
+
+Overfull \hbox (2.88795pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/12 con-jun-tos de da-tos m^^Sas gran-des, es cier-to que se re-quie-ren m^^Sas re-cur-sos
+ []
+
+
+Overfull \hbox (23.5142pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/12 al-ma-ce-na-mien-to pa-ra ga-ran-ti-zar un fun-cio-na-mien-to efi-cien-te del al-go-rit-mo. 
+ []
+
+
+Overfull \hbox (0.34084pt too wide) in paragraph at lines 52--53
+\OT1/cmr/m/n/12 de de-ci-sio-nes re-sul-ta m^^Sas sen-ci-lla en com-pa-ra-ci^^Son con la in-ter-pre-ta-ci^^Son
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex
+Overfull \hbox (12.92511pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 an-te-rior-men-te, pre-sen-tan-do de for-ma re-su-mi-da sus Ven-ta-jas, Des-ven-ta-jas y Apli-ca-cio-nes
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]\OT1/cmr/m/n/10.95 Modelos de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]\OT1/cmr/m/n/10.95 Proporciona una
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/cmr/m/n/10.95 re-la-ci^^Son cuan-ti-ta-ti-va
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/cmr/m/n/10.95 en-tre va-ria-bles
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/cmr/m/n/10.95 in-de-pen-dien-tes y la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]\OT1/cmr/m/n/10.95 Supone una re-la-ci^^Son
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 13--14
+[]\OT1/cmr/m/n/10.95 Predicci^^Son de va-lo-res
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]\OT1/cmr/m/n/10.95 Modelos de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]\OT1/cmr/m/n/10.95 Personalizaci^^Son de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/cmr/m/n/10.95 su-ge-ren-cias pa-ra los
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 17--17
+\OT1/cmr/m/n/10.95 can-ti-dad de da-tos y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/cmr/m/n/10.95 te-ner pro-ble-mas con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+[]\OT1/cmr/m/n/10.95 Recomendaciones de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]\OT1/cmr/m/n/10.95 Captura pa-tro-nes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/cmr/m/n/10.95 tem-po-ra-les y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/cmr/m/n/10.95 es-ta-cio-na-les en los
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 21--21
+\OT1/cmr/m/n/10.95 da-tos a lo lar-go del
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]\OT1/cmr/m/n/10.95 Sensibilidad a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\OT1/cmr/m/n/10.95 va-lo-res at^^S^^Ppi-cos y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\OT1/cmr/m/n/10.95 da-tos fal-tan-tes, y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[]\OT1/cmr/m/n/10.95 Predicci^^Son de la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]\OT1/cmr/m/n/10.95 Modelos de
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 26--26
+[]\OT1/cmr/m/n/10.95 Permite cuan-ti-fi-car la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]\OT1/cmr/m/n/10.95 Puede ser dif^^S^^Pcil
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+\OT1/cmr/m/n/10.95 de in-ver-si^^Son (ROI)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+\OT1/cmr/m/n/10.95 de una cam-pa~na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]\OT1/cmr/m/n/10.95 Modelos de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]\OT1/cmr/m/n/10.95 Arbo-les de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]\OT1/cmr/m/n/10.95 Proporciona una
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 32--32
+[]\OT1/cmr/m/n/10.95 Pueden ser pro-pen-sos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/n/10.95 al so-bre-ajus-te si
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/n/10.95 no se con-tro-la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+[]\OT1/cmr/m/n/10.95 Clasificaci^^Son y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\OT1/cmr/m/n/10.95 cam-pos, co-mo
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 35--35
+[]\OT1/cmr/m/n/10.95 Modelo Ran-dom
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]\OT1/cmr/m/n/10.95 Combina m^^Sulti-ples
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\OT1/cmr/m/n/10.95 Puede ser
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/cmr/m/n/10.95 compu-tacio-nal-men-te
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/10.95 Clasificaci^^Son y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/cmr/m/n/10.95 pre-dic-ci^^Son en una
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/cmr/m/n/10.95 am-plia ga-ma de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/cmr/m/n/10.95 apli-ca-cio-nes, co-mo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/cmr/m/n/10.95 an^^Sali-sis de da-tos
+ []
+
+
+Overfull \hbox (47.99997pt too wide) in paragraph at lines 6--41
+[][] 
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/intro-series-tempo.tex) [35] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex
+<img/pasajeros-clase-econ-timeplot.png, id=695, 505.89pt x 312.41719pt>
+File: img/pasajeros-clase-econ-timeplot.png Graphic file (type png)
+<use img/pasajeros-clase-econ-timeplot.png>
+Package pdftex.def Info: img/pasajeros-clase-econ-timeplot.png  used on input line 21.
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+ [36]
+Overfull \hbox (2.06395pt too wide) in paragraph at lines 31--32
+[]\OT1/cmr/m/n/12 Tendencia (Trend): Una ten-den-cia exis-te cuan-do se pre-sen-ta un in-cre-men-to
+ []
+
+[37 <./img/pasajeros-clase-econ-timeplot.png>]
+<img/ventas-medicamentos-diab-seasonplot.png, id=713, 505.89pt x 312.41719pt>
+File: img/ventas-medicamentos-diab-seasonplot.png Graphic file (type png)
+<use img/ventas-medicamentos-diab-seasonplot.png>
+Package pdftex.def Info: img/ventas-medicamentos-diab-seasonplot.png  used on input line 52.
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+ [38]
+Overfull \hbox (1.39824pt too wide) in paragraph at lines 62--63
+[]\OT1/cmr/bx/sc/12 Gr^^Safi-cos de dis-per-si^^Son (Scat-ter-plots): \OT1/cmr/m/n/12 Es-te ti-po de gra-fi-co per-mi-te ex-plo-rar
+ []
+
+
+Overfull \hbox (9.87471pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/12 GW y tem-pe-ra-tu-ra (Cel-sius)), pa-ra 2014 en Vic-to-ria, Aus-tra-lia. Las tem-pe-ra-tu-ras
+ []
+
+<img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png, id=722, 505.89pt x 312.41719pt>
+File: img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png Graphic file (type png)
+<use img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png>
+Package pdftex.def Info: img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png  used on input line 76.
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+[39 <./img/ventas-medicamentos-diab-seasonplot.png>]
+Overfull \hbox (7.20195pt too wide) in paragraph at lines 86--87
+[]\OT1/cmr/bx/sc/12 Gr^^Safi-cos de des-fa-se (Lag plots): \OT1/cmr/m/n/12 Es-te ti-po de gr^^Safi-co re-pre-sen-ta la ob-ser-va-ci^^Son
+ []
+
+<img/producción trimestral de cerveza australiana-lagplot.png, id=731, 505.89pt x 505.89pt>
+File: img/producción trimestral de cerveza australiana-lagplot.png Graphic file (type png)
+<use img/producción trimestral de cerveza australiana-lagplot.png>
+Package pdftex.def Info: img/producción trimestral de cerveza australiana-lagplot.png  used on input line 98.
+(pdftex.def)             Requested size: 386.41426pt x 386.41791pt.
+[40 <./img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png>] [41 <./img/producción trimestral de cerveza australiana-lagplot.png>]
+Overfull \hbox (18.76686pt too wide) in paragraph at lines 116--117
+\OT1/cmr/m/n/12 de-cir que las va-ria-bles tie-nen una co-rre-la-ci^^Son po-si-ti-va [][]Hyndman y Atha-na-so-pou-los[],
+ []
+
+<img/ejemplo_autocorrelaciones.png, id=750, 593.21625pt x 56.46094pt>
+File: img/ejemplo_autocorrelaciones.png Graphic file (type png)
+<use img/ejemplo_autocorrelaciones.png>
+Package pdftex.def Info: img/ejemplo_autocorrelaciones.png  used on input line 138.
+(pdftex.def)             Requested size: 386.41426pt x 36.77928pt.
+[42]
+<img/produccion-cerveza-aust-ACF.png, id=759, 505.89pt x 176.91093pt>
+File: img/produccion-cerveza-aust-ACF.png Graphic file (type png)
+<use img/produccion-cerveza-aust-ACF.png>
+Package pdftex.def Info: img/produccion-cerveza-aust-ACF.png  used on input line 158.
+(pdftex.def)             Requested size: 386.41426pt x 135.13126pt.
+ [43 <./img/ejemplo_autocorrelaciones.png> <./img/produccion-cerveza-aust-ACF.png>]
+<img/aelec-1-ejemplo.png, id=768, 505.89pt x 312.41719pt>
+File: img/aelec-1-ejemplo.png Graphic file (type png)
+<use img/aelec-1-ejemplo.png>
+Package pdftex.def Info: img/aelec-1-ejemplo.png  used on input line 182.
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+<img/acfelec-1-ejemplo.png, id=770, 505.89pt x 176.91093pt>
+File: img/acfelec-1-ejemplo.png Graphic file (type png)
+<use img/acfelec-1-ejemplo.png>
+Package pdftex.def Info: img/acfelec-1-ejemplo.png  used on input line 200.
+(pdftex.def)             Requested size: 386.41426pt x 135.13126pt.
+ [44 <./img/aelec-1-ejemplo.png> <./img/acfelec-1-ejemplo.png>]
+Overfull \hbox (22.10863pt too wide) in paragraph at lines 210--211
+[]\OT1/cmr/bx/sc/12 Ruido Blan-co (Whi-te Noi-se): \OT1/cmr/m/n/12 Las se-ries de tiem-po que no tie-nen au-to-co-rre-la-ci^^Son
+ []
+
+<img/wnoise-1.png, id=776, 505.89pt x 312.41719pt>
+File: img/wnoise-1.png Graphic file (type png)
+<use img/wnoise-1.png>
+Package pdftex.def Info: img/wnoise-1.png  used on input line 222.
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+<img/wnoiseacf-1.png, id=778, 505.89pt x 176.91093pt>
+File: img/wnoiseacf-1.png Graphic file (type png)
+<use img/wnoiseacf-1.png>
+Package pdftex.def Info: img/wnoiseacf-1.png  used on input line 240.
+(pdftex.def)             Requested size: 386.41426pt x 135.13126pt.
+[45 <./img/wnoise-1.png>]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloARIMA.tex
+Overfull \hbox (20.35777pt too wide) in paragraph at lines 8--9
+[]\OT1/cmr/bx/sc/12 Diferenciaci^^Son: \OT1/cmr/m/n/12 Una ma-ne-ra de po-der cam-biar una se-ria de tiem-po no es-ta-cio-na-ria
+ []
+
+
+Overfull \hbox (2.51418pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/12 di-fe-ren-cia en-tre ob-ser-va-cio-nes con-se-cu-ti-vas [][]Hyndman y Atha-na-so-pou-los[], []2023[]). 
+ []
+
+[46 <./img/wnoiseacf-1.png>] [47]
+Overfull \hbox (21.02388pt too wide) in paragraph at lines 31--32
+[]\OT1/cmr/m/n/12 El va-lor de C re-pre-sen-ta el pro-me-dio de los cam-bios en-tre ob-ser-va-cio-nes con-se-cu-ti-vas
+ []
+
+
+Overfull \hbox (33.56104pt too wide) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/12 Donde $\OML/cmm/m/it/12 m \OT1/cmr/m/n/12 = []$, tam-bien son lla-ma-das "di-fe-ren-cias $\OML/cmm/m/it/12 m$\OT1/cmr/m/n/12 -desfazadas",
+ []
+
+
+Overfull \hbox (24.97783pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/12 apli-ca-cion de lo-ga-rit-mos a una se-rie de tiem-po, en es-te ca-so la ven-ta de me-di-ca-men-tos
+ []
+
+<img/a10diff-1-seasonaldiff-example.png, id=815, 505.89pt x 480.29437pt>
+File: img/a10diff-1-seasonaldiff-example.png Graphic file (type png)
+<use img/a10diff-1-seasonaldiff-example.png>
+Package pdftex.def Info: img/a10diff-1-seasonaldiff-example.png  used on input line 59.
+(pdftex.def)             Requested size: 386.41426pt x 366.867pt.
+[48]
+Overfull \hbox (2.91pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/12 di-fe-ren-cia-ci^^Son es-ta-cio-nal, el or-den de apli-ca-ci^^Son no afec-ta el re-sul-ta-do [][]Hyndman
+ []
+
+[49 <./img/a10diff-1-seasonaldiff-example.png>]
+<img/arp-1-example.png, id=834, 505.89pt x 227.34938pt>
+File: img/arp-1-example.png Graphic file (type png)
+<use img/arp-1-example.png>
+Package pdftex.def Info: img/arp-1-example.png  used on input line 97.
+(pdftex.def)             Requested size: 386.41426pt x 173.65805pt.
+ [50]
+Overfull \hbox (2.84181pt too wide) in paragraph at lines 107--108
+[]\OT1/cmr/bx/sc/12 Modelo de me-dia m^^Sovil: \OT1/cmr/m/n/12 Es-te ti-po de mo-de-lo ocu-pa el error de los pron^^Sosti-cos
+ []
+
+<img/maq-1-example.png, id=844, 505.89pt x 227.34938pt>
+File: img/maq-1-example.png Graphic file (type png)
+<use img/maq-1-example.png>
+Package pdftex.def Info: img/maq-1-example.png  used on input line 126.
+(pdftex.def)             Requested size: 386.41426pt x 173.65805pt.
+[51 <./img/arp-1-example.png>] [52 <./img/maq-1-example.png>]
+Overfull \hbox (38.6652pt too wide) in paragraph at lines 164--165
+\OT1/cmr/m/n/12 ARI-MA. Es-te mo-de-lo pre-sen-ta ca-sos es-pe-cia-les, los cua-les re-pre-sen-tan mo-de-los an-te-rior-men-te
+ []
+
+[53]
+Overfull \hbox (0.5642pt too wide) in paragraph at lines 173--174
+\OT1/cmr/m/n/12 que ayu-da-ran a me-dir la cer-te-za de los mo-de-los apli-ca-dos, en-tre los cua-les se en-cuen-tra
+ []
+
+)
+Overfull \hbox (18.70158pt too wide) in paragraph at lines 187--189
+\OT1/cmr/m/n/12 con-si-de-rar co-mo el me-jor mo-de-lo pa-ra rea-li-zar pre-dic-cio-nes [][]Hyndman y Atha-na-so-pou-los[],
+ []
+
+[54] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloSARIMA.tex
+Overfull \hbox (4.10176pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 pa-ra mo-de-lar se-ries no es-ta-cio-na-rias sin com-po-nen-tes es-ta-cio-na-les, SA-RI-MA in-cor-po-ra
+ []
+
+
+Overfull \hbox (5.85164pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/12 al rea-li-zar una pri-me-ra di-fe-ren-cia-ci^^Son no es-ta-cio-nal, se lo-gra eli-mi-nar la ten-den-cia
+ []
+
+
+Overfull \hbox (27.87389pt too wide) in paragraph at lines 12--13
+[]\OT1/cmr/bx/sc/12 Diferenciaci^^Son pa-ra ten-den-cia: \OT1/cmr/m/n/12 Cuan-do tan-to la ten-den-cia co-mo la es-ta-cio-na-li-dad
+ []
+
+[55]
+Overfull \hbox (10.4827pt too wide) in paragraph at lines 22--23
+[]\OT1/cmr/bx/sc/12 Diferenciaci^^Son pa-ra es-ta-cio-na-li-dad: \OT1/cmr/m/n/12 Cuan-do se tie-nen da-tos con com-po-nen-tes
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/redesLSTM.tex
+Overfull \hbox (39.50902pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/12 por uni-da-des, lla-ma-das neu-ro-nas, or-ga-ni-za-das en ca-pas. Es-tas neu-ro-nas est^^San in-ter-co-nec-ta-das
+ []
+
+[56] [57]
+Overfull \hbox (7.80995pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/12 c^^Selu-la al-ma-ce-na in-for-ma-ci^^Son a trav^^Ses del tiem-po, pu-dien-do ol-vi-dar se-lec-ti-va-men-te
+ []
+
+) (./Marco teórico/Metodologías/Metodología del proyecto.tex [58]
+Overfull \hbox (0.18672pt too wide) in paragraph at lines 24--25
+[]\OT1/cmr/m/n/12 Para la ter-ce-ra fa-se, se lle-var^^Sa a ca-bo el di-se~no y de-sa-rro-llo del sis-te-ma pro-pues-to,
+ []
+
+[59]) (./Marco teórico/Metodologías/Metodología del Sistema.tex
+Overfull \hbox (8.08653pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/12 me-to-do-log^^S^^Pa CRISP-DM se di-vi-de en seis fa-ses dis-tin-tas que se des-cri-ben a con-ti-nua-ci^^Son
+ []
+
+[60]
+Overfull \hbox (6.02618pt too wide) in paragraph at lines 23--24
+[]\OT1/cmr/bx/sc/12 Modelado (Mo-del): \OT1/cmr/m/n/12 En es-ta eta-pa, se uti-li-zan t^^Secni-cas de mo-de-la-do es-tad^^S^^Psti-co
+ []
+
+[61]) [62]
+Cap\'{\i }tulo 4.
+(./Proceso ETL/intro_cap_ETL.tex)
+Overfull \hbox (6.11275pt too wide) in paragraph at lines 1--204
+\OT1/cmr/m/n/12 da-tos en nu-me-ro-sas or-ga-ni-za-cio-nes, des-em-pe~nan-do un pa-pel esen-cial en la re-co-pi-la-ci^^Son,
+ []
+
+
+Overfull \hbox (17.18294pt too wide) in paragraph at lines 1--204
+\OT1/cmr/m/n/12 trans-for-ma-ci^^Son y car-ga de in-for-ma-ci^^Son cr^^S^^Pti-ca. En es-te cap^^S^^Ptu-lo del in-for-me, ex-plo-ra-re-mos
+ []
+
+(./Proceso ETL/Diseño Proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex
+Overfull \hbox (3.93037pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 rea-li-zar el pro-ce-so. Es-ta-ble-cien-do una ba-se so-li-da pa-ra el di-se~no y buen fun-cio-na-mien-to
+ []
+
+[63
+
+]
+Overfull \hbox (4.93776pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/n/12 pre-fe-ren-cias de uso en un per^^S^^Podo de-ter-mi-na-do, pa-ra po-der pre-de-cir na-ve-ga-cio-nes
+ []
+
+
+Overfull \hbox (12.0489pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/bx/sc/12 Objetivos pro-ce-so ETL: \OT1/cmr/m/n/12 Rea-li-zar las trans-for-ma-cio-nes ne-ce-sa-rias pa-ra ase-gu-rar
+ []
+
+) (./Proceso ETL/Diseño Proceso ETL/Identificacion fuente de datos.tex
+Overfull \hbox (4.53595pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 in-clu-yen-do ba-ses de da-tos, ar-chi-vos .CSV y APIs. Es-to adem^^Sas com-pren-de la de-fi-ni-ci^^Son
+ []
+
+[64]
+Overfull \hbox (13.96986pt too wide) in paragraph at lines 17--18
+[]\OT1/cmr/bx/sc/12 Output\OT1/cmr/m/n/12 : Den-tro de es-ta ^^Sulti-ma car-pe-ta se al-ma-ce-nar^^Sa la in-for-ma-ci^^Son ya pro-ce-sa-da
+ []
+
+) (./Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex
+Overfull \hbox (12.59105pt too wide) in paragraph at lines 4--5
+[]\OT1/cmr/bx/sc/12 Definici^^Son de co-lum-nas o atri-bu-tos: \OT1/cmr/m/n/12 El Da-ta-Fra-me con-tendr^^Sa nue-ve co-lum-nas
+ []
+
+[65]
+Overfull \hbox (20.66823pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/12 re-em-pla-zar los va-lo-res fal-tan-tes podr^^S^^Pa al-te-rar la re-pre-sen-ta-ci^^Son del com-por-ta-mien-to
+ []
+
+
+Overfull \hbox (16.1295pt too wide) in paragraph at lines 7--8
+[]\OT1/cmr/bx/sc/12 Gesti^^Son de da-tos ca-teg^^Sori-cos: \OT1/cmr/m/n/12 Da-do que la ma-yor^^S^^Pa de los da-tos son ca-teg^^Sori-cos,
+ []
+
+
+Overfull \hbox (3.31697pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/12 a ca-bo en Goo-gle Co-lab uti-li-zan-do Python, es-pec^^S^^Pfi-ca-men-te la bi-blio-te-ca Pan-das.
+ []
+
+) (./Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex
+Overfull \hbox (24.2087pt too wide) in paragraph at lines 1--2
+[]\OT1/cmr/m/n/12 Dentro de es-ta eta-pa, se lle-va a ca-bo la pla-ni-fi-ca-ci^^Son de-ta-lla-da de las trans-for-ma-cio-nes
+ []
+
+[66]
+Overfull \hbox (28.1751pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/12 for-ma-to y adi-cio-nal-men-te se pre-sen-tar^^Sa una pro-pues-ta pa-ra rea-li-zar la trans-for-ma-ci^^Son
+ []
+
+
+Overfull \hbox (4.58315pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/12 con-ten-gan va-lo-res nu-los. Es im-por-tan-te men-cio-nar que al-gu-nos mo-de-los tra-ba-jan
+ []
+
+)
+Overfull \hbox (2.7567pt too wide) in paragraph at lines 14--218
+\OT1/cmr/m/n/12 trans-for-ma-dos. Por lo tan-to, se ha di-se~nado un plan de-ta-lla-do con las trans-for-ma-cio-nes
+ []
+
+[67] (./Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex
+Overfull \hbox (1.58327pt too wide) in paragraph at lines 10--11
+[]\OT1/cmr/bx/sc/12 Visual Stu-dio Co-de: \OT1/cmr/m/n/12 Es un edi-tor de c^^Sodi-go fuen-te de-sa-rro-lla-do por Mi-cro-soft.
+ []
+
+[68]) (./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex
+Overfull \hbox (2.1103pt too wide) in paragraph at lines 3--4
+[]\OT1/cmr/m/n/12 Una vez im-ple-men-ta-do, se pro-ce-de a rea-li-zar prue-bas exhaus-ti-vas pa-ra ga-ran-ti-zar
+ []
+
+[69]
+Overfull \hbox (5.17703pt too wide) in paragraph at lines 9--10
+[]\OT1/cmr/m/n/12 Como pri-mer pa-so en la cons-truc-ci^^Son del pro-ce-so ETL, se im-por-tan las bi-blio-te-cas
+ []
+
+<img/valores-nulos.png, id=1011, 228.855pt x 154.5775pt>
+File: img/valores-nulos.png Graphic file (type png)
+<use img/valores-nulos.png>
+Package pdftex.def Info: img/valores-nulos.png  used on input line 24.
+(pdftex.def)             Requested size: 171.7382pt x 116.00359pt.
+[70 <./img/valores-nulos.png>]) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
+Overfull \hbox (2.2614pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/12 de m^^Setri-cas y aler-tas, se pue-den su-per-vi-sar as-pec-tos cla-ve co-mo el tiem-po de eje-cu-ci^^Son,
+ []
+
+[71]) [72]
+Cap\'{\i }tulo 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\language' on input line 228.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\langwohyphens' on input line 228.
+
+
+Overfull \hbox (54.864pt too wide) in paragraph at lines 228--228
+|\OT1/cmr/bx/n/24.88 CAP[]ITU-LO 5: []EXPLORATORY DATA
+ []
+
+(./Análisis exploratorio de datos/intro_cap_EDA.tex) (./Análisis exploratorio de datos/Introducción.tex [73
+
+]) (./Análisis exploratorio de datos/Recopilación de datos.tex
+Overfull \hbox (25.10707pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 Ca-pi-tal cons-ti-tu-yen una va-lio-sa fuen-te de in-for-ma-ci^^Son pa-ra com-pren-der el com-por-ta-mien-to
+ []
+
+
+Overfull \hbox (6.56837pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 ana-li-zar c^^Somo in-ter-act^^Suan los afi-lia-dos con los di-fe-ren-tes ca-na-les y m^^Seto-dos dis-po-ni-bles,
+ []
+
+
+Overfull \hbox (19.24632pt too wide) in paragraph at lines 3--4
+[]\OT1/cmr/m/n/12 El da-ta-set en-tre-ga-do pa-ra es-te pro-yec-to cuen-ta con 2,331,023 re-gis-tros de na-ve-ga-ci^^Son
+ []
+
+[74]) (./Análisis exploratorio de datos/Estadísticas descriptivas.tex
+Overfull \hbox (5.067pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 pro-por-cio-nar^^San un ma-yor en-ten-di-mien-to de la com-po-si-ci^^Son y es-truc-tu-ra de los re-gis-tros
+ []
+
+[75] [76]
+<img/visualizacion-canales.png, id=1050, 471.2004pt x 237.0456pt>
+File: img/visualizacion-canales.png Graphic file (type png)
+<use img/visualizacion-canales.png>
+Package pdftex.def Info: img/visualizacion-canales.png  used on input line 43.
+(pdftex.def)             Requested size: 364.95189pt x 183.59991pt.
+ [77 <./img/visualizacion-canales.png>] [78] [79]) [80]
+Cap\'{\i }tulo 6.
+(./Modelos de predicción aplicados/Modelo de series temporales.tex
+Overfull \hbox (2.83946pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/12 don-de la co-lum-na \ca-nal" es-ta-ba vac^^S^^Pa. Adi-cio-nal-men-te, la co-lum-na "fe-cha[]-even-to"fue
+ []
+
+
+Overfull \hbox (12.81758pt too wide) in paragraph at lines 12--13
+[]\OT1/cmr/bx/sc/12 Normalizaci^^Son de Fe-chas: \OT1/cmr/m/n/12 La co-lum-na 'fe-cha[]-even-to', que con-ten^^S^^Pa in-for-ma-ci^^Son
+ []
+
+
+Overfull \hbox (4.06491pt too wide) in paragraph at lines 13--14
+[]\OT1/cmr/bx/sc/12 Eliminaci^^Son de co-lum-nas in-ne-ce-sa-rias: \OT1/cmr/m/n/12 Las co-lum-nas ori-gi-na-les de 'm^^Seto-do'
+ []
+
+[81
+
+]) (./Modelos de predicción aplicados/Modelo de autoencoders.tex [82]
+Overfull \hbox (18.03975pt too wide) in paragraph at lines 12--13
+[]\OT1/cmr/bx/sc/12 Normalizaci^^Son de Fe-chas: \OT1/cmr/m/n/12 La co-lum-na \fe-cha[]-even-to", que con-ten^^S^^Pa in-for-ma-ci^^Son
+ []
+
+
+Overfull \hbox (15.4884pt too wide) in paragraph at lines 13--14
+[]\OT1/cmr/bx/sc/12 Eliminaci^^Son de co-lum-nas in-ne-ce-sa-rias: \OT1/cmr/m/n/12 Las co-lum-nas ori-gi-na-les de \m^^Seto-do"y
+ []
+
+<img/codificación one-hhot.jpg, id=1077, 753.5653pt x 472.76625pt>
+File: img/codificación one-hhot.jpg Graphic file (type jpg)
+<use img/codificación one-hhot.jpg>
+Package pdftex.def Info: img/codificación one-hhot.jpg  used on input line 27.
+(pdftex.def)             Requested size: 386.41426pt x 242.4205pt.
+[83] [84 <./img/codificación one-hhot.jpg>]
+Overfull \hbox (22.17091pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/12 en-tra-da pa-san a trav^^Ses de ca-pas den-sas, don-de se re-du-ce gra-dual-men-te la di-men-sio-na-li-dad.
+ []
+
+<img/Arquitectura modelo autoencoder.jpg, id=1087, 752.0597pt x 485.56406pt>
+File: img/Arquitectura modelo autoencoder.jpg Graphic file (type jpg)
+<use img/Arquitectura modelo autoencoder.jpg>
+Package pdftex.def Info: img/Arquitectura modelo autoencoder.jpg  used on input line 58.
+(pdftex.def)             Requested size: 425.06093pt x 274.44792pt.
+[85] [86 <./img/Arquitectura modelo autoencoder.jpg>]
+<img/Entrenamiento autoencoder.jpg, id=1096, 599.23875pt x 361.35pt>
+File: img/Entrenamiento autoencoder.jpg Graphic file (type jpg)
+<use img/Entrenamiento autoencoder.jpg>
+Package pdftex.def Info: img/Entrenamiento autoencoder.jpg  used on input line 88.
+(pdftex.def)             Requested size: 425.06093pt x 256.3232pt.
+ [87]
+Overfull \hbox (19.42796pt too wide) in paragraph at lines 98--99
+\OT1/cmr/m/n/12 clus-te-ring pa-ra la seg-men-ta-ci^^Son de usua-rios y la de-tec-ci^^Son de pa-tro-nes de com-por-ta-mien-to
+ []
+
+<img/Gráfico entrenamiento autoencoder.png, id=1102, 570.933pt x 307.1475pt>
+File: img/Gráfico entrenamiento autoencoder.png Graphic file (type png)
+<use img/Gráfico entrenamiento autoencoder.png>
+Package pdftex.def Info: img/Gráfico entrenamiento autoencoder.png  used on input line 110.
+(pdftex.def)             Requested size: 386.41426pt x 207.88739pt.
+[88 <./img/Entrenamiento autoencoder.jpg>]
+Overfull \hbox (7.53247pt too wide) in paragraph at lines 122--123
+[]\OT1/cmr/m/n/12 Sin em-bar-go, el prop^^Sosi-to ini-cial del au-to-en-co-der no era pre-de-cir com-por-ta-mien-tos
+ []
+
+[89 <./img/Gráfico entrenamiento autoencoder.png>]) (./Modelos de predicción aplicados/Modelo de clasificación.tex
+Overfull \hbox (14.71164pt too wide) in paragraph at lines 1--2
+[]\OT1/cmr/m/n/12 Se im-ple-ment^^So un mo-de-lo de cla-si-fi-ca-ci^^Son con el prop^^Sosi-to de pre-de-cir y com-pren-der
+ []
+
+
+Overfull \hbox (8.26558pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 el com-por-ta-mien-to del usua-rio bas^^Sando-se en un con-jun-to de da-tos de-ta-lla-do y com-ple-jo. 
+ []
+
+
+Overfull \hbox (11.30669pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/n/12 de da-tos cro-nol^^Sogi-ca-men-te por usua-rio y fe-cha de even-to. Es-te or-de-na-mien-to cro-nol^^Sogi-co
+ []
+
+
+Overfull \hbox (10.87798pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/n/12 es esen-cial pa-ra cual-quier mo-de-lo de cla-si-fi-ca-ci^^Son se-cuen-cial, ya que per-mi-te com-pren-der
+ []
+
+[90]
+Overfull \hbox (15.23517pt too wide) in paragraph at lines 13--14
+[]\OT1/cmr/m/n/12 Tras el or-de-na-mien-to, pro-ce-di-mos con la ge-ne-ra-ci^^Son de eti-que-tas pa-ra la su-per-vi-si^^Son
+ []
+
+
+Overfull \hbox (20.22679pt too wide) in paragraph at lines 19--20
+[]\OT1/cmr/m/n/12 Para com-pren-der me-jor las in-ter-ac-cio-nes de los usua-rios con el sis-te-ma, seg-men-ta-mos
+ []
+
+[91]
+<img/Código identificación sesiones.jpg, id=1120, 623.32875pt x 235.63031pt>
+File: img/Código identificación sesiones.jpg Graphic file (type jpg)
+<use img/Código identificación sesiones.jpg>
+Package pdftex.def Info: img/Código identificación sesiones.jpg  used on input line 41.
+(pdftex.def)             Requested size: 429.3521pt x 162.30464pt.
+ [92 <./img/Código identificación sesiones.jpg>]
+Overfull \hbox (21.12517pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/12 tex-tua-les en un for-ma-to num^^Seri-co que el mo-de-lo pue-da en-ten-der y ma-ne-jar efi-cien-te-men-te.
+ []
+
+
+Overfull \hbox (8.60852pt too wide) in paragraph at lines 60--61
+[]\OT1/cmr/m/n/12 Por ejem-plo, el m^^Seto-do \OT1/cmr/bx/sc/12 `lo-gin()` \OT1/cmr/m/n/12 podr^^S^^Pa ma-pear-se al n^^Sume-ro 1, \OT1/cmr/bx/sc/12 `ge-tAc-counts()`
+ []
+
+
+Overfull \hbox (20.27788pt too wide) in paragraph at lines 72--73
+\OT1/cmr/m/n/12 fun-cio-nan me-jor con va-ria-bles num^^Seri-cas, las cua-les pue-den ser su-je-tas a ope-ra-cio-nes
+ []
+
+[93]
+Overfull \hbox (7.93634pt too wide) in paragraph at lines 73--74
+[]\OT1/cmr/m/n/12 Adem^^Sas, la co-di-fi-ca-ci^^Son per-mi-te el uso de al-go-rit-mos de in-crus-ta-ci^^Son (em-bed-ding)
+ []
+
+<img/Código codificación categorias.jpg, id=1130, 514.17094pt x 165.61874pt>
+File: img/Código codificación categorias.jpg Graphic file (type jpg)
+<use img/Código codificación categorias.jpg>
+Package pdftex.def Info: img/Código codificación categorias.jpg  used on input line 88.
+(pdftex.def)             Requested size: 429.3521pt x 138.29999pt.
+[94 <./img/Código codificación categorias.jpg>]
+Overfull \hbox (2.71703pt too wide) in paragraph at lines 106--107
+\OT1/cmr/m/n/12 agru-pan-do los da-tos por usua-rio y se-si^^Son y lue-go lis-tan-do las ac-cio-nes co-di-fi-ca-das
+ []
+
+<img/Código construcción de secuencias.jpg, id=1135, 727.96968pt x 101.62968pt>
+File: img/Código construcción de secuencias.jpg Graphic file (type jpg)
+<use img/Código construcción de secuencias.jpg>
+Package pdftex.def Info: img/Código construcción de secuencias.jpg  used on input line 133.
+(pdftex.def)             Requested size: 429.3521pt x 59.94237pt.
+[95 <./img/Código construcción de secuencias.jpg>]
+Overfull \hbox (29.12085pt too wide) in paragraph at lines 144--145
+[]\OT1/cmr/m/n/12 Estas se-cuen-cias son fun-da-men-ta-les pa-ra el mo-de-la-do pre-dic-ti-vo, ya que pro-por-cio-nan
+ []
+
+
+Overfull \hbox (3.30452pt too wide) in paragraph at lines 144--145
+\OT1/cmr/m/n/12 el con-tex-to com-ple-to ne-ce-sa-rio pa-ra que el mo-de-lo ha-ga pre-dic-cio-nes in-for-ma-das.
+ []
+
+
+Overfull \hbox (19.3116pt too wide) in paragraph at lines 157--158
+[]\OT1/cmr/m/n/12 La di-vi-si^^Son de da-tos en con-jun-tos de en-tre-na-mien-to y prue-ba es un pa-so fun-da-men-tal
+ []
+
+[96]
+<img/Código dividir el conjunto de entrenamiento.jpg, id=1144, 706.89093pt x 39.89906pt>
+File: img/Código dividir el conjunto de entrenamiento.jpg Graphic file (type jpg)
+<use img/Código dividir el conjunto de entrenamiento.jpg>
+Package pdftex.def Info: img/Código dividir el conjunto de entrenamiento.jpg  used on input line 189.
+(pdftex.def)             Requested size: 429.3521pt x 24.23427pt.
+ [97 <./img/Código dividir el conjunto de entrenamiento.jpg>]
+Overfull \hbox (2.94342pt too wide) in paragraph at lines 220--221
+\OT1/cmr/m/n/12 Es-to per-mi-te que el mo-de-lo in-ter-pre-te me-jor es-tas en-tra-das ca-teg^^Sori-cas y cap-tu-re
+ []
+
+[98]
+<img/Arquitectura modelo clasificación.jpg, id=1153, 777.65532pt x 295.85532pt>
+File: img/Arquitectura modelo clasificación.jpg Graphic file (type jpg)
+<use img/Arquitectura modelo clasificación.jpg>
+Package pdftex.def Info: img/Arquitectura modelo clasificación.jpg  used on input line 243.
+(pdftex.def)             Requested size: 429.3521pt x 163.34842pt.
+
+Overfull \hbox (15.74138pt too wide) in paragraph at lines 257--258
+\OT1/cmr/m/n/12 Dro-pout en la ar-qui-tec-tu-ra del mo-de-lo. El Dro-pout es una t^^Secni-ca de re-gu-la-ri-za-ci^^Son
+ []
+
+
+Overfull \hbox (21.71397pt too wide) in paragraph at lines 257--258
+\OT1/cmr/m/n/12 ca-rac-ter^^S^^Psti-ca o ca-mino es-pec^^S^^Pfi-co, fo-men-tan-do as^^S^^P que apren-da ca-mi-nos re-dun-dan-tes
+ []
+
+[99 <./img/Arquitectura modelo clasificación.jpg>]
+Overfull \hbox (10.48761pt too wide) in paragraph at lines 263--264
+\OT1/cmr/m/n/12 pro-ba-bi-li-da-des; es efec-ti-va pa-ra com-pa-rar la dis-tri-bu-ci^^Son de pro-ba-bi-li-dad pre-di-cha
+ []
+
+<img/Código compilar modelo.jpg, id=1159, 563.10374pt x 37.64063pt>
+File: img/Código compilar modelo.jpg Graphic file (type jpg)
+<use img/Código compilar modelo.jpg>
+Package pdftex.def Info: img/Código compilar modelo.jpg  used on input line 277.
+(pdftex.def)             Requested size: 429.3521pt x 28.7002pt.
+[100 <./img/Código compilar modelo.jpg>]
+Overfull \hbox (15.28859pt too wide) in paragraph at lines 287--288
+\OT1/cmr/m/n/12 lis-to pa-ra ser en-tre-na-do. La com-pi-la-ci^^Son efec-ti-va ase-gu-ra que el pro-ce-so de en-tre-na-mien-to
+ []
+
+
+Overfull \hbox (2.06557pt too wide) in paragraph at lines 287--288
+\OT1/cmr/m/n/12 ^^Suti-les de los da-tos sin me-mo-ri-zar-los, lo que es cru-cial pa-ra su ren-di-mien-to en es-ce-na-rios
+ []
+
+
+Overfull \hbox (15.62466pt too wide) in paragraph at lines 295--296
+\OT1/cmr/m/n/12 que in-clu-ye tan-to las se-cuen-cias de en-tra-da (X[]-train) co-mo las eti-que-tas co-rres-pon-dien-tes
+ []
+
+[101]
+Overfull \hbox (0.9851pt too wide) in paragraph at lines 303--304
+\OT1/cmr/m/n/12 Es-tas m^^Setri-cas son in-di-ca-do-res cla-ve del ren-di-mien-to del mo-de-lo y ayu-dan a iden-ti-fi-car
+ []
+
+<img/Código entrenar el modelo.jpg, id=1168, 667.74469pt x 185.19188pt>
+File: img/Código entrenar el modelo.jpg Graphic file (type jpg)
+<use img/Código entrenar el modelo.jpg>
+Package pdftex.def Info: img/Código entrenar el modelo.jpg  used on input line 315.
+(pdftex.def)             Requested size: 429.3521pt x 119.07906pt.
+
+Overfull \hbox (4.28757pt too wide) in paragraph at lines 329--330
+[]\OT1/cmr/bx/sc/12 An^^Sali-sis de la P^^Serdi-da: \OT1/cmr/m/n/12 Los gr^^Safi-cos mues-tran que la p^^Serdi-da de en-tre-na-mien-to
+ []
+
+[102 <./img/Código entrenar el modelo.jpg>]
+Overfull \hbox (32.262pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/12 pre-ci-si^^Son de en-tre-na-mien-to (Ac-cu-racy) co-mo la pre-ci-si^^Son de va-li-da-ci^^Son (Val[]-Ac-cu-racy)
+ []
+
+<img/Gráfico modelo clasificación.jpg, id=1173, 825.83531pt x 317.68687pt>
+File: img/Gráfico modelo clasificación.jpg Graphic file (type jpg)
+<use img/Gráfico modelo clasificación.jpg>
+Package pdftex.def Info: img/Gráfico modelo clasificación.jpg  used on input line 343.
+(pdftex.def)             Requested size: 429.3521pt x 165.16902pt.
+
+Overfull \hbox (10.72974pt too wide) in paragraph at lines 353--354
+[]\OT1/cmr/m/n/12 Cuando usa-mos nues-tro mo-de-lo de cla-si-fi-ca-ci^^Son se-cuen-cial pa-ra ha-cer pre-dic-cio-nes,
+ []
+
+[103 <./img/Gráfico modelo clasificación.jpg>]) (./Informe.bbl [104]
+Underfull \hbox (badness 1442) in paragraph at lines 55--67
+[]\OT1/cmr/m/n/12 Amazon.  (2023).  \OT1/cmr/m/it/12 ?`qu^^Se es una red neu-ro-nal?  \OT1/cmr/m/n/12 Si-tio Web.  Des-car-ga-do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--177
+\OT1/cmtt/m/n/12 blogs / aws [] -spanish / como [] -crear [] -un [] -modelo [] -de [] -recomendacion [] -basado []
+ []
+
+[105
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 213--225
+\OT1/cmtt/m/n/12 # : [] : text = La % 20LSTM % 20es % 20un % 20tipo [] ,periodos % 20de % 20tiempo % 20m %
+ []
+
+[106]
+Underfull \hbox (badness 10000) in paragraph at lines 615--627
+[]$\OT1/cmtt/m/n/12 https :// towardsdatascience [] .com / recommendation [] -systems [] -explained []
+ []
+
+) [107] (./Informe.aux
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-16>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `Informe.out' has not changed.
+(rerunfilecheck)             Checksum: 394BD781E49E49FAFF961F86B11C75B5;14056.
+ ) 
+Here is how much of TeX's memory you used:
+ 16391 strings out of 475722
+ 285048 string characters out of 5785825
+ 1870763 words of memory out of 5000000
+ 36517 multiletter control sequences out of 15000+600000
+ 522808 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,15n,79p,1698b,830s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Informe.pdf (117 pages, 2926932 bytes).
+PDF statistics:
+ 1360 PDF objects out of 1440 (max. 8388607)
+ 1158 compressed objects within 12 object streams
+ 268 named destinations out of 1000 (max. 500000)
+ 676 words of extra memory for PDF output out of 10000 (max. 10000000)
+
