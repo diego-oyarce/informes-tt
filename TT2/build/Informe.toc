@@ -76,63 +76,65 @@
 \contentsline {section}{\numberline {5.1}Introducción al EDA}{75}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Recopilación de datos}{76}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Descripción de los datos}{78}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Modelos de predicción aplicados}{83}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Modelo de series de tiempo}{83}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Preprocesamiento y Preparación de Datos}{83}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Codificación y Transformación One-Hot}{83}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Construcción y Entrenamiento del Modelo}{84}{subsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.1.4}Conclusión del Modelo de series de tiempo ARIMA}{84}{subsection.6.1.4}%
-\contentsline {section}{\numberline {6.2}Modelo de autoencoders}{85}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Preprocesamiento y Preparación de Datos}{85}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Codificación One-Hot}{85}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Construcción y Entrenamiento del Modelo}{86}{subsection.6.2.3}%
-\contentsline {subsubsection}{Construcción del Codificador}{87}{section*.60}%
-\contentsline {subsubsection}{Construcción del Decodificador}{87}{section*.61}%
-\contentsline {subsubsection}{Aprendizaje Progresivo}{89}{section*.63}%
-\contentsline {subsubsection}{Evaluación y Ajustes}{89}{section*.64}%
-\contentsline {subsubsection}{Término del Entrenamiento}{89}{section*.65}%
-\contentsline {subsection}{\numberline {6.2.4}Resultados y Evaluación}{90}{subsection.6.2.4}%
-\contentsline {subsection}{\numberline {6.2.5}Conclusión del Modelo de Autoencoder}{91}{subsection.6.2.5}%
-\contentsline {section}{\numberline {6.3}Modelo de clasificación}{92}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Preprocesamiento y Preparación de Datos}{92}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Ordenamiento y Etiquetado}{93}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}Identificación de Sesiones}{93}{subsection.6.3.3}%
-\contentsline {subsubsection}{Cálculo de Diferencias de Tiempo}{94}{section*.68}%
-\contentsline {subsubsection}{Definición de un Umbral de Tiempo}{94}{section*.69}%
-\contentsline {subsubsection}{Identificación de Nuevas Sesiones}{94}{section*.70}%
-\contentsline {subsubsection}{Asignación de Identificadores de Sesión}{94}{section*.71}%
-\contentsline {subsection}{\numberline {6.3.4}Codificación de Categorías}{95}{subsection.6.3.4}%
-\contentsline {subsubsection}{Mapeo de Categorías a Números:}{95}{section*.73}%
-\contentsline {subsubsection}{Aplicación de la Codificación:}{96}{section*.74}%
-\contentsline {subsubsection}{Beneficios de la Codificación}{96}{section*.75}%
-\contentsline {subsection}{\numberline {6.3.5}Construcción de Secuencias}{97}{subsection.6.3.5}%
-\contentsline {subsubsection}{Agrupación de Eventos en Secuencias:}{97}{section*.77}%
-\contentsline {subsubsection}{Preparación para el Modelo de Red Neuronal:}{97}{section*.78}%
-\contentsline {subsubsection}{Estructura de Datos de Secuencias:}{98}{section*.79}%
-\contentsline {subsubsection}{Significado para el Modelado Predictivo:}{98}{section*.81}%
-\contentsline {subsubsection}{Alineación con Objetivos de Predicción:}{98}{section*.82}%
-\contentsline {subsection}{\numberline {6.3.6}División de Datos}{99}{subsection.6.3.6}%
-\contentsline {subsubsection}{Separación en Conjuntos de Entrenamiento y Prueba:}{99}{section*.83}%
-\contentsline {subsubsection}{Aleatorización y Estratificación:}{99}{section*.84}%
-\contentsline {subsubsection}{Importancia para la Validación del Modelo:}{99}{section*.85}%
-\contentsline {subsubsection}{Protección Contra el Sobreajuste:}{100}{section*.87}%
-\contentsline {subsubsection}{Retroalimentación para la Iteración del Modelo:}{100}{section*.88}%
-\contentsline {subsection}{\numberline {6.3.7}Construcción del Modelo}{100}{subsection.6.3.7}%
-\contentsline {subsubsection}{Selección de la Arquitectura:}{100}{section*.89}%
-\contentsline {subsubsection}{Capa de Incrustación (Embedding):}{101}{section*.90}%
-\contentsline {subsubsection}{Capas LSTM:}{101}{section*.91}%
-\contentsline {subsubsection}{Capa Densa de Salida:}{101}{section*.92}%
-\contentsline {subsection}{\numberline {6.3.8}Regularización y Compilación}{102}{subsection.6.3.8}%
-\contentsline {subsubsection}{Regularización:}{102}{section*.94}%
-\contentsline {subsubsection}{Compilación del Modelo:}{103}{section*.95}%
-\contentsline {subsubsection}{Balance entre Aprendizaje y Generalización}{103}{section*.97}%
-\contentsline {subsubsection}{Preparación para el Entrenamiento}{104}{section*.98}%
-\contentsline {subsection}{\numberline {6.3.9}Entrenamiento del Modelo}{104}{subsection.6.3.9}%
-\contentsline {subsubsection}{Alimentación de Datos al Modelo}{104}{section*.99}%
-\contentsline {subsubsection}{Uso de Datos de Validación}{104}{section*.100}%
-\contentsline {subsubsection}{Configuración del Proceso de Entrenamiento}{104}{section*.101}%
-\contentsline {subsubsection}{Monitoreo con EarlyStopping}{104}{section*.102}%
-\contentsline {subsubsection}{Evaluación del Rendimiento}{105}{section*.103}%
-\contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{105}{subsection.6.3.10}%
-\contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{106}{subsection.6.3.11}%
-\contentsline {chapter}{Referencias}{108}{chapter*.106}%
+\contentsline {subsubsection}{Distribución de días:}{80}{section*.59}%
+\contentsline {subsubsection}{Distribución de horas:}{80}{section*.60}%
+\contentsline {chapter}{\numberline {6}Modelos de predicción aplicados}{82}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Modelo de series de tiempo}{82}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Preprocesamiento y Preparación de Datos}{82}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Codificación y Transformación One-Hot}{82}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Construcción y Entrenamiento del Modelo}{83}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Conclusión del Modelo de series de tiempo ARIMA}{83}{subsection.6.1.4}%
+\contentsline {section}{\numberline {6.2}Modelo de autoencoders}{84}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Preprocesamiento y Preparación de Datos}{84}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Codificación One-Hot}{84}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Construcción y Entrenamiento del Modelo}{85}{subsection.6.2.3}%
+\contentsline {subsubsection}{Construcción del Codificador}{86}{section*.62}%
+\contentsline {subsubsection}{Construcción del Decodificador}{86}{section*.63}%
+\contentsline {subsubsection}{Aprendizaje Progresivo}{88}{section*.65}%
+\contentsline {subsubsection}{Evaluación y Ajustes}{88}{section*.66}%
+\contentsline {subsubsection}{Término del Entrenamiento}{88}{section*.67}%
+\contentsline {subsection}{\numberline {6.2.4}Resultados y Evaluación}{89}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Conclusión del Modelo de Autoencoder}{90}{subsection.6.2.5}%
+\contentsline {section}{\numberline {6.3}Modelo de clasificación}{91}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Preprocesamiento y Preparación de Datos}{91}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Ordenamiento y Etiquetado}{92}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Identificación de Sesiones}{92}{subsection.6.3.3}%
+\contentsline {subsubsection}{Cálculo de Diferencias de Tiempo}{93}{section*.70}%
+\contentsline {subsubsection}{Definición de un Umbral de Tiempo}{93}{section*.71}%
+\contentsline {subsubsection}{Identificación de Nuevas Sesiones}{93}{section*.72}%
+\contentsline {subsubsection}{Asignación de Identificadores de Sesión}{93}{section*.73}%
+\contentsline {subsection}{\numberline {6.3.4}Codificación de Categorías}{94}{subsection.6.3.4}%
+\contentsline {subsubsection}{Mapeo de Categorías a Números:}{94}{section*.75}%
+\contentsline {subsubsection}{Aplicación de la Codificación:}{95}{section*.76}%
+\contentsline {subsubsection}{Beneficios de la Codificación}{95}{section*.77}%
+\contentsline {subsection}{\numberline {6.3.5}Construcción de Secuencias}{96}{subsection.6.3.5}%
+\contentsline {subsubsection}{Agrupación de Eventos en Secuencias:}{96}{section*.79}%
+\contentsline {subsubsection}{Preparación para el Modelo de Red Neuronal:}{96}{section*.80}%
+\contentsline {subsubsection}{Estructura de Datos de Secuencias:}{97}{section*.81}%
+\contentsline {subsubsection}{Significado para el Modelado Predictivo:}{97}{section*.83}%
+\contentsline {subsubsection}{Alineación con Objetivos de Predicción:}{97}{section*.84}%
+\contentsline {subsection}{\numberline {6.3.6}División de Datos}{98}{subsection.6.3.6}%
+\contentsline {subsubsection}{Separación en Conjuntos de Entrenamiento y Prueba:}{98}{section*.85}%
+\contentsline {subsubsection}{Aleatorización y Estratificación:}{98}{section*.86}%
+\contentsline {subsubsection}{Importancia para la Validación del Modelo:}{98}{section*.87}%
+\contentsline {subsubsection}{Protección Contra el Sobreajuste:}{99}{section*.89}%
+\contentsline {subsubsection}{Retroalimentación para la Iteración del Modelo:}{99}{section*.90}%
+\contentsline {subsection}{\numberline {6.3.7}Construcción del Modelo}{99}{subsection.6.3.7}%
+\contentsline {subsubsection}{Selección de la Arquitectura:}{99}{section*.91}%
+\contentsline {subsubsection}{Capa de Incrustación (Embedding):}{100}{section*.92}%
+\contentsline {subsubsection}{Capas LSTM:}{100}{section*.93}%
+\contentsline {subsubsection}{Capa Densa de Salida:}{100}{section*.94}%
+\contentsline {subsection}{\numberline {6.3.8}Regularización y Compilación}{101}{subsection.6.3.8}%
+\contentsline {subsubsection}{Regularización:}{101}{section*.96}%
+\contentsline {subsubsection}{Compilación del Modelo:}{102}{section*.97}%
+\contentsline {subsubsection}{Balance entre Aprendizaje y Generalización}{102}{section*.99}%
+\contentsline {subsubsection}{Preparación para el Entrenamiento}{103}{section*.100}%
+\contentsline {subsection}{\numberline {6.3.9}Entrenamiento del Modelo}{103}{subsection.6.3.9}%
+\contentsline {subsubsection}{Alimentación de Datos al Modelo}{103}{section*.101}%
+\contentsline {subsubsection}{Uso de Datos de Validación}{103}{section*.102}%
+\contentsline {subsubsection}{Configuración del Proceso de Entrenamiento}{103}{section*.103}%
+\contentsline {subsubsection}{Monitoreo con EarlyStopping}{103}{section*.104}%
+\contentsline {subsubsection}{Evaluación del Rendimiento}{104}{section*.105}%
+\contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{104}{subsection.6.3.10}%
+\contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{105}{subsection.6.3.11}%
+\contentsline {chapter}{Referencias}{107}{chapter*.108}%

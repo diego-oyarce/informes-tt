@@ -1,11 +1,11 @@
 # Fdb version 4
-["bibtex Informe"] 1701055983 "Informe.aux" "Informe.bbl" "Informe" 1701060741 0
+["bibtex Informe"] 1701055983 "Informe.aux" "Informe.bbl" "Informe" 1701062058 0
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1701060737 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1701060741 0
-  "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1700432758 4973 c5e0e4ff250ccc8a7e43d2888528a713 ""
+["pdflatex"] 1701062054 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1701062058 0
+  "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1701062048 5858 1e5c123e284320c6badad2a1832ebf2a ""
   "Análisis exploratorio de datos/Introducción.tex" 1700432758 2611 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1700432758 3341 0e5b387ff9ea51a30b1ff7fbaea8aa66 ""
   "Análisis exploratorio de datos/intro_cap_EDA.tex" 1700432758 508 eddcdb20c85b4568c2ebeb59b95d9209 ""
@@ -56,10 +56,10 @@
   "Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex" 1700432759 1445 f8492ad3cfdcb93feaa3ad0a6016cea3 ""
   "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1700432759 2511 92c920dd1a42161ee6eb715998585674 ""
   "Proceso ETL/intro_cap_ETL.tex" 1700432759 502 5692a94f838bbfcce22ba21020b54237 ""
-  "build/Informe.aux" 1701060741 36992 742df2b1e0dab9127c23bdbf647144b4 "pdflatex"
-  "build/Informe.lof" 1701060741 4217 ebe5ba53e13fc358c283271335bddf7b "pdflatex"
-  "build/Informe.out" 1701060741 14057 753996b2df3c219d81d47107d2801189 "pdflatex"
-  "build/Informe.toc" 1701060741 12252 9e0dfed4fdba821a71383c0171ec5a79 "pdflatex"
+  "build/Informe.aux" 1701062058 37216 afbcd4b84c595109822119ec2bd908e9 "pdflatex"
+  "build/Informe.lof" 1701062058 4216 63e2931a787572a25f448d8d6ede0677 "pdflatex"
+  "build/Informe.out" 1701062058 14057 7c8f48f24aa5d52024571f58052815e0 "pdflatex"
+  "build/Informe.toc" 1701062058 12396 e161e1b7ed08339fbac3339ac66370f4 "pdflatex"
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1687672744 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1687673087 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcbx1200.tfm" 1687672933 1536 c09172c8f235393e6235bb4758357c41 ""
