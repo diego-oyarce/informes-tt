@@ -1,16 +1,16 @@
 # Fdb version 4
-["bibtex Informe"] 1701055983 "Informe.aux" "Informe.bbl" "Informe" 1701059929 0
+["bibtex Informe"] 1701055983 "Informe.aux" "Informe.bbl" "Informe" 1701060741 0
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1701059925 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1701059929 0
+["pdflatex"] 1701060737 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1701060741 0
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1700432758 4973 c5e0e4ff250ccc8a7e43d2888528a713 ""
   "Análisis exploratorio de datos/Introducción.tex" 1700432758 2611 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1700432758 3341 0e5b387ff9ea51a30b1ff7fbaea8aa66 ""
   "Análisis exploratorio de datos/intro_cap_EDA.tex" 1700432758 508 eddcdb20c85b4568c2ebeb59b95d9209 ""
   "Informe.bbl" 1701055983 16197 a6408b924640f76c3798742a7db504c6 "bibtex Informe"
-  "Informe.tex" 1701059919 10397 da6e680b854a8292489f83c937b440fe ""
+  "Informe.tex" 1701060561 10397 bc390d83e0bf68b4ecaa6a9aa6ff29a5 ""
   "La empresa/Descripción general.tex" 1700432759 1477 ab770493b1bdd4e4dda660e740d16091 ""
   "La empresa/Historia.tex" 1700432759 2785 732ca7c80f187011448f42f4d247f734 ""
   "La empresa/Misión.tex" 1700432759 317 49296265093c26ac3aea6238a2c13d85 ""
@@ -29,7 +29,7 @@
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex" 1701058314 4522 3a2624ef722af7fbca1b371c1269ecf1 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex" 1701058207 6154 483f57ded54b07ab16053ffe5e4e4800 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex" 1701058385 5368 1a13f9c68aaf5e7a717bd8df22268e81 ""
-  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex" 1701059799 3008 b31e25150ff2d449ae83324530a0ecd8 ""
+  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex" 1701060732 3426 817b06e3cf8b361a697f73d1e9b5c852 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/intro_modelos.tex" 1700432759 459 d63aaf6dd97c564807263ae9bca29877 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/redesLSTM.tex" 1700432759 3807 cebf838e8f68ddfc007e62919f18b368 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex" 1700432759 15232 42c7b6629d258701599c99e4c5286ba9 ""
@@ -56,10 +56,10 @@
   "Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex" 1700432759 1445 f8492ad3cfdcb93feaa3ad0a6016cea3 ""
   "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1700432759 2511 92c920dd1a42161ee6eb715998585674 ""
   "Proceso ETL/intro_cap_ETL.tex" 1700432759 502 5692a94f838bbfcce22ba21020b54237 ""
-  "build/Informe.aux" 1701059929 36992 bb2dc0a93d8b0184dc484b448bd7a29e "pdflatex"
-  "build/Informe.lof" 1701059929 4217 40ea8452b2b8f96cf4fe14c39422f598 "pdflatex"
-  "build/Informe.out" 1701059929 14057 753996b2df3c219d81d47107d2801189 "pdflatex"
-  "build/Informe.toc" 1701059929 12252 a33464fbce4d3797a99fcb52080546b4 "pdflatex"
+  "build/Informe.aux" 1701060741 36992 742df2b1e0dab9127c23bdbf647144b4 "pdflatex"
+  "build/Informe.lof" 1701060741 4217 ebe5ba53e13fc358c283271335bddf7b "pdflatex"
+  "build/Informe.out" 1701060741 14057 753996b2df3c219d81d47107d2801189 "pdflatex"
+  "build/Informe.toc" 1701060741 12252 9e0dfed4fdba821a71383c0171ec5a79 "pdflatex"
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1687672744 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1687673087 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcbx1200.tfm" 1687672933 1536 c09172c8f235393e6235bb4758357c41 ""
@@ -185,7 +185,7 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1687674720 4662804 27f73c2f767ae4579fe38abe9088e726 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1687674846 7883423 831c239deed01d10bc5b4d2ad68988d5 ""
   "c:/texlive/2023/texmf.cnf" 1687674699 713 614551405fc44b98efbf516466e3c909 ""
-  "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" 1701059919 10397 da6e680b854a8292489f83c937b440fe ""
+  "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" 1701060561 10397 bc390d83e0bf68b4ecaa6a9aa6ff29a5 ""
   "img/Arquitectura modelo autoencoder.jpg" 1700432758 147408 70f00b856ae0d9fbcd9ce034d45a4749 ""
   "img/Arquitectura modelo clasificación.jpg" 1700432758 85614 78a30700f81bd46b995905c7c44ee92d ""
   "img/Código codificación categorias.jpg" 1700432758 53744 812829fd3d7e67154e857b4ca0a02a6e ""
@@ -212,7 +212,7 @@
   "img/pasajeros-clase-econ-timeplot.png" 1700432759 76789 6de08ebfaf51fa7e0599aa8b88b30ae1 ""
   "img/produccion-cerveza-aust-ACF.png" 1700432759 19340 cac096d8e4e07d2142c69715e047fa25 ""
   "img/producción trimestral de cerveza australiana-lagplot.png" 1700432759 280165 71883230a808fe58948438bd2afc373c ""
-  "img/tabla comparativa modelos.jpg" 1701059791 178072 62d7112a66d811841d1e7f4b2619231e ""
+  "img/tabla comparativa modelos.jpg" 1701060720 204818 e5cd77b5078835125b8a7163a2c6c6ce ""
   "img/valores-nulos.png" 1700432759 9409 f4ebc17728ff82624f40d26cc5fea6de ""
   "img/ventas-medicamentos-diab-seasonplot.png" 1700432759 219076 a0e2d157e13e34066ab462a57095c7c7 ""
   "img/visualizacion-canales.png" 1700432759 20826 05855db95e286137ec178f2182c977d2 ""
