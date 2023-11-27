@@ -41,9 +41,11 @@ Un autoencoder es un tipo de red neuronal utilizada en el aprendizaje no supervi
 
 En el caso de un autoencoder con \textquotedblleft capas densas" (también conocidas como \textquotedblleft capas completamente conectadas"), cada neurona en una capa está conectada a todas las neuronas en la capa siguiente. Este tipo de arquitectura es una de las más comunes en las redes neuronales y es particularmente útil para aprender patrones complejos y no lineales en los datos.
 
-\textbf{Construcción del Codificador:} En la parte del codificador, los datos de entrada pasan a través de capas densas, donde se reduce gradualmente la dimensionalidad. Este proceso se logra reduciendo el número de neuronas en capas sucesivas, obligando así a la red a aprender una representación comprimida de los datos de entrada. Las funciones de activación como \textquotedblleft tanh" (tangente hiperbólica) pueden ser usadas aquí para introducir no linealidades en el modelo, permitiendo que el codificador aprenda representaciones más complejas.
+\subsubsection{Construcción del Codificador}
+En la parte del codificador, los datos de entrada pasan a través de capas densas, donde se reduce gradualmente la dimensionalidad. Este proceso se logra reduciendo el número de neuronas en capas sucesivas, obligando así a la red a aprender una representación comprimida de los datos de entrada. Las funciones de activación como \textquotedblleft tanh" (tangente hiperbólica) pueden ser usadas aquí para introducir no linealidades en el modelo, permitiendo que el codificador aprenda representaciones más complejas.
 
-\textbf{Construcción del Decodificador:} La segunda parte del autoencoder es el decodificador, donde la representación comprimida se procesa a través de otras capas densas para reconstruir los datos de entrada. El objetivo es que la salida sea lo más cercana posible a la entrada original. Las funciones de activación como \textquotedblleft relu" (Rectified Linear Unit) son comunes en esta etapa, proporcionando una manera eficiente y efectiva de realizar operaciones no lineales.
+\subsubsection{Construcción del Decodificador} 
+La segunda parte del autoencoder es el decodificador, donde la representación comprimida se procesa a través de otras capas densas para reconstruir los datos de entrada. El objetivo es que la salida sea lo más cercana posible a la entrada original. Las funciones de activación como \textquotedblleft relu" (Rectified Linear Unit) son comunes en esta etapa, proporcionando una manera eficiente y efectiva de realizar operaciones no lineales.
 
 \begin{figure}[H]
     \begin{minipage}[t]{0.9\textwidth}
@@ -69,11 +71,14 @@ Una época representa una iteración completa sobre el conjunto de datos de entr
 
 Las épocas son fundamentales en el proceso de entrenamiento de un modelo de aprendizaje automático:
 
-\textbf{Aprendizaje Progresivo:} Con cada época, el modelo tiene la oportunidad de aprender y adaptarse a los datos, ajustando sus parámetros (como los pesos en una red neuronal) para minimizar el error o la pérdida.
+\subsubsection{Aprendizaje Progresivo} 
+Con cada época, el modelo tiene la oportunidad de aprender y adaptarse a los datos, ajustando sus parámetros (como los pesos en una red neuronal) para minimizar el error o la pérdida.
 
-\textbf{Evaluación y Ajustes:} Al monitorear la pérdida, especialmente la pérdida de validación, al final de cada época, se puede evaluar cómo está aprendiendo el modelo. Si la pérdida de validación deja de mejorar o comienza a aumentar, puede ser una señal de sobreajuste, indicando que el modelo está aprendiendo a memorizar los datos de entrenamiento en lugar de generalizar a partir de ellos.
+\subsubsection{Evaluación y Ajustes} 
+Al monitorear la pérdida, especialmente la pérdida de validación, al final de cada época, se puede evaluar cómo está aprendiendo el modelo. Si la pérdida de validación deja de mejorar o comienza a aumentar, puede ser una señal de sobreajuste, indicando que el modelo está aprendiendo a memorizar los datos de entrenamiento en lugar de generalizar a partir de ellos.
 
-\textbf{Terminación del Entrenamiento:} El número de épocas también juega un papel crucial en la determinación de cuándo detener el entrenamiento. Demasiadas épocas pueden llevar a sobreajuste, mientras que muy pocas pueden resultar en un modelo subajustado.
+\subsubsection{Término del Entrenamiento} 
+El número de épocas también juega un papel crucial en la determinación de cuándo detener el entrenamiento. Demasiadas épocas pueden llevar a sobreajuste, mientras que muy pocas pueden resultar en un modelo subajustado.
 
 \begin{figure}[H]
     \begin{minipage}[t]{0.9\textwidth}
