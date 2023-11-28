@@ -95,7 +95,7 @@
 \contentsline {subsubsection}{Término del Entrenamiento}{88}{section*.67}%
 \contentsline {subsection}{\numberline {6.2.4}Resultados y Evaluación}{89}{subsection.6.2.4}%
 \contentsline {subsection}{\numberline {6.2.5}Conclusión del Modelo de Autoencoder}{90}{subsection.6.2.5}%
-\contentsline {section}{\numberline {6.3}Modelo de clasificación}{91}{section.6.3}%
+\contentsline {section}{\numberline {6.3}Modelo de predicción secuencial}{91}{section.6.3}%
 \contentsline {subsection}{\numberline {6.3.1}Preprocesamiento y Preparación de Datos}{91}{subsection.6.3.1}%
 \contentsline {subsection}{\numberline {6.3.2}Ordenamiento y Etiquetado}{92}{subsection.6.3.2}%
 \contentsline {subsection}{\numberline {6.3.3}Identificación de Sesiones}{92}{subsection.6.3.3}%
@@ -137,4 +137,9 @@
 \contentsline {subsubsection}{Evaluación del Rendimiento}{104}{section*.105}%
 \contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{104}{subsection.6.3.10}%
 \contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{105}{subsection.6.3.11}%
-\contentsline {chapter}{Referencias}{107}{chapter*.108}%
+\contentsline {subsection}{\numberline {6.3.12}Métricas de predicción aplicadas}{106}{subsection.6.3.12}%
+\contentsline {subsubsection}{Precisión (Precision)}{106}{section*.108}%
+\contentsline {subsubsection}{Recall (Sensibilidad o Tasa de Verdaderos Positivos)}{107}{section*.109}%
+\contentsline {subsubsection}{Puntuación F1}{107}{section*.110}%
+\contentsline {subsection}{\numberline {6.3.13}Conclusión del Modelo de Predicción Secuencial}{107}{subsection.6.3.13}%
+\contentsline {chapter}{Referencias}{109}{chapter*.111}%

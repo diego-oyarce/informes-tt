@@ -368,3 +368,34 @@ Por ejemplo, si el historial de acciones del usuario sugiere que están en proce
 En otro escenario, si un usuario ha estado interactuando con su cuenta, y el modelo predice que la próxima acción será \textquotedblleft getSSContributionsCertificate()\textquotedblright, esta predicción podría tener una probabilidad asociada del 78.76\%. Esta cifra indica que, aunque el modelo inclina su predicción hacia \textquotedblleft getSSContributionsCertificate\textquotedblright, hay una cierta incertidumbre, posiblemente debido a la variabilidad en el comportamiento del usuario o a patrones menos claros en las acciones previas.
 
 Estos ejemplos ilustran cómo el modelo no solo toma decisiones binarias, sino que proporciona un contexto cuantitativo que puede ser invaluable para la toma de decisiones basada en datos, permitiendo a los sistemas o a los operadores humanos comprender mejor y reaccionar a las predicciones del modelo.
+
+\subsection{Métricas de predicción aplicadas}
+
+Explicaremos a continuación las métricas utilizadas para evaluar el rendimiento del modelo de clasificación, detallando también los resultados obtenidos y su interpretación:
+
+\subsubsection{Precisión (Precision)}
+La precisión es una medida que nos dice cuánto podemos confiar en que las predicciones positivas del modelo son correctas. Es decir, de todas las instancias que el modelo predijo como positivas (para una clase en particular en clasificación multiclase), la precisión nos dice qué porcentaje de esas predicciones son realmente correctas.
+
+Cuando hablamos de una precisión de 0.5794 (o 57.94\%), esto significa que cuando el modelo predice que una instancia pertenece a una clase, hay un 57.94\% de probabilidad de que esa predicción sea correcta.
+
+
+\subsubsection{Recall (Sensibilidad o Tasa de Verdaderos Positivos)}
+El recall es una medida que nos indica qué proporción de instancias que son realmente positivas fueron identificadas correctamente por el modelo. En otras palabras, de todas las instancias que realmente pertenecen a una clase, el recall nos dice qué porcentaje fue correctamente identificado por el modelo.
+
+Con un recall de 0.5487 (o 54.87\%), esto indica que el modelo es capaz de identificar correctamente el 54.87\% de todas las instancias positivas en el conjunto de datos.
+
+\subsubsection{Puntuación F1}
+
+La puntuación F1 es una medida de la precisión de un test y se considera una métrica útil cuando se necesita un balance entre la precisión (precision) y el recall, especialmente si hay una distribución desigual de las clases (es decir, una clase es mucho más frecuente que otra).
+Esta es la media armónica de la precisión y el recall, y da como resultado un número entre 0 y 1, donde 1 es la puntuación F1 perfecta y 0 es la peor. La media armónica es una media que tiende a estar más cerca de los valores más pequeños, por lo que un buen rendimiento en ambos, precisión y recall, es necesario para que la puntuación F1 sea alta.
+
+Para nuestro caso, en el que tenemos una puntuación F1 de 0.5366 (o 53.66\%), esto indica que hay un equilibrio entre la precisión y el recall de tu modelo. Una puntuación de 53.66\% está cerca de lo que se podría considerar como rendimiento medio: indica que el modelo no es excepcionalmente bueno en ninguna de las dos métricas (precisión o recall), pero tampoco es particularmente malo. Una puntuación F1 más alta sería deseable, indicando un mejor equilibrio entre precisión y recall.
+
+\subsection{Conclusión del Modelo de Predicción Secuencial}
+El modelo de predicción de secuencias fue desarrollado con el objetivo de anticipar acciones futuras de los usuarios basándose en secuencias de comportamientos pasados. A pesar de que el modelo muestra una capacidad moderada para clasificar y predecir estas acciones con una precisión del 57.94\% y un recall del 54.87\%, los resultados indican que aún hay margen significativo para mejorar su precisión y confiabilidad.
+
+La puntuación F1 de 53.66\% refleja un balance entre precisión y recall, pero también subraya la necesidad de optimizar el modelo para mejorar su capacidad predictiva. Esto podría lograrse mediante la refinación de la arquitectura del modelo, ajustes en la regularización, o utilizando un conjunto de datos más amplio o representativo.
+
+Aunque el modelo actual ofrece un punto de partida sólido para la predicción de comportamientos futuros basados en datos históricos, es evidente que para aplicaciones críticas o de alta precisión, es crucial una optimización y evaluación adicional. Este análisis y mejora continua son fundamentales, especialmente en contextos donde los errores de predicción pueden tener consecuencias significativas.
+
+Por tanto, aunque el modelo actual no cumple completamente con los requisitos para una predicción altamente precisa y confiable, representa un avance importante en el camino hacia la comprensión y anticipación del comportamiento del usuario. La decisión de avanzar se centrará en ajustes y mejoras del modelo actual, así como en la exploración de nuevas técnicas y metodologías que puedan alinearse más estrechamente con los objetivos de predicción del comportamiento.
