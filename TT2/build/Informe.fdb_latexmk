@@ -1,16 +1,18 @@
 # Fdb version 4
-["bibtex Informe"] 1701055983 "Informe.aux" "Informe.bbl" "Informe" 1701138707 0
+["bibtex Informe"] 1701055983 "Informe.aux" "Informe.bbl" "Informe" 1701465571 0
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1701138703 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1701138707 0
+["pdflatex"] 1701465567 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1701465571 0
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1701062048 5858 1e5c123e284320c6badad2a1832ebf2a ""
   "Análisis exploratorio de datos/Introducción.tex" 1700432758 2611 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1700432758 3341 0e5b387ff9ea51a30b1ff7fbaea8aa66 ""
   "Análisis exploratorio de datos/intro_cap_EDA.tex" 1700432758 508 eddcdb20c85b4568c2ebeb59b95d9209 ""
+  "Api y modelo/Descripción componentes.tex" 1701460159 2798 623bf79640ec29b879bfcdc6243c4716 ""
+  "Api y modelo/Implementación API.tex" 1701465566 2622 da385bb43de43594002eee722feefafe ""
   "Informe.bbl" 1701055983 16197 a6408b924640f76c3798742a7db504c6 "bibtex Informe"
-  "Informe.tex" 1701137379 10405 bcb72b60295f2bffb62ddfa3f1650545 ""
+  "Informe.tex" 1701465344 10580 543887ab1ec8b9f066af0f9187fbd75e ""
   "La empresa/Descripción general.tex" 1700432759 1477 ab770493b1bdd4e4dda660e740d16091 ""
   "La empresa/Historia.tex" 1700432759 2785 732ca7c80f187011448f42f4d247f734 ""
   "La empresa/Misión.tex" 1700432759 317 49296265093c26ac3aea6238a2c13d85 ""
@@ -29,7 +31,7 @@
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex" 1701058314 4522 3a2624ef722af7fbca1b371c1269ecf1 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex" 1701058207 6154 483f57ded54b07ab16053ffe5e4e4800 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex" 1701058385 5368 1a13f9c68aaf5e7a717bd8df22268e81 ""
-  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex" 1701060732 3426 817b06e3cf8b361a697f73d1e9b5c852 ""
+  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex" 1701289620 3426 817b06e3cf8b361a697f73d1e9b5c852 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/intro_modelos.tex" 1700432759 459 d63aaf6dd97c564807263ae9bca29877 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/redesLSTM.tex" 1700432759 3807 cebf838e8f68ddfc007e62919f18b368 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex" 1700432759 15232 42c7b6629d258701599c99e4c5286ba9 ""
@@ -56,10 +58,10 @@
   "Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex" 1700432759 1445 f8492ad3cfdcb93feaa3ad0a6016cea3 ""
   "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1700432759 2511 92c920dd1a42161ee6eb715998585674 ""
   "Proceso ETL/intro_cap_ETL.tex" 1700432759 502 5692a94f838bbfcce22ba21020b54237 ""
-  "build/Informe.aux" 1701138707 37903 d879e1f607e0fde6abc8c12cf59b913d "pdflatex"
-  "build/Informe.lof" 1701138707 4216 63e2931a787572a25f448d8d6ede0677 "pdflatex"
-  "build/Informe.out" 1701138707 14652 848f82553e85b6eade8135e1f78734bc "pdflatex"
-  "build/Informe.toc" 1701138707 12878 c7cd854dc41c372415adabfa330ccc8f "pdflatex"
+  "build/Informe.aux" 1701465571 38744 5483705c1f1e94a2605b44924b0c395f "pdflatex"
+  "build/Informe.lof" 1701465571 4236 c4f4d0feffd37b4a640abcebda7be638 "pdflatex"
+  "build/Informe.out" 1701465571 15239 f522f3705e67d288187514ad2872d521 "pdflatex"
+  "build/Informe.toc" 1701465571 13397 92bd900f979080f358efb68c25a85c02 "pdflatex"
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1687672744 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1687673087 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcbx1200.tfm" 1687672933 1536 c09172c8f235393e6235bb4758357c41 ""
@@ -185,7 +187,7 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1687674720 4662804 27f73c2f767ae4579fe38abe9088e726 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1687674846 7883423 831c239deed01d10bc5b4d2ad68988d5 ""
   "c:/texlive/2023/texmf.cnf" 1687674699 713 614551405fc44b98efbf516466e3c909 ""
-  "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" 1701137379 10405 bcb72b60295f2bffb62ddfa3f1650545 ""
+  "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" 1701465344 10580 543887ab1ec8b9f066af0f9187fbd75e ""
   "img/Arquitectura modelo autoencoder.jpg" 1700432758 147408 70f00b856ae0d9fbcd9ce034d45a4749 ""
   "img/Arquitectura modelo clasificación.jpg" 1700432758 85614 78a30700f81bd46b995905c7c44ee92d ""
   "img/Código codificación categorias.jpg" 1700432758 53744 812829fd3d7e67154e857b4ca0a02a6e ""

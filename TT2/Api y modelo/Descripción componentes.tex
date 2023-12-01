@@ -1,0 +1,27 @@
+Se llevó a cabo la implementación de una API usando Flask, una librería de Python para crear aplicaciones web, y TensorFlow, una librería para el aprendizaje automático. La API está diseñada para realizar clasificación de secuencias, utilizando un modelo previamente entrenado y dos diccionarios JSON para el mapeo de datos.
+
+\subsection{Descripción de los componentes}
+
+Estos componentes trabajan juntos para permitir que la API reciba datos de entrada, los procese utilizando el modelo de clasificación y los mapeos, y luego devuelva una predicción con su probabilidad asociada.
+
+\subsubsection{Modelo de Clasificación con TensorFlow:}
+
+\begin{itemize}
+    \item \textbf{Uso de TensorFlow Keras:} El modelo está construido y entrenado utilizando TensorFlow, específicamente su API de alto nivel, Keras. TensorFlow es una plataforma de código abierto para aprendizaje automático, y Keras facilita la creación y entrenamiento de modelos de aprendizaje profundo.
+    \item \textbf{Archivo .h5:} Este formato de archivo es específico para modelos de Keras y almacena la arquitectura del modelo, los pesos de las neuronas, y la configuración de entrenamiento. El modelo .h5 que se carga es un modelo pre entrenado y listo para realizar predicciones.
+\end{itemize}
+
+\subsubsection{Diccionarios JSON para Mapeo de Datos:}
+
+\begin{itemize}
+    \item \textbf{Archivos method\_to\_int.json y channel\_to\_int.json:} Estos archivos contienen mapeos en formato JSON, que se utilizan para convertir los datos categóricos de entrada (métodos y canales) en valores numéricos. Esto es necesario porque los modelos de aprendizaje automático requieren entradas numéricas.
+    \item \textbf{Función de los Mapeos:} Cada método y canal se asigna a un número entero único. Por ejemplo, un método específico podría mapearse al número 3, y un canal al número 5. Estos mapeos son esenciales para procesar las entradas de manera que sean coherentes con el formato de datos usado para entrenar el modelo.
+\end{itemize}
+
+\subsubsection{API de Flask}
+
+\begin{itemize}
+    \item \textbf{Flask como Marco de Trabajo:} Flask es un microframework para Python que permite desarrollar aplicaciones web de manera sencilla. En este caso, se utiliza para crear un servidor web que puede manejar solicitudes HTTP.
+    \item \textbf{Ruta /predict:} Esta es una ruta definida en la aplicación Flask. Cuando se recibe una solicitud POST a esta ruta, la API procesa la solicitud para realizar una predicción utilizando el modelo cargado.
+    \item \textbf{Manejo de Solicitudes y Respuestas:} Flask se encarga de interpretar las solicitudes HTTP, extraer los datos JSON enviados, y luego devolver una respuesta en formato JSON después de realizar la predicción.
+\end{itemize}

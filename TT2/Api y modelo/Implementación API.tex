@@ -1,0 +1,13 @@
+El proceso de creación de nuestra API, comienza con la preparación del entorno de desarrollo. Utilizamos Python, un lenguaje de programación popular, y varias de sus bibliotecas especializadas. Primero, importamos Flask, una herramienta sencilla pero poderosa para crear aplicaciones web. Esto nos permite recibir y responder a solicitudes a través de internet. También importamos TensorFlow, una biblioteca avanzada para trabajar con aprendizaje automático, que nos ayudará a usar un modelo de clasificación, es decir, un programa entrenado para categorizar datos.
+
+Nuestro modelo de clasificación está almacenado en un archivo .h5, un formato que conserva toda la estructura y los datos del modelo. Lo cargamos usando TensorFlow, lo que significa que preparamos el modelo para que esté listo para hacer predicciones.
+
+Además del modelo, trabajamos con dos archivos JSON, method\_to\_int.json y channel\_to\_int.json. JSON es un formato de archivo que almacena información de manera estructurada y es fácil de leer tanto para humanos como para máquinas. Estos archivos contienen mapeos, que son como diccionarios que nos ayudan a convertir texto a números, ya que nuestro modelo no puede procesar texto directamente. Por ejemplo, si tenemos un método llamado \textquotedblleft análisis\textquotedblright y un canal llamado \textquotedblleft digital\textquotedblright, estos archivos nos dirán a qué número corresponde cada uno.
+
+Luego, en nuestra aplicación Flask, creamos una \textquotedblleft ruta\textquotedblright especial, \/predict. Cuando alguien envía una solicitud a esta dirección, nuestra API recibe datos en formato JSON, los procesa usando los mapeos que mencionamos antes, y ajusta la longitud de estos datos para que coincida con lo que el modelo espera, usando algo llamado pad\_sequences.
+
+Ahora, con los datos procesados, los introducimos en nuestro modelo de clasificación. El modelo analiza estos datos y nos da una predicción, que es su mejor conjetura sobre a qué categoría pertenecen los datos. Por ejemplo, puede predecir si un texto es sobre tecnología, deportes, etc., y con qué grado de confianza hace esta predicción.
+
+Finalmente, nuestra API responde a quien envió la solicitud, devolviendo la categoría predicha y la confianza del modelo en esa predicción, todo en formato JSON para que sea fácil de entender y usar.
+
+Para asegurarnos de que todo funcione correctamente, ejecutamos nuestra aplicación Flask en un modo especial de \textquotedblleft depuración\textquotedblright, que nos ayuda a identificar y solucionar problemas rápidamente.
