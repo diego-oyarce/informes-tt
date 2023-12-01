@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex Informe"] 1701055983 "Informe.aux" "Informe.bbl" "Informe" 1701465571 0
+["bibtex Informe"] 1701055983 "Informe.aux" "Informe.bbl" "Informe" 1701466129 0
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1701465567 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1701465571 0
+["pdflatex"] 1701466125 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1701466129 0
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1701062048 5858 1e5c123e284320c6badad2a1832ebf2a ""
   "Análisis exploratorio de datos/Introducción.tex" 1700432758 2611 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1700432758 3341 0e5b387ff9ea51a30b1ff7fbaea8aa66 ""
   "Análisis exploratorio de datos/intro_cap_EDA.tex" 1700432758 508 eddcdb20c85b4568c2ebeb59b95d9209 ""
-  "Api y modelo/Descripción componentes.tex" 1701460159 2798 623bf79640ec29b879bfcdc6243c4716 ""
+  "Api y modelo/Descripción componentes.tex" 1701466119 2795 855bdb52ece74c4e39974b8317da1ee5 ""
   "Api y modelo/Implementación API.tex" 1701465566 2622 da385bb43de43594002eee722feefafe ""
   "Informe.bbl" 1701055983 16197 a6408b924640f76c3798742a7db504c6 "bibtex Informe"
   "Informe.tex" 1701465344 10580 543887ab1ec8b9f066af0f9187fbd75e ""
@@ -58,10 +58,10 @@
   "Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex" 1700432759 1445 f8492ad3cfdcb93feaa3ad0a6016cea3 ""
   "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1700432759 2511 92c920dd1a42161ee6eb715998585674 ""
   "Proceso ETL/intro_cap_ETL.tex" 1700432759 502 5692a94f838bbfcce22ba21020b54237 ""
-  "build/Informe.aux" 1701465571 38744 5483705c1f1e94a2605b44924b0c395f "pdflatex"
-  "build/Informe.lof" 1701465571 4236 c4f4d0feffd37b4a640abcebda7be638 "pdflatex"
-  "build/Informe.out" 1701465571 15239 f522f3705e67d288187514ad2872d521 "pdflatex"
-  "build/Informe.toc" 1701465571 13397 92bd900f979080f358efb68c25a85c02 "pdflatex"
+  "build/Informe.aux" 1701466129 38734 17aa15f14ccc800294fc864222e740d3 "pdflatex"
+  "build/Informe.lof" 1701466129 4236 c4f4d0feffd37b4a640abcebda7be638 "pdflatex"
+  "build/Informe.out" 1701466129 15234 f529b81e29ce0b2b49e4449933f225c2 "pdflatex"
+  "build/Informe.toc" 1701466129 13387 f246ee336bab679313284bb3cfe5154e "pdflatex"
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1687672744 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1687673087 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcbx1200.tfm" 1687672933 1536 c09172c8f235393e6235bb4758357c41 ""
