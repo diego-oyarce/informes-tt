@@ -148,4 +148,5 @@
 \contentsline {subsubsection}{Diccionarios JSON para Mapeo de Datos:}{109}{section*.112}%
 \contentsline {subsubsection}{API de Flask}{110}{section*.113}%
 \contentsline {section}{\numberline {7.2}Implementación de la Api}{110}{section.7.2}%
-\contentsline {chapter}{Referencias}{112}{chapter*.114}%
+\contentsline {section}{\numberline {7.3}Dockerización de la Api}{111}{section.7.3}%
+\contentsline {chapter}{Referencias}{114}{chapter*.114}%
