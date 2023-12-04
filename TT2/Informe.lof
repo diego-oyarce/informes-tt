@@ -1,0 +1,39 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces Historia AFP Capital\relax }}{5}{figure.caption.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2}{\ignorespaces Estructura de un árbol de decisión\relax }}{28}{figure.caption.21}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Estructura de un random forest\relax }}{32}{figure.caption.25}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Tabla comparativa modelos de predicción\relax }}{37}{figure.caption.31}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Cantidad semanal de pasajeros que volaron en la clase económica de Ansett Airlines\relax }}{39}{figure.caption.33}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Ventas mensuales de medicamentos antidiabéticos en Australia\relax }}{41}{figure.caption.34}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Demanda electrica debido a las temperaturas en 2 ciudades en Australia\relax }}{42}{figure.caption.35}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Producción trimestral de cerveza australiana\relax }}{43}{figure.caption.36}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Coeficientes de autocorrelación de la producción de cerveza en Australia\relax }}{45}{figure.caption.37}%
+\contentsline {figure}{\numberline {10}{\ignorespaces ACF de la produccion trimestral de cerveza\relax }}{45}{figure.caption.38}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Demanda mensual de electricidad de Australia\relax }}{46}{figure.caption.39}%
+\contentsline {figure}{\numberline {12}{\ignorespaces ACF demanda mensual de electricidad de Australia\relax }}{46}{figure.caption.40}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Ruido blanco\relax }}{47}{figure.caption.41}%
+\contentsline {figure}{\numberline {14}{\ignorespaces ACF Ruido blanco\relax }}{48}{figure.caption.42}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Aplicación de logartimos y diferenciación estacional a ventas de medicamentos antidiabéticos\relax }}{51}{figure.caption.44}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Modelos autorregresivos con diferentes parámetros\relax }}{53}{figure.caption.45}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Modelos de media móvil con diferentes parámetros\relax }}{54}{figure.caption.46}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {18}{\ignorespaces Valores nulos en el conjunto de datos.\relax }}{72}{figure.caption.57}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {19}{\ignorespaces Distribución de canales.\relax }}{79}{figure.caption.58}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {20}{\ignorespaces Preparación y codificación one-hot de los datos\relax }}{85}{figure.caption.61}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Arquitectura del modelo autoencoder\relax }}{87}{figure.caption.64}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Entrenamiento del modelo autoencoder\relax }}{89}{figure.caption.68}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Gráfico del entrenamiento del modelo autoencoder\relax }}{90}{figure.caption.69}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Código indentificación de sesiones\relax }}{94}{figure.caption.74}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Código codificación de categorías\relax }}{95}{figure.caption.78}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Código construcción de secuencias\relax }}{97}{figure.caption.82}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Código dividir el conjunto\relax }}{99}{figure.caption.88}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Construccion del modelo de clasificación\relax }}{101}{figure.caption.95}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Construccion del compilador del modelo\relax }}{102}{figure.caption.98}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Código para entrenar el modelo\relax }}{104}{figure.caption.106}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Gráficos de análisis del modelo de clasificación\relax }}{105}{figure.caption.107}%
+\addvspace {10\p@ }
