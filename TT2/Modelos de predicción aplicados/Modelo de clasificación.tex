@@ -25,12 +25,12 @@ Iniciamos el proceso calculando el intervalo de tiempo entre eventos sucesivos p
 Establecimos un umbral temporal para identificar nuevas sesiones. Este umbral fue definido basándonos en el patrón de uso característico del sitio web, considerando que un lapso de más de 30 minutos sin actividad sugiere el fin de una sesión.
 
 \subsubsection{Identificación de Nuevas Sesiones}
-Comparando las diferencias de tiempo con nuestro umbral, pudimos identificar el inicio de nuevas sesiones. Un valor superior al umbral en la columna de diferencias de tiempo indica que la acción correspondiente es el comienzo de una nueva sesión.
+Mediante la comparación de las diferencias temporales con un umbral preestablecido, fue posible identificar el comienzo de nuevas sesiones en el conjunto de datos. En este contexto, un valor que excede el umbral establecido en la columna de diferencias de tiempo es indicativo de que la acción correspondiente marca el inicio de una nueva sesión. Esta metodología se basa en la premisa de que intervalos de tiempo sustancialmente largos entre acciones consecutivas son representativos de una pausa en la interacción del usuario, y por lo tanto, señalan el comienzo de una nueva sesión de actividad. Esta técnica es esencial para segmentar adecuadamente el conjunto de datos en sesiones individuales, lo cual es fundamental para el análisis detallado y la modelación predictiva del comportamiento de los usuarios en secuencias temporales.
 
 \subsubsection{Asignación de Identificadores de Sesión} 
-Para marcar estas nuevas sesiones de manera clara, transformamos los valores booleanos resultantes de la comparación con el umbral en un identificador numérico acumulativo. Cada vez que se detecta una nueva sesión, este identificador se incrementa gracias al método .cumsum(), asignando así un número único a cada sesión para cada usuario.
+Para identificar claramente las nuevas sesiones en nuestro conjunto de datos, se llevó a cabo una transformación de los valores booleanos, obtenidos como resultado de la comparación con el umbral establecido, en un identificador numérico acumulativo. Este proceso se implementó mediante el uso del método .cumsum(), el cual incrementa automáticamente el identificador cada vez que se detecta el inicio de una nueva sesión. De este modo, se asigna un número único y secuencial a cada sesión para cada usuario, facilitando así la distinción y el seguimiento de las distintas sesiones en el análisis posterior. Este enfoque asegura una organización coherente y una identificación precisa de las sesiones individuales dentro del conjunto de datos, lo cual es crucial para el análisis detallado y la modelación predictiva del comportamiento de los usuarios.
 
-El código utilizado para este proceso es el siguiente:
+El código que se utilizó para llevar a cabo este proceso esencial de estructuración de datos se presenta a continuación. Este fragmento de código desempeña un papel crucial en la organización de los datos, asegurando que reflejen adecuadamente los períodos de interacción activa de los usuarios con el sistema. La implementación correcta de este código es fundamental para la preparación de los datos, facilitando un análisis detallado y una modelación predictiva eficaz del comportamiento futuro de los usuarios. El siguiente código detalla cómo se efectuó esta transformación y estructuración de los datos:
 
 \begin{figure}[H]
     \begin{minipage}[t]{0.9\textwidth}
@@ -50,34 +50,34 @@ El código utilizado para este proceso es el siguiente:
     \end{minipage}
 \end{figure}
 
-Este método nos permitió estructurar el conjunto de datos de manera que refleja con precisión los períodos de interacción activa de los usuarios con el sistema, proporcionando una base sólida para el análisis y la modelación predictiva de su comportamiento futuro.
+Este método de estructuración de los datos fue fundamental para capturar con exactitud los períodos de interacción activa de los usuarios con el sistema. Al reflejar de manera precisa estas secuencias de interacción, se estableció una base sólida y fiable para el análisis detallado y la modelación predictiva del comportamiento futuro de los usuarios. Este enfoque es esencial en el aprendizaje automático, ya que proporciona el contexto y la profundidad necesarios para que el modelo pueda identificar patrones significativos y tendencias en el comportamiento de los usuarios, lo cual es crucial para realizar predicciones precisas y significativas sobre sus acciones futuras.
 
 \subsection{Codificación de Categorías}
 
-En el aprendizaje automático, es común encontrarse con datos categóricos, es decir, información que no está representada numéricamente, como los nombres de los métodos y canales en nuestro conjunto de datos. Para que estos datos puedan ser procesados por un modelo de clasificación, es necesario convertir estas categorías textuales en un formato numérico que el modelo pueda entender y manejar eficientemente. Este proceso se conoce como codificación de categorías y se llevó a cabo de la siguiente manera:
+En el campo del aprendizaje automático, es frecuente el manejo de datos categóricos, es decir, información que no se presenta en forma numérica. Un ejemplo claro son los nombres de métodos y canales en nuestro conjunto de datos. Para facilitar el procesamiento de estos datos por parte de un modelo de clasificación, es imperativo convertir estas categorías textuales a un formato numérico que el modelo pueda interpretar y manejar de manera eficiente. Este proceso de transformación se denomina codificación de categorías. La realización de esta codificación es esencial para que el modelo pueda analizar adecuadamente los datos y generar predicciones precisas. A continuación, detallamos cómo se implementó este proceso de codificación en nuestros datos:
 
 \subsubsection{Mapeo de Categorías a Números:}
 
 \begin{itemize}
-    \item Se crearon dos diccionarios: uno para \textbf{métodos} y otro para \textbf{canales}.
-    \item Cada diccionario mapea una categoría textual única a un número entero único.
-    \item Por ejemplo, el método \textbf{`login()`} podría mapearse al número 1, \textbf{`getAccounts()`} al número 2, y así sucesivamente.
+    \item En el proceso de preparación de nuestros datos, se establecieron dos diccionarios distintos: uno dedicado a los \textbf{métodos} y otro a los \textbf{canales}. Esta separación asegura una organización clara y específica, permitiendo que cada tipo de información sea codificado y manejado de manera independiente. La creación de un diccionario específico para los métodos y otro para los canales facilita el mapeo preciso de estas categorías a valores numéricos, lo cual es esencial para el procesamiento posterior y el análisis en el contexto del modelo de aprendizaje automático.
+    \item Cada diccionario en nuestro enfoque de procesamiento de datos está diseñado para asignar de manera unívoca una categoría textual a un número entero distinto. Esta correspondencia uno a uno entre las categorías textuales y los valores numéricos enteros es fundamental para la conversión eficiente de datos cualitativos en una forma cuantitativa que pueda ser procesada y analizada por el modelo de aprendizaje automático. Este mapeo asegura que cada categoría textual, representando una característica específica o una acción dentro del conjunto de datos, tenga una representación numérica única, lo cual es esencial para la integridad y la coherencia del proceso de modelado.
+    \item Como ilustración, en nuestro proceso de mapeo, el método \textbf{login()} se asigna al valor numérico 1, mientras que el método \textbf{getAccounts()} se asocia con el número 2. Este patrón de asignación numérica se repite de manera similar para los demás métodos en el conjunto de datos. Estos mapeos transforman las funciones y operaciones del usuario, originalmente expresadas en forma textual o de código, en una serie de valores numéricos discretos. Esta conversión es esencial para permitir el procesamiento computacional y el análisis cuantitativo en las etapas de modelado y entrenamiento del sistema de aprendizaje automático.
 \end{itemize}
 
 \subsubsection{Aplicación de la Codificación:}
 
 \begin{itemize}
-    \item Utilizamos estos diccionarios para transformar todas las instancias de métodos y canales en nuestro DataFrame. Cada método y canal en el conjunto de datos fue reemplazado por su valor numérico correspondiente según los diccionarios de mapeo.
+    \item En el proceso de preparación de nuestros datos, empleamos diccionarios específicos para convertir todas las instancias de métodos y canales en nuestro DataFrame a formatos numéricos. Esta transformación implicó reemplazar cada método y canal presente en el conjunto de datos por su respectivo valor numérico, tal como se define en los diccionarios de mapeo. Este enfoque asegura una representación uniforme y cuantificable de estas variables, facilitando su manipulación y análisis por parte del modelo de aprendizaje automático. La conversión a valores numéricos es esencial para la eficacia del procesamiento de datos y para la realización de operaciones matemáticas y estadísticas relevantes en las etapas subsiguientes del modelado.
 \end{itemize}
 
 \subsubsection{Beneficios de la Codificación}
 
 \begin{itemize}
-    \item Esta transformación es crucial porque los modelos de aprendizaje automático funcionan mejor con variables numéricas, las cuales pueden ser sujetas a operaciones matemáticas y estadísticas durante el entrenamiento del modelo.
-    \item Además, la codificación permite el uso de algoritmos de incrustación (embedding) que pueden capturar y representar más información sobre las categorías en dimensiones más ricas que un simple número entero.
+    \item La transformación de los datos a un formato numérico es un aspecto crítico en el campo del aprendizaje automático, dado que los modelos en esta área operan de manera más eficiente con variables numéricas. Estas variables permiten la aplicación de operaciones matemáticas y técnicas estadísticas durante el proceso de entrenamiento del modelo. La representación numérica facilita el manejo y procesamiento de los datos, permitiendo que el modelo realice cálculos complejos, optimice patrones y extraiga insights significativos. Esta capacidad es fundamental para el desarrollo de modelos que pueden aprender, adaptarse y realizar predicciones precisas basadas en los datos proporcionados.
+    \item La codificación de categorías facilita la implementación de algoritmos de incrustación (embedding), los cuales son fundamentales en el análisis avanzado de datos. Estos algoritmos de embedding tienen la capacidad de capturar y representar información sobre las categorías en un espacio de características multidimensionales, proporcionando una riqueza y una profundidad mayor que la que se obtendría mediante una simple representación numérica entera. Este enfoque permite al modelo discernir y aprender de las sutilezas y relaciones complejas inherentes a las categorías, resultando en una representación de datos más rica y matizada que es esencial para mejorar la precisión y efectividad de las predicciones del modelo.
 \end{itemize}
 
-El código para implementar la codificación de categorías es el siguiente:
+A continuación se presenta el fragmento de código implementado para llevar a cabo la codificación de categorías. Este código es un componente crucial en el proceso de preparación de los datos, ya que transforma las categorías de métodos y canales en un formato que puede ser procesado eficazmente por nuestro modelo de clasificación secuencial. La codificación adecuada es esencial para permitir que el modelo interprete y utilice esta información categórica de manera efectiva en sus procesos de aprendizaje y predicción. El siguiente código detalla cómo se realizó esta transformación:
 
 \begin{figure}[H]
     \begin{minipage}[t]{0.9\textwidth}
@@ -97,32 +97,32 @@ El código para implementar la codificación de categorías es el siguiente:
     \end{minipage}
 \end{figure}
 
-Esta etapa de codificación de categorías es un paso preparatorio esencial antes de alimentar los datos a nuestro modelo de clasificación secuencial. Permite que el modelo interprete adecuadamente los patrones en los métodos y canales como parte de la secuencia de acciones de un usuario y mejora la capacidad del modelo para hacer predicciones significativas sobre la próxima acción que el usuario podría tomar.
+La codificación de categorías representa una etapa preparatoria crítica en el proceso de preparación de datos para nuestro modelo de clasificación secuencial. Esta fase de codificación es fundamental para que el modelo pueda interpretar eficazmente los patrones presentes en los métodos y canales utilizados por los usuarios. Al convertir estas categorías en un formato estructurado y legible por la máquina, se mejora considerablemente la habilidad del modelo para analizar y comprender la secuencia de acciones del usuario. Esto, a su vez, incrementa significativamente la precisión del modelo en la realización de predicciones informadas sobre las posibles acciones futuras que el usuario podría emprender. Este paso es, por lo tanto, esencial para asegurar que el modelo no solo capture la secuencia de eventos, sino que también derive insights relevantes y significativos a partir de ellos.
 
 \subsection{Construcción de Secuencias}
 
-La construcción de secuencias es un paso crucial en la preparación de datos para el modelado de series temporales o secuenciales, como es el caso de nuestro modelo de clasificación. Este proceso implica organizar los datos de tal manera que reflejen las secuencias naturales de interacciones de los usuarios. Veamos cómo se llevó a cabo:
+La construcción de secuencias constituye un paso fundamental en la preparación de datos para el modelado en contextos de series temporales o secuenciales, como es el caso de nuestro modelo de clasificación. Este proceso implica la organización y estructuración meticulosa de los datos para que reflejen con precisión las secuencias naturales de interacciones de los usuarios. Tal organización es clave para preservar la integridad temporal y la secuencialidad inherente a los patrones de comportamiento de los usuarios. A continuación, detallamos el enfoque y los pasos específicos empleados para llevar a cabo esta tarea esencial:
 
 \subsubsection{Agrupación de Eventos en Secuencias:}
 
 \begin{itemize}
-    \item Tras la codificación de los métodos y canales, cada acción del usuario está representada por un par de números codificados. El siguiente paso es agrupar estas acciones codificadas en secuencias que representan la trayectoria completa de la interacción del usuario dentro de una sesión.
-    \item Cada secuencia se compone de pares de métodos y canales codificados y se crea para cada usuario y cada sesión identificada previamente. Esto se logra agrupando los datos por usuario y sesión y luego listando las acciones codificadas en orden cronológico.
+    \item Una vez completada la codificación de los métodos y canales, cada acción individual del usuario queda representada por un par de números codificados. El paso subsiguiente en el proceso de modelado de datos implica la agrupación de estas acciones codificadas en secuencias. Estas secuencias están diseñadas para representar de manera integral la trayectoria completa de la interacción del usuario durante una sesión específica. Este enfoque permite capturar la secuencia y el flujo de las actividades del usuario, proporcionando así un contexto detallado y estructurado que es esencial para el análisis posterior y el entrenamiento del modelo de aprendizaje automático.
+    \item Cada secuencia en nuestro modelo se forma a partir de pares de métodos y canales codificados, y se construye específicamente para cada usuario y para cada sesión que se haya identificado previamente. Para lograr esto, los datos se organizan mediante un proceso de agrupación por usuario y sesión. Posteriormente, dentro de cada grupo, se listan las acciones codificadas siguiendo un orden cronológico. Este enfoque permite que cada secuencia refleje con precisión la secuencia temporal de eventos para un usuario en una sesión determinada, asegurando así que el modelo pueda capturar y aprender de la dinámica y el flujo de las interacciones del usuario.
 \end{itemize}
 
 \subsubsection{Preparación para el Modelo de Red Neuronal:}
 
 \begin{itemize}
-    \item Estas secuencias de números son lo que alimentará a la red neuronal. En el contexto de una LSTM o cualquier red neuronal recurrente (RNN), la secuencia permite al modelo reconocer patrones temporales y dependencias entre eventos consecutivos.
+    \item Las secuencias numéricas generadas constituyen el insumo principal para la alimentación de la red neuronal. En el ámbito de las Redes Neuronales Recurrentes (RNN), incluyendo las de tipo Long Short-Term Memory (LSTM), estas secuencias son fundamentales para el modelo, ya que le permiten reconocer y aprender patrones temporales y dependencias entre eventos consecutivos. La capacidad de las LSTM y otras RNN de procesar estas secuencias numéricas les confiere la habilidad única de capturar y analizar la dinámica temporal inherente a los datos, lo cual es esencial para la predicción precisa y el análisis de series temporales.
 \end{itemize}
 
 \subsubsection{Estructura de Datos de Secuencias:}
 
 \begin{itemize}
-    \item En términos de estructura de datos, las secuencias se manejan típicamente como listas de listas (o arrays de arrays) donde cada sublista representa una secuencia completa de un usuario.
+    \item Desde la perspectiva de la estructura de datos, las secuencias se organizan comúnmente como listas de listas (o arrays de arrays), en las cuales cada sublista representa una secuencia completa correspondiente a un usuario. Esta forma de organización de datos es idónea para modelar secuencias, ya que permite encapsular una serie de eventos o acciones consecutivas de cada usuario de manera estructurada y coherente. En este esquema, cada sublista contiene los elementos que componen una secuencia individual, reflejando la cronología y la progresión de las acciones del usuario. Este formato es ampliamente utilizado en el procesamiento de secuencias temporales, proporcionando una representación clara y eficiente que facilita el análisis y el aprendizaje automático.
 \end{itemize}
 
-El código para la construcción de secuencias es el siguiente:
+A continuación, se presenta el fragmento de código utilizado para la construcción de secuencias en nuestro modelo. Este código es esencial para transformar los datos crudos en una forma estructurada que el modelo pueda procesar eficientemente. La construcción de secuencias es un paso crítico en la preparación de datos para modelado predictivo, ya que permite que el modelo aprenda a identificar y seguir patrones de comportamiento a lo largo del tiempo. El siguiente código ilustra cómo se lleva a cabo esta transformación:
 
 \begin{figure}[H]
     \begin{minipage}[t]{0.9\textwidth}
@@ -145,16 +145,16 @@ El código para la construcción de secuencias es el siguiente:
 \subsubsection{Significado para el Modelado Predictivo:}
 
 \begin{itemize}
-    \item Estas secuencias son fundamentales para el modelado predictivo, ya que proporcionan el contexto completo necesario para que el modelo haga predicciones informadas. Por ejemplo, la secuencia de acciones anteriores de un usuario puede sugerir que la siguiente acción más probable podría ser \textquotedblright cerrar sesión\textquotedblright después de una serie de consultas de información.
+    \item Las secuencias desempeñan un rol crucial en el ámbito del modelado predictivo, ya que suministran el contexto integral necesario para que el modelo realice predicciones basadas en información relevante. Por ejemplo, al analizar la secuencia de acciones realizadas previamente por un usuario, es posible inferir patrones conductuales que indican cuál podría ser la próxima acción. Un caso ilustrativo sería una secuencia donde el usuario realiza varias consultas de información, lo que podría llevar al modelo a predecir que la acción subsiguiente más probable sería "cerrar sesión". Este tipo de análisis secuencial permite al modelo capturar y aprender de las tendencias y patrones en el comportamiento del usuario, facilitando así predicciones más precisas y contextualizadas.
 \end{itemize}
 
 \subsubsection{Alineación con Objetivos de Predicción:}
 
 \begin{itemize}
-    \item Además, las secuencias están alineadas con las etiquetas que se generaron en el paso de etiquetado, donde cada acción excepto la última en una secuencia tiene una etiqueta correspondiente que indica la acción siguiente. Esto permite entrenar al modelo en la tarea de predecir la siguiente acción basándose en la secuencia de acciones anteriores.
+    \item Además, las secuencias generadas se encuentran alineadas con las etiquetas que se definieron en la fase de etiquetado. En este proceso, cada acción dentro de una secuencia, con la excepción de la última, se asocia con una etiqueta correspondiente que indica la acción subsiguiente. Esta metodología es esencial para el entrenamiento del modelo, ya que facilita la tarea de predecir la próxima acción basándose en la secuencia de acciones anteriores. La correcta alineación de secuencias con sus etiquetas correspondientes es crucial, ya que proporciona al modelo el contexto necesario para aprender a anticipar las acciones futuras de manera precisa, basándose en patrones de comportamiento observados previamente.
 \end{itemize}
 
-La construcción de secuencias, por lo tanto, transforma un conjunto de eventos individuales en una serie de caminos estructurados que reflejan el comportamiento y las decisiones del usuario, lo que es esencial para entrenar un modelo que pueda anticipar las siguientes acciones en la ruta del usuario
+La construcción de secuencias es un proceso que convierte un conjunto de eventos individuales en una secuencia de caminos estructurados. Estos caminos reflejan de manera integral el comportamiento y las decisiones tomadas por los usuarios. Esta transformación es crucial para el desarrollo de un modelo de aprendizaje automático que sea capaz de predecir con precisión las acciones subsiguientes en el recorrido del usuario. Al capturar las secuencias de eventos en este formato estructurado, el modelo puede aprender eficazmente los patrones y tendencias inherentes en las decisiones y acciones de los usuarios, lo que es fundamental para anticipar sus movimientos futuros de manera precisa.
 
 \subsection{División de Datos}
 La partición de los datos en conjuntos específicos para el entrenamiento y la prueba constituye un aspecto crítico en el proceso de desarrollo de modelos de aprendizaje automático. Este paso es crucial para determinar la capacidad del modelo de generalizar a datos no observados previamente. En otras palabras, es fundamental para evaluar la habilidad del modelo para realizar predicciones precisas y fiables en nuevas entradas que no formaron parte del conjunto de datos de entrenamiento. A continuación, se detalla la metodología empleada para efectuar esta división de datos:
