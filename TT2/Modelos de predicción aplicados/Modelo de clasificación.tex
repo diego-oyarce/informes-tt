@@ -173,12 +173,9 @@ La división de datos en conjuntos de entrenamiento y prueba es un paso fundamen
 \end{itemize}
 
 \subsubsection{Importancia para la Validación del Modelo:}
+La división del conjunto de datos en distintas porciones para entrenamiento y prueba es una estrategia crucial para validar la eficacia del modelo en escenarios realistas. El propósito de esta separación es evaluar si el modelo es capaz de funcionar adecuadamente en condiciones que simulan el entorno real. En este contexto, el conjunto de prueba desempeña un papel vital, actuando como un sustituto de datos nuevos y no vistos en el mundo real. Al no haber sido expuesto a estos datos durante la fase de entrenamiento, el modelo se somete a una prueba rigurosa de su capacidad de generalización y robustez, lo cual es indispensable para determinar su aplicabilidad y fiabilidad práctica.
 
-\begin{itemize}
-    \item La razón de separar los datos de esta manera es validar la capacidad del modelo para funcionar bien en condiciones reales. El conjunto de prueba actúa como un proxy para datos del mundo real que el modelo no ha visto durante su entrenamiento.
-\end{itemize}
-
-El código para dividir el conjunto corresponde al siguiente:
+A continuación se presenta el fragmento de código implementado para la división del conjunto de datos. Este código es esencial para separar los datos en diferentes conjuntos, lo que permite una evaluación más precisa y objetiva del modelo:
 
 \begin{figure}[H]
     \begin{minipage}[t]{0.9\textwidth}
@@ -199,41 +196,26 @@ El código para dividir el conjunto corresponde al siguiente:
 \end{figure}
 
 \subsubsection{Protección Contra el Sobreajuste:}
-
-\begin{itemize}
-    \item Al entrenar un modelo, siempre existe el riesgo de sobreajuste, donde el modelo se ajusta demasiado bien a los datos de entrenamiento, incluyendo el ruido o las peculiaridades específicas de ese conjunto de datos. La división de datos ayuda a detectar y mitigar el sobreajuste al proporcionar una medida más objetiva del rendimiento del modelo.
-\end{itemize}
+En el proceso de entrenamiento de modelos de aprendizaje automático, se debe estar consciente del riesgo inherente de sobreajuste. Este fenómeno ocurre cuando el modelo se adapta excesivamente a los datos de entrenamiento, llegando a aprender y reproducir no solo las características subyacentes sino también el ruido y las particularidades idiosincrásicas de ese conjunto de datos. Para detectar y mitigar el sobreajuste, la división de los datos en conjuntos distintos para el entrenamiento y la validación/test es una práctica esencial. Esta estrategia permite evaluar el rendimiento del modelo en datos no vistos durante el entrenamiento, proporcionando así una medida más objetiva y fiable de su capacidad de generalización y su rendimiento real.
 
 \subsubsection{Retroalimentación para la Iteración del Modelo:}
+Los resultados obtenidos del conjunto de prueba son cruciales, ya que proporcionan información valiosa para el proceso iterativo de refinamiento y mejora del modelo. Un aspecto particularmente importante a observar es la comparación del rendimiento del modelo en el conjunto de prueba frente a su desempeño en el conjunto de entrenamiento. Una discrepancia notable, donde el modelo muestra un rendimiento significativamente inferior en el conjunto de prueba, sirve como un indicador claro de sobreajuste. Esta situación implica que, aunque el modelo ha aprendido eficientemente los patrones específicos de los datos de entrenamiento, no logra generalizar bien a nuevos datos, lo cual es un aspecto crítico en la evaluación de su aplicabilidad práctica.
 
-\begin{itemize}
-    \item Los resultados en el conjunto de prueba proporcionan información valiosa que se puede utilizar para iterar y mejorar el modelo. Por ejemplo, si el modelo tiene un rendimiento significativamente peor en el conjunto de prueba en comparación con el conjunto de entrenamiento, esto es un indicador claro de sobreajuste.
-\end{itemize}
 
 \subsection{Construcción del Modelo}
-
-La construcción del modelo es una etapa crucial en el proceso de aprendizaje automático, donde se define la arquitectura que se utilizará para aprender de los datos. En nuestro caso, se optó por un modelo de clasificación secuencial utilizando redes neuronales, específicamente una red neuronal recurrente (RNN) con Long Short-Term Memory (LSTM). A continuación, se detalla cómo se estructuró este modelo:
+La fase de construcción del modelo representa un momento crítico en el proceso de aprendizaje automático, en el cual se establece la arquitectura que el modelo empleará para aprender de los datos. En nuestro proyecto, hemos seleccionado un enfoque basado en un modelo de clasificación secuencial que emplea redes neuronales. Más específicamente, se ha implementado una Red Neuronal Recurrente (RNN) con unidades de Long Short-Term Memory (LSTM). Esta elección se basa en la habilidad de las RNN con LSTM para manejar eficientemente secuencias de datos, una característica esencial para nuestro objetivo de clasificación. A continuación, presentamos una descripción detallada de la estructura y configuración de este modelo:
 
 \subsubsection{Selección de la Arquitectura:} 
-\begin{itemize}
-    \item Elegimos una RNN con unidades LSTM debido a su eficacia en el manejo de datos secuenciales. Las LSTM son especialmente buenas para aprender dependencias de largo plazo en los datos, lo que las hace ideales para tareas como la predicción de la próxima acción de un usuario basada en su historial de acciones.
-\end{itemize}
+La decisión de implementar una Red Neuronal Recurrente (RNN) con unidades de Long Short-Term Memory (LSTM) se fundamentó en su comprobada eficacia para el procesamiento de datos secuenciales. Las unidades LSTM son particularmente destacadas por su capacidad para aprender y retener dependencias de largo plazo presentes en los datos. Esta característica las hace extraordinariamente adecuadas para tareas que requieren una comprensión profunda del contexto secuencial, como es el caso de la predicción de la próxima acción de un usuario basándose en su historial de acciones previas. La habilidad de las LSTM para capturar estas dependencias temporales complejas y mantener información relevante a lo largo de secuencias extensas es un factor clave para el éxito en este tipo de aplicaciones de modelado predictivo.
 
 \subsubsection{Capa de Incrustación (Embedding):} 
-\begin{itemize}
-    \item El modelo comienza con una capa de incrustación. Esta capa transforma los índices de métodos y canales codificados en vectores densos de características. Esto permite que el modelo interprete mejor estas entradas categóricas y capture relaciones más complejas entre ellas.
-\end{itemize}
+El modelo inicia su arquitectura con una capa de incrustación. La función principal de esta capa es convertir los índices correspondientes a métodos y canales, previamente codificados, en vectores densos de características. Esta transformación es crucial, ya que dota al modelo de la capacidad para interpretar de manera efectiva las entradas categóricas, facilitando la captura y el análisis de relaciones más complejas entre dichas entradas. La capa de incrustación juega un papel fundamental en el procesamiento de datos categóricos, mejorando significativamente la habilidad del modelo para discernir y aprender patrones y correlaciones subyacentes en los datos.
 
 \subsubsection{Capas LSTM:} 
-\begin{itemize}
-    \item Después de la capa de incrustación, agregamos una o más capas LSTM. Estas capas procesan los datos secuenciales, manteniendo un estado interno que refleja el contexto acumulado hasta el momento actual en la secuencia.
-\end{itemize}
+Subsiguiente a la capa de incrustación, se incorporaron una o varias capas de tipo Long Short-Term Memory (LSTM). Estas capas son especialmente adecuadas para el procesamiento de datos secuenciales, ya que están diseñadas para capturar dependencias a largo plazo y mantener un estado interno. Este estado interno actúa como un repositorio de información que refleja el contexto acumulado hasta el punto actual en la secuencia. La capacidad de las capas LSTM para recordar información a lo largo de secuencias extensas las hace particularmente valiosas en tareas donde el contexto y la secuencialidad de los datos son factores críticos para la precisión y eficacia del modelo.
 
 \subsubsection{Capa Densa de Salida:} 
-\begin{itemize}
-    \item La última capa del modelo es una capa densa con una unidad de salida por cada clase posible (en este caso, cada acción potencial siguiente). Esta capa utiliza la función de activación softmax para producir una distribución de probabilidad sobre las posibles acciones siguientes, lo que permite al modelo realizar una predicción.
-\end{itemize}
-
+La configuración de la última capa de nuestro modelo consiste en una capa densa, diseñada con una unidad de salida para cada clase potencial, correspondiente en este contexto a cada acción posible siguiente. Esta capa crucial emplea la función de activación \textit{softmax}, que es esencial para convertir las salidas de la red en una distribución de probabilidad sobre las clases de acciones posibles. La aplicación de la función \textit{softmax} facilita que el modelo genere predicciones probabilísticas, asignando a cada clase potencial una probabilidad que refleja la confianza del modelo en esa acción específica como la acción siguiente más probable. Esta capacidad de producir una distribución de probabilidad es fundamental para el proceso de toma de decisiones y la interpretación de resultados en tareas de clasificación multiclase.
 \begin{figure}[H]
     \begin{minipage}[t]{0.9\textwidth}
         \caption{Construccion del modelo de clasificación}
@@ -253,19 +235,18 @@ La construcción del modelo es una etapa crucial en el proceso de aprendizaje au
 \end{figure}
 
 \subsection{Regularización y Compilación}
-
-En esta etapa del desarrollo del modelo, nos enfocamos en dos aspectos clave: la regularización, para prevenir el sobreajuste, y la compilación, para definir cómo el modelo aprende durante el entrenamiento. A continuación, detallamos el enfoque adoptado para estos dos elementos esenciales:
+En la fase actual del desarrollo de nuestro modelo, hemos centrado nuestra atención en dos componentes fundamentales: la regularización, con el propósito de evitar el sobreajuste, y la compilación, que establece los parámetros de cómo el modelo aprende y se optimiza durante el entrenamiento. A continuación, presentamos una descripción detallada de las estrategias y metodologías adoptadas para abordar eficientemente estos elementos esenciales:
 
 \subsubsection{Regularización:} 
 \begin{itemize}
-    \item \textbf{Uso de Dropout:} Para prevenir el sobreajuste, implementamos capas de Dropout en la arquitectura del modelo. El Dropout es una técnica de regularización que aleatoriamente \textquotedblleft apaga\textquotedblright un porcentaje de neuronas durante cada iteración del entrenamiento. Esto evita que el modelo dependa demasiado de cualquier característica o camino específico, fomentando así que aprenda caminos redundantes y robustos para hacer predicciones. En nuestro modelo, se añadieron capas de Dropout después de las capas LSTM y posiblemente también después de las capas densas intermedias, con un ratio comúnmente entre 0.2 y 0.5.
+    \item \textbf{Uso de Dropout:} Con el objetivo de mitigar el riesgo de sobreajuste, se integraron capas de Dropout en la arquitectura de nuestro modelo. El Dropout, una técnica de regularización bien establecida, funciona desactivando aleatoriamente un porcentaje determinado de neuronas durante cada iteración del proceso de entrenamiento. Esta estrategia impide que el modelo se vuelva excesivamente dependiente de cualquier conjunto específico de características o caminos neuronales, promoviendo así el aprendizaje de múltiples caminos redundantes y robustos para realizar predicciones. En la estructura de nuestro modelo, se incorporaron capas de Dropout sucesivamente a las capas LSTM y, en algunos casos, también después de las capas densas intermedias. El ratio de neuronas desactivadas se mantuvo comúnmente en un rango de 0.2 a 0.5, equilibrando efectivamente la regularización sin comprometer significativamente la capacidad de aprendizaje del modelo.
 \end{itemize}
 
 \subsubsection{Compilación del Modelo:} 
 \begin{itemize}
-    \item \textbf{Elección del Optimizador:} Seleccionamos el optimizador \textquotedblleft Adam\textquotedblright para la compilación del modelo. Adam es ampliamente utilizado debido a su eficiencia en diferentes tipos de problemas de aprendizaje automático. Ajusta la tasa de aprendizaje de manera adaptativa, lo que lo hace adecuado para muchos escenarios sin necesidad de una afinación manual extensiva.
-    \item \textbf{Función de Pérdida:} Utilizamos la \textquotedblleft categorical\_crossentropy\textquotedblright como nuestra función de pérdida, ya que estamos trabajando con un problema de clasificación multiclase. Esta función mide el rendimiento del modelo cuyas salidas son probabilidades; es efectiva para comparar la distribución de probabilidad predicha por el modelo con la distribución real representada por las etiquetas.
-    \item \textbf{Métricas de Evaluación:} Elegimos \textquotedblleft accuracy\textquotedblright (precisión) como métrica para monitorear durante el entrenamiento. La precisión es una medida intuitiva y ampliamente utilizada que indica la proporción de predicciones correctas sobre el total de predicciones.
+    \item \textbf{Elección del Optimizador:} Para la compilación de nuestro modelo, se seleccionó el optimizador \textit{Adam} debido a su amplia aceptación y eficacia demostrada en una variedad de problemas en el campo del aprendizaje automático. Una de las características más destacadas de Adam es su capacidad para ajustar la tasa de aprendizaje de manera adaptativa a lo largo del proceso de entrenamiento. Este ajuste adaptativo facilita una optimización eficiente sin la necesidad de una intensiva afinación manual, haciéndolo un optimizador adecuado para una amplia gama de escenarios de aprendizaje automático. Su versatilidad y eficacia en la gestión de las tasas de aprendizaje lo convierten en una elección preferente para la compilación de modelos en diversos contextos de investigación y desarrollo.
+    \item \textbf{Función de Pérdida:} En nuestro enfoque, se optó por utilizar la función de pérdida \textit{categorical\_crossentropy}, considerando la naturaleza del problema de clasificación multiclase con el que estamos trabajando. Esta función de pérdida es particularmente adecuada para situaciones donde las salidas del modelo son probabilidades. \textit{Categorical\_crossentropy} es eficaz para medir el rendimiento del modelo al comparar la distribución de probabilidad que el modelo predice con la distribución de probabilidad real, que está representada por las etiquetas de las clases. Esta comparación se centra en la precisión con la que el modelo es capaz de predecir la probabilidad correcta para cada clase en los datos, lo que es crucial en la clasificación multiclase.
+    \item \textbf{Métricas de Evaluación:} Para el monitoreo del proceso de entrenamiento, se seleccionó la métrica de \textit{accuracy} (precisión). Esta métrica es una de las más intuitivas y comúnmente empleadas en el campo del aprendizaje automático, proporcionando una medida clara y directa del rendimiento del modelo. La precisión indica la proporción de predicciones correctas realizadas por el modelo en comparación con el número total de predicciones. Su amplia utilización se debe a su capacidad para ofrecer una comprensión rápida y efectiva de la eficacia general del modelo en la clasificación correcta de los datos.
 \end{itemize}
 
 \begin{figure}[H]
@@ -287,26 +268,21 @@ En esta etapa del desarrollo del modelo, nos enfocamos en dos aspectos clave: la
 \end{figure}
 
 \subsubsection{Balance entre Aprendizaje y Generalización} 
-La combinación de Dropout y una elección cuidadosa de la función de pérdida y el optimizador está destinada a lograr un equilibrio entre la capacidad del modelo para aprender eficientemente de los datos de entrenamiento (minimizando la pérdida) y su habilidad para generalizar bien a nuevos datos (maximizando la precisión en el conjunto de prueba).
+La implementación de la técnica de Dropout, en conjunto con una selección cuidadosa de la función de pérdida y el optimizador, tiene como objetivo fundamental establecer un balance óptimo en el rendimiento del modelo. Este balance se orienta hacia dos aspectos cruciales: por un lado, se busca que el modelo aprenda de manera eficiente a partir de los datos de entrenamiento, lo cual se manifiesta en la minimización de la pérdida. Por otro lado, se enfatiza la importancia de la capacidad del modelo para generalizar adecuadamente a nuevos conjuntos de datos, lo cual se refleja en una mayor precisión en el conjunto de prueba. La correcta armonización de estos elementos es esencial para garantizar que el modelo no solo se ajuste efectivamente a los datos con los que ha sido entrenado, sino que también mantenga un alto grado de precisión y relevancia al ser aplicado a datos no vistos anteriormente.
 
 \subsubsection{Preparación para el Entrenamiento} 
-Con el modelo ahora compilado, está listo para ser entrenado. La compilación efectiva asegura que el proceso de entrenamiento será eficiente y que el modelo tendrá una buena oportunidad de aprender patrones útiles de los datos sin memorizarlos, lo que es crucial para su rendimiento en escenarios del mundo real.
-
+Tras la compilación exitosa del modelo, este se encuentra preparado para entrar en la fase de entrenamiento. La compilación efectiva es un paso crucial, ya que garantiza que el proceso de entrenamiento se desarrolle de manera eficiente. Además, asegura que el modelo esté configurado adecuadamente para aprender patrones significativos de los datos, evitando así el riesgo de memorización excesiva. Este equilibrio es esencial para el rendimiento óptimo del modelo en aplicaciones del mundo real, donde la capacidad de generalización y adaptación a datos nuevos es fundamental.
 
 \subsection{Entrenamiento del Modelo}
-
-El entrenamiento es la fase en la que el modelo de clasificación secuencial aprende de los datos. Durante este proceso, el modelo ajusta sus parámetros internos para minimizar el error en sus predicciones. A continuación, se detalla cómo se llevó a cabo el entrenamiento del modelo:
-
+La fase de entrenamiento constituye el proceso esencial mediante el cual el modelo de clasificación secuencial adquiere conocimiento a partir de los datos. En esta etapa, el modelo realiza ajustes iterativos en sus parámetros internos con el objetivo primordial de minimizar el error en sus predicciones. Este proceso de optimización es fundamental para mejorar la precisión y la eficacia del modelo en la clasificación de datos. A continuación, se presenta una descripción detallada de cómo se implementó y ejecutó el entrenamiento del modelo:
 
 \subsubsection{Alimentación de Datos al Modelo} 
 El conjunto de datos de entrenamiento, que incluye tanto las secuencias de entrada (X\_train) como las etiquetas correspondientes (y\_train), se alimenta al modelo. El modelo aprende al ajustar sus pesos para predecir la etiqueta de cada secuencia de entrada lo más precisamente posible.
 
 \subsubsection{Uso de Datos de Validación} 
-
 De forma simultánea al proceso de entrenamiento, se emplea un conjunto de validación, designado como (X\_test, y\_test), para monitorear y evaluar el rendimiento del modelo. Esta práctica es fundamental, ya que proporciona información continua sobre la capacidad del modelo para generalizar a datos no previamente vistos. La utilización de este conjunto de validación es un componente esencial para garantizar que el modelo no está incurriendo en un sobreajuste con respecto a los datos de entrenamiento. Al evaluar cómo el modelo se desempeña con un conjunto de datos independiente, se puede obtener una perspectiva más objetiva y realista sobre su eficacia y potencial aplicabilidad en escenarios del mundo real.
 
 \subsubsection{Configuración del Proceso de Entrenamiento} 
-
 El proceso de entrenamiento del modelo se estructura en un número específico de iteraciones, denominadas épocas. Durante cada una de estas épocas, el modelo procesa de manera completa el conjunto de datos de entrenamiento. Esta metodología permite que el modelo refine iterativamente sus parámetros internos a través de la exposición repetida a todo el conjunto de entrenamiento. Este enfoque secuencial asegura una evolución sistemática y progresiva de la capacidad del modelo para aprender y adaptarse a las características inherentes a los datos.
 
 \subsubsection{Monitoreo con EarlyStopping} 

@@ -119,36 +119,36 @@
 \contentsline {subsubsection}{Importancia para la Validación del Modelo:}{98}{section*.87}%
 \contentsline {subsubsection}{Protección Contra el Sobreajuste:}{99}{section*.89}%
 \contentsline {subsubsection}{Retroalimentación para la Iteración del Modelo:}{99}{section*.90}%
-\contentsline {subsection}{\numberline {6.3.7}Construcción del Modelo}{99}{subsection.6.3.7}%
-\contentsline {subsubsection}{Selección de la Arquitectura:}{99}{section*.91}%
+\contentsline {subsection}{\numberline {6.3.7}Construcción del Modelo}{100}{subsection.6.3.7}%
+\contentsline {subsubsection}{Selección de la Arquitectura:}{100}{section*.91}%
 \contentsline {subsubsection}{Capa de Incrustación (Embedding):}{100}{section*.92}%
-\contentsline {subsubsection}{Capas LSTM:}{100}{section*.93}%
-\contentsline {subsubsection}{Capa Densa de Salida:}{100}{section*.94}%
-\contentsline {subsection}{\numberline {6.3.8}Regularización y Compilación}{101}{subsection.6.3.8}%
-\contentsline {subsubsection}{Regularización:}{101}{section*.96}%
-\contentsline {subsubsection}{Compilación del Modelo:}{102}{section*.97}%
-\contentsline {subsubsection}{Balance entre Aprendizaje y Generalización}{102}{section*.99}%
-\contentsline {subsubsection}{Preparación para el Entrenamiento}{103}{section*.100}%
-\contentsline {subsection}{\numberline {6.3.9}Entrenamiento del Modelo}{103}{subsection.6.3.9}%
-\contentsline {subsubsection}{Alimentación de Datos al Modelo}{103}{section*.101}%
-\contentsline {subsubsection}{Uso de Datos de Validación}{103}{section*.102}%
-\contentsline {subsubsection}{Configuración del Proceso de Entrenamiento}{103}{section*.103}%
-\contentsline {subsubsection}{Monitoreo con EarlyStopping}{104}{section*.104}%
-\contentsline {subsubsection}{Evaluación del Rendimiento}{104}{section*.105}%
-\contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{105}{subsection.6.3.10}%
-\contentsline {subsubsection}{\textbf {Análisis de la Pérdida}}{105}{section*.107}%
-\contentsline {subsubsection}{\textbf {Análisis de la Precisión}}{106}{section*.108}%
-\contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{107}{subsection.6.3.11}%
-\contentsline {subsection}{\numberline {6.3.12}Métricas de predicción aplicadas}{108}{subsection.6.3.12}%
-\contentsline {subsubsection}{Precisión (Precision)}{108}{section*.110}%
-\contentsline {subsubsection}{Recall (Sensibilidad o Tasa de Verdaderos Positivos)}{108}{section*.111}%
-\contentsline {subsubsection}{Puntuación F1}{109}{section*.112}%
-\contentsline {subsection}{\numberline {6.3.13}Conclusión del Modelo de Predicción Secuencial}{109}{subsection.6.3.13}%
-\contentsline {chapter}{\numberline {7}Api y modelo implementado}{111}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Descripción de los componentes}{111}{section.7.1}%
-\contentsline {subsubsection}{Modelo de Clasificación con TensorFlow:}{111}{section*.113}%
-\contentsline {subsubsection}{Diccionarios JSON para Mapeo de Datos:}{111}{section*.114}%
-\contentsline {subsubsection}{API de Flask}{112}{section*.115}%
-\contentsline {section}{\numberline {7.2}Desarrollo e Implementación de la API}{112}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Dockerización de la Api}{113}{section.7.3}%
-\contentsline {chapter}{Referencias}{116}{chapter*.116}%
+\contentsline {subsubsection}{Capas LSTM:}{101}{section*.93}%
+\contentsline {subsubsection}{Capa Densa de Salida:}{101}{section*.94}%
+\contentsline {subsection}{\numberline {6.3.8}Regularización y Compilación}{102}{subsection.6.3.8}%
+\contentsline {subsubsection}{Regularización:}{102}{section*.96}%
+\contentsline {subsubsection}{Compilación del Modelo:}{103}{section*.97}%
+\contentsline {subsubsection}{Balance entre Aprendizaje y Generalización}{104}{section*.99}%
+\contentsline {subsubsection}{Preparación para el Entrenamiento}{104}{section*.100}%
+\contentsline {subsection}{\numberline {6.3.9}Entrenamiento del Modelo}{105}{subsection.6.3.9}%
+\contentsline {subsubsection}{Alimentación de Datos al Modelo}{105}{section*.101}%
+\contentsline {subsubsection}{Uso de Datos de Validación}{105}{section*.102}%
+\contentsline {subsubsection}{Configuración del Proceso de Entrenamiento}{105}{section*.103}%
+\contentsline {subsubsection}{Monitoreo con EarlyStopping}{106}{section*.104}%
+\contentsline {subsubsection}{Evaluación del Rendimiento}{106}{section*.105}%
+\contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{107}{subsection.6.3.10}%
+\contentsline {subsubsection}{\textbf {Análisis de la Pérdida}}{107}{section*.107}%
+\contentsline {subsubsection}{\textbf {Análisis de la Precisión}}{108}{section*.108}%
+\contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{109}{subsection.6.3.11}%
+\contentsline {subsection}{\numberline {6.3.12}Métricas de predicción aplicadas}{110}{subsection.6.3.12}%
+\contentsline {subsubsection}{Precisión (Precision)}{110}{section*.110}%
+\contentsline {subsubsection}{Recall (Sensibilidad o Tasa de Verdaderos Positivos)}{110}{section*.111}%
+\contentsline {subsubsection}{Puntuación F1}{111}{section*.112}%
+\contentsline {subsection}{\numberline {6.3.13}Conclusión del Modelo de Predicción Secuencial}{111}{subsection.6.3.13}%
+\contentsline {chapter}{\numberline {7}Api y modelo implementado}{113}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Descripción de los componentes}{113}{section.7.1}%
+\contentsline {subsubsection}{Modelo de Clasificación con TensorFlow:}{113}{section*.113}%
+\contentsline {subsubsection}{Diccionarios JSON para Mapeo de Datos:}{113}{section*.114}%
+\contentsline {subsubsection}{API de Flask}{114}{section*.115}%
+\contentsline {section}{\numberline {7.2}Desarrollo e Implementación de la API}{114}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Dockerización de la Api}{115}{section.7.3}%
+\contentsline {chapter}{Referencias}{118}{chapter*.116}%
