@@ -133,20 +133,22 @@
 \contentsline {subsubsection}{Alimentación de Datos al Modelo}{103}{section*.101}%
 \contentsline {subsubsection}{Uso de Datos de Validación}{103}{section*.102}%
 \contentsline {subsubsection}{Configuración del Proceso de Entrenamiento}{103}{section*.103}%
-\contentsline {subsubsection}{Monitoreo con EarlyStopping}{103}{section*.104}%
+\contentsline {subsubsection}{Monitoreo con EarlyStopping}{104}{section*.104}%
 \contentsline {subsubsection}{Evaluación del Rendimiento}{104}{section*.105}%
-\contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{104}{subsection.6.3.10}%
-\contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{105}{subsection.6.3.11}%
-\contentsline {subsection}{\numberline {6.3.12}Métricas de predicción aplicadas}{106}{subsection.6.3.12}%
-\contentsline {subsubsection}{Precisión (Precision)}{106}{section*.108}%
-\contentsline {subsubsection}{Recall (Sensibilidad o Tasa de Verdaderos Positivos)}{107}{section*.109}%
-\contentsline {subsubsection}{Puntuación F1}{107}{section*.110}%
-\contentsline {subsection}{\numberline {6.3.13}Conclusión del Modelo de Predicción Secuencial}{108}{subsection.6.3.13}%
-\contentsline {chapter}{\numberline {7}Api y modelo implementado}{109}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Descripción de los componentes}{109}{section.7.1}%
-\contentsline {subsubsection}{Modelo de Clasificación con TensorFlow:}{109}{section*.111}%
-\contentsline {subsubsection}{Diccionarios JSON para Mapeo de Datos:}{109}{section*.112}%
-\contentsline {subsubsection}{API de Flask}{110}{section*.113}%
-\contentsline {section}{\numberline {7.2}Desarrollo e Implementación de la API}{110}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Dockerización de la Api}{111}{section.7.3}%
-\contentsline {chapter}{Referencias}{114}{chapter*.114}%
+\contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{105}{subsection.6.3.10}%
+\contentsline {subsubsection}{\textbf {Análisis de la Pérdida}}{105}{section*.107}%
+\contentsline {subsubsection}{\textbf {Análisis de la Precisión}}{106}{section*.108}%
+\contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{107}{subsection.6.3.11}%
+\contentsline {subsection}{\numberline {6.3.12}Métricas de predicción aplicadas}{108}{subsection.6.3.12}%
+\contentsline {subsubsection}{Precisión (Precision)}{108}{section*.110}%
+\contentsline {subsubsection}{Recall (Sensibilidad o Tasa de Verdaderos Positivos)}{108}{section*.111}%
+\contentsline {subsubsection}{Puntuación F1}{109}{section*.112}%
+\contentsline {subsection}{\numberline {6.3.13}Conclusión del Modelo de Predicción Secuencial}{109}{subsection.6.3.13}%
+\contentsline {chapter}{\numberline {7}Api y modelo implementado}{111}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Descripción de los componentes}{111}{section.7.1}%
+\contentsline {subsubsection}{Modelo de Clasificación con TensorFlow:}{111}{section*.113}%
+\contentsline {subsubsection}{Diccionarios JSON para Mapeo de Datos:}{111}{section*.114}%
+\contentsline {subsubsection}{API de Flask}{112}{section*.115}%
+\contentsline {section}{\numberline {7.2}Desarrollo e Implementación de la API}{112}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Dockerización de la Api}{113}{section.7.3}%
+\contentsline {chapter}{Referencias}{116}{chapter*.116}%
