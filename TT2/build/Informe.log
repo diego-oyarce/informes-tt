@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.25)  5 DEC 2023 17:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.25)  5 DEC 2023 17:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1008,29 +1008,29 @@ Overfull \hbox (21.05467pt too wide) in paragraph at lines 148--149
  []
 
 [97 <./img/Código construcción de secuencias.jpg>] [98]
-<img/Código dividir el conjunto de entrenamiento.jpg, id=1227, 706.89093pt x 39.89906pt>
+<img/Código dividir el conjunto de entrenamiento.jpg, id=1226, 706.89093pt x 39.89906pt>
 File: img/Código dividir el conjunto de entrenamiento.jpg Graphic file (type jpg)
 <use img/Código dividir el conjunto de entrenamiento.jpg>
-Package pdftex.def Info: img/Código dividir el conjunto de entrenamiento.jpg  used on input line 190.
+Package pdftex.def Info: img/Código dividir el conjunto de entrenamiento.jpg  used on input line 183.
 (pdftex.def)             Requested size: 429.3521pt x 24.23427pt.
 
-Overfull \hbox (3.81166pt too wide) in paragraph at lines 202--203
+Overfull \hbox (3.81166pt too wide) in paragraph at lines 195--196
 []\OT1/cmr/m/n/12 (-20) Los re-sul-ta-dos ob-te-ni-dos del con-jun-to de prue-ba son cru-cia-les, ya que pro-por-cio-nan
  []
 
 [99 <./img/Código dividir el conjunto de entrenamiento.jpg>] [100]
-<img/Arquitectura modelo clasificación.jpg, id=1241, 777.65532pt x 295.85532pt>
+<img/Arquitectura modelo clasificación.jpg, id=1240, 777.65532pt x 295.85532pt>
 File: img/Arquitectura modelo clasificación.jpg Graphic file (type jpg)
 <use img/Arquitectura modelo clasificación.jpg>
-Package pdftex.def Info: img/Arquitectura modelo clasificación.jpg  used on input line 229.
+Package pdftex.def Info: img/Arquitectura modelo clasificación.jpg  used on input line 222.
 (pdftex.def)             Requested size: 429.3521pt x 163.34842pt.
  [101]
-Overfull \hbox (15.8104pt too wide) in paragraph at lines 242--243
+Overfull \hbox (15.8104pt too wide) in paragraph at lines 235--236
 \OT1/cmr/m/n/12 (-20) una t^^Secni-ca de re-gu-la-ri-za-ci^^Son bien es-ta-ble-ci-da, fun-cio-na des-ac-ti-van-do alea-to-ria-men-te
  []
 
 [102 <./img/Arquitectura modelo clasificación.jpg>]
-Overfull \hbox (4.87386pt too wide) in paragraph at lines 247--248
+Overfull \hbox (4.87386pt too wide) in paragraph at lines 240--241
 \OT1/cmr/m/n/12 (-20) de-mos-tra-da en una va-rie-dad de pro-ble-mas en el cam-po del apren-di-za-je au-tom^^Sati-co.
  []
 
@@ -1038,36 +1038,36 @@ Overfull \hbox (4.87386pt too wide) in paragraph at lines 247--248
 <img/Código compilar modelo.jpg, id=1258, 563.10374pt x 37.64063pt>
 File: img/Código compilar modelo.jpg Graphic file (type jpg)
 <use img/Código compilar modelo.jpg>
-Package pdftex.def Info: img/Código compilar modelo.jpg  used on input line 262.
+Package pdftex.def Info: img/Código compilar modelo.jpg  used on input line 255.
 (pdftex.def)             Requested size: 429.3521pt x 28.7002pt.
  [104 <./img/Código compilar modelo.jpg>] [105]
-Overfull \hbox (4.73416pt too wide) in paragraph at lines 295--296
+Overfull \hbox (4.73416pt too wide) in paragraph at lines 288--289
 \OT1/cmr/m/n/12 (-20) cons-tan-te de las m^^Setri-cas de pre-ci-si^^Son y p^^Serdi-da, tan-to en los con-jun-tos de en-tre-na-mien-to
  []
 
 
-Overfull \hbox (3.03816pt too wide) in paragraph at lines 295--296
+Overfull \hbox (3.03816pt too wide) in paragraph at lines 288--289
 \OT1/cmr/m/n/12 (-20) co-mo en los de va-li-da-ci^^Son. Es-tas m^^Setri-cas son fun-da-men-ta-les pa-ra eva-luar el ren-di-mien-to
  []
 
 <img/Código entrenar el modelo.jpg, id=1273, 667.74469pt x 185.19188pt>
 File: img/Código entrenar el modelo.jpg Graphic file (type jpg)
 <use img/Código entrenar el modelo.jpg>
-Package pdftex.def Info: img/Código entrenar el modelo.jpg  used on input line 307.
+Package pdftex.def Info: img/Código entrenar el modelo.jpg  used on input line 300.
 (pdftex.def)             Requested size: 429.3521pt x 119.07906pt.
 [106] [107 <./img/Código entrenar el modelo.jpg>]
 <img/Gráfico modelo clasificación.jpg, id=1285, 825.83531pt x 317.68687pt>
 File: img/Gráfico modelo clasificación.jpg Graphic file (type jpg)
 <use img/Gráfico modelo clasificación.jpg>
-Package pdftex.def Info: img/Gráfico modelo clasificación.jpg  used on input line 340.
+Package pdftex.def Info: img/Gráfico modelo clasificación.jpg  used on input line 333.
 (pdftex.def)             Requested size: 429.3521pt x 165.16902pt.
  [108] [109 <./img/Gráfico modelo clasificación.jpg>]
-Overfull \hbox (18.05592pt too wide) in paragraph at lines 359--360
+Overfull \hbox (18.05592pt too wide) in paragraph at lines 352--353
 \OT1/cmr/m/n/12 (-20) del mo-de-lo de cla-si-fi-ca-ci^^Son, de-ta-llan-do tam-bi^^Sen los re-sul-ta-dos ob-te-ni-dos y su in-ter-pre-ta-ci^^Son: 
  []
 
 
-Overfull \hbox (6.68846pt too wide) in paragraph at lines 362--363
+Overfull \hbox (6.68846pt too wide) in paragraph at lines 355--356
 \OT1/cmr/m/n/12 (-20) cla-si-fi-ca-ci^^Son. Es-ta m^^Setri-ca pro-por-cio-na una es-ti-ma-ci^^Son de la fia-bi-li-dad de las pre-dic-cio-nes
  []
 
@@ -1141,7 +1141,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,15n,76p,1685b,838s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on build/Informe.pdf (130 pages, 3162572 bytes).
+Output written on build/Informe.pdf (130 pages, 3163363 bytes).
 PDF statistics:
  1531 PDF objects out of 1728 (max. 8388607)
  1315 compressed objects within 14 object streams

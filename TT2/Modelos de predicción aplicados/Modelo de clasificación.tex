@@ -157,20 +157,13 @@ El código para la construcción de secuencias es el siguiente:
 La construcción de secuencias, por lo tanto, transforma un conjunto de eventos individuales en una serie de caminos estructurados que reflejan el comportamiento y las decisiones del usuario, lo que es esencial para entrenar un modelo que pueda anticipar las siguientes acciones en la ruta del usuario
 
 \subsection{División de Datos}
-
-La división de datos en conjuntos de entrenamiento y prueba es un paso fundamental en el desarrollo de modelos de aprendizaje automático. Este proceso es esencial para evaluar cómo el modelo generaliza datos no vistos anteriormente, es decir, su capacidad para hacer predicciones precisas en nuevas entradas fuera del conjunto de datos de entrenamiento. Veamos cómo se llevó a cabo este paso:
+La partición de los datos en conjuntos específicos para el entrenamiento y la prueba constituye un aspecto crítico en el proceso de desarrollo de modelos de aprendizaje automático. Este paso es crucial para determinar la capacidad del modelo de generalizar a datos no observados previamente. En otras palabras, es fundamental para evaluar la habilidad del modelo para realizar predicciones precisas y fiables en nuevas entradas que no formaron parte del conjunto de datos de entrenamiento. A continuación, se detalla la metodología empleada para efectuar esta división de datos:
 
 \subsubsection{Separación en Conjuntos de Entrenamiento y Prueba:}
-
-\begin{itemize}
-    \item El conjunto de datos completo se divide en dos partes: una para entrenar el modelo (conjunto de entrenamiento) y otra para probar su rendimiento (conjunto de prueba). Una práctica común es utilizar alrededor del 70-80\% de los datos para entrenamiento y el 20-30\% restante para pruebas.
-\end{itemize}
+El conjunto de datos completo se segmenta en dos partes principales: una sección destinada al entrenamiento del modelo, denominada el conjunto de entrenamiento, y otra sección utilizada para evaluar su rendimiento, conocida como el conjunto de prueba. Una práctica comúnmente aceptada en el campo del aprendizaje automático es asignar aproximadamente el 70-80\% del total de los datos para el entrenamiento y el 20-30\% restante para las pruebas. Esta proporción se elige para asegurar que el modelo tenga suficientes datos para aprender de manera efectiva, mientras se retiene una cantidad adecuada de datos no vistos para una evaluación fiable y representativa de su rendimiento.
 
 \subsubsection{Aleatorización y Estratificación:}
-
-\begin{itemize}
-    \item La división debe hacerse de manera aleatoria para evitar sesgos en la selección de datos. Además, si el conjunto de datos es lo suficientemente grande y diverso, puede ser útil emplear una técnica llamada estratificación. Esto asegura que la proporción de las diferentes clases o categorías de respuesta se mantiene constante a través de ambos conjuntos.
-\end{itemize}
+Es imperativo que la división de los datos se realice de manera aleatoria para prevenir cualquier sesgo en la selección de estos. Este enfoque aleatorio asegura una representación equitativa y no sesgada de los datos en los conjuntos de entrenamiento y prueba. Adicionalmente, en situaciones donde el conjunto de datos es amplio y exhibe una diversidad considerable, resulta beneficioso implementar una técnica conocida como estratificación. La estratificación tiene como objetivo garantizar que la proporción de las distintas clases o categorías de respuesta se mantenga constante tanto en el conjunto de entrenamiento como en el de prueba. Este método es crucial para preservar la distribución representativa de las clases a lo largo de los conjuntos de datos, lo cual es vital para asegurar la validez y confiabilidad de la evaluación del modelo.
 
 \subsubsection{Importancia para la Validación del Modelo:}
 La división del conjunto de datos en distintas porciones para entrenamiento y prueba es una estrategia crucial para validar la eficacia del modelo en escenarios realistas. El propósito de esta separación es evaluar si el modelo es capaz de funcionar adecuadamente en condiciones que simulan el entorno real. En este contexto, el conjunto de prueba desempeña un papel vital, actuando como un sustituto de datos nuevos y no vistos en el mundo real. Al no haber sido expuesto a estos datos durante la fase de entrenamiento, el modelo se somete a una prueba rigurosa de su capacidad de generalización y robustez, lo cual es indispensable para determinar su aplicabilidad y fiabilidad práctica.
