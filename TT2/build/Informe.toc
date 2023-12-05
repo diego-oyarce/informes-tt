@@ -98,57 +98,57 @@
 \contentsline {section}{\numberline {6.3}Modelo de predicción secuencial}{91}{section.6.3}%
 \contentsline {subsection}{\numberline {6.3.1}Preprocesamiento y Preparación de Datos}{91}{subsection.6.3.1}%
 \contentsline {subsection}{\numberline {6.3.2}Ordenamiento y Etiquetado}{92}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}Identificación de Sesiones}{92}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.3}Identificación de Sesiones}{93}{subsection.6.3.3}%
 \contentsline {subsubsection}{Cálculo de Diferencias de Tiempo}{93}{section*.70}%
-\contentsline {subsubsection}{Definición de un Umbral de Tiempo}{93}{section*.71}%
-\contentsline {subsubsection}{Identificación de Nuevas Sesiones}{93}{section*.72}%
-\contentsline {subsubsection}{Asignación de Identificadores de Sesión}{93}{section*.73}%
-\contentsline {subsection}{\numberline {6.3.4}Codificación de Categorías}{95}{subsection.6.3.4}%
-\contentsline {subsubsection}{Mapeo de Categorías a Números:}{95}{section*.75}%
-\contentsline {subsubsection}{Aplicación de la Codificación:}{96}{section*.76}%
-\contentsline {subsubsection}{Beneficios de la Codificación}{96}{section*.77}%
-\contentsline {subsection}{\numberline {6.3.5}Construcción de Secuencias}{98}{subsection.6.3.5}%
-\contentsline {subsubsection}{Agrupación de Eventos en Secuencias:}{98}{section*.79}%
-\contentsline {subsubsection}{Preparación para el Modelo de Red Neuronal:}{99}{section*.80}%
-\contentsline {subsubsection}{Estructura de Datos de Secuencias:}{99}{section*.81}%
-\contentsline {subsubsection}{Significado para el Modelado Predictivo:}{100}{section*.83}%
-\contentsline {subsubsection}{Alineación con Objetivos de Predicción:}{100}{section*.84}%
-\contentsline {subsection}{\numberline {6.3.6}División de Datos}{101}{subsection.6.3.6}%
-\contentsline {subsubsection}{Separación en Conjuntos de Entrenamiento y Prueba:}{101}{section*.85}%
-\contentsline {subsubsection}{Aleatorización y Estratificación:}{102}{section*.86}%
-\contentsline {subsubsection}{Importancia para la Validación del Modelo:}{102}{section*.87}%
-\contentsline {subsubsection}{Protección Contra el Sobreajuste:}{103}{section*.89}%
-\contentsline {subsubsection}{Retroalimentación para la Iteración del Modelo:}{103}{section*.90}%
-\contentsline {subsection}{\numberline {6.3.7}Construcción del Modelo}{103}{subsection.6.3.7}%
-\contentsline {subsubsection}{Selección de la Arquitectura:}{104}{section*.91}%
-\contentsline {subsubsection}{Capa de Incrustación (Embedding):}{104}{section*.92}%
-\contentsline {subsubsection}{Capas LSTM:}{104}{section*.93}%
-\contentsline {subsubsection}{Capa Densa de Salida:}{105}{section*.94}%
-\contentsline {subsection}{\numberline {6.3.8}Regularización y Compilación}{106}{subsection.6.3.8}%
-\contentsline {subsubsection}{Regularización:}{106}{section*.96}%
-\contentsline {subsubsection}{Compilación del Modelo:}{106}{section*.97}%
-\contentsline {subsubsection}{Balance entre Aprendizaje y Generalización}{107}{section*.99}%
-\contentsline {subsubsection}{Preparación para el Entrenamiento}{108}{section*.100}%
-\contentsline {subsection}{\numberline {6.3.9}Entrenamiento del Modelo}{108}{subsection.6.3.9}%
-\contentsline {subsubsection}{Alimentación de Datos al Modelo}{108}{section*.101}%
-\contentsline {subsubsection}{Uso de Datos de Validación}{109}{section*.102}%
-\contentsline {subsubsection}{Configuración del Proceso de Entrenamiento}{109}{section*.103}%
-\contentsline {subsubsection}{Monitoreo con EarlyStopping}{109}{section*.104}%
-\contentsline {subsubsection}{Evaluación del Rendimiento}{110}{section*.105}%
-\contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{110}{subsection.6.3.10}%
-\contentsline {subsubsection}{\textbf {Análisis de la Pérdida}}{111}{section*.107}%
-\contentsline {subsubsection}{\textbf {Análisis de la Precisión}}{111}{section*.108}%
-\contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{112}{subsection.6.3.11}%
-\contentsline {subsection}{\numberline {6.3.12}Métricas de predicción aplicadas}{113}{subsection.6.3.12}%
-\contentsline {subsubsection}{Precisión (Precision)}{113}{section*.110}%
-\contentsline {subsubsection}{Recall (Sensibilidad o Tasa de Verdaderos Positivos)}{114}{section*.111}%
-\contentsline {subsubsection}{Puntuación F1}{114}{section*.112}%
-\contentsline {subsection}{\numberline {6.3.13}Conclusión del Modelo de Predicción Secuencial}{115}{subsection.6.3.13}%
-\contentsline {chapter}{\numberline {7}Api y modelo implementado}{116}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Descripción de los componentes}{116}{section.7.1}%
-\contentsline {subsubsection}{Modelo de Clasificación con TensorFlow:}{116}{section*.113}%
-\contentsline {subsubsection}{Diccionarios JSON para Mapeo de Datos:}{116}{section*.114}%
-\contentsline {subsubsection}{API de Flask}{117}{section*.115}%
-\contentsline {section}{\numberline {7.2}Desarrollo e Implementación de la API}{117}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Dockerización de la Api}{118}{section.7.3}%
-\contentsline {chapter}{Referencias}{121}{chapter*.116}%
+\contentsline {subsubsection}{Definición de un Umbral de Tiempo}{94}{section*.71}%
+\contentsline {subsubsection}{Identificación de Nuevas Sesiones}{94}{section*.72}%
+\contentsline {subsubsection}{Asignación de Identificadores de Sesión}{94}{section*.73}%
+\contentsline {subsection}{\numberline {6.3.4}Codificación de Categorías}{96}{subsection.6.3.4}%
+\contentsline {subsubsection}{Mapeo de Categorías a Números:}{96}{section*.75}%
+\contentsline {subsubsection}{Aplicación de la Codificación:}{97}{section*.76}%
+\contentsline {subsubsection}{Beneficios de la Codificación}{97}{section*.77}%
+\contentsline {subsection}{\numberline {6.3.5}Construcción de Secuencias}{99}{subsection.6.3.5}%
+\contentsline {subsubsection}{Agrupación de Eventos en Secuencias:}{99}{section*.79}%
+\contentsline {subsubsection}{Preparación para el Modelo de Red Neuronal:}{100}{section*.80}%
+\contentsline {subsubsection}{Estructura de Datos de Secuencias:}{100}{section*.81}%
+\contentsline {subsubsection}{Significado para el Modelado Predictivo:}{101}{section*.83}%
+\contentsline {subsubsection}{Alineación con Objetivos de Predicción:}{101}{section*.84}%
+\contentsline {subsection}{\numberline {6.3.6}División de Datos}{102}{subsection.6.3.6}%
+\contentsline {subsubsection}{Separación en Conjuntos de Entrenamiento y Prueba:}{102}{section*.85}%
+\contentsline {subsubsection}{Aleatorización y Estratificación:}{103}{section*.86}%
+\contentsline {subsubsection}{Importancia para la Validación del Modelo:}{103}{section*.87}%
+\contentsline {subsubsection}{Protección Contra el Sobreajuste:}{104}{section*.89}%
+\contentsline {subsubsection}{Retroalimentación para la Iteración del Modelo:}{104}{section*.90}%
+\contentsline {subsection}{\numberline {6.3.7}Construcción del Modelo}{104}{subsection.6.3.7}%
+\contentsline {subsubsection}{Selección de la Arquitectura:}{105}{section*.91}%
+\contentsline {subsubsection}{Capa de Incrustación (Embedding):}{105}{section*.92}%
+\contentsline {subsubsection}{Capas LSTM:}{105}{section*.93}%
+\contentsline {subsubsection}{Capa Densa de Salida:}{106}{section*.94}%
+\contentsline {subsection}{\numberline {6.3.8}Regularización y Compilación}{107}{subsection.6.3.8}%
+\contentsline {subsubsection}{Regularización:}{107}{section*.96}%
+\contentsline {subsubsection}{Compilación del Modelo:}{107}{section*.97}%
+\contentsline {subsubsection}{Balance entre Aprendizaje y Generalización}{108}{section*.99}%
+\contentsline {subsubsection}{Preparación para el Entrenamiento}{109}{section*.100}%
+\contentsline {subsection}{\numberline {6.3.9}Entrenamiento del Modelo}{109}{subsection.6.3.9}%
+\contentsline {subsubsection}{Alimentación de Datos al Modelo}{109}{section*.101}%
+\contentsline {subsubsection}{Uso de Datos de Validación}{110}{section*.102}%
+\contentsline {subsubsection}{Configuración del Proceso de Entrenamiento}{110}{section*.103}%
+\contentsline {subsubsection}{Monitoreo con EarlyStopping}{110}{section*.104}%
+\contentsline {subsubsection}{Evaluación del Rendimiento}{111}{section*.105}%
+\contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{111}{subsection.6.3.10}%
+\contentsline {subsubsection}{\textbf {Análisis de la Pérdida}}{112}{section*.107}%
+\contentsline {subsubsection}{\textbf {Análisis de la Precisión}}{112}{section*.108}%
+\contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{113}{subsection.6.3.11}%
+\contentsline {subsection}{\numberline {6.3.12}Métricas de predicción aplicadas}{114}{subsection.6.3.12}%
+\contentsline {subsubsection}{Precisión (Precision)}{114}{section*.110}%
+\contentsline {subsubsection}{Recall (Sensibilidad o Tasa de Verdaderos Positivos)}{115}{section*.111}%
+\contentsline {subsubsection}{Puntuación F1}{115}{section*.112}%
+\contentsline {subsection}{\numberline {6.3.13}Conclusión del Modelo de Predicción Secuencial}{116}{subsection.6.3.13}%
+\contentsline {chapter}{\numberline {7}Api y modelo implementado}{117}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Descripción de los componentes}{117}{section.7.1}%
+\contentsline {subsubsection}{Modelo de Clasificación con TensorFlow:}{117}{section*.113}%
+\contentsline {subsubsection}{Diccionarios JSON para Mapeo de Datos:}{117}{section*.114}%
+\contentsline {subsubsection}{API de Flask}{118}{section*.115}%
+\contentsline {section}{\numberline {7.2}Desarrollo e Implementación de la API}{118}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Dockerización de la Api}{119}{section.7.3}%
+\contentsline {chapter}{Referencias}{122}{chapter*.116}%
