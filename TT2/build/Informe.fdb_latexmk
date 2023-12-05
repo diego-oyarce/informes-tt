@@ -1,10 +1,10 @@
 # Fdb version 4
-["bibtex Informe"] 1701799551 "Informe.aux" "Informe.bbl" "Informe" 1701818402 0
+["bibtex Informe"] 1701799551 "Informe.aux" "Informe.bbl" "Informe" 1701820590 0
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1701818398 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1701818402 0
+["pdflatex"] 1701820586 "d:/Desktop/Proyeco Título/informes-tt/TT2/Informe.tex" "build/Informe.pdf" "Informe" 1701820590 0
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1701718190 6309 8bc8b93b320d52305a29009b10b08636 ""
   "Análisis exploratorio de datos/Introducción.tex" 1700432758 2611 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1701718190 3337 1d3bc69b2e4d4297a71b6a29cff84f9a ""
@@ -42,7 +42,7 @@
   "Marco teórico/Metodologías/Metodología del Sistema.tex" 1700432759 4501 978d21963e5635d1c47f57b400dfc46c ""
   "Marco teórico/Metodologías/Metodología del proyecto.tex" 1700432759 2307 f239ae9096b95e186136dd0b03e3adf7 ""
   "Marco teórico/intro_cap_marco.tex" 1700432759 426 5aa593282a007d2bc77d80d865952542 ""
-  "Modelos de predicción aplicados/Modelo de autoencoders.tex" 1701056814 10528 71acac7513493af805685772a8e41add ""
+  "Modelos de predicción aplicados/Modelo de autoencoders.tex" 1701820585 13060 dcd05aa810ed9b810d3aa028b67b9ed3 ""
   "Modelos de predicción aplicados/Modelo de clasificación.tex" 1701818393 57002 f9903121749d331d4c6809fbf5bc3a91 ""
   "Modelos de predicción aplicados/Modelo de series temporales.tex" 1701055592 3411 e171dfcb2d6751cf1b3d5976f9842f51 ""
   "Presentación del proyecto/Abstract.tex" 1700432759 2327 6cef499c76ce448c74f954106cf25cc6 ""
@@ -59,10 +59,10 @@
   "Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex" 1700432759 1445 f8492ad3cfdcb93feaa3ad0a6016cea3 ""
   "Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex" 1700432759 2511 92c920dd1a42161ee6eb715998585674 ""
   "Proceso ETL/intro_cap_ETL.tex" 1700432759 502 5692a94f838bbfcce22ba21020b54237 ""
-  "build/Informe.aux" 1701818402 39383 2f29e7f830fcebe5d9f9b8ae700d3de8 "pdflatex"
-  "build/Informe.lof" 1701818402 4238 5c07e32a2feac730ae91b3596f7b5bbc "pdflatex"
-  "build/Informe.out" 1701818402 15487 bfd916054f2da77d25435d2e236fb9d1 "pdflatex"
-  "build/Informe.toc" 1701818402 13672 5c21702a545e0530123dbdb024985bf2 "pdflatex"
+  "build/Informe.aux" 1701820590 39385 8d9afa0bde737bc829b7da31648877ce "pdflatex"
+  "build/Informe.lof" 1701820590 4238 4803f11c1aad045eae0d12f29b5071ce "pdflatex"
+  "build/Informe.out" 1701820590 15487 bfd916054f2da77d25435d2e236fb9d1 "pdflatex"
+  "build/Informe.toc" 1701820590 13674 da9811db7271f048dce72253233d4d34 "pdflatex"
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1687672744 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1687673087 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcbx1200.tfm" 1687672933 1536 c09172c8f235393e6235bb4758357c41 ""
