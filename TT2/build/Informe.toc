@@ -151,4 +151,12 @@
 \contentsline {subsubsection}{API de Flask}{119}{section*.115}%
 \contentsline {section}{\numberline {7.2}Desarrollo e Implementación de la API}{119}{section.7.2}%
 \contentsline {section}{\numberline {7.3}Dockerización de la Api}{120}{section.7.3}%
-\contentsline {chapter}{Referencias}{123}{chapter*.116}%
+\contentsline {chapter}{\numberline {8}Conclusión y Recomendación}{123}{chapter.8}%
+\contentsline {subsection}{\numberline {8.0.1}Conclusión}{123}{subsection.8.0.1}%
+\contentsline {subsection}{\numberline {8.0.2}Recomendaciones}{124}{subsection.8.0.2}%
+\contentsline {subsubsection}{Optimización del Modelo Actual:}{124}{section*.116}%
+\contentsline {subsubsection}{Experimentación con Diferentes Arquitecturas de Modelos:}{125}{section*.117}%
+\contentsline {subsubsection}{Análisis de Características Adicionales:}{125}{section*.118}%
+\contentsline {subsubsection}{Evaluación Continuada y Ajuste del Modelo:}{125}{section*.119}%
+\contentsline {subsubsection}{Investigaciones Futuras:}{126}{section*.120}%
+\contentsline {chapter}{Referencias}{127}{chapter*.121}%
