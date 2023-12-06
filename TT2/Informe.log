@@ -1,0 +1,1129 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  5 DEC 2023 23:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/diegooyarce/proyectos/informes-tt/TT2/Informe.tex
+(/home/diegooyarce/proyectos/informes-tt/TT2/Informe.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen139
+\l@unhyphenated=\language87
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count196
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box50
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen150
+\ttl@minus=\dimen151
+\ttl@toksa=\toks21
+\titlewidth=\dimen152
+\titlewidthlast=\dimen153
+\titlewidthfirst=\dimen154
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen155
+\captionmargin@=\dimen156
+\captionwidth=\dimen157
+\caption@tempdima=\dimen158
+\caption@indent=\dimen159
+\caption@parindent=\dimen160
+\caption@hangindent=\dimen161
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count266
+\c@continuedfloat=\count267
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read3
+) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip51
+\cftbeforetoctitleskip=\skip52
+\cftaftertoctitleskip=\skip53
+\cftbeforepartskip=\skip54
+\cftpartnumwidth=\skip55
+\cftpartindent=\skip56
+\cftbeforechapskip=\skip57
+\cftchapindent=\skip58
+\cftchapnumwidth=\skip59
+\cftbeforesecskip=\skip60
+\cftsecindent=\skip61
+\cftsecnumwidth=\skip62
+\cftbeforesubsecskip=\skip63
+\cftsubsecindent=\skip64
+\cftsubsecnumwidth=\skip65
+\cftbeforesubsubsecskip=\skip66
+\cftsubsubsecindent=\skip67
+\cftsubsubsecnumwidth=\skip68
+\cftbeforeparaskip=\skip69
+\cftparaindent=\skip70
+\cftparanumwidth=\skip71
+\cftbeforesubparaskip=\skip72
+\cftsubparaindent=\skip73
+\cftsubparanumwidth=\skip74
+\cftbeforeloftitleskip=\skip75
+\cftafterloftitleskip=\skip76
+\cftbeforefigskip=\skip77
+\cftfigindent=\skip78
+\cftfignumwidth=\skip79
+\c@lofdepth=\count268
+\c@lotdepth=\count269
+\cftbeforelottitleskip=\skip80
+\cftafterlottitleskip=\skip81
+\cftbeforetabskip=\skip82
+\cfttabindent=\skip83
+\cfttabnumwidth=\skip84
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count270
+\float@exts=\toks24
+\float@box=\box51
+\@float@everytoks=\toks25
+\@floatcapt=\box52
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen162
+\Hy@linkcounter=\count271
+\Hy@pagecounter=\count272
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel languages
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count273
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count274
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen163
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count275
+\Field@Width=\dimen164
+\Fld@charsize=\dimen165
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count276
+\c@Item=\count277
+\c@Hfootnote=\count278
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count279
+\c@bookmark@seq@number=\count280
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip85
+) (/usr/share/texlive/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count281
+\bibleftmargin=\skip86
+\bibindent=\skip87
+\bibparsep=\skip88
+\bibitemsep=\skip89
+\biblabelsep=\skip90
+) (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip91
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen166
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen167
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count282
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count283
+\leftroot@=\count284
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count285
+\DOTSCASE@=\count286
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen168
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count287
+\c@MaxMatrixCols=\count288
+\dotsspace@=\muskip17
+\c@parentequation=\count289
+\dspbrk@lvl=\count290
+\tag@help=\toks27
+\row@=\count291
+\column@=\count292
+\maxfields@=\count293
+\andhelp@=\toks28
+\eqnshift@=\dimen169
+\alignsep@=\dimen170
+\tagshift@=\dimen171
+\tagwidth@=\dimen172
+\totwidth@=\dimen173
+\lineht@=\dimen174
+\@envbody=\toks29
+\multlinegap=\skip92
+\multlinetaggap=\skip93
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count294
+\lst@gtempboxa=\box55
+\lst@token=\toks31
+\lst@length=\count295
+\lst@currlwidth=\dimen175
+\lst@column=\count296
+\lst@pos=\count297
+\lst@lostspace=\dimen176
+\lst@width=\dimen177
+\lst@newlines=\count298
+\lst@lineno=\count299
+\lst@maxwidth=\dimen178
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count300
+\lst@skipnumbers=\count301
+\lst@framebox=\box56
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip94
+\f@nch@O@elh=\skip95
+\f@nch@O@erh=\skip96
+\f@nch@O@olh=\skip97
+\f@nch@O@orh=\skip98
+\f@nch@O@elf=\skip99
+\f@nch@O@erf=\skip100
+\f@nch@O@olf=\skip101
+\f@nch@O@orf=\skip102
+) (/usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+ (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count302
+)) (/usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+) (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language88
+LaTeX Info: Redefining \_ on input line 43.
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+\MT@toks=\toks32
+\MT@count=\count303
+\MT@tempbox=\box57
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen179
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count304
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 897.
+LaTeX Info: Redefining \lslig on input line 897.
+\MT@outer@space=\skip103
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
+)) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count305
+\l__pdf_internal_box=\box58
+) (./Informe.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
+\openout1 = `Informe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count306
+\scratchdimen=\dimen180
+\scratchbox=\box59
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen181
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks34
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 429.3521pt, 71.13188pt)
+* v-part:(T,H,B)=(113.81102pt, 610.02708pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=429.3521pt
+* \textheight=610.02708pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=4.54103pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 49.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count312
+)
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
+ (./Informe.out) (./Informe.out)
+\@outlinefile=\write4
+\openout4 = `Informe.out'.
+
+\c@maskedRefs=\count313
+ (/usr/share/texlive/texmf-dist/tex/latex/apacite/spanish.apc
+File: spanish.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 138.
+LaTeX Info: Redefining \BHBI on input line 139.
+)
+\c@lstlisting=\count314
+
+Couldn't patch \ttl@straight@ii
+Couldn't patch \ttl@straight@ii
+LaTeX Info: Redefining \microtypecontext on input line 49.
+Package microtype Info: Applying patch `item' on input line 49.
+Package microtype Info: Applying patch `toc' on input line 49.
+Package microtype Info: Applying patch `eqnum' on input line 49.
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 49.
+
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 49.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+<img/logocolor.png, id=289, 57.71562pt x 73.77562pt>
+File: img/logocolor.png Graphic file (type png)
+<use img/logocolor.png>
+Package pdftex.def Info: img/logocolor.png  used on input line 55.
+(pdftex.def)             Requested size: 56.90524pt x 85.36023pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/logocolor.png>] (./Informe.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 2.
+
+[2] [3])
+\tf@toc=\write5
+\openout5 = `Informe.toc'.
+
+ [4] (./Informe.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (28.80173pt too wide) in paragraph at lines 19--19
+ [][] [][]\OT1/cmr/m/n/12 (-20) Aplicaci^^Son de lo-gar-ti-mos y di-fe-ren-cia-ci^^Son es-ta-cio-nal a ven-tas de me-di-ca-men-tos 
+ []
+
+[5])
+\tf@lof=\write6
+\openout6 = `Informe.lof'.
+
+ [6] (./Presentación del proyecto/Resumen.tex)
+Overfull \hbox (17.33226pt too wide) in paragraph at lines 10--110
+[]\OT1/cmr/bx/sc/12 (-20) Palabras cla-ve: \OT1/cmr/m/n/12 (-20) Afi-lia-do, Ad-mi-nis-tra-do-ra de Fon-dos de Pen-sio-nes, API (Ap-pli-ca-tion
+ []
+
+
+Overfull \hbox (0.22124pt too wide) in paragraph at lines 10--110
+\OT1/cmr/m/n/12 (-20) Pro-gram-ming In-ter-fa-ces), EDA (Ex-plo-ra-tory Da-ta Analy-sis), Al-go-rit-mos de pre-dic-ci^^Son,
+ []
+
+[7
+
+] [8] (./Presentación del proyecto/Abstract.tex)
+Overfull \hbox (10.2279pt too wide) in paragraph at lines 9--116
+[]\OT1/cmr/bx/sc/12 (-20) Keywords: \OT1/cmr/m/n/12 (-20) Af-fi-lia-te, Pen-sion Fund Ad-mi-nis-tra-tor, API (Ap-pli-ca-tion Pro-gram-ming
+ []
+
+
+Overfull \hbox (34.24953pt too wide) in paragraph at lines 9--116
+\OT1/cmr/m/n/12 (-20) Al-go-rithms, Pre-dic-ti-ve Mo-dels, ETL (Ex-tract, Trans-form and Load) ARI-MA (Au-to-Re-gres-si-ve
+ []
+
+[9
+
+] [10]
+Cap\'{\i }tulo 1.
+(./Presentación del proyecto/Descripción del trabajo de título.tex) (./Presentación del proyecto/Objetivos.texpdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 \item D
+           esarrollar un modelo capaz de predecir el comportamiento de los c... [1
+
+
+]) (./Presentación del proyecto/Alcances y limitaciones.tex [2]) [3]
+Cap\'{\i }tulo 2.
+(./La empresa/intro_cap_empresa.tex) (./La empresa/Historia.tex
+Overfull \hbox (1.94409pt too wide) in paragraph at lines 7--8
+[]\OT1/cmr/m/n/12 (-20) Posteriormente, en 2008, AFP Ca-pi-tal llev^^So a ca-bo una fu-si^^Son con AFP Ban-san-der,
+ []
+
+[4
+
+]
+<img/historia-afp-capital.jpg, id=499, 865.2325pt x 345.29pt>
+File: img/historia-afp-capital.jpg Graphic file (type jpg)
+<use img/historia-afp-capital.jpg>
+Package pdftex.def Info: img/historia-afp-capital.jpg  used on input line 23.
+(pdftex.def)             Requested size: 472.28992pt x 188.47699pt.
+
+Overfull \hbox (42.93782pt too wide) in paragraph at lines 21--25
+[][] 
+ []
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 2426) in paragraph at lines 27--28
+[]\OT1/cmr/m/n/12 (+20) Fuente: AFP Ca-pi-tal. Re-cu-pe-ra-do de []$\OT1/cmtt/m/n/12 https :// www [] .afpcapital [] .cl /
+ []
+
+) (./La empresa/Descripción general.tex [5 <./img/historia-afp-capital.jpg>]) (./La empresa/Misión.tex) (./La empresa/Visión.tex) [6] [7]
+Cap\'{\i }tulo 3.
+(./Marco teórico/intro_cap_marco.tex) (./Marco teórico/Comportamiento del Cliente/Importancia de predecir el comportamiento del cliente en un sitio web.tex [8
+
+])
+Overfull \hbox (6.93738pt too wide) in paragraph at lines 152--152
+[]\OT1/cmr/bx/n/17.28 (-20) Comportamiento del clien-te/a-fi-lia-do en el ca-nal
+ []
+
+(./Marco teórico/Comportamiento del Cliente/Definición y relevancia del comportamiento del cliente para el negocio.tex [9]) [10] (./Marco teórico/Comportamiento del Cliente/Características del comportamiento del cliente en el canal web.tex) [11] (./Marco teórico/Comportamiento del Cliente/Factores que afectan el comportamiento del cliente.tex) [12]
+Overfull \hbox (51.32127pt too wide) in paragraph at lines 162--162
+[]\OT1/cmr/bx/n/17.28 (-20) Herramientas pa-ra la pre-dic-ci^^Son del com-por-ta-mien-to
+ []
+
+(./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Herramientas de análisis de datos.tex [13]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Metodos tecnicas y tecnologias.tex [14]) [15] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/intro_modelos.tex) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex [16]
+Overfull \hbox (1.85846pt too wide) in paragraph at lines 27--28
+[]\OT1/cmr/m/n/12 (-20) Una vez en-tre-na-do el mo-de-lo, se pue-de uti-li-zar pa-ra ha-cer pre-dic-cio-nes cla-si-fi-can-do
+ []
+
+[17]
+Overfull \hbox (15.39255pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/12 (-20) de per-te-nen-cia a una cla-se es-pec^^S^^Pfi-ca en lu-gar de sim-ple-men-te cla-si-fi-car ob-ser-va-cio-nes
+ []
+
+[18]
+Overfull \hbox (13.60219pt too wide) in paragraph at lines 47--48
+[]\OT1/cmr/bx/sc/12 (-20) Suposici^^Son de in-de-pen-den-cia: \OT1/cmr/m/n/12 (-20) La re-gre-si^^Son log^^S^^Psti-ca asu-me que las ob-ser-va-cio-nes
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex [19]
+Overfull \hbox (1.66098pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/12 (-20) co-la-bo-ra-ti-vo y ba-sa-do en con-te-ni-do, pa-ra apro-ve-char sus for-ta-le-zas y pro-por-cio-nar
+ []
+
+
+Overfull \hbox (19.20341pt too wide) in paragraph at lines 17--18
+[]\OT1/cmr/bx/sc/12 (-20) Personalizaci^^Son: \OT1/cmr/m/n/12 (-20) Los mo-de-los de re-co-men-da-ci^^Son ofre-cen su-ge-ren-cias per-so-na-li-za-das
+ []
+
+[20]
+Overfull \hbox (3.23442pt too wide) in paragraph at lines 28--29
+[]\OT1/cmr/bx/sc/12 (-20) Privacidad y preo-cu-pa-cio-nes ^^Seti-cas: \OT1/cmr/m/n/12 (-20) Los mo-de-los de re-co-men-da-ci^^Son re-co-pi-lan
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex [21] [22]
+Overfull \hbox (11.07501pt too wide) in paragraph at lines 22--23
+[]\OT1/cmr/bx/sc/12 (-20) Utilizaci^^Son de da-tos se-cuen-cia-les: \OT1/cmr/m/n/12 (-20) Los mo-de-los de se-ries tem-po-ra-les apro-ve-chan
+ []
+
+[23]
+Overfull \hbox (22.24136pt too wide) in paragraph at lines 31--32
+[]\OT1/cmr/bx/sc/12 (-20) Problemas con cam-bios es-truc-tu-ra-les: \OT1/cmr/m/n/12 (-20) Si hay cam-bios es-truc-tu-ra-les sig-ni-fi-ca-ti-vos
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex [24]
+Overfull \hbox (16.8214pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/12 (-20) Existen va-ria-dos ti-pos de mo-de-los de atri-bu-ci^^Son, to-dos tie-nen el mis-mo pro-ce-di-mien-to
+ []
+
+[25]
+Overfull \hbox (7.53844pt too wide) in paragraph at lines 23--24
+\OT1/cmr/m/n/12 (-20) de un mo-de-lo de atri-bu-ci^^Son pue-de ser com-ple-ja y re-que-rir un en-fo-que per-so-na-li-za-do
+ []
+
+
+Overfull \hbox (0.9285pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/12 (-20) de los re-sul-ta-dos de un mo-de-lo de atri-bu-ci^^Son pue-de es-tar su-je-ta a la in-ter-pre-ta-ci^^Son
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex [26]
+Overfull \hbox (8.77281pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/12 (-20) Como se men-cion^^So an-te-rior-men-te, un ^^Sarbol de de-ci-si^^Son rea-li-za ta-reas de cla-si-fi-ca-ci^^Son.
+ []
+
+<img/estructura-arbol-de-decision.jpg, id=674, 496.67436pt x 328.85275pt>
+File: img/estructura-arbol-de-decision.jpg Graphic file (type jpg)
+<use img/estructura-arbol-de-decision.jpg>
+Package pdftex.def Info: img/estructura-arbol-de-decision.jpg  used on input line 17.
+(pdftex.def)             Requested size: 472.28992pt x 312.71443pt.
+
+Overfull \hbox (42.93782pt too wide) in paragraph at lines 15--19
+[][] 
+ []
+
+[27] [28 <./img/estructura-arbol-de-decision.jpg>] [29]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo Random Forest.tex [30] [31]
+<img/estructura-random-forest.png, id=716, 1316.92pt x 739.76375pt>
+File: img/estructura-random-forest.png Graphic file (type png)
+<use img/estructura-random-forest.png>
+Package pdftex.def Info: img/estructura-random-forest.png  used on input line 31.
+(pdftex.def)             Requested size: 472.28992pt x 265.29883pt.
+
+Overfull \hbox (42.93782pt too wide) in paragraph at lines 29--33
+[][] 
+ []
+
+[32 <./img/estructura-random-forest.png>] [33]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelo autoencoders.tex [34]
+Overfull \hbox (15.99962pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/n/12 (-20) inhe-ren-te-men-te bue-nos en apren-der de-pen-den-cias a lar-go pla-zo en da-tos se-cuen-cia-les,
+ []
+
+
+Overfull \hbox (3.14146pt too wide) in paragraph at lines 12--13
+[]\OT1/cmr/bx/sc/12 (-20) Reducci^^Son de di-men-sio-na-li-dad: \OT1/cmr/m/n/12 (-20) Los au-to-en-co-ders son efi-ca-ces pa-ra com-pri-mir
+ []
+
+
+Overfull \hbox (1.82202pt too wide) in paragraph at lines 19--20
+[]\OT1/cmr/bx/sc/12 (-20) Complejidad compu-tacio-nal: \OT1/cmr/m/n/12 (-20) Los LSTM son mo-de-los com-ple-jos que re-quie-ren
+ []
+
+[35]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex
+Overfull \hbox (4.51701pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 (-20) an-te-rior-men-te, pre-sen-tan-do de for-ma re-su-mi-da sus Ven-ta-jas, Des-ven-ta-jas y Apli-ca-cio-nes
+ []
+
+<img/tabla comparativa modelos.jpg, id=743, 527.72156pt x 574.39594pt>
+File: img/tabla comparativa modelos.jpg Graphic file (type jpg)
+<use img/tabla comparativa modelos.jpg>
+Package pdftex.def Info: img/tabla comparativa modelos.jpg  used on input line 13.
+(pdftex.def)             Requested size: 425.06093pt x 462.65508pt.
+[36]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/intro-series-tempo.tex) [37 <./img/tabla comparativa modelos.jpg>] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/Graficos series temporales.tex
+<img/pasajeros-clase-econ-timeplot.png, id=756, 505.89pt x 312.41719pt>
+File: img/pasajeros-clase-econ-timeplot.png Graphic file (type png)
+<use img/pasajeros-clase-econ-timeplot.png>
+Package pdftex.def Info: img/pasajeros-clase-econ-timeplot.png  used on input line 21.
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+ [38] [39 <./img/pasajeros-clase-econ-timeplot.png>]
+<img/ventas-medicamentos-diab-seasonplot.png, id=776, 505.89pt x 312.41719pt>
+File: img/ventas-medicamentos-diab-seasonplot.png Graphic file (type png)
+<use img/ventas-medicamentos-diab-seasonplot.png>
+Package pdftex.def Info: img/ventas-medicamentos-diab-seasonplot.png  used on input line 52.
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+ [40]
+<img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png, id=785, 505.89pt x 312.41719pt>
+File: img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png Graphic file (type png)
+<use img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png>
+Package pdftex.def Info: img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png  used on input line 76.
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+ [41 <./img/ventas-medicamentos-diab-seasonplot.png>]
+<img/producción trimestral de cerveza australiana-lagplot.png, id=793, 505.89pt x 505.89pt>
+File: img/producción trimestral de cerveza australiana-lagplot.png Graphic file (type png)
+<use img/producción trimestral de cerveza australiana-lagplot.png>
+Package pdftex.def Info: img/producción trimestral de cerveza australiana-lagplot.png  used on input line 98.
+(pdftex.def)             Requested size: 386.41426pt x 386.41791pt.
+ [42 <./img/Demanda electrica debido a las temperaturas en 2 ciudades en Australia.png>] [43 <./img/producción trimestral de cerveza australiana-lagplot.png>]
+<img/ejemplo_autocorrelaciones.png, id=811, 593.21625pt x 56.46094pt>
+File: img/ejemplo_autocorrelaciones.png Graphic file (type png)
+<use img/ejemplo_autocorrelaciones.png>
+Package pdftex.def Info: img/ejemplo_autocorrelaciones.png  used on input line 138.
+(pdftex.def)             Requested size: 386.41426pt x 36.77928pt.
+ [44]
+<img/produccion-cerveza-aust-ACF.png, id=820, 505.89pt x 176.91093pt>
+File: img/produccion-cerveza-aust-ACF.png Graphic file (type png)
+<use img/produccion-cerveza-aust-ACF.png>
+Package pdftex.def Info: img/produccion-cerveza-aust-ACF.png  used on input line 158.
+(pdftex.def)             Requested size: 386.41426pt x 135.13126pt.
+ [45 <./img/ejemplo_autocorrelaciones.png> <./img/produccion-cerveza-aust-ACF.png>]
+<img/aelec-1-ejemplo.png, id=830, 505.89pt x 312.41719pt>
+File: img/aelec-1-ejemplo.png Graphic file (type png)
+<use img/aelec-1-ejemplo.png>
+Package pdftex.def Info: img/aelec-1-ejemplo.png  used on input line 182.
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+<img/acfelec-1-ejemplo.png, id=832, 505.89pt x 176.91093pt>
+File: img/acfelec-1-ejemplo.png Graphic file (type png)
+<use img/acfelec-1-ejemplo.png>
+Package pdftex.def Info: img/acfelec-1-ejemplo.png  used on input line 200.
+(pdftex.def)             Requested size: 386.41426pt x 135.13126pt.
+ [46 <./img/aelec-1-ejemplo.png> <./img/acfelec-1-ejemplo.png>]
+Overfull \hbox (14.16042pt too wide) in paragraph at lines 210--211
+[]\OT1/cmr/bx/sc/12 (-20) Ruido Blan-co (Whi-te Noi-se): \OT1/cmr/m/n/12 (-20) Las se-ries de tiem-po que no tie-nen au-to-co-rre-la-ci^^Son
+ []
+
+<img/wnoise-1.png, id=838, 505.89pt x 312.41719pt>
+File: img/wnoise-1.png Graphic file (type png)
+<use img/wnoise-1.png>
+Package pdftex.def Info: img/wnoise-1.png  used on input line 222.
+(pdftex.def)             Requested size: 386.41426pt x 238.63606pt.
+<img/wnoiseacf-1.png, id=840, 505.89pt x 176.91093pt>
+File: img/wnoiseacf-1.png Graphic file (type png)
+<use img/wnoiseacf-1.png>
+Package pdftex.def Info: img/wnoiseacf-1.png  used on input line 240.
+(pdftex.def)             Requested size: 386.41426pt x 135.13126pt.
+[47 <./img/wnoise-1.png>]) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloARIMA.tex
+Overfull \hbox (13.13759pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/12 (-20) cal-cu-lar la di-fe-ren-cia en-tre ob-ser-va-cio-nes con-se-cu-ti-vas [][]Hyndman y Atha-na-so-pou-los[],
+ []
+
+[48 <./img/wnoiseacf-1.png>] [49]
+Overfull \hbox (26.40216pt too wide) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/12 (-20) Donde $\OML/cmm/m/it/12 m \OT1/cmr/m/n/12 (-20) = []$, tam-bien son lla-ma-das "di-fe-ren-cias $\OML/cmm/m/it/12 m$\OT1/cmr/m/n/12 (-20) -desfazadas",
+ []
+
+<img/a10diff-1-seasonaldiff-example.png, id=877, 505.89pt x 480.29437pt>
+File: img/a10diff-1-seasonaldiff-example.png Graphic file (type png)
+<use img/a10diff-1-seasonaldiff-example.png>
+Package pdftex.def Info: img/a10diff-1-seasonaldiff-example.png  used on input line 59.
+(pdftex.def)             Requested size: 386.41426pt x 366.867pt.
+[50] [51 <./img/a10diff-1-seasonaldiff-example.png>]
+<img/arp-1-example.png, id=896, 505.89pt x 227.34938pt>
+File: img/arp-1-example.png Graphic file (type png)
+<use img/arp-1-example.png>
+Package pdftex.def Info: img/arp-1-example.png  used on input line 97.
+(pdftex.def)             Requested size: 386.41426pt x 173.65805pt.
+ [52]
+<img/maq-1-example.png, id=906, 505.89pt x 227.34938pt>
+File: img/maq-1-example.png Graphic file (type png)
+<use img/maq-1-example.png>
+Package pdftex.def Info: img/maq-1-example.png  used on input line 126.
+(pdftex.def)             Requested size: 386.41426pt x 173.65805pt.
+ [53 <./img/arp-1-example.png>] [54 <./img/maq-1-example.png>] [55])
+Overfull \hbox (8.7275pt too wide) in paragraph at lines 187--205
+\OT1/cmr/m/n/12 (-20) con-si-de-rar co-mo el me-jor mo-de-lo pa-ra rea-li-zar pre-dic-cio-nes [][]Hyndman y Atha-na-so-pou-los[],
+ []
+
+[56] (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Series Temporales/modeloSARIMA.tex
+Overfull \hbox (19.66107pt too wide) in paragraph at lines 12--13
+[]\OT1/cmr/bx/sc/12 (-20) Diferenciaci^^Son pa-ra ten-den-cia: \OT1/cmr/m/n/12 (-20) Cuan-do tan-to la ten-den-cia co-mo la es-ta-cio-na-li-dad
+ []
+
+[57]
+Overfull \hbox (2.57196pt too wide) in paragraph at lines 22--23
+[]\OT1/cmr/bx/sc/12 (-20) Diferenciaci^^Son pa-ra es-ta-cio-na-li-dad: \OT1/cmr/m/n/12 (-20) Cuan-do se tie-nen da-tos con com-po-nen-tes
+ []
+
+) (./Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/redesLSTM.tex [58] [59]) (./Marco teórico/Metodologías/Metodología del proyecto.tex [60] [61]) (./Marco teórico/Metodologías/Metodología del Sistema.tex [62] [63]) [64]
+Cap\'{\i }tulo 4.
+(./Proceso ETL/intro_cap_ETL.tex)
+Overfull \hbox (8.35698pt too wide) in paragraph at lines 1--220
+\OT1/cmr/m/n/12 (-20) trans-for-ma-ci^^Son y car-ga de in-for-ma-ci^^Son cr^^S^^Pti-ca. En es-te cap^^S^^Ptu-lo del in-for-me, ex-plo-ra-re-mos
+ []
+
+(./Proceso ETL/Diseño Proceso ETL.tex) (./Proceso ETL/Diseño Proceso ETL/Requisitos ETL.tex [65
+
+]) (./Proceso ETL/Diseño Proceso ETL/Identificacion fuente de datos.tex [66]) (./Proceso ETL/Diseño Proceso ETL/Diseño modelo de datos objetivo.tex [67]) (./Proceso ETL/Diseño Proceso ETL/Planificacion Transformaciones.tex [68]) (./Proceso ETL/Diseño Proceso ETL/Seleccion herramientas.tex [69] [70]) (./Proceso ETL/Diseño Proceso ETL/Construccion y prueba proceso ETL.tex [71]
+<img/valores-nulos.png, id=1071, 228.855pt x 154.5775pt>
+File: img/valores-nulos.png Graphic file (type png)
+<use img/valores-nulos.png>
+Package pdftex.def Info: img/valores-nulos.png  used on input line 24.
+(pdftex.def)             Requested size: 171.7382pt x 116.00359pt.
+ [72 <./img/valores-nulos.png>]) (./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex [73]) [74]
+Cap\'{\i }tulo 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\language' on input line 244.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\langwohyphens' on input line 244.
+
+
+Overfull \hbox (44.28725pt too wide) in paragraph at lines 244--244
+|\OT1/cmr/bx/n/24.88 (-20) CAP[]ITU-LO 5: []EXPLORATORY DATA
+ []
+
+(./Análisis exploratorio de datos/intro_cap_EDA.tex) (./Análisis exploratorio de datos/Introducción.tex [75
+
+]) (./Análisis exploratorio de datos/Recopilación de datos.tex
+Overfull \hbox (16.39659pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 (-20) Ca-pi-tal cons-ti-tu-yen una va-lio-sa fuen-te de in-for-ma-ci^^Son pa-ra com-pren-der el com-por-ta-mien-to
+ []
+
+[76]) (./Análisis exploratorio de datos/Estadísticas descriptivas.tex [77] [78]
+<img/visualizacion-canales.png, id=1111, 471.2004pt x 237.0456pt>
+File: img/visualizacion-canales.png Graphic file (type png)
+<use img/visualizacion-canales.png>
+Package pdftex.def Info: img/visualizacion-canales.png  used on input line 43.
+(pdftex.def)             Requested size: 364.95189pt x 183.59991pt.
+ [79 <./img/visualizacion-canales.png>] [80]) [81]
+Cap\'{\i }tulo 6.
+(./Modelos de predicción aplicados/Modelo de series temporales.tex
+Overfull \hbox (4.65369pt too wide) in paragraph at lines 12--13
+[]\OT1/cmr/bx/sc/12 (-20) Normalizaci^^Son de Fe-chas: \OT1/cmr/m/n/12 (-20) La co-lum-na 'fe-cha[]-even-to', que con-ten^^S^^Pa in-for-ma-ci^^Son
+ []
+
+[82
+
+]) (./Modelos de predicción aplicados/Modelo de autoencoders.tex
+Overfull \hbox (4.37642pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 (-20) im-ple-men-ta-ci^^Son fue cla-ve pa-ra des-ci-frar las com-ple-ji-da-des y ma-ti-ces del com-por-ta-mien-to
+ []
+
+[83] [84]
+<img/codificación one-hhot.jpg, id=1140, 753.5653pt x 472.76625pt>
+File: img/codificación one-hhot.jpg Graphic file (type jpg)
+<use img/codificación one-hhot.jpg>
+Package pdftex.def Info: img/codificación one-hhot.jpg  used on input line 26.
+(pdftex.def)             Requested size: 386.41426pt x 242.4205pt.
+ [85] [86 <./img/codificación one-hhot.jpg>]
+<img/Arquitectura modelo autoencoder.jpg, id=1149, 752.0597pt x 485.56406pt>
+File: img/Arquitectura modelo autoencoder.jpg Graphic file (type jpg)
+<use img/Arquitectura modelo autoencoder.jpg>
+Package pdftex.def Info: img/Arquitectura modelo autoencoder.jpg  used on input line 59.
+(pdftex.def)             Requested size: 425.06093pt x 274.44792pt.
+ [87] [88 <./img/Arquitectura modelo autoencoder.jpg>]
+<img/Entrenamiento autoencoder.jpg, id=1161, 599.23875pt x 361.35pt>
+File: img/Entrenamiento autoencoder.jpg Graphic file (type jpg)
+<use img/Entrenamiento autoencoder.jpg>
+Package pdftex.def Info: img/Entrenamiento autoencoder.jpg  used on input line 92.
+(pdftex.def)             Requested size: 425.06093pt x 256.3232pt.
+ [89]
+<img/Gráfico entrenamiento autoencoder.png, id=1169, 570.933pt x 307.1475pt>
+File: img/Gráfico entrenamiento autoencoder.png Graphic file (type png)
+<use img/Gráfico entrenamiento autoencoder.png>
+Package pdftex.def Info: img/Gráfico entrenamiento autoencoder.png  used on input line 114.
+(pdftex.def)             Requested size: 386.41426pt x 207.88739pt.
+ [90 <./img/Entrenamiento autoencoder.jpg>] [91 <./img/Gráfico entrenamiento autoencoder.png>]) (./Modelos de predicción aplicados/Modelo de clasificación.tex [92]
+Overfull \hbox (2.77895pt too wide) in paragraph at lines 15--16
+[]\OT1/cmr/m/n/12 (-20) Este en-fo-que es vi-tal pa-ra el en-tre-na-mien-to de mo-de-los de apren-di-za-je su-per-vi-sa-do,
+ []
+
+[93]
+Overfull \hbox (4.8386pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/n/12 (-20) con el sis-te-ma, pro-ce-di-mos a seg-men-tar el flu-jo con-ti-nuo de da-tos en lo que de-no-mi-na-mos
+ []
+
+[94]
+Overfull \hbox (12.27277pt too wide) in paragraph at lines 28--29
+[]\OT1/cmr/m/n/12 (-20) Mediante la com-pa-ra-ci^^Son de las di-fe-ren-cias tem-po-ra-les con un um-bral pre-es-ta-ble-ci-do,
+ []
+
+[95]
+<img/Código identificación sesiones.jpg, id=1200, 623.32875pt x 235.63031pt>
+File: img/Código identificación sesiones.jpg Graphic file (type jpg)
+<use img/Código identificación sesiones.jpg>
+Package pdftex.def Info: img/Código identificación sesiones.jpg  used on input line 45.
+(pdftex.def)             Requested size: 429.3521pt x 162.30464pt.
+ [96 <./img/Código identificación sesiones.jpg>] [97]
+Overfull \hbox (4.96776pt too wide) in paragraph at lines 70--71
+[]\OT1/cmr/m/n/12 (-20) En el pro-ce-so de pre-pa-ra-ci^^Son de nues-tros da-tos, em-plea-mos dic-cio-na-rios es-pec^^S^^Pfi-cos
+ []
+
+[98]
+<img/Código codificación categorias.jpg, id=1217, 514.17094pt x 165.61874pt>
+File: img/Código codificación categorias.jpg Graphic file (type jpg)
+<use img/Código codificación categorias.jpg>
+Package pdftex.def Info: img/Código codificación categorias.jpg  used on input line 92.
+(pdftex.def)             Requested size: 429.3521pt x 138.29999pt.
+ [99 <./img/Código codificación categorias.jpg>] [100] [101]
+<img/Código construcción de secuencias.jpg, id=1234, 727.96968pt x 101.62968pt>
+File: img/Código construcción de secuencias.jpg Graphic file (type jpg)
+<use img/Código construcción de secuencias.jpg>
+Package pdftex.def Info: img/Código construcción de secuencias.jpg  used on input line 137.
+(pdftex.def)             Requested size: 429.3521pt x 59.94237pt.
+ [102 <./img/Código construcción de secuencias.jpg>] [103]
+<img/Código dividir el conjunto de entrenamiento.jpg, id=1246, 706.89093pt x 39.89906pt>
+File: img/Código dividir el conjunto de entrenamiento.jpg Graphic file (type jpg)
+<use img/Código dividir el conjunto de entrenamiento.jpg>
+Package pdftex.def Info: img/Código dividir el conjunto de entrenamiento.jpg  used on input line 183.
+(pdftex.def)             Requested size: 429.3521pt x 24.23427pt.
+ [104]
+Overfull \hbox (3.81166pt too wide) in paragraph at lines 195--196
+[]\OT1/cmr/m/n/12 (-20) Los re-sul-ta-dos ob-te-ni-dos del con-jun-to de prue-ba son cru-cia-les, ya que pro-por-cio-nan
+ []
+
+[105 <./img/Código dividir el conjunto de entrenamiento.jpg>] [106]
+<img/Arquitectura modelo clasificación.jpg, id=1267, 777.65532pt x 295.85532pt>
+File: img/Arquitectura modelo clasificación.jpg Graphic file (type jpg)
+<use img/Arquitectura modelo clasificación.jpg>
+Package pdftex.def Info: img/Arquitectura modelo clasificación.jpg  used on input line 222.
+(pdftex.def)             Requested size: 429.3521pt x 163.34842pt.
+ [107 <./img/Arquitectura modelo clasificación.jpg>]
+Overfull \hbox (15.8104pt too wide) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 (-20) una t^^Secni-ca de re-gu-la-ri-za-ci^^Son bien es-ta-ble-ci-da, fun-cio-na des-ac-ti-van-do alea-to-ria-men-te
+ []
+
+
+Overfull \hbox (4.87386pt too wide) in paragraph at lines 240--241
+\OT1/cmr/m/n/12 (-20) de-mos-tra-da en una va-rie-dad de pro-ble-mas en el cam-po del apren-di-za-je au-tom^^Sati-co.
+ []
+
+[108]
+<img/Código compilar modelo.jpg, id=1279, 563.10374pt x 37.64063pt>
+File: img/Código compilar modelo.jpg Graphic file (type jpg)
+<use img/Código compilar modelo.jpg>
+Package pdftex.def Info: img/Código compilar modelo.jpg  used on input line 255.
+(pdftex.def)             Requested size: 429.3521pt x 28.7002pt.
+ [109 <./img/Código compilar modelo.jpg>] [110] [111]
+Overfull \hbox (4.73416pt too wide) in paragraph at lines 288--289
+\OT1/cmr/m/n/12 (-20) cons-tan-te de las m^^Setri-cas de pre-ci-si^^Son y p^^Serdi-da, tan-to en los con-jun-tos de en-tre-na-mien-to
+ []
+
+
+Overfull \hbox (3.03816pt too wide) in paragraph at lines 288--289
+\OT1/cmr/m/n/12 (-20) co-mo en los de va-li-da-ci^^Son. Es-tas m^^Setri-cas son fun-da-men-ta-les pa-ra eva-luar el ren-di-mien-to
+ []
+
+<img/Código entrenar el modelo.jpg, id=1299, 667.74469pt x 185.19188pt>
+File: img/Código entrenar el modelo.jpg Graphic file (type jpg)
+<use img/Código entrenar el modelo.jpg>
+Package pdftex.def Info: img/Código entrenar el modelo.jpg  used on input line 300.
+(pdftex.def)             Requested size: 429.3521pt x 119.07906pt.
+[112 <./img/Código entrenar el modelo.jpg>] [113]
+<img/Gráfico modelo clasificación.jpg, id=1311, 825.83531pt x 317.68687pt>
+File: img/Gráfico modelo clasificación.jpg Graphic file (type jpg)
+<use img/Gráfico modelo clasificación.jpg>
+Package pdftex.def Info: img/Gráfico modelo clasificación.jpg  used on input line 333.
+(pdftex.def)             Requested size: 429.3521pt x 165.16902pt.
+ [114 <./img/Gráfico modelo clasificación.jpg>]
+Overfull \hbox (18.05592pt too wide) in paragraph at lines 352--353
+\OT1/cmr/m/n/12 (-20) del mo-de-lo de cla-si-fi-ca-ci^^Son, de-ta-llan-do tam-bi^^Sen los re-sul-ta-dos ob-te-ni-dos y su in-ter-pre-ta-ci^^Son: 
+ []
+
+
+Overfull \hbox (6.68846pt too wide) in paragraph at lines 355--356
+\OT1/cmr/m/n/12 (-20) cla-si-fi-ca-ci^^Son. Es-ta m^^Setri-ca pro-por-cio-na una es-ti-ma-ci^^Son de la fia-bi-li-dad de las pre-dic-cio-nes
+ []
+
+[115] [116]) [117]
+Cap\'{\i }tulo 7.
+(./Api y modelo/Descripción componentes.tex
+Overfull \hbox (9.3079pt too wide) in paragraph at lines 17--18
+[]\OT1/cmr/bx/sc/12 (-20) Archivos method[]-to[]-int.json y chan-nel[]-to[]-int.json: \OT1/cmr/m/n/12 (-20) Es-tos ar-chi-vos con-tie-nen
+ []
+
+[118
+
+]) (./Api y modelo/Implementación API.tex [119]
+Overfull \hbox (30.91794pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/12 (-20) Adicionalmente, la API ope-ra con dos ar-chi-vos en for-ma-to JSON, \method[]-to[]-int.json"y
+ []
+
+
+Overfull \hbox (9.31654pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/12 (-20) \chan-nel[]-to[]-int.json". Es-te for-ma-to es-truc-tu-ra la in-for-ma-ci^^Son de ma-ne-ra cla-ra, fa-ci-li-tan-do
+ []
+
+
+Overfull \hbox (4.0357pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/12 (-20) num^^Seri-cos, adapt^^Sando-se a las li-mi-ta-cio-nes del mo-de-lo que no pro-ce-sa tex-to di-rec-ta-men-te. 
+ []
+
+) (./Api y modelo/Dockerización API.tex
+Overfull \hbox (13.61247pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 (-20) con-te-ne-do-res (pa-re-ci-do a Github), per-mi-tien-do ser por-ta-ble en-tre dis-tin-tos de-sa-rro-lla-do-res
+ []
+
+[120]) [121] (./Informe.bbl [122]
+Underfull \hbox (badness 1122) in paragraph at lines 59--73
+[]\OT1/cmr/m/n/12 (+20) Amazon.  (2023).  \OT1/cmr/m/it/12 (+20) ?`qu^^Se es una red neu-ro-nal?  \OT1/cmr/m/n/12 (+20) Si-tio Web.  Des-car-ga-do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--214
+\OT1/cmtt/m/n/12 blogs / aws [] -spanish / como [] -crear [] -un [] -modelo [] -de [] -recomendacion [] -basado []
+ []
+
+[123
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 252--268
+[] \OT1/cmtt/m/n/12 : text = La % 20LSTM % 20es % 20un % 20tipo [] ,periodos % 20de % 20tiempo % 20m % C3 %
+ []
+
+[124]
+Underfull \hbox (badness 10000) in paragraph at lines 686--701
+[]$\OT1/cmtt/m/n/12 https :// towardsdatascience [] .com / recommendation [] -systems [] -explained []
+ []
+
+) [125] (./Informe.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `Informe.out' has not changed.
+(rerunfilecheck)             Checksum: BFD916054F2DA77D25435D2E236FB9D1;15487.
+ ) 
+Here is how much of TeX's memory you used:
+ 18279 strings out of 478287
+ 313458 string characters out of 5849289
+ 642481 words of memory out of 5000000
+ 35461 multiletter control sequences out of 15000+600000
+ 484535 words of font info for 169 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,15n,63p,1684b,742s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Informe.pdf (135 pages, 3178194 bytes).
+PDF statistics:
+ 1553 PDF objects out of 1728 (max. 8388607)
+ 1332 compressed objects within 14 object streams
+ 359 named destinations out of 1000 (max. 500000)
+ 39129 words of extra memory for PDF output out of 42996 (max. 10000000)
+

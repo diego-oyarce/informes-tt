@@ -29,8 +29,9 @@ Ahora se comprueba la existencia de valores nulos en el dataframe, resultando lo
     \end{minipage}
 \end{figure}
 
-Como se puede ver en la imagen anterior solamente los campos 'metodo' y 'canal' poseen valores nulos, de hecho, el primero solo cuenta con un valor nulo. La columna 'canal' cuenta con 36852 valores nulos. Luego de eliminar los valores nulos se pasa a eliminar las filas que contengan métodos inconsistentes, que son:
+Como se puede ver en la imagen anterior solamente los campos 'metodo' y 'canal' poseen valores nulos, de hecho, el primero solo cuenta con un valor nulo. La columna 'canal' cuenta con 36852 valores nulos. Luego de eliminar los valores nulos se pasa a eliminar las filas que contengan métodos inconsistentes o irrelevantes, que son:
 \begin{itemize}
+    \item reCaptcha()
     \item clientes/surveys
     \item clientes/cuentas/validar-cuenta-corriente
     \item clientes/cuentas/cuentas-bancarias
@@ -46,4 +47,4 @@ Como se puede ver en la imagen anterior solamente los campos 'metodo' y 'canal' 
     \item clientes/cuentas/cuentas-bancarias?rut=*********
 \end{itemize}
 
-Al eliminar todas las filas que contengan los métodos antes mencionados se borran un total de 1447 registros. Finalmente, se eliman un total de 38299 filas del dataset original.
+El método reCaptcha() de Google valida la autenticidad de usuarios frente a bots, pero su utilidad se limita a la seguridad en línea. No ofrece información relevante para predecir el comportamiento de los usuarios en la plataforma, siendo necesario recurrir a los otros datos para comprender mejor sus acciones y patrones de uso.
