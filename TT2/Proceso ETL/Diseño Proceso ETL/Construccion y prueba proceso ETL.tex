@@ -53,8 +53,48 @@ Ahora se continua con la estandarización del formato de la fecha, quedando con 
 
 Después de ajustar el formato de la fecha, se procede a corregir la denominación incorrecta de ciertos métodos registrados. Estos métodos son: WEB-Actualizacion-datos y WEB-Contacto-tramite-pensión. Ambos valores registrados en el campo 'canal' presentaron errores de registro. Este problema fue identificado tras el análisis del conjunto de datos, y se informó a la empresa para que corrigiera este error. En la plataforma, únicamente existen dos canales de acceso: 'WEB' y 'PWA'. El primero corresponde a la página web de la plataforma, mientras que el segundo se refiere a la aplicación. En consecuencia, se procede a modificar el nombre de los canales incorrectamente registrados (pertenecientes al canal 'WEB', según su nombre y confirmado con la empresa), para que se ajusten al nombre correcto de canal 'WEB'.
 
-Al finalizar el proceso de ETL se puede ver la diferencia entre el dataset inicial y el dataset final.
+Al finalizar el proceso de ETL se puede ver la diferencia entre el dataset inicial y el dataset final. Primero se presenta una descripción incial del conjunto de datos, esto antes de construir y ejecutar el proceso ETL.
 
-%agregar datos comparativos
+\begin{figure}[H]
+    \begin{minipage}[t]{0.8\textwidth}
+        \caption{Descripción del dataset antes del proceso ETL.}
+        \label{describeInicial}        
+    \end{minipage}
+
+    \vspace{10pt}
+
+    \centering
+    \begin{minipage}[b]{0.8\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{img/describe_data_inicial.png}        
+    \end{minipage}
+
+    \begin{minipage}[t]{0.9\textwidth}
+        Fuente: Elaboración propia.
+    \end{minipage}
+\end{figure}
+
+Ahora se presenta una descripción del conjunto luego del proceso ETL.
+
+\begin{figure}[H]
+    \begin{minipage}[t]{0.8\textwidth}
+        \caption{Descripción del dataset después del proceso ETL.}
+        \label{describeFinal}        
+    \end{minipage}
+
+    \vspace{10pt}
+
+    \centering
+    \begin{minipage}[b]{0.9\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{img/describe_data_final.png}        
+    \end{minipage}
+
+    \begin{minipage}[t]{0.9\textwidth}
+        Fuente: Elaboración propia.
+    \end{minipage}
+\end{figure}
+
+Después de aplicar el proceso ETL a los datos iniciales, se observan cambios notables en varias dimensiones del conjunto de datos. En primer lugar, el tamaño del conjunto de datos se redujo significativamente de 2,332,471 registros a 1,885,948, lo que sugiere una eficaz limpieza y eliminación de datos redundantes o inconsistentes. A nivel de valores únicos, la columna 'rut' mantuvo su estabilidad con 35,544 valores únicos, mientras que 'fecha' se estandarizó de 406,475 a 21,149 valores únicos, indicando una consolidación y uniformidad en el registro de fechas. Además, las columnas 'método' y 'canal' experimentaron reducciones significativas en la cantidad de valores únicos, pasando de 100 a 85 y de 4 a 2 respectivamente, lo que indica una simplificación y  una corrección de errores en la categorización. Los valores más frecuentes ('top') variaron en todas las columnas, destacando cambios notables en 'fecha', 'método' y 'canal', lo que indica una reestructuración significativa de los datos y posiblemente una mejora en la precisión y relevancia de la información.
 
 Una vez completadas las etapas de limpieza y transformación mencionadas previamente, estamos listos para adentrarnos en el análisis de los datos. Este análisis es fundamental para extraer la información necesaria que orientará el desarrollo de un modelo de aprendizaje automático.
