@@ -6,7 +6,7 @@ El objetivo de las pruebas es asegurar que el proceso ETL cumpla con los requisi
 
 En caso de encontrar inconvenientes o desviaciones durante las pruebas, se realizan los ajustes necesarios en el diseño o en la configuración de las herramientas utilizadas. Es fundamental realizar iteraciones y pruebas adicionales hasta obtener resultados consistentes y satisfactorios.
 
-Como primer paso en la construcción del proceso ETL, se importan las bibliotecas pandas y numpy. Luego se le da nombre a las columnas, ya que el contenido del archivo csv solo trae los datos. Una vez nombradas las columnas se ordenan para un entendimiento más facil del conjunto de datos, quedando de la siguiente manera respectivamente: rut, fecha, metodo, canal.
+Como primer paso en la construcción del proceso ETL, se importan las bibliotecas pandas y numpy para trabajar con el dataset. Luego se le da nombre a las columnas, ya que el contenido del archivo csv solo trae los datos. Una vez nombradas las columnas se ordenan para un entendimiento más facil del conjunto de datos, quedando de la siguiente manera respectivamente: rut, fecha, metodo, canal.
 
 Ahora se comprueba la existencia de valores nulos en el dataframe, resultando lo siguiente:
 
@@ -29,7 +29,7 @@ Ahora se comprueba la existencia de valores nulos en el dataframe, resultando lo
     \end{minipage}
 \end{figure}
 
-Como se puede ver en la imagen anterior solamente los campos 'metodo' y 'canal' poseen valores nulos, de hecho, el primero solo cuenta con un valor nulo. La columna 'canal' cuenta con 36852 valores nulos. Luego de eliminar los valores nulos se pasa a eliminar las filas que contengan métodos inconsistentes o irrelevantes, que son:
+Como se puede ver en la imagen anterior solamente los campos 'metodo' y 'canal' poseen valores nulos, de hecho, el primero solo cuenta con un valor nulo. La columna 'canal' cuenta con 36,852 valores nulos. Luego de eliminar los valores nulos se pasa a eliminar las filas que contengan métodos inconsistentes o irrelevantes, que son:
 \begin{itemize}
     \item reCaptcha()
     \item clientes/surveys
@@ -47,4 +47,14 @@ Como se puede ver en la imagen anterior solamente los campos 'metodo' y 'canal' 
     \item clientes/cuentas/cuentas-bancarias?rut=*********
 \end{itemize}
 
-El método reCaptcha() de Google valida la autenticidad de usuarios frente a bots, pero su utilidad se limita a la seguridad en línea. No ofrece información relevante para predecir el comportamiento de los usuarios en la plataforma, siendo necesario recurrir a los otros datos para comprender mejor sus acciones y patrones de uso.
+Es importante mencionar que el método reCaptcha() de Google valida la autenticidad de usuarios frente a bots, pero su utilidad se limita a la seguridad en línea. No ofrece información relevante para predecir el comportamiento de los usuarios en la plataforma, siendo necesario recurrir a los otros datos para comprender mejor sus acciones y patrones de uso.
+
+Ahora se continua con la estandarización del formato de la fecha, quedando con el formato UTC (YYYY-MM-DDTHH:MM:SS.sssZ). La estandarización del formato de la fecha es un paso esencial para garantizar la coherencia y la compatibilidad de los datos. En este caso, se ha optado por este formato debido a una convención global reconocida que asegura la uniformidad y comprensión en diferentes contextos y aplicaciones.
+
+Después de ajustar el formato de la fecha, se procede a corregir la denominación incorrecta de ciertos métodos registrados. Estos métodos son: WEB-Actualizacion-datos y WEB-Contacto-tramite-pensión. Ambos valores registrados en el campo 'canal' presentaron errores de registro. Este problema fue identificado tras el análisis del conjunto de datos, y se informó a la empresa para que corrigiera este error. En la plataforma, únicamente existen dos canales de acceso: 'WEB' y 'PWA'. El primero corresponde a la página web de la plataforma, mientras que el segundo se refiere a la aplicación. En consecuencia, se procede a modificar el nombre de los canales incorrectamente registrados (pertenecientes al canal 'WEB', según su nombre y confirmado con la empresa), para que se ajusten al nombre correcto de canal 'WEB'.
+
+Al finalizar el proceso de ETL se puede ver la diferencia entre el dataset inicial y el dataset final.
+
+%agregar datos comparativos
+
+Una vez completadas las etapas de limpieza y transformación mencionadas previamente, estamos listos para adentrarnos en el análisis de los datos. Este análisis es fundamental para extraer la información necesaria que orientará el desarrollo de un modelo de aprendizaje automático.
