@@ -1,46 +1,46 @@
 Resumen de las principales características de las variables relevantes en los registros de logs de navegación. Análisis de la distribución de los datos, incluyendo medidas de centralidad y dispersión. Usando la librería Pandas de Python, podemos obtener información importante sobre los conjuntos de datos. Estos valores nos proporcionarán un mayor entendimiento de la composición y estructura de los registros de navegación.
 
-Podemos obtener información respecto a la cantidad de valores faltantes en el dataframe que se está utilizando, los cuales suman 36853 en total. De estos datos faltantes, 36853 corresponden principalmente al campo 'canal', con solo un valor faltante en el campo 'método'. Como se vio en el capítulo anterior, estos valores fueron eliminados del dataframe.
+Podemos obtener información respecto a la cantidad de valores faltantes en el dataframe que se está utilizando, los cuales suman 36,853 en total. De estos datos faltantes, 36,853 corresponden principalmente al campo 'canal', con solo un valor faltante en el campo 'método'. Como se vio en el capítulo anterior, estos valores fueron eliminados del dataframe.
 
 Haciendo uso de la misma librería, podemos determinar los tipos de datos que contiene cada campo:
 
 \begin{itemize}
-    \item \textbf{rut cliente:} Contiene datos de tipo int64.
-    \item \textbf{fecha evento:} Contiene datos de tipo object.
-    \item \textbf{metodo:} Contiene datos de tipo object.
-    \item \textbf{canal:} Contiene datos de tipo object.
+    \item \textbf{rut cliente:} Contiene datos de tipo string.
+    \item \textbf{fecha:} Contiene datos de tipo date.
+    \item \textbf{metodo:} Contiene datos de tipo string.
+    \item \textbf{canal:} Contiene datos de tipo string.
 \end{itemize}
 
 Además se puede conocer la cantidad de valores únicos que posee cada una de las columnas del dataframe (luego del proceso ETL):
 
 \begin{itemize}
-    \item \textbf{rut cliente:} Contiene 35541 valores únicos.
-    \item \textbf{fecha evento:} Contiene 403259 valores únicos.
-    \item \textbf{metodo:} Contiene 86 valores únicos.
-    \item \textbf{canal:} Contiene 4 valores únicos.
+    \item \textbf{rut cliente:} Contiene 35,524 valores únicos.
+    \item \textbf{fecha:} Contiene 21,148 valores únicos.
+    \item \textbf{metodo:} Contiene 85 valores únicos.
+    \item \textbf{canal:} Contiene 2 valores únicos.
 \end{itemize}
 
-La frecuencia con la que aparece cada canal es de:
+Ahora veremos la frecuencia con la que aparecen los valores más frecuentes en cada campo:
 \begin{itemize}
-    \item PWA: 1437762
-    \item WEB: 856410
+    \item Para rut el valor más común es 'MTU0NjM5NzIx' y tiene una frecuencia de 320,689.
+    \item Para método el valor más común es 'getAccountWithdrawal()' y tiene una frecuencia de 259,733.
+    \item Para el canal el más común es 'PWA' con una frecuencia de 1,029,538.
+    \item Para el campo fecha es distinto ya que cada registro posee valores distintos, esto se debe al detalle del valor guardado ya que este llega a considerar las milesimas de segundos.
 \end{itemize}
 
-Cabe mencionar que en la plataforma solo existen dos canales: el canal PWA (correspondiente a la aplicación) y el canal WEB. Todos los datos registrados en este campo pertenecen a uno de estos dos canales. Es decir, los valores únicos 'WEB-Actualizacion-datos' y 'WEB-Contacto-tramite-pension' son acciones realizadas en el canal WEB. Se identificó este error en el registro de logs y se informó a la empresa para su corrección.
-
-Ahora se muestra un gráfico sobre la distribución de los canales en el conjunto de datos.
+Ahora veremos un gráfico que representa la distribución de los métodos en el conjunto de datos. En esta ocasión, se presentarán únicamente los diez métodos que tienen la mayor frecuencia, dado que la cantidad de métodos registrados es demasiado grande para ser mostrada en un solo gráfico.
 
 \begin{figure}[H]
     \begin{minipage}[t]{0.9\textwidth}
-        \caption{Distribución de canales.}
-        \label{descripcion_dataframe}        
+        \caption{Distribución de métodos en el dataset.}
+        \label{frecuencia-metodos}        
     \end{minipage}
 
     \vspace{10pt}
 
-    \begin{minipage}[b]{0.85\textwidth}
+    \begin{minipage}[b]{1.0\textwidth}
         \centering
-        \includegraphics[width=\textwidth]{img/visualizacion-canales.png}        
+        \includegraphics[width=\textwidth]{img/frecuencia-metodo.png}        
     \end{minipage}
 
     \begin{minipage}[t]{0.9\textwidth}
@@ -48,7 +48,7 @@ Ahora se muestra un gráfico sobre la distribución de los canales en el conjunt
     \end{minipage}
 \end{figure}
 
-En la imagen se puede observar que principalmente dos canales predominan en cuanto a su frecuencia: PWA y WEB. Esto indica que actualmente los afiliados que utilizan la plataforma web tienden a utilizar estos dos canales, y en menor medida, los canales WEB-Actualización-datos y WEB-Contacto-tramite-pensión.
+La distribución muestra que las actividades relacionadas con cuentas (getAccountWithdrawal(), getAccounts(), y getAccountsConditions()) son las más frecuentes. Esto sugiere que la mayoría de los usuarios están interesados en la gestión y consulta de sus cuentas. Por otro lado. las actividades como login() y loginApplication() también tienen una alta frecuencia, indicando que el proceso de inicio de sesión es común, lo cual es esperado en una plataforma segura. De acá podemos podemos concluir que las actividades más populares pueden ser un área clave para la mejora continua y la optimización de la experiencia del usuario. Las actividades menos frecuentes no deben ser ignoradas; se debe evaluar su importancia y cómo pueden ser promocionadas o mejoradas.
 
 Para analizar las fechas, se decidió realizar una descripción de estas por día y hora. Año y mes quedan fuera del análisis ya que todos los datos pertenecen al mismo año y mes. Respecto a los días, en el set de datos hay un total de ocho días, y están presentes las veinticuatro horas del día. Estas tienen una frecuencia de:
 
