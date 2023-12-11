@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Informe"] 1702159335 "Informe.aux" "Informe.bbl" "Informe" 1702159341 0
+["bibtex Informe"] 1702159335 "Informe.aux" "Informe.bbl" "Informe" 1702327731 0
   "./Bibliografia.bib" 1702153815 11839 5b6c367d7b3ab48656463fdd1a910074 ""
-  "Informe.aux" 1702159339 41435 a8291ef3badda47d21d7f49f38a37555 "pdflatex"
+  "Informe.aux" 1702327729 41435 a8291ef3badda47d21d7f49f38a37555 "pdflatex"
   "c:/texlive/2023/texmf-dist/bibtex/bst/apacite/apacite.bst" 1687486639 141073 9d7b79dbf9d91133318126032cff8c27 ""
   (generated)
   "Informe.bbl"
   "Informe.blg"
   (rewritten before read)
-["pdflatex"] 1702159335 "c:/Users/crist/OneDrive/Documentos/GitHub/informes-tt/TT2/Informe.tex" "Informe.pdf" "Informe" 1702159341 0
+["pdflatex"] 1702327724 "c:/Users/crist/OneDrive/Documentos/GitHub/informes-tt/TT2/Informe.tex" "Informe.pdf" "Informe" 1702327731 0
   "Análisis exploratorio de datos/Estadísticas descriptivas.tex" 1702153815 7005 e13bb824413cd789533a1919f0b3e78c ""
   "Análisis exploratorio de datos/Introducción.tex" 1694812301 2622 4ca38027458ed1e0a2ed7392d0217499 ""
   "Análisis exploratorio de datos/Recopilación de datos.tex" 1702153815 3375 82a1166aaa8292a99b58218c0a49280b ""
@@ -16,12 +16,12 @@
   "Api y modelo/Dockerización API.tex" 1701716761 2950 1e0bc28a3d23dc7040c931a3be29485e ""
   "Api y modelo/Implementación API.tex" 1701805482 2408 58156a93ce6d895e071838010a485bc8 ""
   "Conclusión y recomendación.tex" 1701893698 6540 6f455ff73b1a8e1127c321eb69fcad67 ""
-  "Informe.aux" 1702159339 41435 a8291ef3badda47d21d7f49f38a37555 "pdflatex"
+  "Informe.aux" 1702327729 41435 a8291ef3badda47d21d7f49f38a37555 "pdflatex"
   "Informe.bbl" 1702159335 17418 afc7fbf18127f7b30463042c022c3234 "bibtex Informe"
-  "Informe.lof" 1702159339 4548 322e8746216aadd1b894969d6c59bc54 "pdflatex"
-  "Informe.out" 1702159339 15928 f2fefb04da27789ba9876f408df23cbc "pdflatex"
+  "Informe.lof" 1702327729 4548 322e8746216aadd1b894969d6c59bc54 "pdflatex"
+  "Informe.out" 1702327729 15928 f2fefb04da27789ba9876f408df23cbc "pdflatex"
   "Informe.tex" 1701877454 10762 7b55f441648133658a3e0f17cab87309 ""
-  "Informe.toc" 1702159339 14393 b8b15c8459da01293af731117e97fce9 "pdflatex"
+  "Informe.toc" 1702327729 14393 b8b15c8459da01293af731117e97fce9 "pdflatex"
   "La empresa/Descripción general.tex" 1694467974 1482 ab770493b1bdd4e4dda660e740d16091 ""
   "La empresa/Historia.tex" 1694467974 2813 732ca7c80f187011448f42f4d247f734 ""
   "La empresa/Misión.tex" 1694551231 318 49296265093c26ac3aea6238a2c13d85 ""
@@ -38,7 +38,7 @@
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de arboles de decisiones.tex" 1701368820 6842 ec4bdf49146742aceab8162c5e35929c ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de atribución.tex" 1701368820 4962 5686b5d31c6443de2d4fceef93fc9fdb ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de recomendación.tex" 1701893017 4522 3a2624ef722af7fbca1b371c1269ecf1 ""
-  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex" 1702159329 6214 9762859bd2728f7371bff0e0ae154512 ""
+  "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de regresión logística.tex" 1702160975 6214 9762859bd2728f7371bff0e0ae154512 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Modelos de series temporales.tex" 1701368820 5368 1a13f9c68aaf5e7a717bd8df22268e81 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/Tabla comparativa.tex" 1702153893 3426 817b06e3cf8b361a697f73d1e9b5c852 ""
   "Marco teórico/Herramientas para la predicción del comportamiento del cliente en el canal web/Modelos de predicción/intro_modelos.tex" 1694642482 460 d63aaf6dd97c564807263ae9bca29877 ""
@@ -52,7 +52,7 @@
   "Marco teórico/intro_cap_marco.tex" 1694552207 426 5aa593282a007d2bc77d80d865952542 ""
   "Modelos de predicción aplicados/Modelo de autoencoders.tex" 1701877454 13060 dcd05aa810ed9b810d3aa028b67b9ed3 ""
   "Modelos de predicción aplicados/Modelo de clasificación.tex" 1701877454 57002 f9903121749d331d4c6809fbf5bc3a91 ""
-  "Modelos de predicción aplicados/Modelo de series temporales.tex" 1700511614 3437 e171dfcb2d6751cf1b3d5976f9842f51 ""
+  "Modelos de predicción aplicados/Modelo de series temporales.tex" 1702327723 3444 c47df837a4035fa6d7252b70b8dd60b5 ""
   "Presentación del proyecto/Abstract.tex" 1701892701 2336 9d8057ca547ac06295f0f4175c27460c ""
   "Presentación del proyecto/Alcances y limitaciones.tex" 1701892850 1145 5b3139c72dcd86e78a574058b634af90 ""
   "Presentación del proyecto/Descripción del trabajo de título.tex" 1701368820 861 5c30697004027ee1547271845dadbc20 ""
