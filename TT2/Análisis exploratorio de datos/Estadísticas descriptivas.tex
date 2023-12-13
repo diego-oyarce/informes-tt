@@ -5,7 +5,7 @@ Podemos obtener información respecto a la cantidad de valores faltantes en el d
 Haciendo uso de la misma librería, podemos determinar los tipos de datos que contiene cada campo:
 
 \begin{itemize}
-    \item \textbf{rut cliente:} Contiene datos de tipo string.
+    \item \textbf{rut:} Contiene datos de tipo string.
     \item \textbf{fecha:} Contiene datos de tipo date.
     \item \textbf{metodo:} Contiene datos de tipo string.
     \item \textbf{canal:} Contiene datos de tipo string.
@@ -48,7 +48,8 @@ Ahora veremos un gráfico que representa la distribución de los métodos en el 
     \end{minipage}
 \end{figure}
 
-La distribución muestra que las actividades relacionadas con cuentas (getAccountWithdrawal(), getAccounts(), y getAccountsConditions()) son las más frecuentes. Esto sugiere que la mayoría de los usuarios están interesados en la gestión y consulta de sus cuentas. Por otro lado. las actividades como login() y loginApplication() también tienen una alta frecuencia, indicando que el proceso de inicio de sesión es común, lo cual es esperado en una plataforma segura. De acá podemos podemos concluir que las actividades más populares pueden ser un área clave para la mejora continua y la optimización de la experiencia del usuario. Las actividades menos frecuentes no deben ser ignoradas; se debe evaluar su importancia y cómo pueden ser promocionadas o mejoradas.
+\sloppy
+La distribución muestra que las actividades relacionadas con cuentas (getAccountWithdrawal(), getAccounts(), y getAccountsConditions()) son las más frecuentes. Esto sugiere que la mayoría de los usuarios están interesados en la gestión y consulta de sus cuentas. Por otro lado, las actividades como login() y loginApplication() también tienen una alta frecuencia, indicando que el proceso de inicio de sesión es común, lo cual es esperado en una plataforma segura. De acá podemos podemos concluir que las actividades más populares pueden ser un área clave para la mejora continua y la optimización de la experiencia del usuario. Las actividades menos frecuentes no deben ser ignoradas; se debe evaluar su importancia y cómo pueden ser promocionadas o mejoradas.
 
 Para analizar las fechas, se decidió realizar una descripción de estas por día y hora. Año y mes quedan fuera del análisis ya que todos los datos pertenecen al mismo año y mes. Respecto a los días, en el set de datos hay un total de ocho días, y están presentes las veinticuatro horas del día. Estas tienen una frecuencia de:
 
@@ -99,5 +100,3 @@ Al analizar la distribución de los días, se observa que los días 14 y 13 pres
 En cuanto a la distribución de las horas, se puede observar que las horas 14, 15 y 13 tienen las frecuencias más altas, con 1382, 1263 y 1240 eventos, respectivamente. Las horas entre las 16 y las 21 también muestran una frecuencia considerablemente alta, mientras que las horas más tempranas (de 00 a 04) y las horas de la madrugada (después de las 04) presentan menor actividad, siendo la hora 05 la menos frecuente con 438 eventos.
 
 Este análisis detallado por días y horas proporciona una visión más completa sobre la distribución temporal de los eventos registrados en el conjunto de datos, lo que puede ser útil para comprender los patrones de comportamiento de los usuarios en la plataforma.
-
-Debido a la cantidad de datos únicos que presentan los otros campos se decidió evaluar otra forma de entregar esa información en la entrega final ya que resulta complejo añadirlo al informe sin que altere la visualización del resto de los datos del informe.

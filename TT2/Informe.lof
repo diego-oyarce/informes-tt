@@ -26,14 +26,14 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {21}{\ignorespaces Distribución de métodos en el dataset.\relax }}{82}{figure.caption.60}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {22}{\ignorespaces Preparación y codificación one-hot de los datos\relax }}{89}{figure.caption.63}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Arquitectura del modelo autoencoder\relax }}{91}{figure.caption.66}%
-\contentsline {figure}{\numberline {24}{\ignorespaces Entrenamiento del modelo autoencoder\relax }}{93}{figure.caption.70}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Gráfico del entrenamiento del modelo autoencoder\relax }}{94}{figure.caption.71}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Código indentificación de sesiones\relax }}{99}{figure.caption.76}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Código codificación de categorías\relax }}{102}{figure.caption.80}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Código construcción de secuencias\relax }}{105}{figure.caption.84}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Código dividir el conjunto\relax }}{108}{figure.caption.90}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Preparación y codificación one-hot de los datos\relax }}{88}{figure.caption.63}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Arquitectura del modelo autoencoder\relax }}{90}{figure.caption.66}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Entrenamiento del modelo autoencoder\relax }}{92}{figure.caption.70}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Gráfico del entrenamiento del modelo autoencoder\relax }}{93}{figure.caption.71}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Código indentificación de sesiones\relax }}{98}{figure.caption.76}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Código codificación de categorías\relax }}{101}{figure.caption.80}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Código construcción de secuencias\relax }}{104}{figure.caption.84}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Código dividir el conjunto\relax }}{107}{figure.caption.90}%
 \contentsline {figure}{\numberline {30}{\ignorespaces Construccion del modelo de clasificación\relax }}{110}{figure.caption.97}%
 \contentsline {figure}{\numberline {31}{\ignorespaces Construccion del compilador del modelo\relax }}{112}{figure.caption.100}%
 \contentsline {figure}{\numberline {32}{\ignorespaces Código para entrenar el modelo\relax }}{115}{figure.caption.108}%
