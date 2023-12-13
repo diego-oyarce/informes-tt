@@ -1,0 +1,162 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Resumen}{\es@scroman {vii}}{chapter*.1}%
+\contentsline {chapter}{Abstract}{\es@scroman {ix}}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Presentación del proyecto}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Descripción del trabajo de título}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objetivos}{1}{section.1.2}%
+\contentsline {subsubsection}{Objetivo general}{1}{section*.3}%
+\contentsline {subsubsection}{Objetivos específicos}{1}{section*.4}%
+\contentsline {section}{\numberline {1.3}Alcances y Limitaciones}{2}{section.1.3}%
+\contentsline {subsubsection}{Alcances}{2}{section*.5}%
+\contentsline {subsubsection}{Limitaciones}{2}{section*.6}%
+\contentsline {chapter}{\numberline {2}La empresa}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Historia}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Descripción general}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Misión y visión}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Misión}{6}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Visión}{7}{subsection.2.3.2}%
+\contentsline {chapter}{\numberline {3}Marco teórico}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Importancia de predecir el comportamiento del cliente en un sitio web}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Comportamiento del cliente/afiliado en el canal web}{9}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Definición y relevancia del comportamiento del cliente para el negocio}{9}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Características del comportamiento del cliente en el canal web}{11}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Factores que afectan el comportamiento del cliente}{12}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Herramientas para la predicción del comportamiento del cliente en el canal web}{13}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Introducción a las herramientas de análisis de datos}{13}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Métodos, técnicas y tecnologías de análisis de datos}{15}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Modelos de predicción de comportamiento del cliente}{16}{subsection.3.3.3}%
+\contentsline {subsubsection}{Modelos de regresión logística}{16}{section*.8}%
+\contentsline {subsubsection}{Ventajas de los modelos de regresión logística}{18}{section*.9}%
+\contentsline {subsubsection}{Desventajas de los modelos de regresión logística}{19}{section*.10}%
+\contentsline {subsubsection}{Modelos de recomendación}{19}{section*.11}%
+\contentsline {subsubsection}{Ventajas de los modelos de recomendación}{20}{section*.12}%
+\contentsline {subsubsection}{Desventajas de los modelos de recomendación}{21}{section*.13}%
+\contentsline {subsubsection}{Modelos de series temporales}{22}{section*.14}%
+\contentsline {subsubsection}{Ventajas de los modelos de series temporales}{23}{section*.15}%
+\contentsline {subsubsection}{Desventajas de los modelos de series temporales}{24}{section*.16}%
+\contentsline {subsubsection}{Modelos de atribución}{24}{section*.17}%
+\contentsline {subsubsection}{Ventajas de los modelos de atribución}{25}{section*.18}%
+\contentsline {subsubsection}{Desventajas de los modelos de atribución}{26}{section*.19}%
+\contentsline {subsubsection}{Modelos de arboles de decisión}{27}{section*.20}%
+\contentsline {subsubsection}{Ventajas de los árboles de decisión}{29}{section*.22}%
+\contentsline {subsubsection}{Desventajas de los árboles de decisión}{30}{section*.23}%
+\contentsline {subsubsection}{Modelo Random Forest}{31}{section*.24}%
+\contentsline {subsubsection}{Ventajas de random forest}{33}{section*.26}%
+\contentsline {subsubsection}{Desventajas de random forest}{33}{section*.27}%
+\contentsline {subsubsection}{Autoencoders de Redes LSTM para Predicción de Comportamiento de Usuario}{34}{section*.28}%
+\contentsline {subsubsection}{Ventajas de los Autoencoders de Redes LSTM}{35}{section*.29}%
+\contentsline {subsubsection}{Desventajas de los Autoencoders de Redes LSTM}{35}{section*.30}%
+\contentsline {subsection}{\numberline {3.3.4}Tabla comparativa de los modelos de predicción}{36}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Series Temporales}{37}{subsection.3.3.5}%
+\contentsline {subsubsection}{Graficos de series temporales}{38}{section*.32}%
+\contentsline {subsubsection}{Modelo ARIMA}{48}{section*.43}%
+\contentsline {subsubsection}{Modelo SARIMA}{57}{section*.47}%
+\contentsline {subsection}{\numberline {3.3.6}Redes LSTM Long Short-Term Memory}{58}{subsection.3.3.6}%
+\contentsline {subsubsection}{¿Qué es una red neuronal?}{58}{section*.48}%
+\contentsline {subsubsection}{¿Qué son las redes Long Short-Term Memory?}{59}{section*.49}%
+\contentsline {subsubsection}{Arquitectura de una Long Short-Term Memory}{59}{section*.50}%
+\contentsline {subsection}{\numberline {3.3.7}Metodología del proyecto}{60}{subsection.3.3.7}%
+\contentsline {subsubsection}{Fase 1: Planteamiento y planificación}{60}{section*.51}%
+\contentsline {subsubsection}{Fase 2: Investigación}{61}{section*.52}%
+\contentsline {subsubsection}{Fase 3: Modelamiento y desarrollo}{61}{section*.53}%
+\contentsline {subsubsection}{Fase 4: Conclusiones y recomendaciones}{62}{section*.54}%
+\contentsline {subsection}{\numberline {3.3.8}Metodología del sistema}{62}{subsection.3.3.8}%
+\contentsline {subsubsection}{CRISP-DM}{62}{section*.55}%
+\contentsline {subsubsection}{OSEMN}{63}{section*.56}%
+\contentsline {chapter}{\numberline {4}Proceso ETL}{65}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Diseño Proceso ETL}{65}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Requisitos ETL}{66}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Identificicación fuente de datos}{66}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Diseño del modelo de datos objetivo}{67}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Planificación de las transformaciones}{68}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Selección de herramientas}{70}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Construcción y prueba proceso ETL}{71}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Monitoreo proceso ETL}{75}{subsection.4.1.7}%
+\contentsline {chapter}{\numberline {5}{\language \langwohyphens Exploratory Data Analysis (EDA)}}{77}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introducción al EDA}{77}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Recopilación de datos}{78}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Descripción de los datos}{80}{section.5.3}%
+\contentsline {subsubsection}{Distribución de días:}{83}{section*.61}%
+\contentsline {subsubsection}{Distribución de horas:}{83}{section*.62}%
+\contentsline {chapter}{\numberline {6}Modelos de predicción aplicados}{85}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Modelo de series de tiempo}{85}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Preprocesamiento y Preparación de Datos}{85}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Codificación y Transformación One-Hot}{85}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Construcción y Entrenamiento del Modelo}{86}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Conclusión del Modelo de series de tiempo ARIMA}{86}{subsection.6.1.4}%
+\contentsline {section}{\numberline {6.2}Modelo de autoencoders}{87}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Preprocesamiento y Preparación de Datos}{87}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Codificación One-Hot}{88}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Construcción y Entrenamiento del Modelo}{89}{subsection.6.2.3}%
+\contentsline {subsubsection}{Construcción del Codificador}{90}{section*.64}%
+\contentsline {subsubsection}{Construcción del Decodificador}{90}{section*.65}%
+\contentsline {subsubsection}{Aprendizaje Progresivo}{92}{section*.67}%
+\contentsline {subsubsection}{Evaluación y Ajustes}{92}{section*.68}%
+\contentsline {subsubsection}{Término del Entrenamiento}{92}{section*.69}%
+\contentsline {subsection}{\numberline {6.2.4}Resultados y Evaluación}{93}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Conclusión del Modelo de Autoencoder}{94}{subsection.6.2.5}%
+\contentsline {section}{\numberline {6.3}Modelo de predicción secuencial}{95}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Preprocesamiento y Preparación de Datos}{95}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Ordenamiento y Etiquetado}{96}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Identificación de Sesiones}{97}{subsection.6.3.3}%
+\contentsline {subsubsection}{Cálculo de Diferencias de Tiempo}{97}{section*.72}%
+\contentsline {subsubsection}{Definición de un Umbral de Tiempo}{98}{section*.73}%
+\contentsline {subsubsection}{Identificación de Nuevas Sesiones}{98}{section*.74}%
+\contentsline {subsubsection}{Asignación de Identificadores de Sesión}{98}{section*.75}%
+\contentsline {subsection}{\numberline {6.3.4}Codificación de Categorías}{100}{subsection.6.3.4}%
+\contentsline {subsubsection}{Mapeo de Categorías a Números:}{100}{section*.77}%
+\contentsline {subsubsection}{Aplicación de la Codificación:}{101}{section*.78}%
+\contentsline {subsubsection}{Beneficios de la Codificación}{101}{section*.79}%
+\contentsline {subsection}{\numberline {6.3.5}Construcción de Secuencias}{103}{subsection.6.3.5}%
+\contentsline {subsubsection}{Agrupación de Eventos en Secuencias:}{103}{section*.81}%
+\contentsline {subsubsection}{Preparación para el Modelo de Red Neuronal:}{104}{section*.82}%
+\contentsline {subsubsection}{Estructura de Datos de Secuencias:}{104}{section*.83}%
+\contentsline {subsubsection}{Significado para el Modelado Predictivo:}{105}{section*.85}%
+\contentsline {subsubsection}{Alineación con Objetivos de Predicción:}{105}{section*.86}%
+\contentsline {subsection}{\numberline {6.3.6}División de Datos}{106}{subsection.6.3.6}%
+\contentsline {subsubsection}{Separación en Conjuntos de Entrenamiento y Prueba:}{106}{section*.87}%
+\contentsline {subsubsection}{Aleatorización y Estratificación:}{107}{section*.88}%
+\contentsline {subsubsection}{Importancia para la Validación del Modelo:}{107}{section*.89}%
+\contentsline {subsubsection}{Protección Contra el Sobreajuste:}{108}{section*.91}%
+\contentsline {subsubsection}{Retroalimentación para la Iteración del Modelo:}{108}{section*.92}%
+\contentsline {subsection}{\numberline {6.3.7}Construcción del Modelo}{108}{subsection.6.3.7}%
+\contentsline {subsubsection}{Selección de la Arquitectura:}{109}{section*.93}%
+\contentsline {subsubsection}{Capa de Incrustación (Embedding):}{109}{section*.94}%
+\contentsline {subsubsection}{Capas LSTM:}{109}{section*.95}%
+\contentsline {subsubsection}{Capa Densa de Salida:}{110}{section*.96}%
+\contentsline {subsection}{\numberline {6.3.8}Regularización y Compilación}{111}{subsection.6.3.8}%
+\contentsline {subsubsection}{Regularización:}{111}{section*.98}%
+\contentsline {subsubsection}{Compilación del Modelo:}{111}{section*.99}%
+\contentsline {subsubsection}{Balance entre Aprendizaje y Generalización}{112}{section*.101}%
+\contentsline {subsubsection}{Preparación para el Entrenamiento}{113}{section*.102}%
+\contentsline {subsection}{\numberline {6.3.9}Entrenamiento del Modelo}{113}{subsection.6.3.9}%
+\contentsline {subsubsection}{Alimentación de Datos al Modelo}{113}{section*.103}%
+\contentsline {subsubsection}{Uso de Datos de Validación}{114}{section*.104}%
+\contentsline {subsubsection}{Configuración del Proceso de Entrenamiento}{114}{section*.105}%
+\contentsline {subsubsection}{Monitoreo con EarlyStopping}{114}{section*.106}%
+\contentsline {subsubsection}{Evaluación del Rendimiento}{115}{section*.107}%
+\contentsline {subsection}{\numberline {6.3.10}Resultados del entrenamiento del modelo}{115}{subsection.6.3.10}%
+\contentsline {subsubsection}{\textbf {Análisis de la Pérdida}}{116}{section*.109}%
+\contentsline {subsubsection}{\textbf {Análisis de la Precisión}}{116}{section*.110}%
+\contentsline {subsection}{\numberline {6.3.11}Predicción del modelo}{117}{subsection.6.3.11}%
+\contentsline {subsection}{\numberline {6.3.12}Métricas de predicción aplicadas}{118}{subsection.6.3.12}%
+\contentsline {subsubsection}{Precisión (Precision)}{118}{section*.112}%
+\contentsline {subsubsection}{Recall (Sensibilidad o Tasa de Verdaderos Positivos)}{119}{section*.113}%
+\contentsline {subsubsection}{Puntuación F1}{119}{section*.114}%
+\contentsline {subsection}{\numberline {6.3.13}Conclusión del Modelo de Predicción Secuencial}{120}{subsection.6.3.13}%
+\contentsline {chapter}{\numberline {7}Api y modelo implementado}{121}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Descripción de los componentes}{121}{section.7.1}%
+\contentsline {subsubsection}{Modelo de Clasificación con TensorFlow:}{121}{section*.115}%
+\contentsline {subsubsection}{Diccionarios JSON para Mapeo de Datos:}{121}{section*.116}%
+\contentsline {subsubsection}{API de Flask}{122}{section*.117}%
+\contentsline {section}{\numberline {7.2}Desarrollo e Implementación de la API}{122}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Dockerización de la Api}{123}{section.7.3}%
+\contentsline {chapter}{\numberline {8}Conclusión y Recomendación}{126}{chapter.8}%
+\contentsline {subsection}{\numberline {8.0.1}Conclusión}{126}{subsection.8.0.1}%
+\contentsline {subsection}{\numberline {8.0.2}Recomendaciones}{127}{subsection.8.0.2}%
+\contentsline {subsubsection}{Optimización del Modelo Actual:}{127}{section*.118}%
+\contentsline {subsubsection}{Experimentación con Diferentes Arquitecturas de Modelos:}{128}{section*.119}%
+\contentsline {subsubsection}{Análisis de Características Adicionales:}{128}{section*.120}%
+\contentsline {subsubsection}{Evaluación Continuada y Ajuste del Modelo:}{128}{section*.121}%
+\contentsline {subsubsection}{Investigaciones Futuras:}{129}{section*.122}%
+\contentsline {chapter}{Referencias}{130}{chapter*.123}%
