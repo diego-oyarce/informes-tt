@@ -22,6 +22,8 @@
 \usepackage{pdflscape}
 \usepackage[none]{hyphenat}
 \usepackage{microtype}
+\usepackage{longtable}
+\usepackage{array}
 \counterwithout{figure}{chapter}
 
 \pagestyle{fancy}
@@ -102,6 +104,11 @@
 
 \begin{singlespace}
   \listoffigures
+\end{singlespace}
+
+\renewcommand{\listtablename}{Índice de tablas}
+\begin{singlespace}
+  \listoftables
 \end{singlespace}
 
 \chapter*{Resumen}

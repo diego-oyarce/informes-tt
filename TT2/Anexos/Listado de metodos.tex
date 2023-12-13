@@ -1,16 +1,35 @@
-\begin{tabular}{|p{6cm}|p{8cm}|}
+\renewcommand{\tablename}{Tabla}
+\renewcommand{\thechapter}{Anexo}
+
+\begin{longtable}{|p{7cm}|p{8.5cm}|}
+    \multicolumn{2}{c}%
+    {{\tablename\ \thetable{} -- Tabla de métodos del canal.}} \\
     \hline
     \multicolumn{1}{|c|}{\textbf{Método}} & \multicolumn{1}{c|}{\textbf{Descripción}} \\
     \hline
+    \endfirsthead
+    
+    \multicolumn{2}{c}%
+    {{\tablename\ \thetable{} -- Continuación de la página anterior}} \\
+    \hline
+    \textbf{Método} & \textbf{Descripción} \\
+    \hline
+    \endhead
+    
+    \hline \multicolumn{2}{r}{{Continúa en la siguiente página}} \\
+    \endfoot
+    
+    \hline
+    \endlastfoot
     login() & Login a app o web \\
     getMensualpdf() &	Obtiene cartola mensual \\
-    getAccountWithdrawal() &	Obtiene Cuentas para realizar giros APV y CAV \\
-    getAccounts() &	Obtiene Cuentas del Cliente \\
-    getProfitabilityVSContributions() &	Información de Aportes Versus Rentabilidad \\
-    getProfitabilityAccountByPeriod() &	Información de Rentabilitad por Periodo asociada a CArtola Mensual \\
+    getAccountWithdrawal() &	Obtiene cuentas para realizar giros APV y CAV \\
+    getAccounts() &	Obtiene cuentas del cliente \\
+    getProfitabilityVSContributions() &	Información de aportes versus rentabilidad \\
+    getProfitabilityAccountByPeriod() &	Información de rentabilitad por periodo asociada a cartola mensual \\
     getApplications() &	Lista solicitudes de cambio y distribución de fondos \\
-    getSocialSecurityContribution() &	Obtiene Cotizaciones por producto de los clientes \\
-    getAccountsConditions() &	Obtiene precondiciones para realizar Cambio/Distribución de Fondos \\
+    getSocialSecurityContribution() &	Obtiene cotizaciones por producto de los clientes \\
+    getAccountsConditions() &	Obtiene precondiciones para realizar cambio/distribución de fondos \\
     getRecognitionBonds() &	Obtiene bono de reconocimiento \\
     getShareValues() &	Obtiene valores cuota \\
     obtenerSaldos() &	Obtiene saldos del cliente \\
@@ -18,7 +37,7 @@
     datosPersonales() &	Obtiene datos personales del cliente \\
     getBankAccount() &	Obtiene lista de bancos \\
     getDatosPersonales() &	Obtiene información personal del cliente \\
-    getDatosRegiones() &	Obtiene listadod e regiones \\
+    getDatosRegiones() &	Obtiene listado de regiones \\
     getDatosPaises() &	Obtiene listado de paises \\
     getDatosComunas() &	Obtiene el listado de comunas \\
     validateSecurityKey() &	Valida la clave de seguridad de previred \\
@@ -32,37 +51,37 @@
     getCertificadoAfiliacion() & Obtiene certificado de afiliación \\
     getCertificadoRemuneraciones() & Obtiene certificado de remuneraciones \\
     omnichannelLogin() & Autentifica Capa Omnicanal AFP \\
-    RestructureFundsBusiness.restructureFunds() & Obtiene Comprobante en PDF de Cambio/Distribucion de Fondos \\
-    restructureFunds() & Graba Cambio/Distribución de Fondos \\
+    RestructureFundsBusiness.restructureFunds() & Obtiene comprobante en PDF de cambio/distribucion de fondos \\
+    restructureFunds() & Graba cambio/distribución de fondos \\
     getCertificadoResidencia() & Obtiene certificado de residencia \\
     saveSurvey() & Guarda encuesta \\
-    validateTemporalPassword() & Valida Clave Dinámica \\
-    generateTemporalPassword() & Solicita Clave Dinámica \\
-    getCertificadoAntecedentes() & Obtener Certificado Antecedentes Previsionales \\
-    getCertificadoVacaciones() & Obtener Certificado Vacaciones Progresivas \\
-    getCertificadoTrabajosPesados() & Obtener Certificado Trabajos Pesados \\
-    generarContacto() & Enviar Formulario de Contacto a Ejecutivos \\
-    editarDatosPersonales() & Actualizar Datos Personales \\
+    validateTemporalPassword() & Valida clave dinámica \\
+    generateTemporalPassword() & Solicita clave dinámica \\
+    getCertificadoAntecedentes() & Obtener certificado antecedentes previsionales \\
+    getCertificadoVacaciones() & Obtener certificado vacaciones progresivas \\
+    getCertificadoTrabajosPesados() & Obtener certificado trabajos pesados \\
+    generarContacto() & Enviar formulario de contacto a ejecutivos \\
+    editarDatosPersonales() & Actualizar datos personales \\
     sendSms() & Enviar SMS \\
-    getCertificadoComprobante() & Obtener Certificado Comprobante de Pago Pensión \\
-    getCertificadoPensionadosPagados() & Obtener Certificado de Pensiones Pagadas \\
-    withdrawalRequest() & Grabar Giro APV/CAV Cliente \\
-    getBankAccounts() & Obtener Cuentas Bancarias \\
-    validarDatosContacto() & Validar DAtos de Contacto(Si están duplicados) \\
-    validarListaNegra() & Validar Listado de Cuentas Email/Celular no Validas(Email y Celular) \\
-    addBankAccount() & Agregar cuenta Bancaria de Cliente \\
-    obtenerEstadoCuentaCorriente() & Obtener Estado de Cuenta Corriente(Banco Santander) \\
-    validarCuentasDigitales() & Validar Cuentas Digitales \\
-    getTypesBanksAccounts() & Obtener Tipos de Cuentas Bancarias \\
-    sendEmail() & Enviar Email \\
-    getCertificadoNoCotizados() & Obtener Certificado de Periodos No Cotizados \\
-    deleteBankAccount() & Eliminar Cuenta Bancaria de Cliente \\
+    getCertificadoComprobante() & Obtener certificado comprobante de pago pensión \\
+    getCertificadoPensionadosPagados() & Obtener certificado de pensiones pagadas \\
+    withdrawalRequest() & Grabar giro APV/CAV cliente \\
+    getBankAccounts() & Obtener cuentas bancarias \\
+    validarDatosContacto() & Validar datos de contacto (Si están duplicados) \\
+    validarListaNegra() & Validar listado de cuentas email/celular no validas (email y celular) \\
+    addBankAccount() & Agregar cuenta bancaria de cliente \\
+    obtenerEstadoCuentaCorriente() & Obtener estado de cuenta corriente (Banco Santander) \\
+    validarCuentasDigitales() & Validar cuentas digitales \\
+    getTypesBanksAccounts() & Obtener tipos de cuentas bancarias \\
+    sendEmail() & Enviar email \\
+    getCertificadoNoCotizados() & Obtener certificado de periodos no cotizados \\
+    deleteBankAccount() & Eliminar cuenta bancaria de cliente \\
     addBeneficiarios() & Agrega beneficiarios de pensión del cliente \\
     changePassword() & Cambia la clave de seguridad \\
     getAttentionVideo() & Obtiene el agendamiento de video atención \\ 
-    getCertificadoIngresoBase() & Obtiene el certificado de Ingreso Base para pensionados \\
+    getCertificadoIngresoBase() & Obtiene el certificado de ingreso base para pensionados \\
     getChangesAndDistributionsOfFunds() &	Obtiene los cambios y distribuciones de fondos realizados \\
-    getDetailRequestStateChangeFunds() &	Detalle estado de solicitudes de Cambio y Distribución de fondos \\
+    getDetailRequestStateChangeFunds() &	Detalle estado de solicitudes de cambio y distribución de fondos \\
     getPensionBackgroundCert() &	Certificado de antecedentes previsionales para la APP \\
     getPensionsCertificate() &	Obtiene el certificado de pensiones \\
     getRemunerationsCert() &	Obtiene el certificado de remuneraciones imponibles \\
@@ -82,10 +101,10 @@
     getMembershipCert() &	Obtiene el certificado de afiliación \\
     getPensionTramite() &	Obtiene el certificado de pensión en trámite \\
     getPersonStatus() &	Indica si es cliente nuevo y/o activo, si tiene password de 4 o 6 digitos \\
-    getRetireeQualityCertificate() &	Certificado de calidad de pensionado en la APP \\
+    getRetireeQualityCertificate() &	Certificado de calidad de pensionado en la app \\
     getSimulationWithdrawalAPV() &	Realizar la simulación del giro de APV \\
     getVacationsCert() &	Obtiene el certificado de vacaciones progresivas \\
-    getWithdrawsCAV() &	Resumen de estado de solicitudes Cuenta dos \\
+    getWithdrawsCAV() &	Resumen de estado de solicitudes Cuenta 2 \\
     obtenerEstadoClave() &	Obtiene el estado de la clave de seguridad \\
     obtenerListaParentescoFormulario() &	Obtiene la lista de parentescos del formulario de beneficiarios \\
     reCaptcha() &	Ejecuta el recaptcha de google \\
@@ -98,4 +117,6 @@
     recuperarClave() &	Recupera la clave de seguridad \\
     sendEmailPubsub() &	Envío de email \\    
     \hline
-\end{tabular}
+\end{longtable}
+
+\addcontentsline{lot}{table}{\protect\numberline{}Tabla de métodos del canal.}
