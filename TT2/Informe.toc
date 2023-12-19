@@ -150,15 +150,15 @@
 \contentsline {subsubsection}{Diccionarios JSON para Mapeo de Datos:}{121}{section*.116}%
 \contentsline {subsubsection}{API de Flask}{122}{section*.117}%
 \contentsline {section}{\numberline {7.2}Desarrollo e Implementación de la API}{122}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Dockerización de la Api}{123}{section.7.3}%
-\contentsline {chapter}{\numberline {8}Conclusión y Recomendación}{126}{chapter.8}%
-\contentsline {subsection}{\numberline {8.0.1}Conclusión}{126}{subsection.8.0.1}%
-\contentsline {subsection}{\numberline {8.0.2}Recomendaciones}{127}{subsection.8.0.2}%
-\contentsline {subsubsection}{Optimización del Modelo Actual:}{127}{section*.118}%
-\contentsline {subsubsection}{Experimentación con Diferentes Arquitecturas de Modelos:}{128}{section*.119}%
-\contentsline {subsubsection}{Análisis de Características Adicionales:}{128}{section*.120}%
-\contentsline {subsubsection}{Evaluación Continuada y Ajuste del Modelo:}{128}{section*.121}%
-\contentsline {subsubsection}{Investigaciones Futuras:}{129}{section*.122}%
-\contentsline {chapter}{Referencias}{130}{chapter*.123}%
-\contentsline {chapter}{Anexos}{134}{chapter*.124}%
-\contentsline {section}{Anexo 1. Listado de métodos en la plataforma}{134}{section*.125}%
+\contentsline {section}{\numberline {7.3}Dockerización de la Api}{125}{section.7.3}%
+\contentsline {chapter}{\numberline {8}Conclusión y Recomendación}{129}{chapter.8}%
+\contentsline {subsection}{\numberline {8.0.1}Conclusión}{129}{subsection.8.0.1}%
+\contentsline {subsection}{\numberline {8.0.2}Recomendaciones}{130}{subsection.8.0.2}%
+\contentsline {subsubsection}{Optimización del Modelo Actual:}{130}{section*.122}%
+\contentsline {subsubsection}{Experimentación con Diferentes Arquitecturas de Modelos:}{131}{section*.123}%
+\contentsline {subsubsection}{Análisis de Características Adicionales:}{131}{section*.124}%
+\contentsline {subsubsection}{Evaluación Continuada y Ajuste del Modelo:}{131}{section*.125}%
+\contentsline {subsubsection}{Investigaciones Futuras:}{132}{section*.126}%
+\contentsline {chapter}{Referencias}{133}{chapter*.127}%
+\contentsline {chapter}{Anexos}{137}{chapter*.128}%
+\contentsline {section}{Anexo 1. Listado de métodos en la plataforma}{137}{section*.129}%

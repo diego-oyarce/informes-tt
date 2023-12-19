@@ -10,4 +10,41 @@ Los datos procesados se introducen en el modelo de clasificación para su análi
 
 Finalmente, la API responde a las solicitudes, entregando en formato JSON la categoría predicha junto con la confianza del modelo en dicha predicción, asegurando una interpretación y uso sencillos y eficientes.
 
-Para garantizar un funcionamiento óptimo, se ejecuta la aplicación Flask en un modo de "depuración", que facilita la identificación y resolución rápida de problemas, mejorando así la estabilidad y fiabilidad del sistema.
+\begin{figure}[H]
+    \begin{minipage}[t]{0.9\textwidth}
+        \caption{Código creación API}
+        \label{API_creation}        
+    \end{minipage}
+
+    \vspace{10pt}
+
+    \begin{minipage}[b]{1\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{img/SS_API.png}        
+    \end{minipage}
+
+    \begin{minipage}[t]{0.9\textwidth}
+        Fuente: Elaboración propia.
+    \end{minipage}
+\end{figure}
+
+Para garantizar un funcionamiento óptimo, se ejecuta la aplicación Flask en un modo de "depuración", que facilita la identificación y resolución rápida de problemas, mejorando así la estabilidad y fiabilidad del sistema. Además de contar con códigos de estatus para saber como va funcionando la API, el código 200 representa el correcto funcionamiento y cuando se presenta algún error en el ingreso de parámetros la API no funcionara y se desplegara el código 400 que representa el incorrecto funcionamiento, junto a la descripción de la causa del error.
+
+\begin{figure}[H]
+    \begin{minipage}[t]{0.9\textwidth}
+        \caption{Prueba de funcionamiento API de predicción en Postman}
+        \label{API_test}        
+    \end{minipage}
+
+    \vspace{10pt}
+
+    \begin{minipage}[b]{1\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{img/postman.png}        
+    \end{minipage}
+
+    \begin{minipage}[t]{0.9\textwidth}
+        Fuente: Elaboración propia.
+    \end{minipage}
+\end{figure}
+

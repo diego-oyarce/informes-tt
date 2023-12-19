@@ -39,4 +39,8 @@
 \contentsline {figure}{\numberline {32}{\ignorespaces Código para entrenar el modelo\relax }}{115}{figure.caption.108}%
 \contentsline {figure}{\numberline {33}{\ignorespaces Gráficos de análisis del modelo de clasificación\relax }}{117}{figure.caption.111}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {34}{\ignorespaces Código creación API\relax }}{124}{figure.caption.118}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Prueba de funcionamiento API de predicción en Postman\relax }}{125}{figure.caption.119}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Código archivo Dockerfile\relax }}{127}{figure.caption.120}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Código archivo docker-compose.yml\relax }}{128}{figure.caption.121}%
 \addvspace {10\p@ }
