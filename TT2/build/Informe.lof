@@ -21,20 +21,26 @@
 \contentsline {figure}{\numberline {17}{\ignorespaces Modelos de media móvil con diferentes parámetros\relax }}{54}{figure.caption.46}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {18}{\ignorespaces Valores nulos en el conjunto de datos.\relax }}{72}{figure.caption.57}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Descripción del dataset antes del proceso ETL.\relax }}{74}{figure.caption.58}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Descripción del dataset después del proceso ETL.\relax }}{74}{figure.caption.59}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {19}{\ignorespaces Distribución de canales.\relax }}{79}{figure.caption.58}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Distribución de métodos en el dataset.\relax }}{82}{figure.caption.60}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {20}{\ignorespaces Preparación y codificación one-hot de los datos\relax }}{86}{figure.caption.61}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Arquitectura del modelo autoencoder\relax }}{88}{figure.caption.64}%
-\contentsline {figure}{\numberline {22}{\ignorespaces Entrenamiento del modelo autoencoder\relax }}{90}{figure.caption.68}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Gráfico del entrenamiento del modelo autoencoder\relax }}{91}{figure.caption.69}%
-\contentsline {figure}{\numberline {24}{\ignorespaces Código indentificación de sesiones\relax }}{96}{figure.caption.74}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Código codificación de categorías\relax }}{99}{figure.caption.78}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Código construcción de secuencias\relax }}{102}{figure.caption.82}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Código dividir el conjunto\relax }}{105}{figure.caption.88}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Construccion del modelo de clasificación\relax }}{107}{figure.caption.95}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Construccion del compilador del modelo\relax }}{109}{figure.caption.98}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Código para entrenar el modelo\relax }}{112}{figure.caption.106}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Gráficos de análisis del modelo de clasificación\relax }}{114}{figure.caption.109}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Preparación y codificación one-hot de los datos\relax }}{88}{figure.caption.66}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Arquitectura del modelo autoencoder\relax }}{90}{figure.caption.69}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Entrenamiento del modelo autoencoder\relax }}{92}{figure.caption.73}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Gráfico del entrenamiento del modelo autoencoder\relax }}{93}{figure.caption.74}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Código indentificación de sesiones\relax }}{98}{figure.caption.79}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Código codificación de categorías\relax }}{101}{figure.caption.83}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Código construcción de secuencias\relax }}{104}{figure.caption.87}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Código dividir el conjunto\relax }}{107}{figure.caption.93}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Construccion del modelo de clasificación\relax }}{110}{figure.caption.100}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Construccion del compilador del modelo\relax }}{112}{figure.caption.103}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Código para entrenar el modelo\relax }}{115}{figure.caption.111}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Gráficos de análisis del modelo de clasificación\relax }}{117}{figure.caption.114}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {34}{\ignorespaces Código creación API\relax }}{125}{figure.caption.121}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Prueba de funcionamiento API de predicción en Postman\relax }}{126}{figure.caption.122}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Código archivo Dockerfile\relax }}{128}{figure.caption.123}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Código archivo docker-compose.yml\relax }}{129}{figure.caption.124}%
 \addvspace {10\p@ }

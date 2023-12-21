@@ -743,6 +743,39 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT c:/texlive/2023/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT c:/texlive/2023/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT c:/texlive/2023/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -773,26 +806,21 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT c:/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT c:/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-INPUT c:/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-INPUT c:/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-INPUT c:/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT build/Informe.out
 INPUT build/Informe.out
 INPUT build/Informe.out
@@ -848,6 +876,10 @@ INPUT build/Informe.lof
 INPUT build/Informe.lof
 INPUT build/Informe.lof
 OUTPUT build/Informe.lof
+INPUT build/Informe.lot
+INPUT build/Informe.lot
+INPUT build/Informe.lot
+OUTPUT build/Informe.lot
 INPUT ./Presentación del proyecto/Resumen.tex
 INPUT ./Presentación del proyecto/Resumen.tex
 INPUT ./Presentación del proyecto/Resumen.tex
@@ -1172,6 +1204,16 @@ INPUT ./img/valores-nulos.png
 INPUT img/valores-nulos.png
 INPUT ./img/valores-nulos.png
 INPUT ./img/valores-nulos.png
+INPUT ./img/describe_data_inicial.png
+INPUT ./img/describe_data_inicial.png
+INPUT img/describe_data_inicial.png
+INPUT ./img/describe_data_inicial.png
+INPUT ./img/describe_data_inicial.png
+INPUT ./img/describe_data_final.png
+INPUT ./img/describe_data_final.png
+INPUT img/describe_data_final.png
+INPUT ./img/describe_data_final.png
+INPUT ./img/describe_data_final.png
 INPUT ./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
 INPUT Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
 INPUT ./Proceso ETL/Diseño Proceso ETL/Monitoreo proceso ETL.tex
@@ -1192,11 +1234,11 @@ INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT ./Análisis exploratorio de datos/Estadísticas descriptivas.tex
 INPUT Análisis exploratorio de datos/Estadísticas descriptivas.tex
-INPUT ./img/visualizacion-canales.png
-INPUT ./img/visualizacion-canales.png
-INPUT img/visualizacion-canales.png
-INPUT ./img/visualizacion-canales.png
-INPUT ./img/visualizacion-canales.png
+INPUT ./img/frecuencia-metodo.png
+INPUT ./img/frecuencia-metodo.png
+INPUT img/frecuencia-metodo.png
+INPUT ./img/frecuencia-metodo.png
+INPUT ./img/frecuencia-metodo.png
 INPUT ./Modelos de predicción aplicados/Modelo de series temporales.tex
 INPUT Modelos de predicción aplicados/Modelo de series temporales.tex
 INPUT ./Modelos de predicción aplicados/Modelo de series temporales.tex
@@ -1269,6 +1311,10 @@ INPUT ./img/Gráfico modelo clasificación.jpg
 INPUT img/Gráfico modelo clasificación.jpg
 INPUT ./img/Gráfico modelo clasificación.jpg
 INPUT ./img/Gráfico modelo clasificación.jpg
+INPUT ./Modelos de predicción aplicados/Tabla métricas.tex
+INPUT Modelos de predicción aplicados/Tabla métricas.tex
+INPUT ./Modelos de predicción aplicados/Tabla métricas.tex
+INPUT Modelos de predicción aplicados/Tabla métricas.tex
 INPUT ./Api y modelo/Descripción componentes.tex
 INPUT Api y modelo/Descripción componentes.tex
 INPUT ./Api y modelo/Descripción componentes.tex
@@ -1277,10 +1323,30 @@ INPUT ./Api y modelo/Implementación API.tex
 INPUT Api y modelo/Implementación API.tex
 INPUT ./Api y modelo/Implementación API.tex
 INPUT Api y modelo/Implementación API.tex
+INPUT ./img/SS_API.png
+INPUT ./img/SS_API.png
+INPUT img/SS_API.png
+INPUT ./img/SS_API.png
+INPUT ./img/SS_API.png
+INPUT ./img/postman.png
+INPUT ./img/postman.png
+INPUT img/postman.png
+INPUT ./img/postman.png
+INPUT ./img/postman.png
 INPUT ./Api y modelo/Dockerización API.tex
 INPUT Api y modelo/Dockerización API.tex
 INPUT ./Api y modelo/Dockerización API.tex
 INPUT Api y modelo/Dockerización API.tex
+INPUT ./img/dockerfile.png
+INPUT ./img/dockerfile.png
+INPUT img/dockerfile.png
+INPUT ./img/dockerfile.png
+INPUT ./img/dockerfile.png
+INPUT ./img/docker-compose.png
+INPUT ./img/docker-compose.png
+INPUT img/docker-compose.png
+INPUT ./img/docker-compose.png
+INPUT ./img/docker-compose.png
 INPUT ./Conclusión y recomendación.tex
 INPUT Conclusión y recomendación.tex
 INPUT ./Conclusión y recomendación.tex
@@ -1291,6 +1357,10 @@ INPUT ./Informe.bbl
 INPUT Informe.bbl
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT ./Anexos/Listado de metodos.tex
+INPUT Anexos/Listado de metodos.tex
+INPUT ./Anexos/Listado de metodos.tex
+INPUT Anexos/Listado de metodos.tex
 INPUT build/Informe.aux
 INPUT build/Informe.out
 INPUT build/Informe.out
