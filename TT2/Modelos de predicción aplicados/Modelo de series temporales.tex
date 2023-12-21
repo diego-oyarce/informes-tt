@@ -17,9 +17,25 @@ Se transformaron las variables categóricas 'método' y 'canal' en representacio
 
 \subsection{Construcción y Entrenamiento del Modelo}
 
-El dataset fue sometido al test estadístico Dicker-Fuller Aumentada (ADF) para saber si este corresponde a una serie de tiempo estacionaria o no (Mencionado en el item 3.3.5.), la variable que nos dira si la serie de tiempo es estacionaria o no, es $P\_value$, si $p<0.05$ quiere decir que la serie de tiempo es estacionaria, en el caso de que $p>0.05$ quiere decir que la serie de tiempo no es estacionaria.
+El dataset fue sometido al test estadístico Dickey-Fuller Aumentada (ADF) para saber si este corresponde a una serie de tiempo estacionaria o no (Mencionado en el item 3.3.5.), la variable que nos dira si la serie de tiempo es estacionaria o no, es $P\_value$, si $p<0.05$ quiere decir que la serie de tiempo es estacionaria, en el caso de que $p>0.05$ quiere decir que la serie de tiempo no es estacionaria.
 Luego, debido a incidencias que se mencionaran más adelante, se decide aplicar el modelo ARIMA sobre un cliente, con el fin de probar el funcionamiento del modelo a la hora de predecir el comportamiento de un único cliente. Ocupando el modulo 'auto\_arima' buscamos un modelo ARIMA$(p,d,q)$ más optimo, el que minimice el valor AIC (Akaike´s Information Criterion).
 El dataset es dividido en conjuntos de entrenamiento y validación, luego se implementó el modelo en el set de datos de entrenamiento y el orden $(p,d,q)$ obtenido anteriormente con el modulo 'auto\_arima'.
+
+\subsection{Métricas de error de predicción aplicadas}
+
+Explicaremos a continuación las métricas utilizadas para evaluar la precisión del modelo, a través del cálculo de su error \cite{forecast-time-series-arima}.
+
+\subsubsection{MAE (Mean Absolute Error o Promedio del error absoluto)}
+
+Es el promedio absoluto de la diferencia entre el valor predicho y el valor actual. Con este valor se puede entender de manera sencilla el error promedio del modelo, mientras más cerca de 0 el valor MAE, mayor será su precisión.
+
+\subsubsection{MSE (Mean Squared Error o Promedio del error al cuadrado)}
+
+Corresponde al promedio del cuadrado de la diferencia entre el valor predicho y el valor actual. El valor MSE, le otorga un mayor peso a grandes errore y resulta ser sensitivo a outliers. De igual manera que el valor MAE, mientras más cercano se encuentre a 0, mayor será su precisión.
+
+\subsubsection{RMSE (Root Mean Squared Error o Raíz del promedio del error al cuadrado)}
+
+Es la raíz del MSE, este valor entrega un valor que se encuentra en la misma unidad de los datos originales, al ser obtenido a partir del MSE, el valor RMSE también es sensitivo a grandes errores y outliers.
 
 \subsection{Conclusión del Modelo de series de tiempo ARIMA}
 

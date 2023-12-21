@@ -1,0 +1,23 @@
+\renewcommand{\tablename}{Tabla}
+
+
+A continuación, se presenta una tabla que resume las distintas métricas ocupadas para conocer la precisión de los modelos aplicados.
+
+Al tener 3 tipos de modelos distinos, las métricas varian entre cada uno de ellos, para el modelo arima las métricas representan el error que el modelo tiene al predecir una serie de tiempo, mientras más cercano a 0, mayor es su precisión y para el modelo secuencial las métricas representan la precisión de la predicción del modelo de clasificación.
+
+\begin{center}
+        \begin{tabular}{|c|c|c|c|c|c|c|}
+            \multicolumn{7}{c}%
+            {{\tablename\ Métricas.1 -- Tabla resumen métricas de métodos aplicados}} \\
+            \hline
+            \multirow{2}{*}{\textbf{Modelos aplicados}} &
+                \multicolumn{6}{c|}{\textbf{Métricas}} \\
+            \cline{2-7}
+            & Precission & Recall & F1 Score & MAE & MSE & RMSE\\
+            \hline
+            Modelo ARIMA & No aplica & No aplica & No aplica & 17.87 & 372.87 & 19.31 \\
+            \hline
+            Modelo Secuencial & 57.94\% & 54.87\% & 53.66\% & No aplica & No aplica& No aplica \\
+            \hline
+        \end{tabular}
+\end{center}

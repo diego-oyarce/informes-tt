@@ -26,21 +26,21 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {21}{\ignorespaces Distribución de métodos en el dataset.\relax }}{82}{figure.caption.60}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {22}{\ignorespaces Preparación y codificación one-hot de los datos\relax }}{88}{figure.caption.63}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Arquitectura del modelo autoencoder\relax }}{90}{figure.caption.66}%
-\contentsline {figure}{\numberline {24}{\ignorespaces Entrenamiento del modelo autoencoder\relax }}{92}{figure.caption.70}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Gráfico del entrenamiento del modelo autoencoder\relax }}{93}{figure.caption.71}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Código indentificación de sesiones\relax }}{98}{figure.caption.76}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Código codificación de categorías\relax }}{101}{figure.caption.80}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Código construcción de secuencias\relax }}{104}{figure.caption.84}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Código dividir el conjunto\relax }}{107}{figure.caption.90}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Construccion del modelo de clasificación\relax }}{110}{figure.caption.97}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Construccion del compilador del modelo\relax }}{112}{figure.caption.100}%
-\contentsline {figure}{\numberline {32}{\ignorespaces Código para entrenar el modelo\relax }}{115}{figure.caption.108}%
-\contentsline {figure}{\numberline {33}{\ignorespaces Gráficos de análisis del modelo de clasificación\relax }}{117}{figure.caption.111}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Preparación y codificación one-hot de los datos\relax }}{88}{figure.caption.66}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Arquitectura del modelo autoencoder\relax }}{90}{figure.caption.69}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Entrenamiento del modelo autoencoder\relax }}{92}{figure.caption.73}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Gráfico del entrenamiento del modelo autoencoder\relax }}{93}{figure.caption.74}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Código indentificación de sesiones\relax }}{98}{figure.caption.79}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Código codificación de categorías\relax }}{101}{figure.caption.83}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Código construcción de secuencias\relax }}{104}{figure.caption.87}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Código dividir el conjunto\relax }}{107}{figure.caption.93}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Construccion del modelo de clasificación\relax }}{110}{figure.caption.100}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Construccion del compilador del modelo\relax }}{112}{figure.caption.103}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Código para entrenar el modelo\relax }}{115}{figure.caption.111}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Gráficos de análisis del modelo de clasificación\relax }}{117}{figure.caption.114}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {34}{\ignorespaces Código creación API\relax }}{124}{figure.caption.118}%
-\contentsline {figure}{\numberline {35}{\ignorespaces Prueba de funcionamiento API de predicción en Postman\relax }}{125}{figure.caption.119}%
-\contentsline {figure}{\numberline {36}{\ignorespaces Código archivo Dockerfile\relax }}{127}{figure.caption.120}%
-\contentsline {figure}{\numberline {37}{\ignorespaces Código archivo docker-compose.yml\relax }}{128}{figure.caption.121}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Código creación API\relax }}{125}{figure.caption.121}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Prueba de funcionamiento API de predicción en Postman\relax }}{126}{figure.caption.122}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Código archivo Dockerfile\relax }}{128}{figure.caption.123}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Código archivo docker-compose.yml\relax }}{129}{figure.caption.124}%
 \addvspace {10\p@ }

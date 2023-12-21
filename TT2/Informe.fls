@@ -164,6 +164,8 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./Informe.aux
@@ -594,6 +596,9 @@ INPUT ./img/Gráfico modelo clasificación.jpg
 INPUT ./img/Gráfico modelo clasificación.jpg
 INPUT ./img/Gráfico modelo clasificación.jpg
 INPUT ./img/Gráfico modelo clasificación.jpg
+INPUT ./Modelos de predicción aplicados/Tabla métricas.tex
+INPUT ./Modelos de predicción aplicados/Tabla métricas.tex
+INPUT Modelos de predicción aplicados/Tabla métricas.tex
 INPUT ./Api y modelo/Descripción componentes.tex
 INPUT ./Api y modelo/Descripción componentes.tex
 INPUT Api y modelo/Descripción componentes.tex
